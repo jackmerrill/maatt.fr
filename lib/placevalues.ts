@@ -1,5 +1,5 @@
 export default function format(x:Number) {
-  if (!x) return console.error("Seems there was an issue")
+  if (!x) return
   return x.toLocaleString('fr-FR')
 }
 
