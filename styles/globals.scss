@@ -36,35 +36,6 @@ code::after {
     }
 }
 
-table {
-    @media (prefers-color-scheme: 'dark') {
-        background: black;
-        color: white;
-    }
-    background: white;
-    color: black;
-    border-collapse: collapse;
-    margin: 1rem auto;
-    width: 100%;
-    max-width: 75%;
-    thead td, tbody td {
-        border: 1px solid black;
-        padding: .5rem;
-    }
-    thead tr {
-        background: #E4DEFF;
-        color: black;
-        border-bottom: 1px solid black;
-    }
-    tbody {
-        td { padding: .5rem; }
-        tr:nth-of-type(even) {
-            background: var(--light-alt);
-            color: black;
-        }
-    }
-}
-
 .four-oh-four {
     display: flex;
     flex-direction: column;
@@ -160,13 +131,6 @@ footer {
     line-height: 1.25rem;
     margin: 0;
     font-weight: normal;
-}
-
-.link {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-    font-weight: 600;
-    text-decoration: none;
 }
 
 .posts, .projects {
