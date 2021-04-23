@@ -120,48 +120,19 @@ footer {
 }
 
 .posts, .projects {
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-    justify-content: space-evenly;
-    @media (max-width: 600px) { grid-template-columns: auto !important; }
-    @media(max-width: 1200px) { grid-template-columns: 50% 50%; }
-    padding-left: 0;
     .post {
-        transition: 100ms background-color ease-in-out;
         padding: .75rem 1rem;
-        a { transition: 250ms color ease-in-out; }
-        .tag {
-            background: var(--light-alt);
-            margin: .5rem .5rem 0 0;
-            padding: .1rem .5rem;
-            border-radius: .25rem;
-            display: table;
-            font-size: .8rem;
-            color: black;
-        }
         // Tag colours
-        .eol, .opinion {
-            background-color: var(--eol-alt);
-        }
+        .eol, .opinion { background-color: var(--eol-alt); }
         .progress {
             background-color: #98a2b1;
             border-color: #98a2b1;
         }
-        .active, .education {
-            background-color: var(--active-alt);
-        }
-        .released, .life {
-            background-color: var(--released-alt);
-        }
+        .active, .education { background-color: var(--active-alt); }
+        .released, .life { background-color: var(--released-alt); }
         .concepts {
             background-color: var(--concepts-alt);
             border-color: var(--concepts);
-        }
-
-        &:hover, &:focus, &:focus-within {
-            .link { &, * {outline: 0;}}
-            background-color: var(--light-alt);
-            @media(prefers-color-scheme: 'dark'){ background-color: var(--dark-alt); }
         }
     }
 }

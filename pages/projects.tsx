@@ -73,13 +73,13 @@ export default function IndexPage ({ postData }:{
           <p>No projects found. Maybe you misspelt something?</p>
         }
         {filteredPosts.map((frontMatter) => (
-          <section className="border border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-900 rounded p-2 m-2 transition-colors post" key={frontMatter.id} id={frontMatter.id}>
+          <section className="border border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-900 rounded p-2 m-2 transition-colors post focus:bg-bg-gray-100 focus-within:bg-gray-100 dark:focus:bg-gray-900 dark:focus-within:bg-gray-900" key={frontMatter.id} id={frontMatter.id}>
             <Link href={`/projects/${frontMatter.slug}`}>
-              <a className="text-xl font-bold">
+              <a className="text-xl font-bold transition-colors focus:outline-none focus-within:outline-none">
                 <p className="text-sm font-normal text-gray-800 dark:text-gray-300">Last status update on {frontMatter.date}</p>
                 {frontMatter.title}
                 <p className="text-sm font-normal">{frontMatter.description}</p>
-                <p className={`${frontMatter.tagShort} tag`}>{frontMatter.tag}</p>
+                <p className={`${frontMatter.tagShort} tag bg-lightAlt rounded table text-xs px-2 py-1.5 mt-2 text-black`}>{frontMatter.tag}</p>
               </a>
             </Link>
           </section>
