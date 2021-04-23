@@ -19,7 +19,6 @@ export default function Home () {
               I'm a high school student who does product design and software development in sunny California. I'm currently building <a href="/projects/mello">Mello</a> and <a href="/projects/mono">Mono</a>.
             </p>
           </div>
-          <img src="/assets/photo.jpeg" alt="Photo of Matt Ronchetto" width="320" height="320"/>
         </section>
       </main>
     </>
