@@ -23,7 +23,10 @@ module.exports = {
               color: null,
               fontWeight: 700
             },
-            a: { color: null },
+            a: {
+              color: null,
+              textDecoration: null
+            },
             h1: { color: null },
             h2: { color: null },
             h3: { color: null },
