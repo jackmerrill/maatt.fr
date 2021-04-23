@@ -7,7 +7,6 @@ import {
   SpotifyAlbumWidget as Album,
   SpotifyNowPlayingWidget as NowPlaying
 } from '@/components/spotify'
-import styles from './favourites.module.scss'
 const Header = dynamic(() => import('@/components/header'))
 
 export default function Favourites () {
@@ -23,7 +22,7 @@ export default function Favourites () {
             <Header title="Favourites" />
             <div className="content">
               <p>I mostly am scattered amongst my playlists, so you can see all the ones I've made public <a href="https://open.spotify.com/user/rr0fpmxz77lzn7vktz1fzg4ai">here</a>.</p>
-              <div className={styles.buttons}>
+              <div className="w-full text-center justify-center">
                 <a href="https://open.spotify.com/playlist/1TgcMEtUJs4zjnRoc5ug4i?si=u35un3OETHefGgkM0s_xlw" className="button">
                   Open as a playlist in Spotify
                 </a>
