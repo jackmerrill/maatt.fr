@@ -46,18 +46,6 @@ code::after {
     }
 }
 
-.four-oh-four {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    @media (max-width: 700px) {
-        justify-content: center;
-        flex-direction: column;
-    }
-    text-align: center;
-}
-
 .button {
     display: inline-block;
     text-align: center;
