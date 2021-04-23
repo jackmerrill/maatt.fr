@@ -161,22 +161,3 @@ footer {
         }
     }
 }
-
-.skipToMain {
-    // Adapted from https://webaim.org/techniques/css/invisiblecontent/#techniques
-    background-color: var(--light-alt);
-    color: black;
-    @media(prefers-color-scheme:'dark') {
-        background-color: var(--dark-alt);
-        color: white;
-    }
-    font-weight: 700;
-    align-self: center;
-    padding: 4px;
-    position: absolute;
-    transition: transform 0.3s;
-    transform: translateY(-250%);
-    &:focus-within, &:focus {
-        transform: translateY(0%);
-    }
-}
