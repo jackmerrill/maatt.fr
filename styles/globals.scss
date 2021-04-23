@@ -86,21 +86,9 @@ footer {
 #timeline {
     * {
         h3,
-        .minor,
         h4,
-        p { margin: .7rem 0; }
+        p { margin: .7rem 0 .7rem 0; }
     }
-    .eol { border-color: var(--eol); }
-    .active { border-color: var(--active); }
-    .released { border-color: var(--released); }
-    .progress { border-color: var(--progress); }
-}
-
-.minor {
-    font-size: .9rem;
-    line-height: 1.25rem;
-    margin: 0;
-    font-weight: normal;
 }
 
 .posts, .projects {
