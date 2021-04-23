@@ -34,7 +34,7 @@ export default class _app extends App {
           enableSystem={true}
           defaultTheme="system"
         >
-          <a href="#content" className="skipToMain">Skip to main content</a>
+          <a href="#content" className="bg-lightAlt text-black dark:bg-darkAlt dark:text-white font-bold self-center p-2 absolute transition-transform transform-gpu -translate-y-full focus:translate-y-0 focus-within:translate-y-0">Skip to main content</a>
           <BLMBanner />
           <Navigation />
           <Component {...pageProps}/>
