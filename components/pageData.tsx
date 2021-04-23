@@ -6,7 +6,7 @@ export default function pageData ({ children, frontMatter }: {children: any, fro
   return (
       <>
         <div className="antialised prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto dark:prose-dark">
-          <h1 className="header">{title}</h1>
+          <h1 className="text-4xl">{title}</h1>
           <p className="minor">{frontMatter.readingTime.text}{' • '}{format(parseISO(date), 'MMMM dd, yyyy')}</p>
           <section>
             {children}
