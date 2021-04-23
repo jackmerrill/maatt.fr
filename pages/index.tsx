@@ -1,5 +1,4 @@
 import Head from 'next/head'
-const styles = require('./index.module.scss')
 
 export default function Home () {
   return (
@@ -7,10 +6,10 @@ export default function Home () {
       <Head>
         <title>doamatto</title>
       </Head>
-      <main className={`${styles.main} content`}>
-        <section>
-          <div>
-            <h1 className={styles.title}>
+      <main className="content py-8 flex flex-col justify-center items-center">
+        <section className="w-full align-middle flex items-center justify-center flex-col-reverse md:justify-between md:flex-row">
+          <div className="m-2 max-w-prose mx-auto">
+            <h1 className="text-4xl font-bold">
               Hi, I&apos;m Matt Ronchetto
             </h1>
             <br/>
@@ -19,7 +18,6 @@ export default function Home () {
               I'm a high school student who does product design and software development in sunny California. I'm currently building <a href="/projects/mello">Mello</a> and <a href="/projects/mono">Mono</a>.
             </p>
           </div>
-          <img src="/assets/photo.jpeg" alt="Photo of Matt Ronchetto" width="320" height="320"/>
         </section>
       </main>
     </>
