@@ -6,7 +6,7 @@ export default function Home () {
       <Head>
         <title>doamatto</title>
       </Head>
-      <main className="content py-8 flex flex-col justify-center items-center">
+      <main id="content" className="py-8 flex flex-col justify-center items-center">
         <section className="w-full align-middle flex items-center justify-center flex-col-reverse md:justify-between md:flex-row">
           <div className="m-2 max-w-prose mx-auto">
             <h1 className="text-4xl font-bold">
