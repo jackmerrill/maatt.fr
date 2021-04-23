@@ -44,8 +44,6 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "5.1.0",
     "eslint-plugin-react": "7.23.2",
-    "gulp": "4.0.2",
-    "gulp-sass": "4.1.0",
     "postcss": "8.2.12",
     "tailwindcss": "2.1.1",
     "ts-node": "9.1.1",
