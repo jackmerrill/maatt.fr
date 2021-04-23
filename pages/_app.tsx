@@ -2,7 +2,6 @@ import React from 'react'
 import App from 'next/app'
 import type { AppProps } from 'next/app'
 import { DefaultSeo } from 'next-seo'
-import { ThemeProvider } from 'next-themes'
 import '../styles/globals.scss' // global stylesheet
 import 'tailwindcss/tailwind.css' // tailwind (slowly converting)
 
@@ -29,17 +28,11 @@ export default class _app extends App {
             cardType: 'summary'
           }}
         />
-        <ThemeProvider
-          attribute="class"
-          enableSystem={true}
-          defaultTheme="system"
-        >
-          <a href="#content" className="skipToMain">Skip to main content</a>
-          <BLMBanner />
-          <Navigation />
-          <Component {...pageProps}/>
-          <Footer />
-        </ThemeProvider>
+        <a href="#content" className="skipToMain">Skip to main content</a>
+        <BLMBanner />
+        <Navigation />
+        <Component {...pageProps}/>
+        <Footer />
       </>
     )
   }
