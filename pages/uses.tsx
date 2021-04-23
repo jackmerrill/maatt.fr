@@ -21,7 +21,7 @@ export default function Uses () {
       <div id="mainContent">
         <section className="mt-4" id="apps-and-services">
           <h2 className="text-2xl font-semibold">Apps and Services</h2>
-          <div className="grid gap-4 grid-cols-2 sm:grid-cols-3 my-2 w-full pt-4">
+          <div className="grid gap-4 grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 my-2 w-full pt-4">
             <Item
               imageId="1password"
               title="1Password"
