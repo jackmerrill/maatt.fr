@@ -6,6 +6,12 @@
 
     --light-alt: #f4f4f5;
     --dark-alt: #18181b;
+    --navHover: linear-gradient(
+        transparent 0%,
+        transparent calc(50% - 3px),
+        #929de2 calc(50% - 3px),
+        #929de2 100%
+      );
 }
 
 html,
