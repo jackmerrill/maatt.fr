@@ -59,7 +59,7 @@ table {
     tbody {
         td { padding: .5rem; }
         tr:nth-of-type(even) {
-            background: --var(light-alt);
+            background: var(--light-alt);
             color: black;
         }
     }
@@ -85,10 +85,10 @@ table {
     padding: 1rem 1.5rem;
     border: none !important;
     border-radius: .5rem;
-    background-color: --var(light-alt);
+    background-color: var(--light-alt);
     text-decoration: none;
-    @media(prefers-color-scheme: 'dark'){ background-color: --var(dark-alt); }
-    &:hover { color: --var(light-purple); }
+    @media(prefers-color-scheme: 'dark'){ background-color: var(--dark-alt); }
+    &:hover { color: var(--light-purple); }
 }
 
 .content,
@@ -99,16 +99,16 @@ footer {
         @media (prefers-color-scheme: 'dark') {
             border-color: white;
             &:hover {
-                color: --var(light-purple) !important;
-                border-color: --var(light-purple) !important;
+                color: var(--light-purple) !important;
+                border-color: var(--light-purple) !important;
             }
         }
         color: inherit;
         transition: border-color 250ms,
         color 250ms;
         &:hover {
-            color: --var(light-purple);
-            border-color: --var(light-purple);
+            color: var(--light-purple);
+            border-color: var(--light-purple);
         }
     }
 }
@@ -165,7 +165,7 @@ footer {
         padding: .75rem 1rem;
         a { transition: 250ms color ease-in-out; }
         .tag {
-            background: --var(light-alt);
+            background: var(--light-alt);
             margin: .5rem .5rem 0 0;
             padding: .1rem .5rem;
             border-radius: .25rem;
@@ -194,18 +194,18 @@ footer {
 
         &:hover, &:focus, &:focus-within {
             .link { &, * {outline: 0;}}
-            background-color: --var(light-alt);
-            @media(prefers-color-scheme: 'dark'){ background-color: --var(dark-alt); }
+            background-color: var(--light-alt);
+            @media(prefers-color-scheme: 'dark'){ background-color: var(--dark-alt); }
         }
     }
 }
 
 .skipToMain {
     // Adapted from https://webaim.org/techniques/css/invisiblecontent/#techniques
-    background-color: --var(light-alt);
+    background-color: var(--light-alt);
     color: black;
     @media(prefers-color-scheme:'dark') {
-        background-color: --var(dark-alt);
+        background-color: var(--dark-alt);
         color: white;
     }
     font-weight: 700;
