@@ -14,7 +14,7 @@ export default class _document extends Document {
 
   render () {
     return (
-      <Html>
+      <Html className="p-0 m-0 text-black dark:text-white w-full h-full">
         <Head>
           <link rel="stylesheet"
                 href="https://cdn.doamatto.xyz/inter.min.css"
@@ -28,7 +28,7 @@ export default class _document extends Document {
 
           <link rel="author" href="humans.txt"/>
         </Head>
-        <body>
+        <body className="p-0 m-0 text-black dark:text-white w-full h-full">
           <div className="flex align-middle mx-auto max-w-3xl lg:max-w-4xl xl:max-w-6xl" id="mainContent">
             <Main />
             <NextScript />
