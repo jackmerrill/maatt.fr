@@ -20,7 +20,7 @@ export default function Favourites () {
                 description="My favourite songs that I can't get enough of."
             />
             <Header title="Favourites" />
-            <div className="content">
+            <div id="content">
               <p>I mostly am scattered amongst my playlists, so you can see all the ones I've made public <a href="https://open.spotify.com/user/rr0fpmxz77lzn7vktz1fzg4ai">here</a>.</p>
               <div className="w-full text-center justify-center">
                 <a href="https://open.spotify.com/playlist/1TgcMEtUJs4zjnRoc5ug4i?si=u35un3OETHefGgkM0s_xlw" className="button">
