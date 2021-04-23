@@ -12,13 +12,31 @@ module.exports = {
       './lib/**/*.{ts,tsx}'
     ]
   },
-  darkMode: 'class', // or 'media' or 'class'
+  darkMode: 'media', // or 'media' or 'class'
   theme: {
     extend: {
       typography: (theme) => ({
+        DEFAULT: {
+          css: [{
+            color: null,
+            'b,strong': {
+              color: null,
+              fontWeight: 700
+            },
+            a: { color: null },
+            h1: { color: null },
+            h2: { color: null },
+            h3: { color: null },
+            h4: { color: null },
+            li: { color: null },
+            code: {
+              color: null,
+              padding: theme('padding.1')
+            }
+          }]
+        },
         light: {
-          css: {
-            code: { color: colors.black },
+          css: [{
             color: colors.black,
             a: {
               borderColor: colors.black,
@@ -33,11 +51,14 @@ module.exports = {
               color: theme('colors.gray.900'),
               'scroll-margin-top': spacing[32]
             }
-          }
+          }]
         },
         dark: {
-          css: {
-            code: { color: colors.white },
+          css: [{
+            code: {
+              color: colors.white,
+              background: theme('colors.darkAlt')
+            },
             color: theme('colors.white'),
             'h1,h2,h3,h4': { color: theme('colors.white') },
             a: {
@@ -46,26 +67,17 @@ module.exports = {
               borderColor: theme('colors.white'),
               transition: 'border-color 250ms, color 250ms',
               color: 'inherit',
-              '&:hover': {
-                color: theme('colors.lightPurple'),
-                borderColor: theme('colors.lightPurple')
-              }
+            },
+            'a:hover': {
+              color: theme('colors.lightPurple'),
+              borderColor: theme('colors.lightPurple')
             },
             ul: { li: { '&:before': { backgroundColor: theme('colors.gray.600') } } },
             'h2,h3,h4': {
               color: theme('colors.gray.50'),
               'scroll-margin-top': spacing[32]
             }
-          }
-        },
-        default: {
-          css: {
-            code: {
-              fontFamily: 'monospace'
-            },
-            'code::before': { content: '' },
-            'code::after': { content: '' }
-          }
+          }]
         }
       }),
       colors: {
@@ -84,9 +96,5 @@ module.exports = {
       typography: ['dark']
     }
   },
-  plugins: [
-    require('@tailwindcss/typography')({
-      modifiers: []
-    })
-  ]
+  plugins: [require('@tailwindcss/typography')]
 }
