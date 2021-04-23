@@ -1,7 +1,7 @@
 import fetcher from '@/lib/fetcher'
 import useSWR from 'swr'
 import dynamic from 'next/dynamic'
-import format from 'comma-number'
+import format from '@/lib/placevalues'
 
 const Item = dynamic(() => import('@/components/dashboard-item'))
 
