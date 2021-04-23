@@ -7,28 +7,14 @@ tagShort: "eol"
 date: "2020-12-20"
 ---
 
-<h2>Timeline</h2>
-<section id="timeline">
-  <section className="eol">
-    <h3>Reached end-of-life</h3>
-    <p>
+<Timeline>
+  <Item status="eol" date="2020-12-20" title="Reached end-of-life">
       Ever since I switched to Pop!_OS full-time, I haven&apos;t been able to play FiveM at all. So, I can&apos;t reliably develop new features anymore. However, because of the smashing community, I can still debug issues. Because of this, this tool has entered an End-of-Life state.
-    </p>
-    <h4 className="minor">December 20th, 2020</h4>
-  </section>
-  <section className="active">
-    <h3>Active development</h3>
-    <h4 className="minor">July 25th, 2020 to September 27th, 2020</h4>
-  </section>
-  <section className="released">
-    <h3>Released</h3>
-    <h4 className="minor">July 25th, 2020</h4>
-  </section>
-  <section className="progress">
-    <h3>Conceptialized and started development</h3>
-    <h4 className="minor">Unknown time period</h4>
-  </section>
-</section>
+  </Item>
+  <Item status="active" dateRange={['2020-07-25', '2020-09-27']} title="Active development" />
+  <Item status="released" date="2020-07-25" title="Released" />
+  <Item status="progress" title="Conceptialized and started development" />
+</Timeline>
 
 ### Useful links
 - [GitHub repo](https://github.com/doamatto/5m_loading)

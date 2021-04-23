@@ -7,24 +7,13 @@ tagShort: "eol"
 date: "2020-10-16"
 ---
 
-<h2>Timeline</h2>
-<section id="timeline">
-  <section className="eol">
-    <h3>Transfered repositories to Glitch Entertainment</h3>
-    <p>
-      Everyone decided it best to put these wrappers inside the Glitch Entertainment GitHub. Because of such, not only am I no longer in control of the code, but I also would have to mark this at the end of its life, due to virtually non-existent support for it currently.
-    </p>
-    <h4 className="minor">October 16th, 2020</h4>
-  </section>
-  <section className="released">
-    <h3>v0.1.0 of SouthNode releases</h3>
-    <h4 className="minor">July 19th, 2020</h4>
-  </section>
-  <section className="progress">
-    <h3>Started development</h3>
-    <h4 className="minor">July 16th, 2020 to October 16th, 2020</h4>
-  </section>
-</section>
+<Timeline>
+  <Item status="eol" title="Transfered repositories to Glitch Entertainment" date="2020-10-16">
+    Everyone decided it best to put these wrappers inside the Glitch Entertainment GitHub. Because of such, not only am I no longer in control of the code, but I also would have to mark this at the end of its life, due to virtually non-existent support for it currently.
+  </Item>
+  <Item status="released" date="2020-07-19" title="v0.1.0 of SouthNode releases" />
+  <Item status="progress" dateRange={['2020-07-16', '2020-10-16']} title="Started development" />
+</Timeline>
 
 ### Useful links
 - [Gltich Entertainment's Website](https://playglitch.xyz)

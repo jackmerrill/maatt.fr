@@ -7,32 +7,15 @@ tagShort: "active"
 date: "2020-12-20"
 ---
 
-<h2>Timeline</h2>
-<section id="timeline">
-  <section className="eol">
-    <h3>Nearing end-of-life</h3>
-    <p>
-      Jekyll isn&apos;t the best documented tool out there. Because of that and my switch to Next.js for my portfolio (this site), I&apos;ve decided it best to move it into EOL. After v0.6.0, Nano will officially be in EOL.
-    </p>
-    <h4 className="minor">December 20th, 2020</h4>
-  </section>
-  <section className="active">
-    <h3>Active development</h3>
-    <h4 className="minor">March 4th, 2020 to July 25th, 2020</h4>
-  </section>
-  <section className="released">
-    <h3>Released</h3>
-    <h4 className="minor">March 4th, 2020</h4>
-  </section>
-  <section className="progress">
-    <h3>Started development</h3>
-    <h4 className="minor">Feburary 18th, 2020</h4>
-  </section>
-  <section className="progress">
-    <h3>Conceptialized and started prototyping</h3>
-    <h4 className="minor">December 15th, 2020</h4>
-  </section>
-</section>
+<Timeline>
+  <Item status="eol" title="Nearing end-of-life" date="2020-12-20">
+    Jekyll isn&apos;t the best documented tool out there. Because of that and my switch to Next.js for my portfolio (this site), I&apos;ve decided it best to move it into EOL. After v0.6.0, Nano will officially be in EOL.
+  </Item>
+  <Item status="active" title="Active development" dateRange={['2020-03-04','2020-07-25']} />
+  <Item status="released" title="Released" date="2020-03-04" />
+  <Item status="progress" title="Started development" date="2020-02-18" />
+  <Item status="progress" title="Conceptialised and started prototyping" date="2020-12-15" />
+</Timeline>
 
 ### Useful links
 - [GitHub repo](https://github.com/doamatto/nano)

@@ -1,13 +1,16 @@
 import fs from 'fs'
 import readingTime from 'reading-time'
-import Image from 'next/image'
 import mdxPrism from 'mdx-prism'
 import renderToString from 'next-mdx-remote/render-to-string'
 import matter from 'gray-matter'
 import path from 'path'
-
 const root = process.cwd()
-export const MDXComponents = { Image }
+
+// MDX Components
+import Image from 'next/image'
+import link from '@/components/mdx/link'
+import {Timeline, Item} from '@/components/mdx/timeline'
+export const MDXComponents = { Image, a: link, Timeline, Item }
 
 export async function staticPaths (type) {
   const posts = await getFiles(type)
