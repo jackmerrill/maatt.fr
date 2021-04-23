@@ -12,7 +12,7 @@ export default function notFound () {
         <title>404 - doamatto</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="content four-oh-four">
+      <div id="content" className="flex flex-col justify-center align-center text-center">
         <img src="/assets/404.svg" alt="" />
         <div>
           <h1>This page is dead!</h1>
