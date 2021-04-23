@@ -86,38 +86,9 @@ footer {
 #timeline {
     * {
         h3,
-        .minor,
         h4,
         p { margin: .7rem 0 .7rem 0; }
-        
-        h3 {
-            font-size: 1.2rem;
-            font-weight: 700;
-        }
-        h4,
-        .minor {
-            font-size: .9rem;
-            font-weight: bold;
-            opacity: .7; // makes into a lighter colour
-        }
     }
-    
-    section {
-        border: 0 solid var(--light-alt);
-        border-left-width: .2rem;
-        padding-left: .5rem;
-    }
-    .eol { border-color: var(--eol); }
-    .active { border-color: var(--active); }
-    .released { border-color: var(--released); }
-    .progress { border-color: var(--progress); }
-}
-
-.minor {
-    font-size: .9rem;
-    line-height: 1.25rem;
-    margin: 0;
-    font-weight: normal;
 }
 
 .posts, .projects {
