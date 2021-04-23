@@ -66,7 +66,7 @@ module.exports = {
               borderBottom: '1px solid',
               borderColor: theme('colors.white'),
               transition: 'border-color 250ms, color 250ms',
-              color: 'inherit',
+              color: 'inherit'
             },
             'a:hover': {
               color: theme('colors.lightPurple'),
