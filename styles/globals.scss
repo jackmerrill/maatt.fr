@@ -1,5 +1,3 @@
-@import 'colours';
-
 :root {
     --light-purple: #909EFF;
     --dark-purple: #2d3fb1;
@@ -12,6 +10,18 @@
         #929de2 calc(50% - 3px),
         #929de2 100%
       );
+    
+    // Tag colours
+    --eol: #f97316;
+    --eol-alt: #f69e7b;
+    --active-alt: #8096f0;
+    --active-alt1: #6b83e4;
+    --active: #3b82f6;
+    --released-alt: #7adf82;
+    --released: #10b981;
+    --progress: #71717a;
+    --concepts-alt: #ffabe1;
+    --concepts: #f090ce;
 }
 
 html,
@@ -91,11 +101,10 @@ footer {
         h4,
         p { margin: .7rem 0; }
     }
-
-    .eol { border-color: $eol; }
-    .active { border-color: $active; }
-    .released { border-color: $released; }
-    .progress { border-color: $progress; }
+    .eol { border-color: var(--eol); }
+    .active { border-color: var(--active); }
+    .released { border-color: var(--released); }
+    .progress { border-color: var(--progress); }
 }
 
 .minor {
@@ -127,21 +136,21 @@ footer {
         }
         // Tag colours
         .eol, .opinion {
-            background-color: $eol-alt;
+            background-color: var(--eol-alt);
         }
         .progress {
             background-color: #98a2b1;
             border-color: #98a2b1;
         }
         .active, .education {
-            background-color: $active-alt;
+            background-color: var(--active-alt);
         }
         .released, .life {
-            background-color: $released-alt;
+            background-color: var(--released-alt);
         }
         .concepts {
-            background-color: $concepts-alt;
-            border-color: $concepts;
+            background-color: var(--concepts-alt);
+            border-color: var(--concepts);
         }
 
         &:hover, &:focus, &:focus-within {
