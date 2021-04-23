@@ -138,25 +138,9 @@ footer {
         h3,
         .minor,
         h4,
-        p { margin: .7rem 0 .7rem 0; }
-        
-        h3 {
-            font-size: 1.2rem;
-            font-weight: 700;
-        }
-        h4,
-        .minor {
-            font-size: .9rem;
-            font-weight: bold;
-            opacity: .7; // makes into a lighter colour
-        }
+        p { margin: .7rem 0; }
     }
-    
-    section {
-        border: 0 solid --var(light-alt);
-        border-left-width: .2rem;
-        padding-left: .5rem;
-    }
+
     .eol { border-color: $eol; }
     .active { border-color: $active; }
     .released { border-color: $released; }
