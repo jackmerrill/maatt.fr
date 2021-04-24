@@ -73,7 +73,7 @@ export default function IndexPage ({ postData }:{
           <p>No projects found. Maybe you misspelt something?</p>
         }
         {filteredPosts.map((frontMatter) => (
-          <section className="border border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-900 rounded py-3 px-4 m-2 transition-colors post focus:bg-bg-gray-100 focus-within:bg-gray-100 dark:focus:bg-gray-900 dark:focus-within:bg-gray-900" key={frontMatter.id} id={frontMatter.id}>
+          <section className="border border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-900 rounded py-3 px-4 m-2 transition-colors post focus:bg-bg-gray-100 focus-within:bg-gray-100 dark:focus:bg-gray-900 dark:focus-within:bg-gray-900 post" key={frontMatter.id} id={frontMatter.id}>
             <Link href={`/projects/${frontMatter.slug}`}>
               <a className="text-xl font-bold transition-colors focus:outline-none focus-within:outline-none">
                 <p className="text-sm font-normal text-gray-800 dark:text-gray-300">Last status update on {frontMatter.date}</p>
