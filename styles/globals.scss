@@ -16,11 +16,37 @@
     --eol-alt: #f69e7b; // eol, opinion
     --active-alt: #8096f0; // active, education
     --active: #3b82f6;
-    --released-alt: #7adf82;
+    --released-alt: #7adf82; // released, life
     --released: #10b981;
     --progress: #71717a;
     --concepts-alt: #ffabe1;
-    --concepts: #f090ce; //concepts
+    --concepts: #f090ce; // concepts
+}
+
+// TODO: Simplify with Tailwind (requires rebase or merge to main with new PR due to #144)
+.eol {
+    border: 0 solid #ffffff;
+    border-left-width: .2rem;
+    border-color: var(--eol);
+    padding-left: .5rem;
+}
+.active {
+    border: 0 solid #ffffff;
+    border-left-width: .2rem;
+    border-color: var(--active);
+    padding-left: .5rem;
+}
+.released {
+    border: 0 solid #ffffff;
+    border-left-width: .2rem;
+    border-color: var(--released);
+    padding-left: .5rem;
+}
+.progress {
+    border: 0 solid #ffffff;
+    border-left-width: .2rem;
+    border-color: var(--progress);
+    padding-left: .5rem;
 }
 
 html,
