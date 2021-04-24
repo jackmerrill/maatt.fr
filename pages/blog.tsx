@@ -27,7 +27,7 @@ export default function IndexPage ({ postData }:{
       <Header title="Blog" />
       <div className="grid grid-cols-1 justify-evenly sm:grid-cols-2 lg:grid-cols-3 posts">
         {postData.map((frontmatter) => (
-          <section className="border border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-900 rounded p-2 m-2 transition-colors post focus:bg-bg-gray-100 focus-within:bg-gray-100 dark:focus:bg-gray-900 dark:focus-within:bg-gray-900" key={frontmatter.id} id={frontmatter.id}>
+          <section className="border border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-900 rounded py-3 px-4 m-2 transition-colors post focus:bg-bg-gray-100 focus-within:bg-gray-100 dark:focus:bg-gray-900 dark:focus-within:bg-gray-900 post" key={frontmatter.id} id={frontmatter.id}>
             <Link href={`/blog/${frontmatter.slug}`}>
               <a className="text-xl font-bold transition-colors focus:outline-none focus-within:outline-none">
                 {frontmatter.title}

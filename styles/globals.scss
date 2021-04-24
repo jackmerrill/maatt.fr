@@ -15,9 +15,8 @@
     --eol: #f97316; 
     --eol-alt: #f69e7b; // eol, opinion
     --active-alt: #8096f0; // active, education
-    --active-alt1: #6b83e4;
     --active: #3b82f6;
-    --released-alt: #7adf82; // released, life
+    --released-alt: #7adf82;
     --released: #10b981;
     --progress: #71717a;
     --concepts-alt: #ffabe1;
@@ -93,14 +92,14 @@ footer {
 
 .posts, .projects > .post {
         // Tag colours
-        .eol, .opinion { background-color: var(--eol-alt); }
-        .progress {
+        .bg-eol, .bg-opinion { background-color: var(--eol-alt); }
+        .bg-progress {
             background-color: #98a2b1;
             border-color: #98a2b1;
         }
-        .active, .education { background-color: var(--active-alt); }
-        .released, .life { background-color: var(--released-alt); }
-        .concepts {
+        .bg-active, .bg-education { background-color: var(--active-alt); }
+        .bg-released, .bg-life { background-color: var(--released-alt); }
+        .bg-concepts {
             background-color: var(--concepts-alt);
             border-color: var(--concepts);
         }
