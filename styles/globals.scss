@@ -1,29 +1,29 @@
 :root {
     --light-purple: #909EFF;
     --dark-purple: #2d3fb1;
-
+    
     --light-alt: #f4f4f5;
     --dark-alt: #18181b;
     --navHover: linear-gradient(
-        transparent 0%,
-        transparent calc(50% - 3px),
-        #929de2 calc(50% - 3px),
-        #929de2 100%
-      );
+    transparent 0%,
+    transparent calc(50% - 3px),
+    #929de2 calc(50% - 3px),
+    #929de2 100%
+    );
     
-    // Tag colours
+    /* Tag colours */
     --eol: #f97316; 
-    --eol-alt: #f69e7b; // eol, opinion
-    --active-alt: #8096f0; // active, education
+    --eol-alt: #f69e7b; /* eol, opinion */
+    --active-alt: #8096f0; /* active, education */
     --active: #3b82f6;
-    --released-alt: #7adf82; // released, life
+    --released-alt: #7adf82; /* released, life */
     --released: #10b981;
     --progress: #71717a;
     --concepts-alt: #ffabe1;
-    --concepts: #f090ce; // concepts
+    --concepts: #f090ce; /* concepts */
 }
 
-// TODO: Simplify with Tailwind (requires rebase or merge to main with new PR due to #144)
+/* TODO: Simplify with Tailwind (requires rebase or merge to main with new PR due to #144) */
 .eol {
     border: 0 solid #ffffff;
     border-left-width: .2rem;
@@ -48,19 +48,36 @@
     border-color: var(--progress);
     padding-left: .5rem;
 }
+.bg-eol, .bg-opinion { background-color: var(--eol-alt); }
+.bg-progress { background-color: #98a2b1; }
+.bg-active, .bg-education { background-color: var(--active-alt); }
+.bg-released, .bg-life { background-color: var(--released-alt); }
+.bg-concepts { background-color: var(--concepts-alt); }
 
+/* Start main doc */
 html,
-body {
-    background: white;
-    @media (prefers-color-scheme: 'dark') {
-        background: black;
+body { background: white; }
+
+/* Media queries */
+@media(prefers-color-scheme: 'dark') {
+    html, body { background: black; }
+    .button { 
+        background-color: var(--dark-alt);
+        color: white;
+    }
+    #content a:hover, footer a:hover {
+        color: var(--light-purple);
+        border-color: var(--light-purple);
     }
 }
+@media(min-width: 1200px) {
+    #__next { max-width: 72rem; }
+}
 
-// TODO: May have already been solved with {4686dd1} or similar, but blocked in #145 until merge to main
+/* TODO: May have already been solved with {4686dd1} or similar, but blocked in #145 until merge to main */
 code::before,
 code::after {
-    content: '' !important
+    content: '' !important;
 }
 
 #__next {
@@ -73,6 +90,7 @@ code::after {
 }
 
 .button {
+    color: black;
     display: inline-block;
     text-align: center;
     margin-top: 1rem;
@@ -82,51 +100,22 @@ code::after {
     border-radius: .5rem;
     background-color: var(--light-alt);
     text-decoration: none;
-    @media(prefers-color-scheme: 'dark'){ background-color: var(--dark-alt); }
-    &:hover { color: var(--light-purple); }
+}
+button:hover { color: var(--light-purple); }
+
+#content a,
+footer a {
+    text-decoration: none;
+    border-bottom: 1px solid;
+    border-color: inherit;
+    color: inherit;
+    transition: border-color 250ms,
+    color 250ms;
+}
+#content a:hover,
+footer a:hover {
+    color: var(--light-purple);
+    border-color: var(--light-purple);
 }
 
-#content,
-footer {
-    a {
-        text-decoration: none;
-        border-bottom: 1px solid black;
-        @media (prefers-color-scheme: 'dark') {
-            border-color: white;
-            &:hover {
-                color: var(--light-purple) !important;
-                border-color: var(--light-purple) !important;
-            }
-        }
-        color: inherit;
-        transition: border-color 250ms,
-        color 250ms;
-        &:hover {
-            color: var(--light-purple);
-            border-color: var(--light-purple);
-        }
-    }
-}
-
-#timeline {
-    * {
-        h3,
-        h4,
-        p { margin: .7rem 0 .7rem 0; }
-    }
-}
-
-.posts, .projects > .post {
-        // Tag colours
-        .bg-eol, .bg-opinion { background-color: var(--eol-alt); }
-        .bg-progress {
-            background-color: #98a2b1;
-            border-color: #98a2b1;
-        }
-        .bg-active, .bg-education { background-color: var(--active-alt); }
-        .bg-released, .bg-life { background-color: var(--released-alt); }
-        .bg-concepts {
-            background-color: var(--concepts-alt);
-            border-color: var(--concepts);
-        }
-    }
+#timeline > * > h3,h4,p { margin: .7rem 0 .7rem 0; }
