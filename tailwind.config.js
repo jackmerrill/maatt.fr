@@ -10,7 +10,29 @@ module.exports = {
       './components/**/*.{ts,tsx}',
       './layouts/**/*.{ts,tsx}',
       './lib/**/*.{ts,tsx}'
-    ]
+    ],
+    options: {
+      safelist: [
+        'bg-eol',
+        'border-eolAlt',
+        'bg-opinion',
+
+        'bg-progress',
+
+        'bg-concepts',
+
+        'bg-released',
+        'border-releasedAlt',
+        'bg-life',
+
+        'bg-active',
+        'border-activeAlt',
+        'bg-education'
+      ],
+      keyframes: true,
+      variables: true,
+
+    }
   },
   darkMode: 'media', // or 'media' or 'class'
   theme: {
@@ -84,10 +106,30 @@ module.exports = {
         }
       }),
       colors: {
+        // Brand colours™
         lightPurple: 'var(--light-purple)',
         darkPurple: 'var(--dark-purple)',
         lightAlt: 'var(--light-alt)',
-        darkAlt: 'var(--dark-alt)'
+        darkAlt: 'var(--dark-alt)',
+
+        // Tag colours
+        eol: '#f69e7b',
+        opinion: '#f69e7b',
+
+        progress: '#71717a',
+        concepts: '#f090ce',
+
+        released: '#7adf82',
+        life: '#7adf82',
+
+        active: '#8096f0',
+        education: '#8096f0',
+
+        // Timeline/border colours
+        eolAlt: '#f97316',
+        pinkAlt: '#ffabe1',
+        releasedAlt: '#10b981',
+        activeAlt: '#3b82f6',
       },
       fontFamily: {
         sans: ['Inter var experimental', 'Inter var', 'Inter', ...fontFamily.sans]

@@ -12,16 +12,16 @@
       );
     
     // Tag colours
-    --eol: #f97316;
-    --eol-alt: #f69e7b;
-    --active-alt: #8096f0;
+    --eol: #f97316; 
+    --eol-alt: #f69e7b; // eol, opinion
+    --active-alt: #8096f0; // active, education
     --active-alt1: #6b83e4;
     --active: #3b82f6;
-    --released-alt: #7adf82;
+    --released-alt: #7adf82; // released, life
     --released: #10b981;
     --progress: #71717a;
     --concepts-alt: #ffabe1;
-    --concepts: #f090ce;
+    --concepts: #f090ce; //concepts
 }
 
 html,
@@ -91,9 +91,7 @@ footer {
     }
 }
 
-.posts, .projects {
-    .post {
-        padding: .75rem 1rem;
+.posts, .projects > .post {
         // Tag colours
         .eol, .opinion { background-color: var(--eol-alt); }
         .progress {
@@ -107,4 +105,3 @@ footer {
             border-color: var(--concepts);
         }
     }
-}
