@@ -11,7 +11,7 @@
     "@tailwindcss/typography": "0.4.0",
     "date-fns": "2.21.1",
     "globby": "11.0.3",
-    "gray-matter": "4.0.2",
+    "gray-matter": "4.0.3",
     "isomorphic-unfetch": "3.1.0",
     "mdx-prism": "https://github.com/doamatto/mdx-prism#v0.3.2",
     "next": "10.1.3",
