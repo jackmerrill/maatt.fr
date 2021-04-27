@@ -84,9 +84,6 @@ code::after {
     width: 100%;
     max-width: 42rem;
     margin: 0 auto 1rem auto;
-    @media (min-width: 1200px) {
-        max-width: 72rem;
-    }
 }
 
 .prose a,
