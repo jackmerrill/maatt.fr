@@ -15,10 +15,12 @@ export default function Sitemap () {
     <div id="content">
       <Header title="Sitemap" />
         <p>So far, there is only an XML version of the sitemap.An HTML version is coming soon™.</p>
-        <Button
-          url="/sitemap.xml"
-          title="Go to XML sitemap"
-        />
+        <div className="w-full text-center justify-center">
+          <Button
+            url="/sitemap.xml"
+            title="Go to XML sitemap"
+          />
+        </div>
     </div>
     </>
   )

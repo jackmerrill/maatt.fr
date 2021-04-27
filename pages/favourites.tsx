@@ -2,6 +2,7 @@ import Head from 'next/head'
 import { NextSeo } from 'next-seo'
 
 import dynamic from 'next/dynamic'
+import Button from '@/components/button'
 import {
   SpotifyTrackWidget as Track,
   SpotifyAlbumWidget as Album,
@@ -23,9 +24,10 @@ export default function Favourites () {
             <div id="content">
               <p>I mostly am scattered amongst my playlists, so you can see all the ones I've made public <a href="https://open.spotify.com/user/rr0fpmxz77lzn7vktz1fzg4ai">here</a>.</p>
               <div className="w-full text-center justify-center">
-                <a href="https://open.spotify.com/playlist/1TgcMEtUJs4zjnRoc5ug4i?si=u35un3OETHefGgkM0s_xlw" className="button">
-                  Open as a playlist in Spotify
-                </a>
+                <Button
+                  url="https://open.spotify.com/playlist/1TgcMEtUJs4zjnRoc5ug4i?si=u35un3OETHefGgkM0s_xlw"
+                  title="Open as a playlist in Spotify"
+                />
               </div>
               <Track trackId="1isXdpzFMO6EIkgdWjV2D8" />
               <Track trackId="6wpx4u1PeQlXEvZMPQ49sU" />
