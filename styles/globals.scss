@@ -89,22 +89,7 @@ code::after {
     }
 }
 
-/* TODO: Convert to component */
-.button {
-    color: black;
-    display: inline-block;
-    text-align: center;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    padding: 1rem 1.5rem;
-    border: none !important;
-    border-radius: .5rem;
-    background-color: var(--light-alt);
-    text-decoration: none;
-}
-button:hover { color: var(--light-purple); }
-
-#content a,
+.prose a,
 footer a {
     text-decoration: none;
     border-bottom: 1px solid;
@@ -113,7 +98,7 @@ footer a {
     transition: border-color 250ms,
     color 250ms;
 }
-#content a:hover,
+.prose a:hover,
 footer a:hover {
     color: var(--light-purple);
     border-color: var(--light-purple);
