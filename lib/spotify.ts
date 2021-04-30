@@ -33,3 +33,12 @@ export const getNowPlaying = async () => {
     }
   })
 }
+
+export const getAlbum = async ({ albumId }:{albumId:string}) => {
+  const { access_token } = await getAccessToken()
+  return fetch(`https://api.spotify.com/v1/albums/${albumId}`, {
+    headers: {
+      Authorization: `Bearer ${access_token}`
+    }
+  })
+}
