@@ -3,6 +3,7 @@ import { NextSeo } from 'next-seo'
 
 import dynamic from 'next/dynamic'
 import Image from 'next/image'
+import Link from 'next/link'
 import { SpotifyMiniAlbumWidget } from '@/components/spotify'
 const Header = dynamic(() => import('@/components/header'))
 
@@ -45,6 +46,9 @@ export default function Home () {
             <SpotifyMiniAlbumWidget albumId="3DGQ1iZ9XKUQxAUWjfC34w" />
             <SpotifyMiniAlbumWidget albumId="6KT8x5oqZJl9CcnM66hddo" />
           </div>
+          <p>
+            I also have some of my favourites <Link href="/favourites">here.</Link>
+          </p>
           <h3 id="sports">Sports</h3>
           <p>
             I've never been huge into anything sports-wise. However, I have taken a liking as of late to Formula racing, as well as football (commonly called « soccer » in the states). <span className="text-orange">McLaren all the way :)</span>
