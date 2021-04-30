@@ -10,7 +10,11 @@ module.exports = {
       './components/**/*.{ts,tsx}',
       './layouts/**/*.{ts,tsx}',
       './lib/**/*.{ts,tsx}'
-    ]
+    ],
+    options: {
+      keyframes: true,
+      variables: true
+    }
   },
   darkMode: 'media', // or 'media' or 'class'
   theme: {
@@ -24,8 +28,11 @@ module.exports = {
               fontWeight: 700
             },
             a: {
-              color: null,
-              textDecoration: null
+              color: 'inherit',
+              borderColor: 'inherit',
+              textDecoration: 'none',
+              borderBottom: '1px solid',
+              transition: 'border-color 250ms, color 250ms'
             },
             h1: { color: null },
             h2: { color: null },
@@ -35,14 +42,15 @@ module.exports = {
             code: {
               color: null,
               padding: theme('padding.1')
-            }
+            },
+            'code::before': { content: '""' },
+            'code::after': { content: '""' }
           }]
         },
         light: {
           css: [{
             color: colors.black,
             a: {
-              borderColor: colors.black,
               '&:hover': {
                 color: theme('colors.darkPurple'),
                 borderColor: theme('colors.darkPurple')
@@ -65,15 +73,10 @@ module.exports = {
             color: theme('colors.white'),
             'h1,h2,h3,h4': { color: theme('colors.white') },
             a: {
-              textDecoration: 'none',
-              borderBottom: '1px solid',
-              borderColor: theme('colors.white'),
-              transition: 'border-color 250ms, color 250ms',
-              color: 'inherit'
-            },
-            'a:hover': {
-              color: theme('colors.lightPurple'),
-              borderColor: theme('colors.lightPurple')
+              '&:hover': {
+                color: theme('colors.lightPurple'),
+                borderColor: theme('colors.lightPurple')
+              }
             },
             ul: { li: { '&:before': { backgroundColor: theme('colors.gray.600') } } },
             'h2,h3,h4': {

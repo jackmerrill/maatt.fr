@@ -18,7 +18,7 @@ export default function Uses () {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header title="Uses" subtitle="My favourite tools and software" />
-      <div id="mainContent">
+      <div id="content" className="mx-4">
         <section className="mt-4" id="apps-and-services">
           <h2 className="text-2xl font-semibold">Apps and Services</h2>
           <div className="grid gap-4 grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 my-2 w-full pt-4">

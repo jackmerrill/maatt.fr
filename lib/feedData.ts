@@ -23,7 +23,7 @@ export function getSortedPostsData (type: string) {
         slug: string
         id: string
         tag: string
-        tagShort: string
+        class: string
         description: string
       })
     }

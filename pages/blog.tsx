@@ -14,7 +14,7 @@ export default function IndexPage ({ postData }:{
     id: string,
     tag: string,
     description: string,
-    tagShort: string
+    class: string
   }[]
 }) {
   return (
@@ -25,14 +25,14 @@ export default function IndexPage ({ postData }:{
     />
     <div>
       <Header title="Blog" />
-      <div className="posts">
-        {postData.map(({ title, description, slug, id, tag, tagShort }) => (
-          <section className="border border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-900 rounded p-2 m-2 transition-colors post" key={id} id={id}>
-            <Link href={`/blog/${slug}`}>
-              <a className="text-xl font-bold">
-                {title}
-                <p className="text-sm font-normal">{description}</p>
-                <p className={`${tagShort} tag`}>{tag}</p>
+      <div className="grid grid-cols-1 justify-evenly sm:grid-cols-2 lg:grid-cols-3 posts">
+        {postData.map((frontmatter) => (
+          <section className="border border-gray-200 dark:border-gray-800 hover:bg-gray-100 dark:hover:bg-gray-900 rounded py-3 px-4 m-2 transition-colors post focus:bg-bg-gray-100 focus-within:bg-gray-100 dark:focus:bg-gray-900 dark:focus-within:bg-gray-900 post" key={frontmatter.id} id={frontmatter.id}>
+            <Link href={`/blog/${frontmatter.slug}`}>
+              <a className="text-xl font-bold transition-colors focus:outline-none focus-within:outline-none">
+                {frontmatter.title}
+                <p className="text-sm font-normal">{frontmatter.description}</p>
+                <p className={frontmatter.class + " rounded table text-xs px-2 py-1.5 mt-2 text-black"}>{frontmatter.tag}</p>
               </a>
             </Link>
           </section>
