@@ -24,25 +24,6 @@ const getAccessToken = async () => {
   return res.json()
 }
 
-export const getAlbum = async ({ albumId }:{albumId:string}) => {
-  const { access_token } = await getAccessToken()
-  return fetch(`https://api.spotify.com/v1/albums/${albumId}`, {
-    headers: {
-      Authorization: `Bearer ${access_token}`
-    }
-  })
-}
-
-export const getTrack = async ({ trackId }:{trackId:string}) => {
-  const { access_token } = await getAccessToken()
-
-  return fetch(`https://api.spotify.com/v1/tracks/${trackId}`, {
-    headers: {
-      Authorization: `Bearer ${access_token}`
-    }
-  })
-}
-
 export const getNowPlaying = async () => {
   const { access_token } = await getAccessToken()
 
