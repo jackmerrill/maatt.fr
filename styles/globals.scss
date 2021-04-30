@@ -61,10 +61,6 @@ body { background: white; }
 /* Media queries */
 @media(prefers-color-scheme: 'dark') {
     html, body { background: black; }
-    .button { 
-        background-color: var(--dark-alt);
-        color: white;
-    }
     #content a:hover, footer a:hover {
         color: var(--light-purple);
         border-color: var(--light-purple);
