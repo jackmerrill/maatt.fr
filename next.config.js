@@ -4,12 +4,16 @@ module.exports = {
       'i.scdn.co'
     ]
   },
+  future: {
+    webpack5: true,
+  },
   webpack: (config) => {
     require('./lib/sitemap.js')
-    config.node = {
-      fs: 'empty',
-      net: 'empty',
-      tls: 'empty'
+    config.resolve.fallback = {
+      fs: false,
+      net: false,
+      path: false,
+      tls: false
     }
     return config
   },
