@@ -14,15 +14,27 @@ export default {
   }
 }
 
-export function Post(frontMatter){
-  return {
+export function Post(frontMatter, type){
+  var layout = {
     title: `${frontMatter.title} - doamatto`,
     description: frontMatter.description,
-    canonical: "https://doamatto.xyz",
+    canonical: "https://www.doamatto.xyz",
     openGraph: {
       type: 'article',
       title: `${frontMatter.title} - doamatto`,
       description: frontMatter.description
     }
   }
+  switch(type) {
+    default: 
+      layout.canonical = "https://www.doamatto.xyz"
+      break
+    case 'post':
+      layout.canonical = `https://www.doamatto.xyz/posts/${frontMatter.title}`
+      break
+    case 'project':
+      layout.canonical = `https://www.doamatto.xyz/projects/${frontMatter.title}`
+      break
+  }
+  return layout
 }

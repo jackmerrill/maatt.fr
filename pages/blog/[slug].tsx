@@ -16,7 +16,7 @@ export default function BlogPostPage ({ mdxSource, frontMatter }) {
   
   return (
     <>
-      <NextSeo {...SEO(frontMatter)} />
+      <NextSeo {...SEO(frontMatter, 'post')} />
       <Head>
         <title>{title} - doamatto</title>
       </Head>
