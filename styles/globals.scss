@@ -82,19 +82,4 @@ code::after {
     margin: 0 auto 1rem auto;
 }
 
-.prose a,
-footer a {
-    text-decoration: none;
-    border-bottom: 1px solid;
-    border-color: inherit;
-    color: inherit;
-    transition: border-color 250ms,
-    color 250ms;
-}
-.prose a:hover,
-footer a:hover {
-    color: var(--light-purple);
-    border-color: var(--light-purple);
-}
-
 #timeline > * > h3,h4,p { margin: .7rem 0 .7rem 0; }
