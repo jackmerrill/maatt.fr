@@ -55,12 +55,7 @@
 .bg-concepts { background-color: var(--concepts-alt); }
 
 /* Start main doc */
-html,
-body { background: white; }
-
-/* Media queries */
 @media(prefers-color-scheme: 'dark') {
-    html, body { background: black; }
     #content a:hover, footer a:hover {
         color: var(--light-purple);
         border-color: var(--light-purple);
