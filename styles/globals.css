@@ -60,7 +60,10 @@
 }
 
 /* TODO: May have already been solved with {4686dd1} or similar, but blocked in #145 until merge to main */
-
+code::before,
+code::after {
+    content: '' !important;
+}
 
 #__next {
     width: 100%;
