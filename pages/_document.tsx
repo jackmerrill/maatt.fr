@@ -14,7 +14,7 @@ export default class _document extends Document {
 
   render () {
     return (
-      <Html className="text-black dark:text-white bg-white dark:bg-black">
+      <Html lang="en" className="text-black dark:text-white bg-white dark:bg-black">
         <Head>
           <link rel="stylesheet"
                 href="https://cdn.doamatto.xyz/inter.min.css"
