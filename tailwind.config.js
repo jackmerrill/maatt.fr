@@ -42,7 +42,9 @@ module.exports = {
             code: {
               color: null,
               padding: theme('padding.1')
-            }
+            },
+            "code::before": { content: '""' },
+            "code::after": { content: '""' }
           }]
         },
         light: {
