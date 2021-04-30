@@ -13,7 +13,7 @@ module.exports = {
     ],
     options: {
       keyframes: true,
-      variables: true,
+      variables: true
     }
   },
   darkMode: 'media', // or 'media' or 'class'
@@ -32,7 +32,7 @@ module.exports = {
               borderColor: 'inherit',
               textDecoration: 'none',
               borderBottom: '1px solid',
-              transition: 'border-color 250ms, color 250ms',
+              transition: 'border-color 250ms, color 250ms'
             },
             h1: { color: null },
             h2: { color: null },
@@ -43,8 +43,8 @@ module.exports = {
               color: null,
               padding: theme('padding.1')
             },
-            "code::before": { content: '""' },
-            "code::after": { content: '""' }
+            'code::before': { content: '""' },
+            'code::after': { content: '""' }
           }]
         },
         light: {
@@ -76,7 +76,7 @@ module.exports = {
               '&:hover': {
                 color: theme('colors.lightPurple'),
                 borderColor: theme('colors.lightPurple')
-              },
+              }
             },
             ul: { li: { '&:before': { backgroundColor: theme('colors.gray.600') } } },
             'h2,h3,h4': {
@@ -90,7 +90,7 @@ module.exports = {
         lightPurple: 'var(--light-purple)',
         darkPurple: 'var(--dark-purple)',
         lightAlt: 'var(--light-alt)',
-        darkAlt: 'var(--dark-alt)',
+        darkAlt: 'var(--dark-alt)'
       },
       fontFamily: {
         sans: ['Inter var experimental', 'Inter var', 'Inter', ...fontFamily.sans]
