@@ -2,7 +2,7 @@ import React from 'react'
 import App from 'next/app'
 import type { AppProps } from 'next/app'
 import { DefaultSeo } from 'next-seo'
-import '../styles/globals.scss' // global stylesheet
+import '../styles/globals.css' // global stylesheet
 import 'tailwindcss/tailwind.css' // tailwind (slowly converting)
 
 import BLMBanner from '@/components/blm-banner'

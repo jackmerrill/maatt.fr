@@ -55,21 +55,12 @@
 .bg-concepts { background-color: var(--concepts-alt); }
 
 /* Start main doc */
-@media(prefers-color-scheme: 'dark') {
-    #content a:hover, footer a:hover {
-        color: var(--light-purple);
-        border-color: var(--light-purple);
-    }
-}
 @media(min-width: 1200px) {
     #__next { max-width: 72rem; }
 }
 
 /* TODO: May have already been solved with {4686dd1} or similar, but blocked in #145 until merge to main */
-code::before,
-code::after {
-    content: '' !important;
-}
+
 
 #__next {
     width: 100%;
@@ -77,4 +68,4 @@ code::after {
     margin: 0 auto 1rem auto;
 }
 
-#timeline > * > h3,h4,p { margin: .7rem 0 .7rem 0; }
+#timeline > section > h3,h4,p { margin: .7rem 0 .7rem 0; }
