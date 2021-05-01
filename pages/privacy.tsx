@@ -16,7 +16,7 @@ export default function privacy () {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header title="Privacy Policy" />
-      <div className="antialised prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto dark:prose-dark">
+      <div className="antialised prose prose-sm sm:prose lg:prose-lg   mx-auto dark:prose-dark">
         <p>
             Your privacy is just as important (if not more) than my privacy. For that reason, I make it a commitment to ensure my site isn&apos;t privacy-friendly, but private-by-default.
         </p>

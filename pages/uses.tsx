@@ -126,7 +126,7 @@ export default function Uses () {
               />
           </div>
         </section>
-        <section className="mt-8 antialised prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto dark:prose-dark" id="hardware">
+        <section className="mt-8 antialised prose prose-sm sm:prose lg:prose-lg   mx-auto dark:prose-dark" id="hardware">
           <h2>Hardware</h2>
           <h4>Computer / Office</h4>
           <ul>

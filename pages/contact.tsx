@@ -18,7 +18,7 @@ export default function Contact () {
       <Header
         title="Contact"
         subtitle="Reach out to me for a gig, hiring, or if you just want to talk." />
-      <div className="antialised prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto dark:prose-dark">
+      <div className="antialised prose prose-sm sm:prose lg:prose-lg   mx-auto dark:prose-dark">
         <p>
           I'll build this page out a bit more in the future.
 

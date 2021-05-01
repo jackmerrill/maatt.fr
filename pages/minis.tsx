@@ -19,7 +19,7 @@ export default function Minis() {
       <Header
         title="Minis"
         subtitle="These are basically just mini-portfolios for things that I don't « prioritize » publicly." />
-      <div className="antialised prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto dark:prose-dark">
+      <div className="antialised prose prose-sm sm:prose lg:prose-lg   mx-auto dark:prose-dark">
         <div className="w-full max-w-2xl grid grid-cols-1 pt-1 pb-1 sm:grid-cols-3 text-center">
           <Link href="#music">
             <a className="border-gray-600 dark:border-gray-500  hover:text-darkPurple dark:hover:text-lightPurple hover:border-darkPurple dark:hover:border-lightPurple">

@@ -18,7 +18,7 @@ export default function Cinema () {
       <Header
         title="Cinematography"
         subtitle="All things video: from pre- to post- production and everything in between. Content " />
-      <div className="antialised prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto dark:prose-dark">
+      <div className="antialised prose prose-sm sm:prose lg:prose-lg   mx-auto dark:prose-dark">
         <p>
           I haven't had time to build this page out yet, so it's blank for now.
         </p>
