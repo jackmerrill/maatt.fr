@@ -30,7 +30,7 @@ export function Post(frontMatter, type){
       layout.canonical = "https://www.doamatto.xyz"
       break
     case 'post':
-      layout.canonical = `https://www.doamatto.xyz/posts/${frontMatter.title}`
+      layout.canonical = `https://www.doamatto.xyz/blog/${frontMatter.title}`
       break
     case 'project':
       layout.canonical = `https://www.doamatto.xyz/projects/${frontMatter.title}`
