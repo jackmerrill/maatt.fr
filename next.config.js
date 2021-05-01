@@ -43,7 +43,7 @@ module.exports = {
         permanent: true
       },
       {
-        source: '/nano',
+        source: '/nano(\/.*)',
         destination: 'https://git.doamatto.xyz/nano',
         permanent: true
       },
