@@ -8,7 +8,7 @@ export function SpotifyMiniAlbumWidget ({albumId}:{albumId: string}) {
     <div id={data?.id} className="w-32 h-32 m-2">
       <a href={data?.url}>
         <img
-          src={data?.albumArt ?? '/assets/placeholder.jpg'}
+          src={data?.albumArt ?? '/assets/placeholder.png'}
           alt={data?.albumName ?? 'Error fetching data'}
           width={128}
           height={128}
