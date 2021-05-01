@@ -5,7 +5,7 @@ export default {
     locale: 'en_GB',
     url: 'https://doamatto.xyz',
     description: 'Hello and bienvenue! My name\'s Matt and this is my website.',
-    site_name: 'doamatto'
+    site_name: 'Matt Ronchetto - Web Developer, Student'
   },
   twitter: {
     handle: '@doamatto',
