@@ -1,4 +1,5 @@
-import Image from 'next/image'
+// TODO: Switch <img> to <Image>
+// import Image from 'next/image'
 
 export default function Item ({ title, description, imageId, url }: {
   title: string
@@ -20,16 +21,13 @@ export default function Item ({ title, description, imageId, url }: {
 }
 
 function Icon ({ title, imageId }: {title:string, imageId: string}) {
-  if (imageId !== undefined) {
-    return (
-        <img
-          src={`/assets/uses/${imageId}.png`}
-          alt={title}
-          width={64}
-          height={64}
-          className="max-h-16 max-w-16 rounded-lg mt-4 mb-2"
-        />
-    )
-  }
-  return null
+  return (
+    <img
+      src={imageId ? `/assets/uses/${imageId}.png` : '/assets/placeholder.png'}
+      alt={title}
+      width={64}
+      height={64}
+      className="max-h-16 max-w-16 rounded-lg mt-4 mb-2"
+    />
+  )
 }

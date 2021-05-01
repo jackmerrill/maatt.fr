@@ -16,7 +16,7 @@ export default function BlogPostPage ({ mdxSource, frontMatter }) {
   
   return (
     <>
-      <NextSeo {...SEO(frontMatter)} />
+      <NextSeo {...SEO(frontMatter, 'post')} />
       <Head>
         <title>{title} - doamatto</title>
       </Head>
@@ -26,9 +26,9 @@ export default function BlogPostPage ({ mdxSource, frontMatter }) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  return staticPaths('posts')
+  return staticPaths('blog')
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  return staticProps('posts', { params })
+  return staticProps('blog', { params })
 }

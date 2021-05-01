@@ -16,7 +16,7 @@ export default function ProjectPage ({ mdxSource, frontMatter }) {
   
   return (
     <>
-      <NextSeo {...SEO(frontMatter)} />
+      <NextSeo {...SEO(frontMatter, 'project')} />
       <Head>
         <title>{title} - doamatto</title>
       </Head>

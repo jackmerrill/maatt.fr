@@ -5,7 +5,7 @@ import matter from 'gray-matter'
 export function getSortedPostsData (type: string) {
   let dir: string
   if (type === 'blog') {
-    dir = path.join(process.cwd(), 'data/posts')
+    dir = path.join(process.cwd(), 'data/blog')
   } else {
     dir = path.join(process.cwd(), 'data/projects')
   }

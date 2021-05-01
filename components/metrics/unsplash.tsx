@@ -15,10 +15,10 @@ export default function Unsplash() {
     <>
       <Item value={followers}
             caption="Unsplash followers"
-            link="https://unsplash.com/doamatto" />
+            link="https://www.unsplash.com/doamatto" />
       <Item value={downloads}
             caption="Unsplash downloads"
-            link="https://unsplash.com/doamatto" />
+            link="https://www.unsplash.com/doamatto" />
     </>
   )
 }
