@@ -26,13 +26,13 @@ export default function Uses () {
               imageId="1password"
               title="1Password"
               description="I used Bitwarden for ages (still recommend it for those who need a password maanger). 1Password is way more polished, however."
-              url="https://www.1password.com"
+              url="https://1password.com"
               />
             <Item
               title="AdGuard"
               imageId="guard"
               description="Thanks to Safari's content blocker API for iOS, AdGuard is easily one of the best tools to keep nasty ads and other trackers at bay."
-              url="https://www.adguard.com/adguard-ios/overview.html"
+              url="https://adguard.com/adguard-ios/overview.html"
               />
             <Item
               title="Alfred"
@@ -50,7 +50,7 @@ export default function Uses () {
               title="Bandcamp"
               imageId="bandcamp"
               description="Although most of this is related to stuff I use during work, Bandcamp is a no brainer for great music from small artists."
-              url="https://www.bandcamp.com"
+              url="https://bandcamp.com"
               />
             <Item
               title="Duolingo"
@@ -74,7 +74,7 @@ export default function Uses () {
               title="Gumroad"
               imageId="gumroad"
               description="Easily one of the best places for creators to sell their products online (be it digital or physical)."
-              url="https://www.gumroad.com"
+              url="https://gumroad.com"
               />
             <Item
               title="Namecheap"
@@ -86,7 +86,7 @@ export default function Uses () {
               title="Next.js"
               imageId="nextjs"
               description="Next.js is the best way to build a React-based website. It's used from companies and people big and small (this site was built with Next.js)."
-              url="https://www.nextjs.org"
+              url="https://nextjs.org"
               />
             <Item
               title="Pocket Casts"
@@ -110,19 +110,19 @@ export default function Uses () {
               title="Tailwind CSS"
               imageId="tailwind"
               description="At first, you will probably find it stupid. After you deploy one thing with Tailwind though, you probably won't want to go back to SCSS/LESS."
-              url="https://www.tailwindcss.com"
+              url="https://tailwindcss.com"
               />
             <Item
               title="Vercel"
               imageId="vercel"
               description="This site, as well as a crap ton of my web projects, run on Vercel. It's easily one of my favourtie hosting providers and works a treat with Next.js (which this site is built on)."
-              url="https://www.vercel.com"
+              url="https://vercel.com"
               />
             <Item
               title="VSCodium"
               imageId="vscodium"
               description="Imagine Virtual Studio Code, minus the tracking and bloat from Microsoft. Easily my favourite text editor."
-              url="https://www.vscodium.com"
+              url="https://vscodium.com"
               />
           </div>
         </section>
