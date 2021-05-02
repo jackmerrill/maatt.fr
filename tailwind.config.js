@@ -67,7 +67,6 @@ module.exports = {
         dark: {
           css: [{
             code: {
-              color: colors.white,
               background: theme('colors.darkAlt')
             },
             color: theme('colors.white'),
