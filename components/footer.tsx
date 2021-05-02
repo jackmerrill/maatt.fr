@@ -18,7 +18,7 @@ export default function Footer () {
             <div className="flex flex-col space-y-2 pt-2 w-full max-w-4">
                 <FooterLink link="/imprint" title="Imprint" />
                 <FooterLink link="/privacy" title="Privacy" />
-                <FooterLink link="/sitemap" title="Sitemap" />
+                <FooterLink link="/contact" title="Contact" />
             </div>
           </div>
         </footer>
