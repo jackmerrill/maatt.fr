@@ -18,7 +18,7 @@ export default function Contact () {
       <Header
         title="Contact"
         subtitle="Reach out to me for a gig, hiring, or if you just want to talk." />
-      <div className="antialised prose prose-sm sm:prose lg:prose-lg   mx-auto dark:prose-dark">
+      <div className="antialised prose prose-sm sm:prose lg:prose-lg mx-auto dark:prose-dark">
         <p>
           There are a few ways you can reach out to me, be it for a gig, questions about my past works or if you just want to chat. If you want to encrypt or check want me to certify a message of mine, my PGP key is on <a href="https://keybase.io/doamatto">Keybase</a>.
         </p>
