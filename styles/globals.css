@@ -55,9 +55,6 @@
 .bg-concepts { background-color: var(--concepts-alt); }
 
 /* Start main doc */
-@media(min-width: 1200px) {
-    #__next { max-width: 72rem; }
-}
 
 /* TODO: May have already been solved with {4686dd1} or similar, but blocked in #145 until merge to main */
 code::before,
@@ -67,8 +64,13 @@ code::after {
 
 #__next {
     width: 100%;
-    max-width: 42rem;
     margin: 0 auto 1rem auto;
+}
+@media(max-width: 1200px) {
+    #__next { margin: 0 1rem 1rem 1rem; }
+}
+@media(min-width: 1200px) {
+    #__next { max-width: 72rem; }
 }
 
 #timeline > section > h3,h4,p { margin: .7rem 0 .7rem 0; }
