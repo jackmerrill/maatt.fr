@@ -6,7 +6,7 @@ export default function nav () {
   return (
       <>
         {/* Sticky nav backdrop from Lee Robinso: https://leerob.io */}
-        <header className="text-center flex justify-between -ml-8 pl-8 sticky z-10 top-0 backdrop-filter backdrop-blur-xl backdrop-saturate-180">
+        <header className="text-center flex justify-between sticky z-10 top-0 backdrop-filter backdrop-blur-xl backdrop-saturate-180">
             <div className="m-0 flex justify-center">
                 <a href="/" className="border-none group transition-colors" rel="Home button" title="Home">
                     {
