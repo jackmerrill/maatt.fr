@@ -24,7 +24,7 @@ module.exports = {
           css: [{
             color: null,
             'b,strong': {
-              color: null,
+              color: 'inherit',
               fontWeight: 700
             },
             a: {
