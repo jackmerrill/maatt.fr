@@ -39,6 +39,7 @@ export default class _document extends Document {
             <NextScript />
           </div>
         </body>
+        <script async defer data-domain="doamatto.xyz" src="https://alpine.gcp.doamatto.xyz/js/plausible.js"></script>
       </Html>
     )
   }
