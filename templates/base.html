@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        {% block rss %}
+        <link rel="alternate" type="application/atom+xml" title="RSS" href="/atom.xml">
+        {% endblock %}
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="preconnect" href="https://cdn.doamatto.xyz" />
+        <link href="https://cdn.doamatto.xyz/ibm.min.css" rel="stylesheet" />
+        <link href="https://cdn.doamatto.xyz/newsreader.min.css" rel="stylesheet" />
+        <link href="/style.css" rel="stylesheet">
+        <title>Matt Ronchetto - doamatto</title>
+    </head>
+    <body>
+        <nav>
+            <!-- Logo? -->
+            <ul>
+                <li>
+                    <a href="/blog" title="Blog">Blog</a>
+                </li>
+                <li>
+                    <a href="/projects" title="Projects">Projects</a>
+                </li>
+                <li>
+                    <a href="/about" title="About">About</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="container">
+            {% block content %}{% endblock %}
+        </div>
+        <footer>
+            <p>
+                &copy; 2018-2021 doamatto.<br/>
+                <a href="https://github.com/doamatto/doamatto.xyz">View this site's source code.</a>
+            </p>
+            <div>
+                <ul>
+                    <li>
+                        <a title="Dashboard" href="https://dash.doamatto.xyz">Dashboard</a>
+                    </li>
+                    <li>
+                        <a title="Minis" href="/minis">Minis</a>
+                    </li>
+                    <li>
+                        <a ittle="Uses" href="/uses">Uses</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <a title="Imprint" href="/imprint">Imprint</a>
+                    </li>
+                    <li>
+                        <a title="Privacy" href="/privacy">Privacy</a>
+                    </li>
+                    <li>
+                        <a ittle="Contact" href="/contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    </body>
+    <script async defer data-domain="doamatto.xyz" src="https://alpine.gcp.doamatto.xyz/js/plausible.js"></script>
+</html>
