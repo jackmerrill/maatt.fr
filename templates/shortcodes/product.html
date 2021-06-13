@@ -1,4 +1,4 @@
-<div>
+<div class="item">
     <a href="{{link}}" title={{title}}>
         {% if customimg %}
             <img src="/assets/uses/{{customimg}}" width="64" height="64" />
@@ -8,6 +8,12 @@
         <div>
             <h3>{{title}}</h3>
             <p>{{description}}</p>
+            <div class="tags">
+                {% set data = load_data(path=path) -%}
+                {% for tag in data.tag %}
+                <p class="{{ tag | slugify | lower }}">{{ tag }}</p>
+                {% endfor %}
+            </div>
         </div>
     </a>
 </div>
