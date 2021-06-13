@@ -20,7 +20,6 @@ Some other places around the internet that I'm at are:
 - Dribbble: [@doamatto](https://dribbble.com/doamatto)
 - GitHub: [@doamatto](https://github.com/doamatto)
 - Itch: [doamatto](https://doamatto.itch.io)
-- Medium: 
 - Tumblr: [doamatto](https://doamatto.tumblr.com)
 - Unsplash: [@doamatto](https://unsplash.com/@doamatto)
 - YouTube: [doamatto](https://overto.doamatto.xyz/youtube)
