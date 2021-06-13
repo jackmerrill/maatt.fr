@@ -9,5 +9,12 @@ This utilises:
 - **Vercel** for hosting; and:
 - **GitHub Actions/SonarCloud** for code quality.
 
+## Building
+1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
+2. Install [Node](https://nodejs.org) and [Yarn](https://yarnpkg.com) (this is used purely for Tailwind :/)
+3. Install Node dependencies (`yarn`)
+4. Build the site (`zola build`)
+5. Build the CSS (`yarn run build:css`)
+
 ### Acknowledgments
 This codebase is licensed under the BSD 3-Clause license. Content of the website, unless mentioned otherwise, are licensed under the CC-BY-4.0 license.
