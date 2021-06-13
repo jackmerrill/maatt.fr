@@ -5,7 +5,7 @@ description = ""
 
 default_language = "en"
 
-compile_sass = false
+compile_sass = true
 minify_html = true
 
 generate_feed = true
