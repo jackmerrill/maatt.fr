@@ -13,4 +13,4 @@ Charlie Bolejack for helping with some design advice on the site - https://epic4
 
 /* SITE */
 Standards: HTML5, CSS3
-Software: Next.js
+Software: Zola, Tailwind
