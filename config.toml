@@ -4,6 +4,9 @@ base_url = "https://www.doamatto.xyz"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
+generate_feed = true
+feed_filename = "atom.xml"
+
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
