@@ -1,8 +1,51 @@
-.prose {
-    font-family: 'Newsreader', serif;
-}
-
 html,
 body {
-    font-family: 'IBM Plex Sans', sans-serif;
+    a {
+        &:hover,
+        &:active { color: var(--purple); }
+        transition-property: all;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 150ms;
+    }
+    background: #f7f7f7;
+    font-family: 'Inter', sans-serif;
+    @media (prefers-color-scheme: dark) {
+        background: #383838;
+        color: white;
+        a { color: white; }
+    }
+}
+
+@import './colours.scss';
+
+/* Start main doc */
+
+#timeline {
+    .date {
+        font-weight: 400;
+        opacity: 0.8;
+        font-size: .9rem;
+    }
+    section {
+        h3,
+        h4,
+        p {
+            margin: .7rem 0;
+            font-family: 'IBM Plex Sans', sans-serif;
+        }
+    }
+}
+
+.border-l-4 { border-left-width: 4px; }
+.pl-2 { padding-left: .5rem; }
+
+code {
+    background: #383838;
+    @media (prefers-color-scheme: 'dark') {
+        background: #e6e1dc;
+        color: #383838;
+
+    }
+    color: #e6e1dc;
+    padding: .2rem;
 }
