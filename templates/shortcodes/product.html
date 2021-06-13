@@ -1,0 +1,13 @@
+<div>
+    <a href="{{link}}" title={{title}}>
+        {% if customimg %}
+            <img src="/assets/uses/{{customimg}}" width="64" height="64" />
+        {% else %}
+            <img src="/assets/uses/{{title}}.png" width="64" height="64" />
+        {% endif %}
+        <div>
+            <h3>{{title}}</h3>
+            <p>{{description}}</p>
+        </div>
+    </a>
+</div>
