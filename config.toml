@@ -2,6 +2,9 @@
 base_url = "https://www.doamatto.xyz"
 
 title = "Matt Ronchetto - doamatto"
+
+default_language = "en"
+
 compile_sass = false
 minify_html = true
 
