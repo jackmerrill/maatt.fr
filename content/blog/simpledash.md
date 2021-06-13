@@ -1,6 +1,6 @@
 +++
-title = SimpleDash
-slug = simpledash
+title = "SimpleDash"
+slug = "simpledash"
 date = "2021-01-16"
 description = "Most car manufactuers have poor in-car displays that are slow and clunky. I wanted to change that."
 tag = "Concepts"

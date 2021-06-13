@@ -1,6 +1,6 @@
 +++
-title = How I Design and Build Websites
-slug = my-web-design-process
+title = "How I Design and Build Websites"
+slug = "my-web-design-process"
 date = "2021-04-09"
 description = "I've gone through so many good and bad tools; here's the 411 of how I get it all done and dusted."
 tag = "Life"
