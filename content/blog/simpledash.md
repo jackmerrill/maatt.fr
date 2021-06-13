@@ -1,10 +1,10 @@
 +++
-title: SimpleDash
-slug: simpledash
-date: "2021-01-16"
-description: "Most car manufactuers have poor in-car displays that are slow and clunky. I wanted to change that."
-tag: "Concepts"
-class: 'bg-concepts'
+title = SimpleDash
+slug = simpledash
+date = "2021-01-16"
+description = "Most car manufactuers have poor in-car displays that are slow and clunky. I wanted to change that."
+tag = "Concepts"
+class = 'bg-concepts'
 +++
 
 I recentely fell in love with [Garry's Mod](https://gmod.facepunch.com/) again. For the uninitiated, Garry's Mod is an sandbox game that is centred around user modifications for content. It allows endless possibilities as long as you can write some Lua code.

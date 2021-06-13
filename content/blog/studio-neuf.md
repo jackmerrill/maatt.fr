@@ -1,10 +1,10 @@
 +++
-title: "Studio9: One of the most ambitious projects I'm doing"
-slug: studio-neuf
-date: "2021-05-31"
-description: "I've always loved watching videos and enjoy listening podcasts. I want to create the best platform for these creators, where they are the forefront."
-tag: "Product announcements"
-class: "bg-active"
+title = "Studio9: One of the most ambitious projects I'm doing"
+slug = studio-neuf
+date = "2021-05-31"
+description = "I've always loved watching videos and enjoy listening podcasts. I want to create the best platform for these creators, where they are the forefront."
+tag = "Product announcements"
+class = "bg-active"
 +++
 
 Since I was a wee lad, I've always loved watching videos online. My YouTube tastes are my music tastes: too varied to really say. In the past, I've even tried making videos or streaming as well. It was a bit boring though (probably because of the small audience), but I did have some fun doing it. More and more, however, I've realised that these platforms that I experimented on and that I've seen my friends using to build their audiences are pretty terrible. They treat creators poorly, they treat viewers poorly, and they just focus on making as much money as they possibly can. I wanted to change that.

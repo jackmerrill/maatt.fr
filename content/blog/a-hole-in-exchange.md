@@ -1,10 +1,10 @@
 +++
-title: "A hole in Exchange: a bug that is still yet to be fixed by IT"
-slug: a-hole-in-exchange
-date: "2021-05-20"
-description: "As a student, it's not uncommon to write to my teachers. I found out that there was a pretty large hole in the security of this, however."
-tag: "Education"
-class: "bg-education"
+title = "A hole in Exchange: a bug that is still yet to be fixed by IT"
+slug = a-hole-in-exchange
+date = "2021-05-20"
+description = "As a student, it's not uncommon to write to my teachers. I found out that there was a pretty large hole in the security of this, however."
+tag = "Education"
+class = "bg-education"
 +++
 
 **Note:** This story was originally posted on my Instagram on 6 May, 2021.
