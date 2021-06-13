@@ -1,23 +1,24 @@
----
-title: Always Amazon Smiling
-slug: always-amazon-smiling
-description: "A simple tool to redirect you from Amazon's sites to their Amazon Smile counterparts."
-tag: "Released"
-class: "bg-released"
-date: "2020-08-12"
----
++++
+title = "Always Amazon Smiling"
+slug = "always-amazon-smiling"
+description = "A simple tool to redirect you from Amazon's sites to their Amazon Smile counterparts."
+tag = "released"
+date = "2020-08-12"
++++
 
-<Timeline>
-  <Item status="released" date="2020-05-03">
-      Always Amazon Smiling has officially launched and is now
+<section id="timeline">
+  {{item(
+    status="released",
+    date="2020-05-03",
+    info="Always Amazon Smiling has officially launched and is now
       available on the Chrome Web Store and Firefox Add-on Store.
       This open-source extension takes all the appropriate requests
       and supported Amazon sites and redirects them to their Amazon
       Smile counterparts to help raise money for charities. <a
       href="https://github.com/doamatto/always-amazon-smiling"> You
-      can learn more here.</a>
-  </Item>
-</Timeline>
+      can learn more here.</a>"
+  )}}
+</section>
 
 ### Useful links
 - [GitHub repository](https://github.com/doamatto/always-amazon-smiling)

@@ -1,20 +1,33 @@
----
-title: 5mLoading
-slug: 5mloading
-description: "Most all of FiveM's loading screen mods have been, in my experience, poor looking and poor performing. Because of this, I made my own."
-tag: "End-of-Life"
-class: "bg-eol"
-date: "2020-12-20"
----
++++
+title = "5mLoading"
+slug = "5mloading"
+description = "Most all of FiveM's loading screen mods have been, in my experience, poor looking and poor performing. Because of this, I made my own."
+tag = "eol"
+date = "2020-12-20"
++++
 
-<Timeline>
-  <Item status="eol" date="2020-12-20" title="Reached end-of-life">
-      Ever since I switched to Pop!_OS full-time, I haven&apos;t been able to play FiveM at all. So, I can&apos;t reliably develop new features anymore. However, because of the smashing community, I can still debug issues. Because of this, this tool has entered an End-of-Life state.
-  </Item>
-  <Item status="active" dateRange={['2020-07-25', '2020-09-27']} title="Active development" />
-  <Item status="released" date="2020-07-25" title="Released" />
-  <Item status="progress" title="Conceptialized and started development" />
-</Timeline>
+<section id="timeline">
+  {{ item(
+    status="eol",
+    date="2020-12-20",
+    title="Reached end-of-life",
+    info="Ever since I switched to Pop!_OS full-time, I haven't been able to play FiveM at all. So, I can't reliably develop new features anymore. However, because of the smashing community, I can still debug issues. Because of this, this tool has entered an End-of-Life state."
+  )}}
+  {{ item(
+    status="active",
+    date="2020-07-25 to 2020-09-27",
+    title="Active development"
+  )}}
+  {{ item(
+    status="released",
+    date="2020-07-25",
+    title="Released"
+  )}}
+  {{ item(
+    status="progress"
+    title="Conceptialised and started development"
+  )}}
+</section>
 
 ### Useful links
 - [GitHub repo](https://github.com/doamatto/5m_loading)
