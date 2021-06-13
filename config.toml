@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://www.doamatto.xyz"
 
-# Whether to automatically compile all Sass files in the sass directory
+title = "Matt Ronchetto - doamatto"
 compile_sass = false
 minify_html = true
 
