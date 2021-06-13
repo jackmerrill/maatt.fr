@@ -4,5 +4,8 @@
     "postcss": "8.3.2",
     "tailwindcss": "2.1.4"
   },
+  "scripts": {
+    "build": "npx tailwind-css build ./src/tailwind.css -o ./public/tailwind.css",
+    "build:css": "npx tailwind-css build ./src/tailwind.css -o ./public/tailwind.css"
   }
 }
