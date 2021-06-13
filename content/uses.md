@@ -5,6 +5,8 @@ template = "page.html"
 
 My favourite tools and software.
 
+<section class="use-grid">
+
 {{ product(
     title="1Password"
     link="https://1password.com"
@@ -20,13 +22,13 @@ My favourite tools and software.
     title="Alfred"
     link="https://www.alfredapp.com/"
     description="Alfred is essentially Spotlight Search, but on steriods. An essential for anyone on macOS."
-    tag="Indie"
+    tag=["Indie"]
 ) }}
 {{ product(
     title="Apollo"
     link="https://www.apolloapp.io/"
     description="As most everyone will tell you, this is easly the best third-party Reddit app on the App Store."
-    tag="Indie"
+    tag=["Indie"]
 ) }}
 {{ product(
     title="Bandcamp"
@@ -63,27 +65,28 @@ My favourite tools and software.
     title="NextDNS"
     link="https://nextdns.io/"
     description="NextDNS is basically a DNS provider where you can control what happens. It's like the private DNS services with Cisco, but aimed at consumers. Privacy-friendly too!"
-    tag="Indie"
+    tag=["Indie"]
     customimg="nextdns.png"
 ) }}
 {{ product(
     title="Next.js"
     link="https://nextjs.org/"
     description="Next.js is the best way to build your first React-based website. This site used to use Next.js, but I decided to try a new tool."
+    tag=["Open-Source"]
     customimg="nextjs.png"
 ) }}
 {{ product(
     title="Pocket Casts"
     link="https://www.pocketcasts.com/"
     description="Easy the greatest podcast client ever. Still hate that they switched to a subscription-model. Still love that they grandfathered me to a lifetime plan."
-    tag="Indie"
+    tag=["Indie"]
     customimg="pocketcasts.png"
 ) }}
 {{ product(
     title="Tailwind CSS"
     link="https://tailwindcss.com/"
     description="At first, you will probably find it stupid. After you deploy one thing with Tailwind though, you probably won't want to go back to what you used before."
-    tag="Indie"
+    tag=["Indie", "Open-Source"]
     customimg="tailwind.png"
 ) }}
 {{ product(
@@ -95,7 +98,10 @@ My favourite tools and software.
     title="VSCodium"
     link="https://vscodium.com/"
     description="Image Visual Studio Code, minus the tracking and bloat from Microsoft. Easily one of my favourite code editors."
+    tag=["Open-Source"]
 ) }}
+
+</section>
 
 ## Hardware
 ### Computer / Office
