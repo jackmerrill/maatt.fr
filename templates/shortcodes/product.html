@@ -9,10 +9,12 @@
             <h3>{{title}}</h3>
             <p>{{description}}</p>
             <div class="tags">
-                {% set data = load_data(path=path) -%}
-                {% for tag in data.tag %}
-                <p class="{{ tag | slugify | lower }}">{{ tag }}</p>
-                {% endfor %}
+
+                {%- for tag in tags -%}
+                <p class="{{ tag | slugify | lower | safe }}">
+                    {{ tag }}
+                </p>
+                {%- endfor -%}
             </div>
         </div>
     </a>
