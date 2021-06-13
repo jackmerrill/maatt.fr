@@ -3,6 +3,7 @@ base_url = "https://www.doamatto.xyz"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
+minify_html = true
 
 generate_feed = true
 feed_filename = "atom.xml"
