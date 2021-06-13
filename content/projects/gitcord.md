@@ -1,20 +1,34 @@
----
-title: GitCord
-slug: gitcord
-description: "A bot that allows users to search repositories via GitHub's API"
-tag: "Transfered to DevingOnDiscord"
-class: "bg-eol"
-date: "2021-01-23"
----
++++
+title = "GitCord"
+slug = "gitcord"
+description = "A bot that allows users to search repositories via GitHub's API"
+tag = "Transfered elsewhere"
+date = "2021-01-23"
++++
 
-<Timeline>
-  <Item status="eol" date="2021-01-23" title="Transfered respository to DevingOnDiscord">
-    I focused on developing something that would get the job done. That was really my only priority. I don&apos;t plan to contribute anymore to GitCord because there&apos;s really no need for me to.
-  </Item>
-  <Item status="released" date="2021-01-23" title="v0.1.0 unofficially releases" />
-  <Item status="active" date="2020-01-21" title="Started development" />
-  <Item status="progress" date="2020-01-19" title="Conceptialised idea" />
-</Timeline>
+<section id="timeline">
+  {{item(
+    status="eol",
+    date="2021-01-23",
+    title="Transfered repository to DevingOnDiscord",
+    info="I focused on developing something that would get the job done. That was really my only priority. I don''t plan to contribute anymore to GitCord because there's really no need for me to."
+  )}}
+  {{item(
+    status="released",
+    date="2021-01-23",
+    title="v0.1.0 unofficially releases"
+  )}}
+  {{item(
+    status="active",
+    date="2021-01-21",
+    title="Started development"
+  )}}
+  {{item(
+    status="progress",
+    date="2021-01-19",
+    title="Conceptialised idea"
+  )}}
+</section>
 
 ### Useful links
 - [GitCord repo](https://github.com/DevingOnDiscord/gitcord-discord-bot)
