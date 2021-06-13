@@ -1,11 +1,10 @@
----
-title: Hydro
-slug: hydro-bot
-description: "A Twitch bot that tells you to stay hydrated."
-tag: "In development"
-class: "bg-active"
-date: "2021-04-08"
----
++++
+title = "Hydro"
+slug ="hydro-bot"
+description = "A Twitch bot that tells you to stay hydrated."
+tag = "In development"
+date = "2021-04-08"
++++
 
 Hydro is a simple Twitch chatbot that serves one purpose, and one alone. To keep you hydrated while live.
 
