@@ -20,8 +20,10 @@ module.exports = {
         darkAlt: 'var(--dark-alt)'
       },
       fontFamily: {
-        sans: ['Inter var experimental', 'Inter var', 'Inter', ...fontFamily.sans]
+        sans: ['IBM Plex Sans', ...fontFamily.sans],
+        serif: ['Newsreader', ...fontFamily.serif]
       }
     }
-  }
+  },
+  plugins: [require('@tailwindcss/typography'),],
 }
