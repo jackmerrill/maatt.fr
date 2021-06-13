@@ -1,6 +1,7 @@
 base_url = "https://www.doamatto.xyz"
 
 title = "Matt Ronchetto - doamatto"
+description = ""
 
 default_language = "en"
 
@@ -10,7 +11,6 @@ minify_html = true
 generate_feed = true
 feed_filename = "atom.xml"
 
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
 [markdown]
