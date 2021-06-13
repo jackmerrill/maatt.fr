@@ -1,20 +1,4 @@
 module.exports = {
-  images: {
-    domains: [
-      'i.scdn.co'
-    ]
-  },
-  future: { webpack5: true },
-  webpack: (config) => {
-    require('./lib/sitemap.js')
-    config.resolve.fallback = {
-      fs: false,
-      net: false,
-      path: false,
-      tls: false
-    }
-    return config
-  },
   async redirects () {
     return [
       {
