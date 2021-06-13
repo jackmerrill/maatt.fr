@@ -1,11 +1,10 @@
----
-title: Snapdrop Clients
-slug: snapdrop
-description: "Snapdrop is an amazing website. It's time to make it native."
-tag: "Planning"
-class: "bg-progress"
-date: "2021-04-08"
----
++++
+title = "Snapdrop Clients"
+slug = "snapdrop"
+description = "Snapdrop is an amazing website. It's time to make it native."
+tag = "Planning"
+date = "2021-04-08"
++++
 
 Snapdrop is one of my favourite tools I use. But it's a bit of a pain to have to always open up the website just for it. So, I decided to make native clients to mimick the behaviour of AirDrop for Windows, macOS, Gnome, Nautilus, iOS, and Android (in other words, some of the most popular platforms and tools out there).
 

@@ -1,11 +1,10 @@
----
-title: Swift
-slug: swift-bot
-description: "A Discord bot meant to do it all, and then some, while still being lightweight and fast."
-tag: "In development"
-class: "bg-active"
-date: "2021-04-08"
----
++++
+title = "Swift"
+slug = "swift-bot"
+description = "A Discord bot meant to do it all, and then some, while still being lightweight and fast."
+tag = "In development"
+date = "2021-04-08"
++++
 
 Swift is a feature rich Discord bot that allows users to have plenty of power and features in their server, with none of the hassle of clunky commands or sleeping developers keeping everything from working smoothly and setting up quickly. Swift is optimized to run smooth and gets monthly updates to bring new features, with reported bugs being resolved as soon as possible, as I don't want to run into them myself.
 
