@@ -3,8 +3,44 @@ title = "Ideas"
 template = "page.html"
 +++
 
+Although I don't mind if you do one of these before me, it's very likely I'll do all of these things myself. I'm an overachiever like that :P
+
 - Steal Daniel's idea about making an ideas page at [cyckl.net/idea](https://cyckl.net) about logging ideas over time
 - WebExtensions done in WebAssembly
     - Things like uBlock would be that much more performant
     - Wrapper for Chrome and Firefox APIs in V/Nim/Zig
 - A binary which stores encrypted secrets then after decrypt loads into env vars for you (stolen from Daniel)
+- Engine that parses utility CSS frameworks
+    - Written in Rust, Dart, or V so that it's one tiny, native bin
+    - Plug-ins that have classes like Tailwind, Windi, a17t, et cetera
+    - Clever « punny » name
+- A quiz to find out what computer you might need
+    - Looks at both Macs, prebuilts, and custom-builts
+    - Based off the usage that you describe
+- Package tracker app/site
+    - Literally everyone I've used is rubbish
+    - Support for major world platforms
+    - Plugin system for each shipping carrier to make it easy to self-host without racking up costs from mass usage
+- Music search by location
+    - Find artists based on a location you give
+    - Searches Bandcamp first, then a platform like Spotify
+- Voting info app
+    - Find out where and when you can vote
+    - Get a better understanding of who you're voting for
+    - Get a better understanding of what you're voting for
+- Voting service: proof of concept for electronic voting
+- Gun approval workflow
+    - See the steps you need to take for certain guns
+    - See what guns are allowed in your state, as well as others
+    - See what is and isn't legal to fly with to other countries
+    - See how to properly travel with your firearm
+- Custom newspaper delivery service: custom RSS/Atom and JSON feeds with reliable sources based on your interests
+- NDA e-signing made simple
+- Live better tips
+    - Based on where you live
+    - Tips on how to live a healthier and better lifestyle
+- Mobile data syncing
+    - NFC between two phones
+    - Easily sync a calendar event for a meetup time, with the phone numbers and emails of both parties
+    - Easily share meeting notes with others
+    - Easily share business cards with a tap or QR code scan
