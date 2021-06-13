@@ -8,14 +8,6 @@
         <div>
             <h3>{{title}}</h3>
             <p>{{description}}</p>
-            <div class="tags">
-
-                {%- for tag in tags -%}
-                <p class="{{ tag | slugify | lower | safe }}">
-                    {{ tag }}
-                </p>
-                {%- endfor -%}
-            </div>
         </div>
     </a>
 </div>
