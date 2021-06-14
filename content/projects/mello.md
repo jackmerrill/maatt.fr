@@ -6,12 +6,19 @@ tag = "In Development"
 date = "2020-12-22"
 +++
 
-<Timeline>
-  <Item status="progress" title="Started development" dateRange={['2020-07-25', 'now']}>
-      It's super exciting to announce that Mello is being developed right now. I'm working mostly on the Android app and the back-end, but still trying to help out where I can to make this go as smoothly as possible.
-  </Item>
-  <Item status="progress" title="Conceptialised and started prototyping" dateRange={['2019-07-15', '2020-07-25']} />
-</Timeline>
+<section id="timeline">
+  {{item(
+    status="progress",
+    title="Started development",
+    date="25 July, 2020 to now",
+    info="It's super exciting to announce that Mello is being developed right now. I'm working mostly on the Android app and the back-end, but still trying to help out where I can to make this go as smoothly as possible."
+  )}}
+  {{item(
+    status="progress",
+    title="Conceptialised and started prototyping",
+    date="15 July, 2019 to 25 July, 2020"
+  )}}
+</section>
 
 ### Useful links
 - [Website](https://getmello.org)

@@ -6,14 +6,20 @@ tag = "Active development"
 date = "2021-02-02"
 +++
 
-<Timeline>
-  <Item status="released" title="Released several versions" date="2021-02-02">
-    8 tagged releases, as of wriitng, have been made brining patches, dependency updates, and more to this amazing utility. I plan to start the TypeScript rewrite sometimes this month and release it sometime early March.
-  </Item>
-  <Item status="progress" date="2021-01-03" title="Started development">
-      I&apos;ve finally decided to get started on the TypeScript rewrite and other major improvements to this package (apart from updating to newer versions of ESLint and other tweaks). It will definetely be a challenge, but I look forward to bringing a great tool to the table for everyone.
-  </Item>
-</Timeline>
+<section id="timeline">
+  {{item(
+    status="released",
+    date="02 February, 2021",
+    title="Released several versions",
+    info="8 tagged releases, as of wriitng, have been made brining patches, dependency updates, and more to this amazing utility. I plan to start the TypeScript rewrite sometimes this month and release it sometime early March."
+  )}}
+  {{item(
+    status="progress",
+    date="03 January, 2021",
+    title="Started development",
+    info="I've finally decided to get started on the TypeScript rewrite and other major improvements to this package (apart from updating to newer versions of ESLint and other tweaks). It will definetely be a challenge, but I look forward to bringing a great tool to the table for everyone."
+  )}}
+</section>
 
 ### Useful links
 - [NPM Package](https://www.npmjs.com/package/@doamatto/gulp-eslint)

@@ -6,13 +6,24 @@ tag = "Transfered elsewhere"
 date = "2020-10-16"
 +++
 
-<Timeline>
-  <Item status="eol" title="Transfered repositories to Glitch Entertainment" date="2020-10-16">
-    Everyone decided it best to put these wrappers inside the Glitch Entertainment GitHub. Because of such, not only am I no longer in control of the code, but I also would have to mark this at the end of its life, due to virtually non-existent support for it currently.
-  </Item>
-  <Item status="released" date="2020-07-19" title="v0.1.0 of SouthNode releases" />
-  <Item status="progress" dateRange={['2020-07-16', '2020-10-16']} title="Started development" />
-</Timeline>
+<section id="timeline">
+  {{item(
+    status="eol",
+    title="Transfered repositories to Glitch Entertainment",
+    date="16 October, 2020",
+    info="Everyone decided it best to put these wrappers inside the Glitch Entertainment GitHub. Because of such, not only am I no longer in control of the code, but I also would have to mark this at the end of its life, due to virtually non-existent support for it currently."
+  )}}
+  {{item(
+    status="released",
+    date="19 July, 2020",
+    title="v0.1.0 of SouthNode releases"
+  )}}
+  {{item(
+    status="progress"
+    date="16 July, 2020 to 16 October, 2020"
+    title="Started development"
+  )}}
+</section>
 
 ### Useful links
 - [Gltich Entertainment's Website](https://playglitch.xyz)

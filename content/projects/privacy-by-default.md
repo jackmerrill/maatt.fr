@@ -6,14 +6,20 @@ tag = "Planning"
 date = "2020-12-31"
 +++
 
-<Timeline>
-  <Item status="progress" title="Started writing of general manifest" date="2020-01-05">
-    Baby steps are being made to the writing of the general manifest of how products and people who want to be a part of this campaign. A rough estimate as to when this will be completed is 2020-01-31.
-  </Item>
-  <Item status="progress" title="Conceptialised and started planning" date="2020-12-31">
-    With the work beginning on Mono, I wanted to start a simple initiative to allow an easy distinction that all of the sub-projects are private-by-default.
-  </Item>
-</Timeline>
+<section id="timeline">
+  {{item(
+    status="progress"
+    title="Started writing of general manifest"
+    date="5 January, 2020"
+    info="Baby steps are being made to the writing of the general manifest of how products and people who want to be a part of this campaign. A rough estimate as to when this will be completed is 2020-01-31."
+  )}}
+  {{item(
+    status="progress"
+    title="Conceptialised and started planning"
+    date="31 December, 2020"
+    info="With the work beginning on Mono, I wanted to start a simple initiative to allow an easy distinction that all of the sub-projects are private-by-default."
+  )}}
+</section>
 
 ### Useful links
 - [Homepage (coming soon)](https://privacybydefault.doamatto.xyz)
