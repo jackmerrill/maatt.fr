@@ -6,15 +6,34 @@ tag = "Active Development"
 date = "2020-12-20"
 +++
 
-<Timeline>
-  <Item status="eol" title="Nearing end-of-life" date="2020-12-20">
-    Jekyll isn&apos;t the best documented tool out there. Because of that and my switch to Next.js for my portfolio (this site), I&apos;ve decided it best to move it into EOL. After v0.6.0, Nano will officially be in EOL.
-  </Item>
-  <Item status="active" title="Active development" dateRange={['2020-03-04', '2020-07-25']} />
-  <Item status="released" title="Released" date="2020-03-04" />
-  <Item status="progress" title="Started development" date="2020-02-18" />
-  <Item status="progress" title="Conceptialised and started prototyping" date="2020-12-15" />
-</Timeline>
+<section id="timeline">
+  {{item(
+    status="eol",
+    title="Nearing end-of-life",
+    date="20 December, 2020",
+    info="Jekyll isn't the best documented tool out there. Because of that and my switch to Next.js for my portfolio (this site), I've decided it best to move it into EOL. After v0.6.0, Nano will officially be in EOL."
+  )}}
+  {{item(
+    status="active",
+    title="Active development",
+    date="4 March, 2020 to 25 July, 2020"
+  )}}
+  {{item(
+    status="released",
+    title="Released",
+    date="4 March, 2020"
+  )}}
+  {{item(
+    status="progress",
+    title="Started development",
+    date="18 February, 2020"
+  )}}
+  {{item(
+    status="progress",
+    title="Conceptialised and started prototyping",
+    date="15 December, 2019"
+  )}}
+</section>
 
 ### Useful links
 - [GitHub repo](https://github.com/doamatto/nano)
