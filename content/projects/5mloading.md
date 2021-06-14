@@ -9,18 +9,18 @@ date = "2020-12-20"
 <section id="timeline">
   {{ item(
     status="eol",
-    date="2020-12-20",
+    date="20 December, 2020",
     title="Reached end-of-life",
     info="Ever since I switched to Pop!_OS full-time, I haven't been able to play FiveM at all. So, I can't reliably develop new features anymore. However, because of the smashing community, I can still debug issues. Because of this, this tool has entered an End-of-Life state."
   )}}
   {{ item(
     status="active",
-    date="2020-07-25 to 2020-09-27",
+    date="25 July, 2020 to 27 September, 2020",
     title="Active development"
   )}}
   {{ item(
     status="released",
-    date="2020-07-25",
+    date="25 July, 2020",
     title="Released"
   )}}
   {{ item(

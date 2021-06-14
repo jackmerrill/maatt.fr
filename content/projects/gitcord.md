@@ -9,23 +9,23 @@ date = "2021-01-23"
 <section id="timeline">
   {{item(
     status="eol",
-    date="2021-01-23",
+    date="23 January, 2021",
     title="Transfered repository to DevingOnDiscord",
     info="I focused on developing something that would get the job done. That was really my only priority. I don''t plan to contribute anymore to GitCord because there's really no need for me to."
   )}}
   {{item(
     status="released",
-    date="2021-01-23",
+    date="23 January, 2021",
     title="v0.1.0 unofficially releases"
   )}}
   {{item(
     status="active",
-    date="2021-01-21",
+    date="21 January, 2021",
     title="Started development"
   )}}
   {{item(
     status="progress",
-    date="2021-01-19",
+    date="19 January, 2021",
     title="Conceptialised idea"
   )}}
 </section>

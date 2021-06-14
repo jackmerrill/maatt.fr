@@ -9,7 +9,7 @@ date = "2020-08-12"
 <section id="timeline">
   {{item(
     status="released",
-    date="2020-05-03",
+    date="3 May, 2020",
     info="Always Amazon Smiling has officially launched and is now
       available on the Chrome Web Store and Firefox Add-on Store.
       This open-source extension takes all the appropriate requests
