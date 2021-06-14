@@ -1,6 +1,6 @@
 # Binaries, Deps, and Temp Files
 node_modules/
-public/
+out/
 .DS_Store
 
 # Logs
