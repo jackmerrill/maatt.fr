@@ -4,9 +4,9 @@ template = "page.html"
 +++
 
 ## Contact information
-Matthew Ronchetto (doamatto)
-**Email:** [hello \[at\] doamatto.xyz](mailto:hello@doamatto.xyz)
-**Phone:** +1 858-333-4262 ([tel](tel:+18583334262) | [sms](sms:+18583334262))
+Matthew Ronchetto (doamatto)<br/>
+**Email:** [hello \[at\] doamatto.xyz](mailto:hello@doamatto.xyz)<br/>
+**Phone:** +1 858-333-4262 ([tel](tel:+18583334262) | [sms](sms:+18583334262) | telegram)<br/>
 **Please note:** the phone number provided is not for support and purely for legal purposes.
 
 ## Disclaimers
