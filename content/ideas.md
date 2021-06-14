@@ -44,3 +44,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Easily sync a calendar event for a meetup time, with the phone numbers and emails of both parties
     - Easily share meeting notes with others
     - Easily share business cards with a tap or QR code scan
+- Online dashboard
+    - See lots of numbers that mean just about nothing
+    - Plug-ins that let you slot in different data sources (eg. Plausible, YouTube, VK, et al)
+    - Requests are handled with serverless functions to keep things nice and quick (don't know how to do it without Next.js right now sadly; but I'm sure it's documented somewhere)
