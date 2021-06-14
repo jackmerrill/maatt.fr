@@ -117,5 +117,5 @@ Although, how much of "on-the-go" are we doing right now?
 
 ### Other tech
 - Apple iPhone 12 Pro Max (256Go)
-- Nintendo Switch (Friend code: ``)
+- Nintendo Switch (Friend code: `SW-0161-0171-7068`)
 - Fender Squier Stratocaster + iRig Pro HD 2
