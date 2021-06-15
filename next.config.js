@@ -2,6 +2,16 @@ module.exports = {
   async redirects () {
     return [
       {
+        source: '/favourites',
+        destination: '/music',
+        permanent: true
+      }, 
+      {
+        source: '/international',
+        destination: '/intl',
+        permanent: true
+      },
+      {
         source: '/privacy/southpine-wrappers',
         destination: '/projects/southpine-wrappers#privacy-statement',
         permanent: true
