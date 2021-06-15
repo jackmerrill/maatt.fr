@@ -1,7 +1,6 @@
 +++
 title = "Music"
 template = "page.html"
-redirect_from = "/favourites"
 +++
 
 ## What I Like
