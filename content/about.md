@@ -19,6 +19,11 @@ I have a larger page for music [here](/music).
 ### Sports
 I've never been huge into anything sports-wqise. However, I've taken a liking to Formula racing for a long time, as well as footbal. McLaren all the way :)
 
+I enjoy playing sim racers like Assetto Corsa and Project Cars, amongst other titles.
+
+### Animation and food
+I like eating food and watching animations, so it's only natural they go hand-in-hand. I watch mostly animations from Japan, but I've also dabled in other areas a good amount. I have a list of some of my favourite shows, foods, and entertainment outside of where I currently live (the US) [here.](/intl)
+
 ### Programming
 I've been messing around with software and programming for the past 6 years or so now. I program in whatever really suits my fancy at the time, but I'm using a lot of Rust, Dart, and V/Golang, as of late. Anything I make that's public is likely on [GitHub](https://github.com/doamatto).
 
