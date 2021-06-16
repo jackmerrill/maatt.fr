@@ -25,6 +25,7 @@
           <meta property="og:site_name" content="{% block ogsitename %}{{config.title}}{% endblock ogsitename %}" />
           <meta name="author" content="{{ config.extra.author }}" />
           <meta property="og:title" content="{% block ogtitle %}{{config.title}}{% endblock ogtitle %}" />
+          <meta propetry="og:type" content="{% block ogtype %}website{% endblock ogtype %}" />
           <meta property="og:description" content="{% block ogdesc %}{{config.description}}{% endblock ogdesc %}" />
           <meta property="og:url" content="{% block ogurl %}{{config.base_url | safe }}{% endblock ogurl %}" />
           <meta property="og:image" content="{% block ogimage %}/assets/logo.svg{% endblock ogimage %}" />

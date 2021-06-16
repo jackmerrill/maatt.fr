@@ -6,6 +6,7 @@
 {% block ogdesc %}{{ page.description }}{% endblock ogdesc %}
 {% block ogurl %}{{ page.permalink | safe }}{% endblock ogurl%}
 {% block ogimage -%}{%- if page.extra.image -%}{{ get_url(path=page.extra.image) | safe }}{%- endif -%}{%- endblock ogimage %}
+{% block ogtype -%}"article"{% endblock ogtype %}
 
 {% block content %}
 <h1 class="title">
