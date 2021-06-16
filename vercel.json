@@ -47,9 +47,6 @@
     }
   ],
   "collectMetrics": false,
-  "github": {
-    "silent": true
-  },
   "redirects": [
     {
       "source": "/favourites",
