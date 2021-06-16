@@ -3,8 +3,6 @@ title = "Uses"
 template = "page.html"
 +++
 
-My favourite tools and software.
-
 <section class="use-grid">
 
 {{ product(
