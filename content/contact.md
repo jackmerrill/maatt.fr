@@ -14,7 +14,7 @@ Some other places around the internet that I'm at are:
 - Bandcamp
     - Solo: [doamatto](https://doamatto.bandcamp.com)
     - Group:
-    - Personal: [doamatto](https://bandcamp.com/doamatto)
+    - Personal: [/doamatto](https://bandcamp.com/doamatto)
 - Behance: [@doamatto](https://behance.net/doamatto)
 - Dev.to: [@doamatto](https://dev.to/doamatto)
 - Dribbble: [@doamatto](https://dribbble.com/doamatto)
@@ -22,6 +22,7 @@ Some other places around the internet that I'm at are:
 - Itch: [doamatto](https://doamatto.itch.io)
 - Tumblr: [doamatto](https://doamatto.tumblr.com)
 - Unsplash: [@doamatto](https://unsplash.com/@doamatto)
+- Write.as: [/doamatto](https://write.as/doamatto/)
 - YouTube: [doamatto](https://overto.doamatto.xyz/youtube)
 
 Although there are other places I lurk, I don't want to make the lists longer than they already are. Hope to hear from you soon :)
