@@ -30,7 +30,6 @@
           <meta name="twitter:title" content="{{config.title}}" />
           <meta property="og:title" content="{{config.title}}" />
           {% endblock ogtitle %}
-          <meta propetry="og:type" content="{% block ogtype %}website{% endblock ogtype %}" />
           {% block ogdesc %}
           <meta property="og:description" content="{{config.description}}" />
           <meta name="twitter:description" content="{{config.description}}" />
@@ -39,8 +38,9 @@
           <meta property="og:image" content="/assets/logo.svg" />
           <meta name="twitter:image" content="/assets/logo.svg" />
           {% endblock ogimage%}
-          <meta property="og:url" content="{% block ogurl %}{{config.base_url | safe }}{% endblock ogurl %}" />
           <meta name="twitter:card" content="summary" />
+          <meta propetry="og:type" content="{% block ogtype %}website{% endblock ogtype %}" />
+          <meta property="og:url" content="{% block ogurl %}{{config.base_url | safe }}{% endblock ogurl %}" />
           <meta name="twitter:site" content="@doamatto" />
           {% if page.date -%}
             <meta property="og:type" content="article" />
