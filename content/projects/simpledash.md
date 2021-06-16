@@ -3,6 +3,7 @@ title = "SimpleDash"
 slug = "simpledash"
 description = "No news yet. Only a baby announcement :)."
 tag = "Redacted timeline"
+draft = true
 date = "2021-01-16"
 +++
 
