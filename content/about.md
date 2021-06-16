@@ -1,6 +1,7 @@
 +++
 title="About"
 template="page.html"
+description="Salut, I'm Matt Ronchetto. I'm a high school student in San Diego, CA that enjoys programming, writing, and way too many other things to count."
 +++
 
 Salut, I'm Matt. I'm a high school student in San Diego, CA that enjoys [programming,](#programming) [writing,](/blog) and way too many other things to count. I'm currently working on:

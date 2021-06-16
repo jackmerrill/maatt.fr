@@ -1,6 +1,7 @@
 +++
 title = "Privacy Policy"
 template = "page.html"
+description = "Some legal mumbo jumbo that helps me stay compliant."
 +++
 
 Your privacy is just as important (if not more) than my privacy. For that reason, I make it a commitment to ensure my site isn't privacy-friendly, but private-by-default.

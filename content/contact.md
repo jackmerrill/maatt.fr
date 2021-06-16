@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 template = "page.html"
+description = "There are a few ways you can reach out to me; be it for a gig, questions about my past works, or if you just want to chat."
 +++
 
 There are a few ways you can reach out to me, be it for a gig, questions about my past works or if you just want to chat. If you want to encrypt or check want me to certify a message of mine, my PGP key is [`7315 13B7 6DED 8009`](https://keybase.io/doamatto).

@@ -1,6 +1,7 @@
 +++
 title = "International"
 template = "page.html"
+description = "I'm a huge fan of this cool thing called Earth. If I could go everywhere in the world, I probably would. Alas, money and laws prevent me from doing such, but that's where the internet helps plenty to cope."
 +++
 
 I'm a huge fan of this cool thing called Earth. If I could go everywhere in the world, I probably would. Alas, money and laws prevent me from doing such, but that's where the internet helps plenty cope. With amazing entertainment, delicious foods, and stunning sights from so many different countries, it allows me to at least get a sliver of another « world », so to speak.

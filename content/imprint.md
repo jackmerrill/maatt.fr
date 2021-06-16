@@ -1,6 +1,7 @@
 +++
 title = "Imprint"
 template = "page.html"
+description = "Some legal mumbo jumbo that helps me stay compliant."
 +++
 
 ## Contact information

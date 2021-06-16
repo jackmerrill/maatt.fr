@@ -1,6 +1,7 @@
 +++
 title = "Ideas"
 template = "page.html"
+description = "I get a lot of ideas of things I should make, this is a way I easily log those things down so I can do them in the future."
 +++
 
 Although I don't mind if you do one of these before me, it's very likely I'll do all of these things myself. I'm an overachiever like that :P

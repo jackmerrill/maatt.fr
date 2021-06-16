@@ -1,6 +1,7 @@
 +++
 title = "Music"
 template = "page.html"
+description = "I like music.. a little too much. I listen to basically every genre and have tastes that would never be able to be categorised"
 +++
 
 ## What I Like
