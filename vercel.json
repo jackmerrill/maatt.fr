@@ -118,6 +118,10 @@
     {
       "source": "/projects/yamh",
       "destination": "https://github.com/doamatto/yamh"
+    }, {
+      "source": "/feed",
+      "destination": "/atom.xml",
+      "permanent": true
     }
   ]
 }
