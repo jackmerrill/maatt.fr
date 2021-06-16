@@ -96,6 +96,9 @@ footer {
 .readable {
     margin-left: 1rem;
     margin-right: 1rem;
+    img {
+        max-width: 100%;
+    }
 }
 
 .title {
