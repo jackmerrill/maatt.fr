@@ -19,17 +19,17 @@ None of this data can be linked back to you by me.
 ## Why is this data collected and used?
 This data allows me to properly fix bugs and issues with the website, as well as better adjust the site in the future for more people to be able to use it properly.
 
-## What data is ahred, sold, or transfered?
-I do not share, sell, or transfer any data collected with any third-parties. Data is stored on Google's Cloud Platform in Oregon, and uses keys that only I can decrypt, not Google.
+## What data is shared, sold, or transferred?
+I do not share, sell, or transfer any data collected with any third parties. Data is stored on Google's Cloud Platform in Oregon and uses keys that only I can decrypt, not Google.
 
 ## Who has access to this data?
-Governments or law enforcement may request data from Google, to which I have no control over. However, because they do not have access to the decryption keys for the data on our server, Google cannot pass any data forward. I do not respond to government requests as I do not collect any information that could be tracked back to a certain individual that could prove to be relevant in a legal scenario.
+Governments or law enforcement may request data from Google, which I have no control over. However, because they do not have access to the decryption keys for the data on our server, Google cannot pass any data forward. I do not respond to government requests as I do not collect any information that could be tracked back to a certain individual that could prove to be relevant in a legal scenario.
 
 ## Who processes this data?
 The data is processed by the following parties:
 - **Vercel and their subprocessors:** They host this site. As of writing, they do not mention who powers their services.
 - **Google Cloud Platform and their subprocessors:** They host the Plausible Analytics server. The servers are located in the United States, specifically Oregon.
-- **Myself:** I maintain analytics server, and, therefore, have access to all data on the server. I also posses the keys to decrypt data on the server.
+- **Myself:** I maintain the analytics server, and, therefore, have access to all data on the server. I also possess the keys to decrypt data on the server.
 - **The public:** You can access all the data collected by this site at any time [via the Plausible public dashboard.](https://alpine.gcp.doamatto.xyz/doamatto.xyz)
 
 ## What if there's a data breach?
