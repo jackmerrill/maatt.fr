@@ -1,0 +1,13 @@
+@mixin transition {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+
+@mixin feed-grid {
+    display: grid;
+    gap: 1rem;
+    width: 100%;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
