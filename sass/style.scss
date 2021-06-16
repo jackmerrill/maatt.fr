@@ -8,9 +8,7 @@ body {
     a {
         &:hover,
         &:active { color: var(--purple); }
-        transition-property: all;
-        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-        transition-duration: 150ms;
+        @include transition;
     }
     background: #f7f7f7;
     font-family: 'Inter', sans-serif;
@@ -67,9 +65,7 @@ footer {
     }
     border-radius: .25rem;
     padding: 1rem;
-    transition-property: all;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    transition-duration: 150ms;
+    @include transition;
     a { text-decoration: none; }
     .indie {
         color: var(--purple);
