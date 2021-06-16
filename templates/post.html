@@ -2,11 +2,20 @@
 
 {% block title %}{{page.title}} - doamatto{% endblock title %}
 {% block description %}{{ page.description | default(value=config.description) }}{% endblock description %}
+
 {% block ogtitle %}{{ page.title }}{% endblock ogtitle %}
+{% block twtitle %}{{ page.title }}{% endblock twtitle %}
+
+{% block ogtype %}article{% endblock ogtype %}
+{% block twtype -%}{%- if page.extra.image -%}summary_large_image{%else%}summary{%- endif -%}{%- endblock twtype %}
+
 {% block ogdesc %}{{ page.description }}{% endblock ogdesc %}
+{% block twdesc %}{{ page.description }}{% endblock twdesc %}
+
 {% block ogurl %}{{ page.permalink | safe }}{% endblock ogurl%}
-{% block ogimage -%}{%- if page.extra.image -%}{{ get_url(path=page.extra.image) | safe }}{%- endif -%}{%- endblock ogimage %}
-{% block ogtype -%}article{% endblock ogtype %}
+
+{% block ogimage -%}{%- if page.extra.image -%}{{ get_url(path=page.extra.image) | safe }}{%else%}{{ get_url(path=config.extra.ogimage) | safe }}{%- endif -%}{%- endblock ogimage %}
+{% block twimage -%}{%- if page.extra.image -%}{{ get_url(path=page.extra.image) | safe }}}{%else%}{{ get_url(path=config.extra.ogimage) | safe }}{%- endif -%}{%- endblock twimage %}
 
 {% block content %}
 <h1 class="title">
