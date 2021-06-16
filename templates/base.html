@@ -24,17 +24,22 @@
         {% block seo -%}
           <meta property="og:site_name" content="{% block ogsitename %}{{config.title}}{% endblock ogsitename %}" />
           <meta name="author" content="{{ config.extra.author }}" />
-          <meta property="og:title" content="{% block ogtitle %}{{config.title}}{% endblock ogtitle %}" />
+          {% block ogtitle %}
+          <meta name="twitter:title" content="{{config.title}}" />
+          <meta property="og:title" content="{{config.title}}" />
+          {% endblock ogtitle %}
           <meta propetry="og:type" content="{% block ogtype %}website{% endblock ogtype %}" />
-          <meta property="og:description" content="{% block ogdesc %}{{config.description}}{% endblock ogdesc %}" />
+          {% block ogdesc %}
+          <meta property="og:description" content="{{config.description}}" />
+          <meta name="twitter:description" content="{{config.description}}" />
+          {% endblock ogdesc %}
+          {% block ogimage %}
+          <meta property="og:image" content="/assets/logo.svg" />
+          <meta name="twitter:image" content="/assets/logo.svg" />
+          {% endblock ogimage%}
           <meta property="og:url" content="{% block ogurl %}{{config.base_url | safe }}{% endblock ogurl %}" />
-          <meta property="og:image" content="{% block ogimage %}/assets/logo.svg{% endblock ogimage %}" />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@doamatto" />
-          <meta name="twitter:title" content="{% block ogtitle %}{{config.title}}{% endblock ogtitle %}" />
-          <meta name="twitter:description" content="{% block ogdesc %}{{config.description}}{% endblock ogdesc %}" />
-          <meta name="twitter:image" content="{% block ogimage %}/assets/logo.svg{% endblock ogimage %}" />
-
           {% if page.date -%}
             <meta property="og:type" content="article" />
             <meta property="article:published_time" content="{{ page.date }}" />
