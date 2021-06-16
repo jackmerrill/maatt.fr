@@ -132,6 +132,22 @@ nav {
             margin-bottom: .9rem;
             padding: .5rem;
         }
+        li.home {
+            &:hover,
+            &:active {
+                svg path {
+                    color: var(--purple);
+                    stroke: var(--purple);
+                }
+            }
+            svg path {
+                @include transition;
+                @media (prefers-color-scheme: 'dark') {
+                    stroke: white;
+                    color: white;
+                }
+            }
+        }
     }
 }
 
