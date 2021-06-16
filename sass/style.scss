@@ -1,5 +1,4 @@
 @import './root.scss';
-@import './colours.scss';
 @import './mixins.scss';
 
 /* Start main doc */
@@ -38,8 +37,15 @@ body {
     }
 }
 
-.border-l-4 { border-left-width: 4px; }
-.pl-2 { padding-left: .5rem; }
+.timeline-item {
+    border: 0 solid #ffffff;
+    border-left-width: .2rem;
+    padding-left: .5rem;
+}
+.timeline-item.eol { border-color: var(--eol); }
+.timeline-item.active { border-color: var(--active); }
+.timeline-item.released { border-color: var(--released); }
+.timeline-item.progress { border-color: var(--progress); }
 
 code {
     background: #383838;
@@ -77,14 +83,6 @@ footer {
             color: var(--purple);
         }
     }
-    .indie {
-        color: var(--purple);
-        padding: .25rem .1rem .25rem .1rem;
-    }
-    .open-source {
-        color: var(--active);
-        padding: .25rem .1rem .25rem .1rem;
-    }
 }
 
 .use-grid,
@@ -100,11 +98,8 @@ footer {
 }
 
 .readable {
-    margin-left: 1rem;
-    margin-right: 1rem;
-    img {
-        max-width: 100%;
-    }
+    margin: 1rem auto;
+    img { max-width: 100%; }
 }
 
 .title {
@@ -114,7 +109,7 @@ footer {
 }
 .subtitle {
     text-align: center;
-    line-height: 1.5;
+    line-height: 1.25;
     font-size: 1.25rem;
     .disclaimer {
         font-style: normal;
