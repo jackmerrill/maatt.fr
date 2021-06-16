@@ -58,7 +58,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Made to look good on any screen
     - Native support for a11y, i18n, and feed readers
     - Server and renderer written in something native (Dart or Rust?)
-- Static Site Hosting that doesn't suck
+- Static Site Hosting that doesn't suck (I'm upset with Netlify and Vercel)
     - Configure headers
     - Configure redirects/rewrites
     - Easily switch from other providers (eg. Netlify, Vercel)
