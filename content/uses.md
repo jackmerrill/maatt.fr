@@ -12,7 +12,7 @@ template = "page.html"
 ) }}
 {{ product(
     title="AdGuard",
-    link="https://adguard.com/adguard-ios/overview.html",
+    link="https://adguard.com/fr/adguard-ios/overview.html",
     description="Thanks to Safari's content blocker API for iOS, AdGuard is easily one of the best tools to keep nasty ads and other trackers at bay.",
     customimg="guard.png"
 ) }}

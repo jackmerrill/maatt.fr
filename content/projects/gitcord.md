@@ -31,7 +31,7 @@ date = "2021-01-23"
 </section>
 
 ### Useful links
-- [GitCord repo](https://github.com/DevingOnDiscord/gitcord-discord-bot)
+- [GitCord repo](https://github.com/softwarehubgg/gitcord-discord-bot)
 
 ---
 

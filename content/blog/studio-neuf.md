@@ -22,4 +22,4 @@ To say Studio9 isn't a very ambitious project would be a gross understatement. I
 
 You can join the community on:
 - Twitter: [@bystudioneuf](https://twitter.com/bystudioneuf); or on:
-- [Discord](https://discord.gg/rWQsHnp)
+- [Discord](https://discord.com/invite/rWQsHnp)

@@ -36,7 +36,7 @@ The data is processed by the following parties:
 In the event of a data breach at Vercel or Google, I cannot do anything to notify users as I do not collect identifiable data. I will leave a banner on the website to still spread awareness of such, however.
 
 ## Where can I find past versions of this policy?
-This site's codebase is hosted publicly on GitHub. You can check the list of changes to this policy [here.](https://github.com/doamatto/doamatto.xyz/blob/master/content/privacy.md)
+This site's codebase is hosted publicly on GitHub. You can check the list of changes to this policy [here.](https://github.com/doamatto/doamatto.xyz/blob/main/content/privacy.md)
 
 ## What sites does this policy apply to?
 It applies to the following sites:

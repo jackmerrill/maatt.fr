@@ -15,9 +15,9 @@ Some other places around the internet that I'm at are:
     - Solo: [doamatto](https://doamatto.bandcamp.com)
     - Group:
     - Personal: [/doamatto](https://bandcamp.com/doamatto)
-- Behance: [@doamatto](https://behance.net/doamatto)
+- Behance: [@doamatto](https://www.behance.net/doamatto)
 - Dev.to: [@doamatto](https://dev.to/doamatto)
-- Dribbble: [@doamatto](https://dribbble.com/doamatto)
+- Dribbble: [@doamatto](https://dribbble.com/doamatto/shots)
 - GitHub: [@doamatto](https://github.com/doamatto)
 - Itch: [doamatto](https://doamatto.itch.io)
 - Tumblr: [doamatto](https://doamatto.tumblr.com)

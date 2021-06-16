@@ -17,7 +17,7 @@ It also means people can better take control of seeing information. I couldn't t
 ---
 
 For a lot of people, this will be their introduction to RSS feeds (which makes me feel a bit old). For those who want to dabble early on and start to see why I love feed readers, I'd recommend using [Feedly](https://feedly.com) to store your feeds and an app like [NetNewsWire](https://netnewswire.com) (iOS/iPadOS, macOS). Some feeds I like are:
-- [The Official Google Blog](https://blog.google) ([feed](https://googleblog.blogspot.com/atom.xml))
+- [The Official Google Blog](https://blog.google) ([feed](http://feeds.feedburner.com/blogspot/MKuf))
 - [Formula 1 News](https://f1.com) ([feed](https://www.formula1.com/content/fom-website/en/latest/all.xml))
-- [France 24](https://france24.com) ([feed](https://www.france24.com/en/monde/rss)); and:
-- [NPR](https://npr.org) ([feed](https://www.npr.org/rss/rss.php?id=1001)).
+- [France 24](https://www.france24.com) ([feed](https://www.france24.com/en/rss)); and:
+- [NPR](https://www.npr.org) ([feed](https://feeds.npr.org/1001/rss.xml)).
