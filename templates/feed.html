@@ -1,10 +1,12 @@
 {% extends "base.html" %}
 
-{% block title %}{{page.title}} - doamatto{% endblock title %}
-{% block description %}{{ page.description | default(value=config.description) }}{% endblock description %}
-{% block ogtitle %}{{ page.title }} - doamatto{% endblock ogtitle %}
-{% block ogdesc %}{{ page.description }}{% endblock ogdesc %}
-{% block ogurl %}{{ page.permalink | safe }}{% endblock ogurl%}
+{% set section = get_section(path=path) %}
+
+{% block title %}{{section.title}} - doamatto{% endblock title %}
+{% block description %}{{ section.description | default(value=config.description) }}{% endblock description %}
+{% block ogtitle %}{{ section.title }} - doamatto{% endblock ogtitle %}
+{% block ogdesc %}{{ section.description }}{% endblock ogdesc %}
+{% block ogurl %}{{ section.permalink | safe }}{% endblock ogurl%}
 
 {% block content %}
 <h1 class="title">
