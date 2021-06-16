@@ -96,20 +96,11 @@
       "permanent": true
     }, {
       "source": "/favorites",
-      "destination": "/favourites",
+      "destination": "/music",
       "permanent": true
     }, {
-      "source": "/cinematography",
-      "destination": "/cinema",
-      "permanent": true
-    }, {
-      "source": "/cine",
-      "destination": "/cinema",
-      "permanent": true
-    }, {
-      "source": "/videos",
-      "destination": "/cinema",
-      "permanent": true
+      "source": "/sitemap",
+      "destination": "/sitemap.xml"
     }, {
       "source": "/updates%20projects/:date*/southnode",
       "destination": "/projects/southpine-wrappers",
