@@ -21,5 +21,4 @@ external_links_target_blank = true
 
 [extra]
 author = "doamatto"
-ogimage = "/assets/logo.svg" # TODO: replace with JPG or PNG
-# Put all your custom variables here
+ogimage = "/android-chrome-192x192.png"
