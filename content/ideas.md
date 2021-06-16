@@ -58,3 +58,12 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Made to look good on any screen
     - Native support for a11y, i18n, and feed readers
     - Server and renderer written in something native (Dart or Rust?)
+- Static Site Hosting that doesn't suck
+    - Configure headers
+    - Configure redirects/rewrites
+    - Easily switch from other providers (eg. Netlify, Vercel)
+    - Git-based builds
+    - Quick rollbacks
+    - Lock site (to prevent accidental updates)
+    - Easily add new generators to preset list
+        - Auto-detect the generators too
