@@ -46,7 +46,6 @@
       ]
     }
   ],
-  "collectMetrics": false,
   "redirects": [
     {
       "source": "/favourites",
