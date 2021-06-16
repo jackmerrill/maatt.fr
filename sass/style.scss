@@ -17,11 +17,11 @@ body {
         color: white;
         a { color: white; }
     }
+    margin: 0 auto;
+    padding: var(--body-padding-y) var(--body-padding-x);
+    max-width: var(--body-max-width);
 }
 
-@import './colours.scss';
-
-/* Start main doc */
 
 #timeline {
     .date {
