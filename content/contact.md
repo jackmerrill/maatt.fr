@@ -7,7 +7,7 @@ There are a few ways you can reach out to me, be it for a gig, questions about m
 
 - Discord: doamatto#8083
 - Email: [hello \[at\] doamatto.xyz](mailto:hello@doamatto.xyz)
-- LinkedIn: [/in/matthewronchetto](https://linkedin.com/in/matthewronchetto)
+- LinkedIn: [/in/matthewronchetto](https://www.linkedin.com/in/matthewronchetto)
 - Twitter: [@doamatto](https://twitter.com/doamatto)
 
 Some other places around the internet that I'm at are:
