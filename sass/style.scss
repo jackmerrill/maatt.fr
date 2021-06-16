@@ -7,8 +7,14 @@ html,
 body {
     a {
         &:hover,
-        &:active { color: var(--purple); }
+        &:active {
+            color: var(--purple-l);
+            @media(prefers-color-scheme: 'dark') {
+                color: var(--purple);
+            }
+        }
         @include transition;
+        color: black;
     }
     background: #f7f7f7;
     font-family: 'Inter', sans-serif;
@@ -138,8 +144,12 @@ nav {
             &:hover,
             &:active {
                 svg path {
-                    color: var(--purple);
-                    stroke: var(--purple);
+                    color: var(--purple-l);
+                    stroke: var(--purple-l);
+                    @media (prefers-color-scheme: 'dark') {
+                        color: var(--purple);
+                        stroke: var(--purple);
+                    }
                 }
             }
             svg path {
