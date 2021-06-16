@@ -48,3 +48,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - See lots of numbers that mean just about nothing
     - Plug-ins that let you slot in different data sources (eg. Plausible, YouTube, VK, et al)
     - Requests are handled with serverless functions to keep things nice and quick (don't know how to do it without Next.js right now sadly; but I'm sure it's documented somewhere)
+- Privacy friendly analytics
+    - Only with a pixel/image (makes for much smaller file to use)
+    - Collect basically a mirror of [Plausible](https://plausible.io), [Shynet](https://github.com/milesmcc/shynet), or [umami](https://umami.is/)
+    - Uses Redis (because I need an excuse try it)
