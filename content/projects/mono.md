@@ -6,6 +6,6 @@ tag = "Planning"
 date = "2021-05-31"
 +++
 
-A third of Mono has been announced. [See Studio9](/blog/studio-neuf)
+A third of Mono has been announced. [See Studio9.](/blog/studio-neuf)
 
 More information will come here in the future.
