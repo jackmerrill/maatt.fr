@@ -113,6 +113,15 @@
       "source": "/updates%20projects/:date*/ppg",
       "destination": "https://github.com/doamatto/phone-passcode-gen",
       "permanent": true
+    }, {
+      "source": "/projects/simpledash",
+      "destination": "/drafted-items"
+    }, {
+      "source": "/projects/simfphys-cars",
+      "destination": "/drafted-items"
+    }, {
+      "source": "/projects/gmod-car-dashs",
+      "destination": "/drafted-items"
     },
     
     {
