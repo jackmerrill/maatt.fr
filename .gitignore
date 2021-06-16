@@ -1,12 +1,9 @@
 # Binaries, Deps, and Temp Files
 node_modules/
-.next/
 out/
-build/
 .DS_Store
 
 # Logs
-npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
@@ -14,9 +11,5 @@ yarn-error.log*
 .vscode/
 
 # Generated files
-public/rss.xml
-public/sitemap.xml
-
-# Environment variables
-.env
-.env.local
+static/rss.xml
+static/sitemap.xml

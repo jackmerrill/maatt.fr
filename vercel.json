@@ -8,7 +8,7 @@
           "value": "*"
         }, {
           "key": "Content-Security-Policy",
-          "value": "default-src 'none'; script-src 'self' https://v2.testing.doamatto.xyz 'sha256-/v1vO6ol0ddqGAIP4Kf958OAELwvRqB7PIVLYGlIiCA=' https://alpine.gcp.doamatto.xyz; prefetch-src 'self' https://v2.testing.doamatto.xyz https://doamatto.xyz; style-src 'self' https://v2.testing.doamatto.xyz https://cdn.doamatto.xyz; img-src data: *; media-src *; font-src https://rsms.me; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'self' https://v2.testing.doamatto.xyz https://alpine.gcp.doamatto.xyz; base-uri 'self'"
+          "value": "default-src 'none'; script-src 'self' https://alpine.gcp.doamatto.xyz; prefetch-src 'self' https://cdn.doamatto.xyz https://rsms.me https://doamatto.xyz; style-src 'self' https://cdn.doamatto.xyz; img-src data: *; media-src *; font-src https://rsms.me; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'self' https://alpine.gcp.doamatto.xyz; base-uri 'self'; frame-ancestors 'none'"
         }, {
           "key": "Expect-CT",
           "value": "max-age=86400, enforce"
@@ -17,7 +17,7 @@
           "value": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; document-domain 'none'; encrypted-media 'none'; execution-while-not-rendered 'none'; execution-while-out-of-viewport 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; publickey-credentials-get 'none'; sync-xhr 'none'; usb 'none';xr-spatial-tracking 'none'"
         }, {
           "key": "Permissions-Policy",
-          "value": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; document-domain 'none'; encrypted-media 'none'; execution-while-not-rendered 'none'; execution-while-out-of-viewport 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; publickey-credentials-get 'none'; sync-xhr 'none'; usb 'none';xr-spatial-tracking 'none'"
+          "value": "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; document-domain 'none'; encrypted-media 'none'; execution-while-not-rendered 'none'; execution-while-out-of-viewport 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; publickey-credentials-get 'none'; sync-xhr 'none'; usb 'none';xr-spatial-tracking 'none';interest-cohort=()"
         }, {
           "key": "Referrer-Policy",
           "value": "no-referrer"
@@ -29,7 +29,7 @@
           "value": "Origin"
         }, {
           "key": "X-Content-Security-Policy",
-          "value": "default-src 'none'; script-src 'self' https://v2.testing.doamatto.xyz 'sha256-/v1vO6ol0ddqGAIP4Kf958OAELwvRqB7PIVLYGlIiCA=' https://alpine.gcp.doamatto.xyz; prefetch-src 'self' https://v2.testing.doamatto.xyz https://doamatto.xyz; style-src 'self' https://v2.testing.doamatto.xyz https://cdn.doamatto.xyz; img-src data: *; media-src *; font-src https://rsms.me; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'self' https://v2.testing.doamatto.xyz https://alpine.gcp.doamatto.xyz; base-uri 'self'"
+          "value": "default-src 'none'; script-src 'self' https://alpine.gcp.doamatto.xyz; prefetch-src 'self' https://cdn.doamatto.xyz https://rsms.me https://doamatto.xyz; style-src 'self' https://cdn.doamatto.xyz; img-src data: *; media-src *; font-src https://rsms.me; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'self' https://alpine.gcp.doamatto.xyz; base-uri 'self'; frame-ancestors 'none'"
         }, {
           "key": "X-Content-Type-Options",
           "value": "nosniff"
@@ -38,12 +38,86 @@
           "value": "DENY"
         }, {
           "key": "X-WebKit-CSP",
-          "value": "default-src 'none'; script-src 'self' https://v2.testing.doamatto.xyz 'sha256-/v1vO6ol0ddqGAIP4Kf958OAELwvRqB7PIVLYGlIiCA=' https://alpine.gcp.doamatto.xyz; prefetch-src 'self' https://v2.testing.doamatto.xyz https://doamatto.xyz; style-src 'self' https://v2.testing.doamatto.xyz https://cdn.doamatto.xyz; img-src data: *; media-src *; font-src https://rsms.me; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'self' https://v2.testing.doamatto.xyz https://alpine.gcp.doamatto.xyz; base-uri 'self'"
+          "value": "default-src 'none'; script-src 'self' https://alpine.gcp.doamatto.xyz; prefetch-src 'self' https://cdn.doamatto.xyz https://rsms.me https://doamatto.xyz; style-src 'self' https://cdn.doamatto.xyz; img-src data: *; media-src *; font-src https://rsms.me; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'self' https://alpine.gcp.doamatto.xyz; base-uri 'self'; frame-ancestors 'none'"
         }, {
           "key": "X-XSS-Protection",
           "value": "1; mode=block"
         }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/favourites",
+      "destination": "/music",
+      "permanent": true
+    }, {
+      "source": "/international",
+      "destination": "/intl",
+      "permanent": true
+    }, {
+      "source": "/privacy/southpine-wrappers",
+      "destination": "/projects/southpine-wrappers#privacy-statement",
+      "permanent": true
+    }, {
+      "source": "/privacy/southpine-wrappers",
+      "destination": "/projects/southpine-wrappers#privacy-statement",
+      "permanent": true
+    }, {
+      "source": "/nano(/.*)",
+      "destination": "https://git.doamatto.xyz/nano",
+      "permanent": true
+    },
+    {
+      "source": "/updates/mello/:slug*",
+      "destination": "/projects/mello",
+      "permanent": true
+    },
+    {
+      "source": "/updates/swift/:slug*",
+      "destination": "/projects/swift",
+      "permanent": true
+    },
+    {
+      "source": "/updates/hex/:slug*",
+      "destination": "/projects/mono",
+      "permanent": true
+    }, {
+      "source": "/updates/nano/:slug*",
+      "destination": "/projects/nano",
+      "permanent": true
+    }, {
+      "source": "/stack",
+      "destination": "/uses",
+      "permanent": true
+    }, {
+      "source": "/favorites",
+      "destination": "/music",
+      "permanent": true
+    }, {
+      "source": "/sitemap",
+      "destination": "/sitemap.xml"
+    }, {
+      "source": "/updates%20projects/:date*/southnode",
+      "destination": "/projects/southpine-wrappers",
+      "permanent": true
+    }, {
+      "source": "/updates%20projects/:date*/southpy",
+      "destination": "/projects/southpine-wrappers",
+      "permanent": true
+    }, {
+      "source": "/updates%20projects/:date*/5mloading",
+      "destination": "/projects/5mloading",
+      "permanent": true
+    }, {
+      "source": "/updates%20projects/:date*/ppg",
+      "destination": "https://github.com/doamatto/phone-passcode-gen",
+      "permanent": true
+    },
+    
+    {
+      "source": "/projects/yamh",
+      "destination": "https://github.com/doamatto/yamh"
     }
   ]
 }
