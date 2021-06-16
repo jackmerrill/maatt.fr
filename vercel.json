@@ -122,6 +122,10 @@
     }, {
       "source": "/projects/gmod-car-dashs",
       "destination": "/drafted-items"
+    }, {
+      "source": "/feed",
+      "destination": "/atom.xml",
+      "permanent": true
     }
   ]
 }

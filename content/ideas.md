@@ -52,3 +52,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Only with a pixel/image (makes for much smaller file to use)
     - Collect basically a mirror of [Plausible](https://plausible.io), [Shynet](https://github.com/milesmcc/shynet), or [umami](https://umami.is/)
     - Uses Redis (because I need an excuse try it)
+- Blogging made simple
+    - A simple way to start blogging (similar to Wordpress)
+    - Made to look good on any screen
+    - Native support for a11y, i18n, and feed readers
+    - Server and renderer written in something native (Dart or Rust?)
