@@ -122,11 +122,6 @@
     }, {
       "source": "/projects/gmod-car-dashs",
       "destination": "/drafted-items"
-    },
-    
-    {
-      "source": "/projects/yamh",
-      "destination": "https://github.com/doamatto/yamh"
     }
   ]
 }
