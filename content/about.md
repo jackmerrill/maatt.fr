@@ -3,7 +3,7 @@ title="About"
 template="page.html"
 +++
 
-**Hello and bienvenue! My name is Matt Ronchetto.** I'm a high school student in sunny San Diego, CA, that expresses myself through too many medians to count. I'm best known for my software and design work, thought. Over time, I've picked up hobbies and niches that I enjoy and constantly do (which may explain my lack of freetime during the week haha).
+**Hello and bienvenue! My name is Matt Ronchetto.** I'm a high school student in sunny San Diego, CA, that expresses myself through too many medians to count. I'm best known for my software and design work, thought. Over time, I've picked up hobbies and niches that I enjoy and constantly do (which may explain my lack of freetime during the week haha). You can see what software and tools, as well as hardware, I use on a day-to-day basis [here.](/uses) I also get a lot of ideas that I [note here.](/ideas) If you can't tell, this page isn't ready for production yet because of how much needs to be re-written and sorted.
 
 ## My interests
 ### Music
