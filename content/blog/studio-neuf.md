@@ -1,5 +1,5 @@
 +++
-title = "Studio9: One of the most ambitious projects I'm doing"
+title = "Studio9: One of my most ambitious projects"
 slug = "studio-neuf"
 date = "2021-05-31"
 description = "I've always loved watching videos and enjoy listening podcasts. I want to create the best platform for these creators, where they are the forefront."

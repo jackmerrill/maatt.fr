@@ -1,5 +1,5 @@
 +++
-title = "A hole in Exchange: a bug that is still yet to be fixed by IT"
+title = "A hole in Exchange: a bug yet to be fixed by IT"
 slug = "a-hole-in-exchange"
 date = "2021-05-20"
 description = "As a student, it's not uncommon to write to my teachers. I found out that there was a pretty large hole in the security of this, however."
