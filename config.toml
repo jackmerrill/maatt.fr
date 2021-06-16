@@ -22,4 +22,5 @@ external_links_no_follow = true
 
 [extra]
 author = "doamatto"
+ogimage = "/assets/logo.svg" # TODO: replace with JPG or PNG
 # Put all your custom variables here
