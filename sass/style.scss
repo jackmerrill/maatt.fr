@@ -69,15 +69,22 @@ footer {
 }
 
 .item {
-    border: 1px solid #1f2937;
-    &:hover { background: #f3f4f6; }
-    @media (prefers-color-scheme: 'dark') {
-        &:hover { background: #111827 }
-    }
+    background: #383838;
+    @media (prefers-color-scheme: 'dark') { background: #111827; }
     border-radius: .25rem;
     padding: 1rem;
     @include transition;
-    a { text-decoration: none; }
+    a {
+        color: #e6e1dc;
+        text-decoration: none;
+        img {
+            border-radius: .25rem;
+        }
+        &:hover,
+        &:focus {
+            color: var(--purple);
+        }
+    }
     .indie {
         color: var(--purple);
         padding: .25rem .1rem .25rem .1rem;
