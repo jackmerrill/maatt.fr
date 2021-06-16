@@ -4,6 +4,7 @@ template = "page.html"
 +++
 
 <section class="use-grid">
+
 {{ product(
     title="1Password",
     link="https://1password.com",
@@ -90,6 +91,7 @@ template = "page.html"
     link="https://vscodium.com/",
     description="Image Visual Studio Code, minus the tracking and bloat from Microsoft. Easily one of my favourite code editors."
 ) }}
+
 </section>
 
 ## Hardware
