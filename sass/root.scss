@@ -1,0 +1,22 @@
+:root {
+    /* Tag colours */
+    --purple: #909EFF;
+    --eol: #f97316; 
+    --eol-alt: #f69e7b; /* eol, opinion */
+    --active-alt: #8096f0; /* active, education */
+    --active: #3b82f6;
+    --released-alt: #7adf82; /* released, life */
+    --released: #10b981;
+    --progress: #71717a;
+    --concepts-alt: #ffabe1;
+    --concepts: #f090ce; /* concepts */
+
+    /* Variables */
+    --body-padding-y: calc(var(--unit));
+    --body-padding-x: calc(var(--unit)*4);
+    @media (min-width: 600px) {
+        --body-padding-x: calc(var(--unit)*8);
+    }
+    --body-max-width: calc(var(--unit)*152);
+    --unit: calc(16px*0.5);
+}

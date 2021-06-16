@@ -1,16 +1,4 @@
-:root {
-    /* Tag colours */
-    --purple: #909EFF;
-    --eol: #f97316; 
-    --eol-alt: #f69e7b; /* eol, opinion */
-    --active-alt: #8096f0; /* active, education */
-    --active: #3b82f6;
-    --released-alt: #7adf82; /* released, life */
-    --released: #10b981;
-    --progress: #71717a;
-    --concepts-alt: #ffabe1;
-    --concepts: #f090ce; /* concepts */
-}
+@import './root.scss';
 
 .eol {
     border: 0 solid #ffffff;
