@@ -73,4 +73,13 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for major titles (Project Cars, Assetto Corsa, ETS2/ATS, et al)
     - Should have a nil effect on the perfomance of the game
     - Should have both basic information (for those who just want to keep track of times and general performance) to nerd stats
-
+- Daily my RPi
+    - Needs to still be able to do my normal tasks when just browsing the internet
+    - Should be able to « put to sleep », with the GUI and all those tools closing, leaving just my plex server
+    - Ideally, I just use a Mac Mini, but [Daniel got me thinking](https://cyckl.net/idea)
+- Make my own RPi/Arduino
+    - Needs to be somewhat capable (YouTube videos, basic compilation, et al)
+    - Needs to have decent I/O (USB-C, 1G ethernet, et al)
+    - Needs to be power efficient (ARM or similar)
+    - Likely needs its own derivative of the Linux kernel or similar (god bless Rust compiling to C, eh?)
+    - Ideally, I just use a Mac Mini, but [Daniel got me thinking.. again](https://cyckl.net/idea)
