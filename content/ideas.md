@@ -67,3 +67,10 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Lock site (to prevent accidental updates)
     - Easily add new generators to preset list
         - Auto-detect the generators too
+- Add new ideas using POST requests
+    - Alfred plugin to make it super fast and easy
+- Sim racing/trucking telemetry made easy
+    - Support for major titles (Project Cars, Assetto Corsa, ETS2/ATS, et al)
+    - Should have a nil effect on the perfomance of the game
+    - Should have both basic information (for those who just want to keep track of times and general performance) to nerd stats
+
