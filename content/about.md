@@ -4,7 +4,7 @@ template="page.html"
 description="Salut, I'm Matt Ronchetto. I'm a high school student in San Diego, CA that enjoys programming, writing, and way too many other things to count."
 +++
 
-Salut, I'm Matt. I'm a high school student in San Diego, CA that enjoys [programming,](#programming) [writing,](/blog) and way too many other things to count. I'm currently working on:
+Salut, I'm Matt. I'm a high school student in San Diego, CA that enjoys programming, [writing,](/blog) and way too many other things to count. I'm currently working on:
 - developing a better office suite with my friend [Daniel](https://cyckl.net),
 - creating software that's out of this world and being the French counterpart to [Lunar Design](https://github.com/designbylunar) with [Jack](https://jackmerrill.com),
 - crafting health software for the masses free of charge with SPV (Santé Pour Vous); and:
