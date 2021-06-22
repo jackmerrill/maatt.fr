@@ -85,3 +85,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Ideally, I just use a Mac Mini, but [Daniel got me thinking.. again](https://cyckl.net/idea)
 - Audio driver for Windows and Linux to send to UPnP (specifically my Sonos)
     - Could make it work for macOS too, but I don't need to (AirPlay 2 would be faster afaik)
+- Web server that just hosts files
+    - Hackable enough to do more advanced things like Nginx, but zero-config capable
+    - Lightweight af
+    - Single binary
+    - Make it a Docker, while I'm at it
