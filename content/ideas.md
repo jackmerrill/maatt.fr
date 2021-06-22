@@ -96,3 +96,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for CBZ/CBR would be a nice-to-have
     - Easy mass-conversion would be a nice-to-have
     - Calibre integration
+- Audio sharing made simpler
+    - Basically cross-platform SharePlay
+    - Write it in Zig just to screw with myself later
