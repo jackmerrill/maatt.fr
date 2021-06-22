@@ -90,3 +90,9 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Lightweight af
     - Single binary
     - Make it a Docker, while I'm at it
+- Assetto Corsa Server in Docker
+- OPDS server and reader that doesn't suck
+    - [Spec](https://specs.opds.io/) is relatively simple to create a library for
+    - Support for CBZ/CBR would be a nice-to-have
+    - Easy mass-conversion would be a nice-to-have
+    - Calibre integration
