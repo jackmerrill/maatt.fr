@@ -101,4 +101,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Write it in Zig just to screw with myself later
 - PrivacySpy for countries
     - Get a nutrition label on countries to better understand if it aligns with your values
-    
+- Directory watcher
+    - No fluff needed; just `watch <dir>`
+    - If you need to ignore a directory (like the build directory) just do `watch <dir> --ignore <dir>`
