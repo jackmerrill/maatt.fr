@@ -12,6 +12,7 @@
 <h1 class="title">
     {{ section.title }}
 </h1>
+{{ section.content | safe }}
 <div class="feed">
     {% for page in section.pages %}
     <article class="post">
