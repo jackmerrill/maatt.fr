@@ -99,3 +99,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - Audio sharing made simpler
     - Basically cross-platform SharePlay
     - Write it in Zig just to screw with myself later
+- PrivacySpy for countries
+    - Get a nutrition label on countries to better understand if it aligns with your values
+    
