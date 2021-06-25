@@ -12,7 +12,7 @@ This utilises:
 1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
 2. Build the site (`zola build`)
 
-If changing code, it's ideal to use an [editor config plugin.](https://editorconfig.org/)
+If changing code, it's ideal to use an [editor config plugin.](https://editorconfig.org/) 
 
 ### Acknowledgments
 This codebase is licensed under the BSD 3-Clause license. Content of the website, unless mentioned otherwise, are licensed under the CC-BY-4.0 license.
