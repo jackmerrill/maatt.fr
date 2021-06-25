@@ -16,13 +16,15 @@ Some other places around the internet that I'm at are:
     - Solo: [doamatto](https://doamatto.bandcamp.com)
     - Group:
     - Personal: [/doamatto](https://bandcamp.com/doamatto)
+- DeviantArt: [doamatto](https://doamatto.deviantart.com)
 - Behance: [@doamatto](https://www.behance.net/doamatto)
 - Dev.to: [@doamatto](https://dev.to/doamatto)
 - Dribbble: [@doamatto](https://dribbble.com/doamatto/shots)
+- Flickr: [/doamatto](https://flickr.com/doamatto)
 - GitHub: [@doamatto](https://github.com/doamatto)
 - Itch: [doamatto](https://doamatto.itch.io)
+- Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
 - Tumblr: [doamatto](https://doamatto.tumblr.com)
-- Unsplash: [@doamatto](https://unsplash.com/@doamatto)
 - Write.as: [/doamatto](https://write.as/doamatto/)
 - YouTube: [doamatto](https://overto.doamatto.xyz/youtube)
 

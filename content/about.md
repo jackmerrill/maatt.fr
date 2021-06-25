@@ -24,4 +24,3 @@ I'm an avid motoring enthusiast and, since I can't do it for real, love to play 
 
 ## Programming
 I've been messing around with software and programming for the past 6 years or so now. I program in whatever really suits my fancy at the time, but I'm using a lot of Rust, Dart, and V/Golang, as of late. Anything I make that's public is likely on [GitHub](https://github.com/doamatto).
-
