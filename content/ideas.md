@@ -104,3 +104,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - Directory watcher
     - No fluff needed; just `watch <dir>`
     - If you need to ignore a directory (like the build directory) just do `watch <dir> --ignore <dir>`
+- Alternative client for Origin
+    - It would be nice to have something super lightweight as an alternative to the official one
+    - No overlay
