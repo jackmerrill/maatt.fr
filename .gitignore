@@ -13,3 +13,6 @@ yarn-error.log*
 # Generated files
 static/rss.xml
 static/sitemap.xml
+
+# Ghostwriter backups
+*.backup
