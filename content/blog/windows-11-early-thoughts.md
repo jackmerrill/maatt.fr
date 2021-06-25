@@ -46,4 +46,3 @@ This need for a TPM has worried many, and, as numerous sources have reported, sp
 
 ## Conclusion
 Overall, I've never been a huge fan of Windows. It's slow, it's got lots of extra crap installed, and it has had an inconsistent design for what feels like years. Windows 11 is more consistent, more performant, and more secure, and for a large number  of people: that's great. I'm sure for those who meet the hardware requirements and are already using Windows 10, it'll be a solid upgrade. However, for people like me, who need every bit of performance for things like compilations, renders, and light baking (oh god), Windows 10 might be where you want to stay until a LTSC update.
-
