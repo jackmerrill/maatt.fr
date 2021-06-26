@@ -82,7 +82,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Needs to have decent I/O (USB-C, 1G ethernet, et al)
     - Needs to be power efficient (ARM or similar)
     - Likely needs its own derivative of the Linux kernel or similar (god bless Rust compiling to C, eh?)
-    - Ideally, I just use a Mac Mini, but [Daniel got me thinking.. again](https://cyckl.net/idea)
+    - Ideally, I just use a Mac Mini, but [Daniel got me thinking.. again](https://cyckl.net/idea/)
 - Audio driver for Windows and Linux to send to UPnP (specifically my Sonos)
     - Could make it work for macOS too, but I don't need to (AirPlay 2 would be faster afaik)
 - Web server that just hosts files
