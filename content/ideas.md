@@ -110,3 +110,4 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - DAV server thats [minimalist and opionated](https://miniflux.app/opinionated.html)
     - Support for CalDav, CardDav, and WebDav
     - Web app should just add, show, and edit calendar events and contacts. WebDav should be very basic file management.
+- Anki client that's a bit prettier than the original
