@@ -6,6 +6,11 @@ description = "Some legal mumbo jumbo that helps me stay compliant."
 
 Your privacy is just as important (if not more) than my privacy. For that reason, I make it a commitment to ensure my site isn't privacy-friendly, but private-by-default.
 
+## What sites does this policy apply to?
+It applies to the following sites:
+- [https://edu.doamatto.xyz](https://edu.doamatto.xyz); and:
+- [https://git.doamatto.xyz](https://git.doamatto.xyz).
+
 ## What data is collected?
 I collect the following information via a self-hosted Plausible Analytics server:
 - **Page URL—** I use this to see how many times a page has been viewed
@@ -31,20 +36,16 @@ The data is processed by the following parties:
 - **Vercel and their subprocessors:** They host this site. As of writing, they do not mention who powers their services.
 - **Google Cloud Platform and their subprocessors:** They host the Plausible Analytics server. The servers are located in the United States, specifically Oregon.
 - **Myself:** I maintain the analytics server, and, therefore, have access to all data on the server. I also possess the keys to decrypt data on the server.
-- **The public:** You can access all the data collected by this site at any time [via the Plausible public dashboard.](https://alpine.gcp.doamatto.xyz/doamatto.xyz)
+- **The public:** You can access all the data collected by this site at any time via the Plausible public dashboards for [`git.doamatto.xyz`](https://alpine.gcp.doamatto.xyz/git.doamatto.xyz) and [`edu.doamatto.xyz`](https://alpine.gcp.doamatto.xyz/edu.doamatto.xyz), respectfully.
 
 ## What if there's a data breach?
 In the event of a data breach at Vercel or Google, I cannot do anything to notify users as I do not collect identifiable data. I will leave a banner on the website to still spread awareness of such, however.
 
+## How long is data stored?
+Although Plausible goes for an unlimited period of time, I reset the data every year using the German VSITR method (overwritten with three alternating patterns of zeroes and ones, last pass with random data. 7 passes; I'm aware it's overkill).
+
 ## Where can I find past versions of this policy?
 This site's codebase is hosted publicly on GitHub. You can check the list of changes to this policy [here.](https://github.com/doamatto/doamatto.xyz/blob/main/content/privacy.md)
-
-## What sites does this policy apply to?
-It applies to the following sites:
-- [https://www.doamatto.xyz](https://www.doamatto.xyz) (this site)
-- [https://edu.doamatto.xyz](https://edu.doamatto.xyz)
-- [https://git.doamatto.xyz](https://git.doamatto.xyz); and:
-- [https://doamatto.tumblr.com](https://doamatto.tumblr.com)
 
 ## Contact
 You can write to [hello [at] doamatto.xyz](mailto:hello@doamatto.xyz) to get help as swiftly as possible on amending and fixing this document, as well as get answers to questions regarding this policy.
