@@ -9,6 +9,8 @@ There are a few ways you can reach out to me, be it for a gig, questions about m
 - Discord: doamatto#8083
 - Email: [hello \[at\] doamatto.xyz](mailto:hello@doamatto.xyz)
 - LinkedIn: [/in/matthewronchetto](https://www.linkedin.com/in/matthewronchetto)
+- Line: [@doamatto](/assets/line_invite.jpg)
+- 微信 (Weixin) / WeChat: [@doamatto](/assets/wechat_invite.jpg) (I ignore requests for signup verifications; PGP recommended)
 
 Some other places around the internet that I'm at are:
 - Bandcamp
@@ -20,6 +22,7 @@ Some other places around the internet that I'm at are:
 - GitHub: [@doamatto](https://github.com/doamatto)
 - Itch: [doamatto](https://doamatto.itch.io)
 - Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
+- Steam: [/id/notnotdoamatto](https://steamcommunity.com/id/notnotdoamatto)
 - Tumblr: [doamatto](https://doamatto.tumblr.com)
 
 Although there are other places I lurk [or used to](/archive/social), I don't want to make the lists longer than they already are. Hope to hear from you soon :)
