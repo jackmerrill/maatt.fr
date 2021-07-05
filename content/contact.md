@@ -23,6 +23,7 @@ Some other places around the internet that I'm at are:
 - Itch: [doamatto](https://doamatto.itch.io)
 - Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
 - Steam: [/id/notnotdoamatto](https://steamcommunity.com/id/notnotdoamatto)
+- TapTap (for like two games): [ドアマット](https://www.taptap.io/user/375462982)
 - Tumblr: [doamatto](https://doamatto.tumblr.com)
 
 Although there are other places I lurk [or used to](/archive/social), I don't want to make the lists longer than they already are. Hope to hear from you soon :)

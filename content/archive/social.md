@@ -10,5 +10,6 @@ I decided after a while to stop using the vast majority of platforms I do to kee
 - Dev.to: @doamatto
 - Dribbble: @doamatto
 - Instagram: @thetruedoormat and @doamatto (the latter is name-squatting)
+- Twitch: /doamatto
 - Twitter: @doamatto
 - YouTube: doamatto
