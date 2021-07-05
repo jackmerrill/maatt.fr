@@ -5,6 +5,6 @@ template = "feed.html"
 page_template = "post.html"
 +++
 
-I usually blog Tuesdays and Fridays. You can subscribe via [Atom/RSS](/atom.xml) or [as a newsletter.](https://buttondown.email/doamatto)
+I usually blog twice a week, but I take breaks from time-to-time. You can subscribe via [Atom/RSS](/atom.xml) or [as a newsletter.](https://buttondown.email/doamatto)
 
 ---
