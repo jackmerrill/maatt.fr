@@ -126,6 +126,10 @@
       "source": "/feed",
       "destination": "/atom.xml",
       "permanent": true
+    }, {
+      "source": "/bashin",
+      "destination": "/archive/bashin",
+      "permanent": true
     }
   ]
 }
