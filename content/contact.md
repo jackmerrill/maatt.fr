@@ -9,8 +9,8 @@ There are a few ways you can reach out to me, be it for a gig, questions about m
 - Discord: doamatto#8083
 - Email: [hello \[at\] doamatto.xyz](mailto:hello@doamatto.xyz)
 - LinkedIn: [/in/matthewronchetto](https://www.linkedin.com/in/matthewronchetto)
-- Line: [@doamatto](/assets/line_invite.jpg)
-- 微信 (Weixin) / WeChat: [@doamatto](/assets/wechat_invite.jpg) (I ignore requests for signup verifications; PGP recommended)
+- Line: <a href="/assets/line_invite.jpg" class="hoverImgLink">@doamatto</a><img src="/assets/line_invite.jpg" class="hoverImg" />
+- 微信 (Weixin) / WeChat: <a href="/assets/wechat_invite.jpg" class="hoverImgLink">@doamatto</a><img src="/assets/wechat_invite.jpg" class="hoverImg" /> (I ignore requests for signup verifications; PGP recommended)
 
 Some other places around the internet that I'm at are:
 - Bandcamp

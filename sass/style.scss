@@ -201,3 +201,12 @@ nav {
         transition: none;
     }
 }
+
+.hoverImg {
+    display: none;
+    width: 8rem;
+    height: 8rem;
+}
+.hoverImgLink:hover + .hoverImg {
+    display: block;
+}
