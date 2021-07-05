@@ -17,7 +17,7 @@ Some other places around the internet that I'm at are:
     - Solo: [doamatto](https://doamatto.bandcamp.com)
     - Group:
     - Personal: [/doamatto](https://bandcamp.com/doamatto)
-- DeviantArt: [doamatto](https://doamatto.deviantart.com)
+- DeviantArt: [doamatto](https://www.deviantart.com/doamatto)
 - Flickr: [/doamatto](https://flickr.com/doamatto)
 - GitHub: [@doamatto](https://github.com/doamatto)
 - Itch: [doamatto](https://doamatto.itch.io)
