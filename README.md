@@ -12,4 +12,4 @@ This utilises:
 If changing code, it's ideal to use an [editor config plugin.](https://editorconfig.org/#download) 
 
 ### Acknowledgments
-This codebase is licensed under the BSD 3-Clause license. Content of the website, unless mentioned otherwise, are licensed under the CC-BY-4.0 license.
+This codebase is licensed under the BSD 3-Clause license. Content of the website, unless mentioned otherwise, are licensed under [the CC BY-SA 4.0 license.](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
