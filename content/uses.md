@@ -33,6 +33,7 @@ template = "page.html"
 - Logitech MX518 (the old one)
 - Razer Blackwidow X
 - Schiit Magni 3 and Modi 3
+- Sonos One (non-SL)
 
 ### On-the-go / Everyday Carry
 Although, how much of "on-the-go" are we doing right now?
