@@ -12,7 +12,7 @@ It applies to the following sites:
 - [https://git.doamatto.xyz](https://git.doamatto.xyz).
 
 ## What data is collected?
-I collect the following information via a self-hosted Plausible Analytics server:
+I collect the following information via a self-hosted Umami Analytics server:
 - **Page URL—** I use this to see how many times a page has been viewed
 - **HTTP referer—** I use this to see how many people are coming from certain websites
 - **Browser—** I use this to see what browsers and browser versions are being used
@@ -26,23 +26,23 @@ None of this data can be linked back to you by me.
 This data allows me to properly fix bugs and issues with the website, as well as better adjust the site in the future for more people to be able to use it properly.
 
 ## What data is shared, sold, or transferred?
-I do not share, sell, or transfer any data collected with any third parties. Data is stored on Google's Cloud Platform in Oregon and uses keys that only I can decrypt, not Google.
+I do not share, sell, or transfer any data collected with any third parties. Data is stored on Uberspace in Deutschland.
 
 ## Who has access to this data?
-Governments or law enforcement may request data from Google, which I have no control over. However, because they do not have access to the decryption keys for the data on our server, Google cannot pass any data forward. I do not respond to government requests as I do not collect any information that could be tracked back to a certain individual that could prove to be relevant in a legal scenario.
+Governments or law enforcement may request data from Deutschland, which I have no control over. If, for whatever reason, I’m compelled by law enforcement to give up the data I collect, I will even though I don’t want to.
 
 ## Who processes this data?
 The data is processed by the following parties:
 - **Vercel and their subprocessors:** They host this site. As of writing, they do not mention who powers their services.
-- **Google Cloud Platform and their subprocessors:** They host the Plausible Analytics server. The servers are located in the United States, specifically Oregon.
+- **Uberspace and their subprocessors:** They host the Umami Analytics server. The servers are located in Deutschland.
 - **Myself:** I maintain the analytics server, and, therefore, have access to all data on the server. I also possess the keys to decrypt data on the server.
-- **The public:** You can access all the data collected by this site at any time via the Plausible public dashboards for [`git.doamatto.xyz`](https://alpine.gcp.doamatto.xyz/git.doamatto.xyz) and [`edu.doamatto.xyz`](https://alpine.gcp.doamatto.xyz/edu.doamatto.xyz), respectfully.
+- **The public:** You can access all the data collected by this site at any time [via the Umami public dashboard](https://u.nneko.me/share/OkY9RIJO).
 
 ## What if there's a data breach?
-In the event of a data breach at Vercel or Google, I cannot do anything to notify users as I do not collect identifiable data. I will leave a banner on the website to still spread awareness of such, however.
+In the event of a data breach at Vercel or Uberspace, I cannot do anything to notify users as I do not collect identifiable data. I will leave a banner on the website to still spread awareness of such, however.
 
 ## How long is data stored?
-Although Plausible goes for an unlimited period of time, I reset the data every year using the German VSITR method (overwritten with three alternating patterns of zeroes and ones, last pass with random data. 7 passes; I'm aware it's overkill).
+Although Umami goes for an unlimited period of time, I reset the data every year using the German VSITR method (overwritten with three alternating patterns of zeroes and ones, last pass with random data. 7 passes; I'm aware it's overkill).
 
 ## Where can I find past versions of this policy?
 This site's codebase is hosted publicly on GitHub. You can check the list of changes to this policy [here.](https://github.com/doamatto/doamatto.xyz/blob/main/content/privacy.md)
