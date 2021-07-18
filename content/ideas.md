@@ -111,3 +111,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for CalDav, CardDav, and WebDav
     - Web app should just add, show, and edit calendar events and contacts. WebDav should be very basic file management.
 - Anki client that's a bit prettier than the original
+- Alternative to Steam overlay
+    - Would have to be really fast and responsive
+    - Needs to work on basically any game™ (within reason ofc)
+    - Lightweight and unnoticable performance hit  
