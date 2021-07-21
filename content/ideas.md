@@ -115,3 +115,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Would have to be really fast and responsive
     - Needs to work on basically any game™ (within reason ofc)
     - Lightweight and unnoticable performance hit  
+- Pop-up web server
+    - Two flags: one for port, another for directory (if you want to specify)
+    - Written in Zig to experiment
+- APT repo generator
+    - TOML config because why not 
