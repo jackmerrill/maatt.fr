@@ -118,5 +118,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - Pop-up web server
     - Two flags: one for port, another for directory (if you want to specify)
     - Written in Zig to experiment
-- APT repo generator
-    - TOML config because why not 
+- Software repository generator
+    - TOML config because why not
+    - Takes TOML configs for apps and creates platform-specific packages (eg. Flatpak, DEB/APT, XBPS, et al)
+    - Makes it easy to serve as a repo and download site for your projects
