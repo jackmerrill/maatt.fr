@@ -122,3 +122,12 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - TOML config because why not
     - Takes TOML configs for apps and creates platform-specific packages (eg. Flatpak, DEB/APT, XBPS, et al)
     - Makes it easy to serve as a repo and download site for your projects
+- Scoop/Chocolately-compatible package manager for Windows not written in PowerShell scripts
+    - Could and probably would net much faster performance
+    - GoScoop? ChocoGo? IDK.
+- F\*ck Google. Make an AIO [like Soverin](https://soverin.net/), that has:
+    - Far better uptime than whatever has recently been happening at Soverin,
+    - A dead-simple interface so anyone can easily get started (issue with most paid mail solutions imo)
+    - Support for all sieve filters (issue with Protonmail)
+    - Support for basic mail standards (IMAP/SMTP, JMAP; issue with Protonmail)
+    - Easy method for taking your domain and inbox elsewhere
