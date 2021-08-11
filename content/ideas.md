@@ -69,6 +69,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
         - Auto-detect the generators too
 - Add new ideas using POST requests
     - Alfred plugin to make it super fast and easy
+- Alfred for Windows and Linux
+    - [Alfred in the first place](https://www.alfredapp.com/)
 - Sim racing/trucking telemetry made easy
     - Support for major titles (Project Cars, Assetto Corsa, ETS2/ATS, et al)
     - Should have a nil effect on the perfomance of the game
