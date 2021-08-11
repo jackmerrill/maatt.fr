@@ -16,3 +16,7 @@ static/sitemap.xml
 
 # Ghostwriter backups
 *.backup
+
+# Local server certs
+cert.pem
+key.pem
