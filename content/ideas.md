@@ -85,11 +85,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Ideally, I just use a Mac Mini, but [Daniel got me thinking.. again](https://cyckl.net/idea/)
 - Audio driver for Windows and Linux to send to UPnP (specifically my Sonos)
     - Could make it work for macOS too, but I don't need to (AirPlay 2 would be faster afaik)
-- Web server that just hosts files
-    - Hackable enough to do more advanced things like Nginx, but zero-config capable
-    - Lightweight af
-    - Single binary
-    - Make it a Docker, while I'm at it
 - Assetto Corsa Server in Docker
 - OPDS server and reader that doesn't suck
     - [Spec](https://specs.opds.io/) is relatively simple to create a library for
@@ -98,12 +93,9 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Calibre integration
 - Audio sharing made simpler
     - Basically cross-platform SharePlay
-    - Write it in Zig just to screw with myself later
+    - ~~Write it in Zig just to screw with myself later~~ Nim may be a better option to try a new language (to screw with future self), as well as from a performance perspective
 - PrivacySpy for countries
     - Get a nutrition label on countries to better understand if it aligns with your values
-- Directory watcher
-    - No fluff needed; just `watch <dir>`
-    - If you need to ignore a directory (like the build directory) just do `watch <dir> --ignore <dir>`
 - Alternative client for Origin
     - It would be nice to have something super lightweight as an alternative to the official one
     - No overlay
@@ -117,11 +109,13 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Lightweight and unnoticable performance hit  
 - Pop-up web server
     - Two flags: one for port, another for directory (if you want to specify)
-    - Written in Zig to experiment
+    - Written in Golang to experiment
 - Software repository generator
     - TOML config because why not
     - Takes TOML configs for apps and creates platform-specific packages (eg. Flatpak, DEB/APT, XBPS, et al)
     - Makes it easy to serve as a repo and download site for your projects
+- A sensible way for Go apps (say Fushimi, Watcher, et al) to be installed
+    - Has to be written in Go for continuity (probably sacrilage if I didn't)
 - Scoop/Chocolately-compatible package manager for Windows not written in PowerShell scripts
     - Could and probably would net much faster performance
     - GoScoop? ChocoGo? IDK.
@@ -131,3 +125,15 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for all sieve filters (issue with Protonmail)
     - Support for basic mail standards (IMAP/SMTP, JMAP; issue with Protonmail)
     - Easy method for taking your domain and inbox elsewhere
+
+## Things completed
+- ~~Directory watcher~~ Deploy with GitHub hooks
+    - Needed something that worked on all platforms, was lightweight, and would just work; Golang fit that bill for the most part.
+    - A watch tool wouldn't satisfy the needs exactly. This is a more practical solution for deployments to things such as public websites (try this one :P)
+    - [Released under the codename Fushimi.](https://github.com/doamatto/fushimi) Will not be `go get`-table.
+- Web server that just hosts files
+    - Hackable enough to do more advanced things like Nginx, but zero-config capable
+    - Lightweight af
+    - Single binary
+    - ~~Make it a Docker, while I'm at it~~ A bit redundant; can be made stackable easily regardless.
+    - [Released under the codename Imami.](https://github.com/doamatto/inari) Will not be `go get`-table.
