@@ -12,11 +12,11 @@ Salut, I'm Matt. I'm a high school student in San Diego, CA that enjoys programm
 
 ## My interests
 I love music.. maybe a little too much. Some of my favourite albums as of late are:
-- [Wake Up Sunshine— All Time Low ](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE)
-- [Blood Brothers— Blind Channel](https://open.spotify.com/album/16e3tlAEVnBA8ACnnOX3Xv)
-- [Phobia— Breaking Benjamin](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c)
-- [Teatro d'ira— Måneskin](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A)
-- [Barbara Pravi— Barbara Pravi](https://open.spotify.com/album/3oVZdOn92BZXBqWGezbJtf).
+- [It Is What It Is— Thundercat](https://thundercat.bandcamp.com/album/it-is-what-it-is),
+- [C-GIRL— City Girl](https://city-girl.bandcamp.com/album/c-girl),
+- [dawn— mxmtoon](https://mxmtoon.bandcamp.com/album/dawn),
+- [Tunnel Vision— Castlefield](https://castlefield.bandcamp.com/album/tunnel-vision-2); and:
+- [Moe Moe— Moe Shop](https://moeshop.bandcamp.com/album/moe-moe).
 
 I want to spend a lot of my time after uni and on work breaks to travel the world a lot. There are so many gorgeous places, so I've started to [keep track of where to go, what I like there, and more.](/intl) I also started to [keep track of the ideas I come up with.](/ideas)
 
