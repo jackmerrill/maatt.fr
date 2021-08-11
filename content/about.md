@@ -5,10 +5,8 @@ description="Salut, I'm Matt Ronchetto. I'm a high school student in San Diego, 
 +++
 
 Salut, I'm Matt. I'm a high school student in San Diego, CA that enjoys programming, [writing,](/blog) and way too many other things to count. I'm currently working on:
-- developing a better office suite with my friend [Daniel](https://cyckl.net),
-- creating software that's out of this world and being the French counterpart to [Lunar Design](https://github.com/designbylunar) with [Jack](https://jackmerrill.com),
-- crafting health software for the masses free of charge with SPV (Santé Pour Vous); and:
-- empowering the creators of today and tomorrow with [Studio9](https://www.studioneuf.net).
+- developing a better office suite with my friend [Daniel](https://cyckl.net); and:
+- creating software that's out of this world and being the French counterpart to [Lunar Design](https://github.com/designbylunar) with [Jack](https://jackmerrill.com).
 
 ## My interests
 I love music.. maybe a little too much. Some of my favourite albums as of late are:
