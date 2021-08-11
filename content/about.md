@@ -18,7 +18,7 @@ I love music.. maybe a little too much. Some of my favourite albums as of late a
 - [Tunnel Vision— Castlefield](https://castlefield.bandcamp.com/album/tunnel-vision-2); and:
 - [Moe Moe— Moe Shop](https://moeshop.bandcamp.com/album/moe-moe).
 
-I want to spend a lot of my time after uni and on work breaks to travel the world a lot. There are so many gorgeous places, so I've started to [keep track of where to go, what I like there, and more.](/intl) I also started to [keep track of the ideas I come up with.](/ideas)
+I want to spend a lot of my time after uni and on work breaks to travel the world a lot. I also started to [keep track of the ideas I come up with.](/ideas)
 
 I'm an avid motoring enthusiast and, since I can't do it for real, love to play sim racers like Assetto Corsa and Project Cars, amongst other titles. I've been pretty big into Formula racing for a long time (McLaren all the way :smile:)
 
