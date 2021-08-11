@@ -19,7 +19,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Looks at both Macs, prebuilts, and custom-builts
     - Based off the usage that you describe
 - Package tracker app/site
-    - Literally everyone I've used is rubbish
+    - Literally every thing I've used is rubbish
     - Support for major world platforms
     - Plugin system for each shipping carrier to make it easy to self-host without racking up costs from mass usage
 - Music search by location
@@ -59,8 +59,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Native support for a11y, i18n, and feed readers
     - Server and renderer written in something native (Dart or Rust?)
 - Static Site Hosting that doesn't suck (I'm upset with Netlify and Vercel)
-    - Configure headers
-    - Configure redirects/rewrites
+    - Configuration files compatible with Vercel/Firebase
     - Easily switch from other providers (eg. Netlify, Vercel)
     - Git-based builds
     - Quick rollbacks
@@ -105,6 +104,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for CalDav, CardDav, and WebDav
     - Web app should just add, show, and edit calendar events and contacts. WebDav should be very basic file management.
 - Anki client that's a bit prettier than the original
+    - The Linux app is basically unusual and I've only been able to study decks *properly* on macOS, which is a *humongous* PITA.
 - Alternative to Steam overlay
     - Would have to be really fast and responsive
     - Needs to work on basically any game™ (within reason ofc)
