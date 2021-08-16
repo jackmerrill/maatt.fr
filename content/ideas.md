@@ -128,6 +128,17 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for basic mail standards (IMAP/SMTP, JMAP; issue with Protonmail)
     - Easy method for taking your domain and inbox elsewhere
 
+- NPM but made right
+    - Cache ALL dependencies and symlink them to the modules folder
+- IMAP/SMTP server
+    - Just a thing to play in a language with
+- Find a way to make Git and/or PGP faster
+- Bring PGP to iOS
+    - Tweak for having it through that whisker like in Mail and Notes
+    - App (like PGPro and similr) that gives both simple info and nerd stats
+- An iOS mail app that doesn't suck
+    - Release both on the App Store and as an APT (jailbreak stores like Cydia, Zileo)
+
 ## Things completed
 - ~~Directory watcher~~ Deploy with GitHub hooks
     - Needed something that worked on all platforms, was lightweight, and would just work; Golang fit that bill for the most part.
