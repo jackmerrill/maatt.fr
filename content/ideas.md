@@ -127,7 +127,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for all sieve filters (issue with Protonmail)
     - Support for basic mail standards (IMAP/SMTP, JMAP; issue with Protonmail)
     - Easy method for taking your domain and inbox elsewhere
-
 - NPM but made right
     - Cache ALL dependencies and symlink them to the modules folder
 - IMAP/SMTP server
@@ -138,6 +137,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - App (like PGPro and similr) that gives both simple info and nerd stats
 - An iOS mail app that doesn't suck
     - Release both on the App Store and as an APT (jailbreak stores like Cydia, Zileo)
+- Maintain a DCA wrapper in Golang
+    - All the Golang wrappers I've seen are outdated and rely on older versions of FFmpeg
 
 ## Things completed
 - ~~Directory watcher~~ Deploy with GitHub hooks
