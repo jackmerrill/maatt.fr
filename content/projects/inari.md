@@ -1,5 +1,5 @@
 +++
-title = "Inari"
+title = "稲荷 (Inari)"
 slug = "inari"
 description = "A simple webhook updated to keep remotes up-to-date on every push to Git"
 date = "2021-08-11"
