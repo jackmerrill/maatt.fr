@@ -21,6 +21,7 @@ Some other places around the internet that I'm at are:
 - Flickr: [/doamatto](https://flickr.com/doamatto)
 - GitHub: [@doamatto](https://github.com/doamatto)
 - Itch: [doamatto](https://doamatto.itch.io)
+- MusicBrainz: [/user/doamatto](https://musicbrainz.org/user/doamatto)
 - Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
 - Steam: [/id/notnotdoamatto](https://steamcommunity.com/id/notnotdoamatto)
 - TapTap (for like two games): [ドアマット](https://www.taptap.io/user/375462982)
