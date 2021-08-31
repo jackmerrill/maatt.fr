@@ -20,6 +20,7 @@ Some other places around the internet that I'm at are:
 - DeviantArt: [doamatto](https://www.deviantart.com/doamatto)
 - Flickr: [/doamatto](https://flickr.com/doamatto)
 - GitHub: [@doamatto](https://github.com/doamatto)
+- Instagram: [@thetruedoormat](https://instagram.com/thetruedoormat) and @doamatto (the latter is name-squatting)
 - Itch: [doamatto](https://doamatto.itch.io)
 - MusicBrainz: [/user/doamatto](https://musicbrainz.org/user/doamatto)
 - Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
