@@ -139,6 +139,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Release both on the App Store and as an APT (jailbreak stores like Cydia, Zileo)
 - Maintain a DCA wrapper in Golang
     - All the Golang wrappers I've seen are outdated and rely on older versions of FFmpeg
+- Easily convert NoScript rules to uBlock or uMatrix
+    - uBlock uses less memory than NoScript, is faster, and less resource intesnive (YMMV)
 
 ## Things completed
 - ~~Directory watcher~~ Deploy with GitHub hooks
