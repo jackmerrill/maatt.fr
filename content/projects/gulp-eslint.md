@@ -11,7 +11,7 @@ date = "2021-02-02"
     status="released",
     date="02 February, 2021",
     title="Released several versions",
-    info="8 tagged releases, as of wriitng, have been made brining patches, dependency updates, and more to this amazing utility. I plan to start the TypeScript rewrite sometimes this month and release it sometime early March."
+    info="8 tagged releases, as of writing, have been made bringing patches, dependency updates, and more to this amazing utility. I plan to start the TypeScript rewrite sometimes this month and release it sometime early March."
   )}}
   {{item(
     status="progress",
