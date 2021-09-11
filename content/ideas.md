@@ -141,6 +141,9 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - All the Golang wrappers I've seen are outdated and rely on older versions of FFmpeg
 - Easily convert NoScript rules to uBlock or uMatrix
     - uBlock uses less memory than NoScript, is faster, and less resource intesnive (YMMV)
+- A user-friendly, but hackable Linux distro
+    - As user-friendly as elementary
+    - As hackable as something like Gentoo, Void, Arch
 
 ## Things completed
 - ~~Directory watcher~~ Deploy with GitHub hooks
