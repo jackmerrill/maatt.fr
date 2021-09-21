@@ -144,6 +144,36 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - A user-friendly, but hackable Linux distro
     - As user-friendly as elementary
     - As hackable as something like Gentoo, Void, Arch
+- Yet another Linktree/Songlink/FFM alternative
+    - Needs to be in some random native lang just for fun
+    - Fine to require reverse proxy for HTTPS
+    - Should support way too many platforms
+    - In a certain timeline? 24h? 7j?
+- An OSM app that doesn't suck
+    - Native UI in Swift and Kotlin (please change prior)
+    - Backend in something funky (Golang?)
+    - Updates database weekly, manual bypass
+    - Support for editing OSM
+- uBlock but for Safari
+    - Support for the same list syntax as uBlock to make plug and play
+    - Should import and export to uBlock compatible data
+    - Manually fetch rules by default, make it easy to change frequency
+- An OAUTH layer that goes zoom
+    - F\*ck Next-Auth and Auth0 and Magic and all those other things that are finky and weird to use
+    - Simple endpoints for logging in
+    - Simple methods for defining the callback
+    - Full control of GUI, no watermarking, et al.
+    - A sane and liberal amount of wrappers (React Native, Flutter, Swift, native JS, native C or similar)
+- Anonymous network solutions for Librewolf
+    - Proxies to Mozilla's normal servers sans analytics
+    - Support for DRM (needed for a lot of web apps), localisation, et al.
+    - Easily self-hostable
+- Auto updater for Choco/Scoop packages
+    - Makes patches, tags, and pushes to both Git and the respective package servers for approval
+- Simple new tab generator
+    - Get data that makes sense for you (weather, grades, et al.)
+    - Scraping tools for popular sites (eg. PowerSchool, Google, et al.)
+    - Integration with popular sites (eg. Google Classroom, Canvas, HotSchedules, et al.)
 
 ## Things completed
 - ~~Directory watcher~~ Deploy with GitHub hooks
