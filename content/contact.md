@@ -15,7 +15,6 @@ There are a few ways you can reach out to me, be it for a gig, questions about m
 Some other places around the internet that I'm at are:
 - Bandcamp
     - Solo: [doamatto](https://doamatto.bandcamp.com)
-    - Group:
     - Personal: [/doamatto](https://bandcamp.com/doamatto)
 - DeviantArt: [doamatto](https://www.deviantart.com/doamatto)
 - Flickr: [/doamatto](https://flickr.com/doamatto)
