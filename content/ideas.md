@@ -177,6 +177,10 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - Git-based CMS that doesn't suck
     - Crazy fast IOps
     - Secure endpoints for allowing client development (either with a standard or through compatible endpoints to other apps (ie. Ghost, WP, et al.)
+- Kaomoji client for iOS
+    - They took it out of the Japanese keyboard on iOS grr
+    - All the other apps have tracking bullsh\*t; they are literally just kaomojis, they don't need all the extra crap.
+    - Should be a native looking keyboard with a GUI that allows compatibility with things like macOS to have a mini dashboard for it.
 
 ## Things completed
 - ~~Directory watcher~~ Deploy with GitHub hooks
