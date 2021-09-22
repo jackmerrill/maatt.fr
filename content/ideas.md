@@ -174,6 +174,9 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Get data that makes sense for you (weather, grades, et al.)
     - Scraping tools for popular sites (eg. PowerSchool, Google, et al.)
     - Integration with popular sites (eg. Google Classroom, Canvas, HotSchedules, et al.)
+- Git-based CMS that doesn't suck
+    - Crazy fast IOps
+    - Secure endpoints for allowing client development (either with a standard or through compatible endpoints to other apps (ie. Ghost, WP, et al.)
 
 ## Things completed
 - ~~Directory watcher~~ Deploy with GitHub hooks
