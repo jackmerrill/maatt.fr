@@ -16,9 +16,12 @@
     /* Variables */
     --body-padding-y: calc(var(--unit));
     --body-padding-x: calc(var(--unit)*4);
-    @media (min-width: 600px) {
+    @media (max-width: 600px) {
         --body-padding-x: calc(var(--unit)*3);
         --body-padding-y: calc(var(--unit)*2);
+    }
+    @media (max-width: 1000px) {
+        --body-padding-y: calc(var(--unit)*4);
     }
     --body-max-width: calc(var(--unit)*152);
     --unit: calc(16px*0.5);
