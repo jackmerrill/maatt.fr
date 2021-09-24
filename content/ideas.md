@@ -6,11 +6,17 @@ description = "I get a lot of ideas of things I should make, this is a way I eas
 
 Although I don't mind if you do one of these before me, it's very likely I'll do all of these things myself. I'm an overachiever like that :P
 
+## Table of contents
+- [Ideas I have](/ideas)
+- [Ideas I've done](/archive/good-ideas)
+- [Ideas I won't do](/archive/bad-ideas)
+
+---
+
 - Steal Daniel's idea about making an ideas page at [cyckl.net/idea](https://cyckl.net) about logging ideas over time
 - WebExtensions done in WebAssembly
     - Things like uBlock would be that much more performant
     - Wrapper for Chrome and Firefox APIs in V/Nim/Zig
-- A binary which stores encrypted secrets then after decrypt loads into env vars for you (stolen from Daniel)
 - Engine that parses utility CSS frameworks
     - Written in Rust, Dart, or V so that it's one tiny, native bin
     - Plug-ins that have classes like Tailwind, Windi, a17t, et cetera
@@ -25,7 +31,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - Music search by location
     - Find artists based on a location you give
     - Searches Bandcamp first, then a platform like Spotify
-- Voting info app
+- Voting info ~~app~~ website
     - Find out where and when you can vote
     - Get a better understanding of who you're voting for
     - Get a better understanding of what you're voting for
@@ -44,11 +50,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - NFC between two phones
     - Easily sync a calendar event for a meetup time, with the phone numbers and emails of both parties
     - Easily share meeting notes with others
-    - Easily share business cards with a tap or QR code scan
-- Online dashboard
-    - See lots of numbers that mean just about nothing
-    - Plug-ins that let you slot in different data sources (eg. Plausible, YouTube, VK, et al)
-    - Requests are handled with serverless functions to keep things nice and quick (don't know how to do it without Next.js right now sadly; but I'm sure it's documented somewhere)
+    - Easily share business cards with a tap or QR code scan (similar to Cardhop cards)
 - Privacy friendly analytics
     - Only with a pixel/image (makes for much smaller file to use)
     - Collect basically a mirror of [Plausible](https://plausible.io), [Shynet](https://github.com/milesmcc/shynet), or [umami](https://umami.is/)
@@ -74,10 +76,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for major titles (Project Cars, Assetto Corsa, ETS2/ATS, et al)
     - Should have a nil effect on the perfomance of the game
     - Should have both basic information (for those who just want to keep track of times and general performance) to nerd stats
-- Daily my RPi
-    - Needs to still be able to do my normal tasks when just browsing the internet
-    - Should be able to « put to sleep », with the GUI and all those tools closing, leaving just my plex server
-    - Ideally, I just use a Mac Mini, but [Daniel got me thinking](https://cyckl.net/idea)
 - Make my own RPi/Arduino
     - Needs to be somewhat capable (YouTube videos, basic compilation, et al)
     - Needs to have decent I/O (USB-C, 1G ethernet, et al)
@@ -103,15 +101,10 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - DAV server thats [minimalist and opionated](https://miniflux.app/opinionated.html)
     - Support for CalDav, CardDav, and WebDav
     - Web app should just add, show, and edit calendar events and contacts. WebDav should be very basic file management.
-- Anki client that's a bit prettier than the original
-    - The Linux app is basically unusual and I've only been able to study decks *properly* on macOS, which is a *humongous* PITA.
 - Alternative to Steam overlay
     - Would have to be really fast and responsive
     - Needs to work on basically any game™ (within reason ofc)
     - Lightweight and unnoticable performance hit  
-- Pop-up web server
-    - Two flags: one for port, another for directory (if you want to specify)
-    - Written in Golang to experiment
 - Software repository generator
     - TOML config because why not
     - Takes TOML configs for apps and creates platform-specific packages (eg. Flatpak, DEB/APT, XBPS, et al)
@@ -157,6 +150,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - uBlock but for Safari
     - Support for the same list syntax as uBlock to make plug and play
     - Should import and export to uBlock compatible data
+    - Swift > JavaScript
     - Manually fetch rules by default, make it easy to change frequency
 - An OAUTH layer that goes zoom
     - F\*ck Next-Auth and Auth0 and Magic and all those other things that are finky and weird to use
@@ -168,9 +162,9 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Proxies to Mozilla's normal servers sans analytics
     - Support for DRM (needed for a lot of web apps), localisation, et al.
     - Easily self-hostable
-- Auto updater for Choco/Scoop packages
+- Auto updater for Choco/Scoop package sources
     - Makes patches, tags, and pushes to both Git and the respective package servers for approval
-- Simple new tab generator
+- Simple new tab dashboard
     - Get data that makes sense for you (weather, grades, et al.)
     - Scraping tools for popular sites (eg. PowerSchool, Google, et al.)
     - Integration with popular sites (eg. Google Classroom, Canvas, HotSchedules, et al.)
@@ -181,15 +175,3 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - They took it out of the Japanese keyboard on iOS grr
     - All the other apps have tracking bullsh\*t; they are literally just kaomojis, they don't need all the extra crap.
     - Should be a native looking keyboard with a GUI that allows compatibility with things like macOS to have a mini dashboard for it.
-
-## Things completed
-- ~~Directory watcher~~ Deploy with GitHub hooks
-    - Needed something that worked on all platforms, was lightweight, and would just work; Golang fit that bill for the most part.
-    - A watch tool wouldn't satisfy the needs exactly. This is a more practical solution for deployments to things such as public websites (try this one :P)
-    - [Released under the codename Fushimi.](https://github.com/doamatto/fushimi) Will not be `go get`-table.
-- Web server that just hosts files
-    - Hackable enough to do more advanced things like Nginx, but zero-config capable
-    - Lightweight af
-    - Single binary
-    - ~~Make it a Docker, while I'm at it~~ A bit redundant; can be made stackable easily regardless.
-    - [Released under the codename Imami.](https://github.com/doamatto/inari) Will not be `go get`-table.
