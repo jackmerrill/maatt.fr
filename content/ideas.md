@@ -43,15 +43,14 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - See how to properly travel with your firearm
 - Custom newspaper delivery service: custom RSS/Atom and JSON feeds with reliable sources based on your interests
 - NDA e-signing made simple
-- Live better tips
-    - Based on where you live
-    - Tips on how to live a healthier and better lifestyle
+- Tips to live a healthier or generally better app
+    - Based on where you live, which is provided by-user and processed on-device
 - Mobile data syncing
     - NFC between two phones
     - Easily sync a calendar event for a meetup time, with the phone numbers and emails of both parties
     - Easily share meeting notes with others
     - Easily share business cards with a tap or QR code scan (similar to Cardhop cards)
-- Privacy friendly analytics
+- Private analytics (f\*ck privacy-friendly)
     - Only with a pixel/image (makes for much smaller file to use)
     - Collect basically a mirror of [Plausible](https://plausible.io), [Shynet](https://github.com/milesmcc/shynet), or [umami](https://umami.is/)
     - Uses Redis (because I need an excuse try it)
@@ -78,10 +77,9 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Should have both basic information (for those who just want to keep track of times and general performance) to nerd stats
 - Make my own RPi/Arduino
     - Needs to be somewhat capable (YouTube videos, basic compilation, et al)
-    - Needs to have decent I/O (USB-C, 1G ethernet, et al)
+    - Needs to have decent I/O (USB-C, 1G ethernet, et al.)
     - Needs to be power efficient (ARM or similar)
-    - Likely needs its own derivative of the Linux kernel or similar
-      - POSIX compliance ofc
+    - Likely needs its own derivative of the Linux or UNIX-like kernel 
 - Audio driver for Windows and Linux to send to UPnP (specifically my Sonos)
     - Could make it work for macOS too, but I don't need to (AirPlay 2 would be faster afaik)
 - Assetto Corsa Server in Docker
@@ -154,10 +152,10 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Manually fetch rules by default, make it easy to change frequency
 - An OAUTH layer that goes zoom
     - F\*ck Next-Auth and Auth0 and Magic and all those other things that are finky and weird to use
-    - Simple endpoints for logging in
+    - Simple and sane endpoints for logging in
     - Simple methods for defining the callback
     - Full control of GUI, no watermarking, et al.
-    - A sane and liberal amount of wrappers (React Native, Flutter, Swift, native JS, native C or similar)
+    - ~~A sane and conservative amount of wrappers (React Native, Flutter, Swift, native JS, native C or similar)~~
 - Anonymous network solutions for Librewolf
     - Proxies to Mozilla's normal servers sans analytics
     - Support for DRM (needed for a lot of web apps), localisation, et al.
@@ -175,3 +173,42 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - They took it out of the Japanese keyboard on iOS grr
     - All the other apps have tracking bullsh\*t; they are literally just kaomojis, they don't need all the extra crap.
     - Should be a native looking keyboard with a GUI that allows compatibility with things like macOS to have a mini dashboard for it.
+- FOSS HotSchedules app
+    - I shouldn't have to pay 2,99 US$ for the luxury of having an easier way to view my schedules
+    - I'll probably still buy the app for feature comparsion
+    - [API for reference](http://docs.hotschedules.io/#rest-api-service)
+- FOSS Plex-compliant media server
+    - Should have same endpoints to work as a drop-in for an official Plex server
+    - Should be native and 64-bit (unlike Plex on Windows afaik)
+- Foobar2000 & GNOME Music extension for Plex servers
+    - Mostly just an excuse to play around with the extension systems
+- Self-hosted [Termius](https://www.termius.com/)
+- [Mint](https://mint.intuit.com/) but good
+- Health record logging app
+    - If your Apple ID is under an age (as far as I can tell), you can't link health records. This adds a middle ground for manually logging it from reports from your provider
+- MDM solution that's good on all platforms
+    - Think Meraki but cross-platform.
+    - Think Meraki but I don't have to cancel my grandfathered tier to switch regions.
+    - Please don't cancel my Meraki plan after I make this.
+- FOSS flight app
+    - I will quite literally gut this idea if Flighty just added trip passes (like Slopes) instead of having to do monthly or yearly subscriptions
+- A sane golden hour timer
+    - Most make you pay for specific times. Let's not.
+    - Fetch sun position from reputable organisation(s) (NASA? ESA? CNSA? JAXA? Roscosmos? ISRO? All of them?)
+- Online storefront tool
+    - Headless out-of-the-box
+    - Easy to install a simple, accessible theme
+    - Compatible with extensions from Shopify or WooCommerce (not a launch feature)
+    - Support to extend with payment systems
+      - Weixin/WeChat Pay & Alipay
+      - Amazon/Line Pay
+      - Apple/Google/Microsoft Pay
+      - Visa/Mastercard/AmEx/Discover Click to Pay
+      - Visa Checkout
+      - Stripe / Mollie / Payoneer
+      - PayPal
+      - Klarna/Afterpay
+      - Giropay
+      - Cartes Bancaires (Bank Cards, France)
+      - UnionPay
+      - PaySafeCard
