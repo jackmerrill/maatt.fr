@@ -3,10 +3,16 @@ title = "Nano"
 slug = "nano"
 description = "A Jekyll-based website template that just works."
 tag = "Active Development"
-date = "2020-12-20"
+date = "2021-09-27"
 +++
 
 <section id="timeline">
+  {{item(
+    status="eol",
+    title="Deprecated.",
+    date="27 September, 2021",
+    info="This was one of my first large projects, and I'm proud to have seen it to well over 8.100 downloads, as of writing. After I publish the final version of RubyGems, Nano will be officially deprecated."
+  )}}
   {{item(
     status="eol",
     title="Nearing end-of-life",
