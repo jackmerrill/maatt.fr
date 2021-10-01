@@ -212,3 +212,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
       - Cartes Bancaires (Bank Cards, France)
       - UnionPay
       - PaySafeCard
+- xBrowserSync server in Golang using `database/sql`
+- xBrowserSync client for Safari
+    - Would be dope to support iOS 15 WebExtensions
+    - Written in Swift (ofc)
