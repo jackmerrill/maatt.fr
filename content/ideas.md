@@ -216,3 +216,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - xBrowserSync client for Safari
     - Would be dope to support iOS 15 WebExtensions
     - Written in Swift (ofc)
+- Minimal xBrowserSync client for WebExtensions browsers (Chrome et Firefox)
+    - Configure settings through the native panel
+    - Out of sight, out of mind
