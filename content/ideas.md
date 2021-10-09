@@ -219,3 +219,9 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 - Minimal xBrowserSync client for WebExtensions browsers (Chrome et Firefox)
     - Configure settings through the native panel
     - Out of sight, out of mind
+- FOSS DMV test prep app
+- Proxy for Google Forms (straight to Sheets or auto-submitted for you in one server-side request)
+- FOSS alternative to Google Forms
+  - Not like the piss-poor blockchain ones
+  - Feature parity
+  - Export data to whatever suits your fancy
