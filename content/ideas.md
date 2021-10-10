@@ -225,3 +225,4 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Not like the piss-poor blockchain ones
   - Feature parity
   - Export data to whatever suits your fancy
+- Native Passbolt CLI client
