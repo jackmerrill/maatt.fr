@@ -5,7 +5,9 @@ description="Salut, I'm Matt Ronchetto. I'm a high school student in San Diego, 
 +++
 
 Salut, I'm Matt. I'm a high school student in San Diego, CA that enjoys programming, [writing,](/blog) and way too many other things to count. I'm currently working on:
-- developing a better office suite with my friend [Daniel](https://cyckl.net); and:
+- developing a better office suite with my friend [Daniel](https://cyckl.net),
+- leading web design and development at [Inkjar](https://inkjar.github.io) (link is dead currently),
+- being a host at Chili's so I can somewhat afford student loans; and:
 - creating software that's out of this world and being the French counterpart to [Lunar Design](https://github.com/designbylunar) with [Jack](https://jackmerrill.com).
 
 ## My interests
