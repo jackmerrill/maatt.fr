@@ -226,3 +226,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Feature parity
   - Export data to whatever suits your fancy
 - Native Passbolt CLI client
+- FOSS iOS tasks app
+  - Syncs with common backends (WebDAV? Toodledo?) if wanted
+  - Proprietary™ JSON-based backend available for those who want to self-host
+    - Might need more clients for other OSes if I go with this harder
+  - KISS with lovability of Pocket Lists
