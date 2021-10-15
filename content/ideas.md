@@ -231,3 +231,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Proprietary™ JSON-based backend available for those who want to self-host
     - Might need more clients for other OSes if I go with this harder
   - KISS with lovability of Pocket Lists
+- FOSS grades app
+  - Adopts similar styling as stocks with colours and graphs to show grades outside of just a number
+  - Integrated with Canvas, PowerSchool, Google Classroom (BYOT?)
+  - Works with student accounts (cough cough PowerSchool)
+  
