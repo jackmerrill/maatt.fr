@@ -235,4 +235,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Adopts similar styling as stocks with colours and graphs to show grades outside of just a number
   - Integrated with Canvas, PowerSchool, Google Classroom (BYOT?)
   - Works with student accounts (cough cough PowerSchool)
+- School schedule app
+  - Integration with Siri Shortcuts for fun
+  - Lets you set locations, names, times
+  - Custom days for things like minimum days
   
