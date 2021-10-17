@@ -1,13 +1,15 @@
 {% extends "base.html" %}
 
 {% block content %}
-<aside>
-    <img src="/img/profile.jpg" loading="lazy" />
-    <p>
-        <a href="https://github.com/doamatto">GitHub /doamatto</a><br/>
-        <a href="https://www.linkedin.com/in/matthewronchetto">Linkedin /in/matthewronchetto</a><br/>
-        <a href="mailto:hello@doamatto.xyz">Email hello@doamatto.xyz</a><br/>
-    </p>
-</aside>
-<div class="readable">{{page.content | safe}}</div>
+<div class="adj">
+  <aside class="bio">
+      <img src="/img/profile.jpg" loading="lazy" />
+      <p class="links">
+          <a href="https://github.com/doamatto">GitHub /doamatto</a><br/>
+          <a href="https://www.linkedin.com/in/matthewronchetto">CV /in/matthewronchetto</a><br/>
+          <a href="mailto:hello@doamatto.xyz">Email hello@doamatto.xyz</a><br/>
+      </p>
+  </aside>
+  <div>{{page.content | safe}}</div>
+</div>
 {% endblock content %}
