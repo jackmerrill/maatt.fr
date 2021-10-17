@@ -10,7 +10,6 @@ My name’s **Matt Ronchetto** (I go by `ドアマット` or `doamatto`) and **I
 I currently **work part-time at [Chili’s](https://chilis.com)** as a host and **work as the web administrator and web branch manager [at Inkjar.](https://inkjar.org)**
 
 In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and videos to edit together. I spend a lot of time listening to music with some of my favourite songs coming from artists like Joji, Bibi, and Yaeji.<br/>
-
 [See what I’ve been working on &rarr;](/projects)
 
 I’m an avid audiophile and general tech know-it-all. I'm an activist for digital rights and accessibility standards like WCAG and general data privacy and security. **I want to take a deep dive into PCB design and further my knowledge of network management and the inner workings of the Linux kernel.**
@@ -19,7 +18,7 @@ I’m an avid audiophile and general tech know-it-all. I'm an activist for digit
 
 ### Nerd facts
 
-This website was designed to be simple, yet nice looking. It’s preprocessed by Zola and hosted on Vercel. It’s distributed globally by Cloudflare, which I may (or may not) regret.
+This website was designed to be simple, yet nice looking. It’s preprocessed by Zola and hosted on AWS Amplify. It’s distributed globally by Cloudflare, which I may (or may not) regret.
 
 I designed this site with screen readers and text-based browsers in mind. As a user of a screen reader, I wanted to make sure that, if I wanted to use my screen without my glasses, I could.
 
