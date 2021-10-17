@@ -230,6 +230,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Syncs with common backends (WebDAV? Toodledo?) if wanted
   - Proprietary™ JSON-based backend available for those who want to self-host
     - Might need more clients for other OSes if I go with this harder
+    - JMAP is making a tasks standard actually; might use that instead as an alternative
   - KISS with lovability of Pocket Lists
 - FOSS grades app
   - Adopts similar styling as stocks with colours and graphs to show grades outside of just a number
@@ -239,4 +240,4 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Integration with Siri Shortcuts for fun
   - Lets you set locations, names, times
   - Custom days for things like minimum days
-  
+- 
