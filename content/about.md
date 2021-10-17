@@ -20,6 +20,8 @@ I'm an avid audiophile and general tech know-it-all. I'm an activist for digital
 
 This website was designed to be simple, yet nice looking. It's preprocessed by Zola and hosted on Vercel. It's distrubted globally by Cloudflare, which I may (or may not) regret.
 
+This site was designed with screen readers and text-based browsers in mind. As a user of a screen reader, I wanted to make sure that, if for some reason I wanted to use my screen without my glasses, I could.
+
 ---
 
 ### Programming
