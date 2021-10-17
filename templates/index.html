@@ -22,7 +22,7 @@
     <div>
         <h2>Projects</h2>
         {% set feed = get_section(path="projects/_index.md")%}
-        {% for page in feed.pages | slice(end=5) %}
+        {% for page in feed.pages | slice(end=6) %}
             <article class="post">
                 <a href="{{ page.permalink }}" title="{{page.title}}">
                     <h3>{{page.title}}</h3>
