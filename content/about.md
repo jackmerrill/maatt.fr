@@ -27,4 +27,3 @@ This site was designed with screen readers and text-based browsers in mind. As a
 ### Programming
 
 I've messed around with software and programming for about the past 7 years or so now. I've dabbled in tonnes of languages but always find myself coming back to Golang and JavaScript. I plan to learn Haskell and C in the near future, as well as Assembly. Anything I make that's public is likely on [GitHub](https://github.com/doamatto) or [Sourcehut.](https://sr.ht/~doamatto/)
-
