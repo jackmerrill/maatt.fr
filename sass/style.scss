@@ -192,22 +192,22 @@ nav {
 }
 
 .post {
-    a {
-        &:hover,
-        &:focus {
-            color: white;
-            h3,
-            p { background: black; }
-            @media (prefers-color-scheme: 'dark') {
-                color: black;
-                h3,
-                p { background: white; }
-            }
-        }
-        text-decoration: none;
-        font-weight: bold;
-        transition: none;
-    }
+  a {
+      &:hover,
+      &:focus {
+          color: white;
+          h3,
+          p { background: black; }
+          @media (prefers-color-scheme: 'dark') {
+              color: black;
+              h3,
+              p { background: white; }
+          }
+      }
+      text-decoration: none;
+      font-weight: bold;
+      transition: none;
+  }
 }
 
 .himg {
