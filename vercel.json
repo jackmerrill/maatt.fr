@@ -58,14 +58,6 @@
       "destionation": "/archive/support",
       "permanent": true"
     }, {
-      "source": "/favourites",
-      "destination": "/music",
-      "permanent": true
-    }, {
-      "source": "/privacy/southpine-wrappers",
-      "destination": "/projects/southpine-wrappers#privacy-statement",
-      "permanent": true
-    }, {
       "source": "/privacy/southpine-wrappers",
       "destination": "/projects/southpine-wrappers#privacy-statement",
       "permanent": true
@@ -95,10 +87,6 @@
     }, {
       "source": "/stack",
       "destination": "/uses",
-      "permanent": true
-    }, {
-      "source": "/favorites",
-      "destination": "/music",
       "permanent": true
     }, {
       "source": "/sitemap",
