@@ -40,6 +40,7 @@ body {
     max-width: var(--body-max-width);
 }
 
+aside > img { max-width: 100%; }
 
 #timeline {
     .date {
@@ -95,17 +96,6 @@ footer {
         &:focus {
             color: var(--purple);
         }
-    }
-}
-
-.use-grid {
-    @include feed-grid;
-    grid-template-columns: repeat(2, minmax(0,1fr));
-    @media (min-width: 640px) {
-        grid-template-columns: repeat(3, minmax(0,1fr));
-    }
-    @media (min-width: 1024px) {
-        grid-template-columns: repeat(4, minmax(0,1fr));
     }
 }
 
@@ -203,11 +193,9 @@ nav {
     }
 }
 
-.hoverImg {
+.himg {
     display: none;
     width: 8rem;
     height: 8rem;
 }
-.hoverImgLink:hover + .hoverImg {
-    display: block;
-}
+.himgl:hover + .himg { display: block; }

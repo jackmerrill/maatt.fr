@@ -1,7 +1,7 @@
 {  
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "*.*",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
@@ -44,10 +44,20 @@
           "value": "1; mode=block"
         }
       ]
+    }, {
+      "source": "**/*.@(jpg|jpeg|gif|png|webp)",
+      "headers": [{
+        "key": "Cache-Control",
+        "value": "max-age=7200"
+      }]
     }
   ],
   "redirects": [
     {
+      "source": "/support",
+      "destionation": "/archive/support",
+      "permanent": true"
+    }, {
       "source": "/favourites",
       "destination": "/music",
       "permanent": true
@@ -65,21 +75,21 @@
       "permanent": true
     },
     {
-      "source": "/updates/mello/:slug*",
+      "source": "/updates/mello/**",
       "destination": "/projects/mello",
       "permanent": true
     },
     {
-      "source": "/updates/swift/:slug*",
+      "source": "/updates/swift/**",
       "destination": "/projects/swift",
       "permanent": true
     },
     {
-      "source": "/updates/hex/:slug*",
+      "source": "/updates/hex/**",
       "destination": "/projects/mono",
       "permanent": true
     }, {
-      "source": "/updates/nano/:slug*",
+      "source": "/updates/nano/**",
       "destination": "/projects/nano",
       "permanent": true
     }, {
@@ -94,19 +104,19 @@
       "source": "/sitemap",
       "destination": "/sitemap.xml"
     }, {
-      "source": "/updates%20projects/:date*/southnode",
+      "source": "/updates%20projects/**/southnode",
       "destination": "/projects/southpine-wrappers",
       "permanent": true
     }, {
-      "source": "/updates%20projects/:date*/southpy",
+      "source": "/updates%20projects/**/southpy",
       "destination": "/projects/southpine-wrappers",
       "permanent": true
     }, {
-      "source": "/updates%20projects/:date*/5mloading",
+      "source": "/updates%20projects/**/5mloading",
       "destination": "/projects/5mloading",
       "permanent": true
     }, {
-      "source": "/updates%20projects/:date*/ppg",
+      "source": "/updates%20projects/**/ppg",
       "destination": "https://github.com/doamatto/phone-passcode-gen",
       "permanent": true
     }, {
@@ -125,6 +135,10 @@
     }, {
       "source": "/bashin",
       "destination": "/archive/bashin",
+      "permanent": true
+    }, {
+      "source": "/rss",
+      "destination": "/atom.xml",
       "permanent": true
     }
   ]

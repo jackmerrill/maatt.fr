@@ -4,9 +4,6 @@
 
 {% block title %}{{section.title}} - doamatto{% endblock title %}
 {% block description %}{{ section.description | default(value=config.description) }}{% endblock description %}
-{% block ogtitle %}{{ section.title }} - doamatto{% endblock ogtitle %}
-{% block ogdesc %}{{ section.description }}{% endblock ogdesc %}
-{% block ogurl %}{{ section.permalink | safe }}{% endblock ogurl%}
 
 {% block content %}
 <h1 class="title">
