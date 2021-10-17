@@ -2,8 +2,9 @@
 
 This utilises:
 - **Zola** for page compilation,
-- **Vercel** for hosting; and:
-- **GitHub Actions/SonarCloud** for code quality.
+- **AWS Amplify** for hosting,
+- **Cloudflare** for load balancing; and:
+- **GitHub Actions, SonarCloud, and AccessLint** for code quality.
 
 ## Building
 1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
