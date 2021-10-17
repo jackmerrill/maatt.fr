@@ -5,14 +5,14 @@ template="about.html"
 
 ## Salut!
 
-My name's Matt Ronchetto (I go by `ドアマット` or `doamatto`) and I'm a high schooler living in San Diego, CA. I enjoy engineering, be it computer or otherwise, and photography.
+My name's **Matt Ronchetto** (I go by `ドアマット` or `doamatto`) and **I'm a high schooler living in San Diego**, CA. I enjoy engineering, be it computer or otherwise, and photography.
 
-I currently work part-time at [Chili's](https://chilis.com) as a host and work as the web administrator and web branch manager [at Inkjar.](https://inkjar.org)
+I currently **work part-time at [Chili's](https://chilis.com)** as a host and **work as the web administrator and web branch manager [at Inkjar.](https://inkjar.org)**
 
-In my spare time, I experiment with different programming languages and libraries, as well as love shooting pictures and videos to edit together. I spend a lot of time listening to music, as well, with some of my favourite songs coming from artists like Joji, Bibi, and Yaeji.<br/>
+In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and videos to edit together. I spend a lot of time listening to music, as well, with some of my favourite songs coming from artists like Joji, Bibi, and Yaeji.<br/>
 [See what I've been working on &rarr;](/projects)
 
-I'm an avid audiophile and general tech know-it-all. I want to take a deep dive into PCB design as well as further my knowledge into network management and the inner workings on the Linux kernel.
+I'm an avid audiophile and general tech know-it-all. I'm an activist for digital accessibility and rights, such as WCAG colours, data privacy and security, and screen reader friendliness. **I want to take a deep dive into PCB design as well as further my knowledge into network management and the inner workings on the Linux kernel.**
 
 ---
 
