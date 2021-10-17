@@ -40,7 +40,24 @@ body {
     max-width: var(--body-max-width);
 }
 
-aside > img { max-width: 100%; }
+.adj {
+  display: flex;
+  aside {
+    img { max-width: 100%; }
+  }
+  div > :first-child { margin-top: 0; }
+  @media(min-width: 600px) {
+    flex-direction: row;
+    .bio > .links {
+      font-weight: 600;
+      font-size: 1.2rem;
+    }
+    aside {
+      margin-right: 2rem;
+      img { max-width: 100%; }
+    }
+  }
+}
 
 #timeline {
     .date {
