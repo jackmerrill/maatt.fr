@@ -182,6 +182,13 @@ nav {
     opacity: .8;
 }
 
+/*@media (min-width: 600px) {
+  .feed {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0,1fr));
+  }
+}*/
+
 .feeds {
     @include feed-grid;
     justify-content: center;
@@ -192,6 +199,7 @@ nav {
 }
 
 .post {
+  // margin: 0 .5rem;
   a {
       &:hover,
       &:focus {
