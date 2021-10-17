@@ -41,12 +41,12 @@ body {
 }
 
 .adj {
-  display: flex;
   aside {
     img { max-width: 100%; }
   }
-  div > :first-child { margin-top: 0; }
   @media(min-width: 650px) {
+    div > :first-child { margin-top: 0; }
+    display: flex;
     flex-direction: row;
     .bio > .links {
       font-weight: 600;
