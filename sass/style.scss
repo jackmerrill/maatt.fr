@@ -43,15 +43,14 @@ body {
 .adj {
   aside {
     img { max-width: 100%; }
+  .bio > .links {
+    font-weight: 600;
+    font-size: 1.2rem;
   }
   @media(min-width: 650px) {
     div > :first-child { margin-top: 0; }
     display: flex;
     flex-direction: row;
-    .bio > .links {
-      font-weight: 600;
-      font-size: 1.2rem;
-    }
     aside {
       margin-right: 2rem;
       hr { display: none; }
