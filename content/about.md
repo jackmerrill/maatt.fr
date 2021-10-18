@@ -5,7 +5,7 @@ template="about.html"
 
 ## Salut!
 
-My name’s **Matt Ronchetto** (I go by `ドアマット` or `doamatto`) and **I’m a high schooler living in San Diego**, CA. I enjoy engineering, be it computer or otherwise, and photography.
+My name’s **Matt Ronchetto** (I go by `ドアマット` or `doamatto`) and **I’m a high schooler living in San Diego.** I enjoy engineering, be it computer or otherwise, and photography.
 
 I currently **work part-time at [Chili’s](https://chilis.com)** as a host and **work as the web administrator and web branch manager [at Inkjar.](https://inkjar.org)**
 
