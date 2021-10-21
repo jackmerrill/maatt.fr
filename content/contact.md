@@ -19,6 +19,7 @@ Some other places around the internet that I'm at are:
 - Behance: [@doamatto](https://be.net/doamatto)
 - Flickr: [/doamatto](https://flickr.com/doamatto)
 - GitHub: [@doamatto](https://github.com/doamatto)
+- GOG: [/u/doamatto](https://www.gog.com/u/doamatto)
 - Instagram: [@thetruedoormat](https://instagram.com/thetruedoormat) and @doamatto (the latter is name-squatting)
 - Itch: [doamatto](https://doamatto.itch.io)
 - MusicBrainz: [/user/doamatto](https://musicbrainz.org/user/doamatto)
