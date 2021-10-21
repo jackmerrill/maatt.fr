@@ -181,12 +181,15 @@ nav {
     opacity: .8;
 }
 
-/*@media (min-width: 600px) {
+@media (min-width: 600px) {
   .feed {
     display: grid;
     grid-template-columns: repeat(2, minmax(0,1fr));
   }
-}*/
+}
+@media(min-width: 1000px) {
+    .feed { grid-template-columns: repeat(3, minmax(0,2fr)); }
+}
 
 .feeds {
     @include feed-grid;
