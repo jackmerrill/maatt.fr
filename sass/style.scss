@@ -18,15 +18,9 @@ body {
         color: black;
     }
     background: #f7f7f7;
-    font-family: system-ui,
-                 -apple-system,
-                 Segoe UI,
-                 Roboto,
-                 Helvetica,
-                 Arial,
-                 sans-serif,
-                 Apple Color Emoji,
-                 Segoe UI Emoji;
+    font-family: Inter,
+                 system-ui,
+                 sans-serif;
     p { line-height: 1.5rem; }
     article a p,
     article p { line-height: 1rem; }
@@ -96,25 +90,6 @@ footer {
     }
 }
 
-.item {
-    background: #383838;
-    @media (prefers-color-scheme: 'dark') { background: #111827; }
-    border-radius: .25rem;
-    padding: 1rem;
-    @include transition;
-    a {
-        color: #e6e1dc;
-        text-decoration: none;
-        img {
-            border-radius: .25rem;
-        }
-        &:hover,
-        &:focus {
-            color: var(--purple);
-        }
-    }
-}
-
 .readable {
     margin: 1rem auto;
     img { max-width: 100%; }
@@ -164,6 +139,7 @@ nav {
                         stroke: var(--purple);
                     }
                 }
+                background: none;
             }
             svg path {
                 @include transition;
@@ -201,7 +177,6 @@ nav {
 }
 
 .post {
-  // margin: 0 .5rem;
   a {
       &:hover,
       &:focus {
