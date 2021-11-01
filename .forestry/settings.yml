@@ -27,8 +27,10 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  install_dependencies_command: npm install
-  preview_docker_image: forestryio/node:12
-  mount_path: "/srv"
+  preview_output_directory: out
+  preview_docker_image: balthek/zola:0.14.0
+  mount_path: public
   working_dir: "/srv"
-  instant_preview_command: npm run develop
+  instant_preview_command: docker run -u "$(id -u):$(id -g)" -v $PWD:/app --workdir
+    /app -p 8080:8080 -p 1024:1024 balthek/zola:0.14.0 serve --interface 0.0.0.0 --port
+    8080 --base-url localhost
