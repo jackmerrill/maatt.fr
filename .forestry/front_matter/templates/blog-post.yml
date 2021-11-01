@@ -7,6 +7,13 @@ fields:
   config:
     required: true
   label: Title
+- name: description
+  type: text
+  config:
+    required: false
+    min: 80
+    max: 140
+  label: Description
 - name: date
   type: datetime
   label: Publication date
@@ -18,3 +25,30 @@ fields:
     display_utc: false
     export_format: ''
   default: now
+- name: updated
+  type: datetime
+  label: Last updated
+  description: ''
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: HH:MM
+    display_utc: false
+  default: '2021-11-01T11:14:32-07:00'
+- name: draft
+  type: boolean
+  label: Draft?
+  description: Indicate if this post is a draft or not
+  default: false
+- name: slug
+  type: text
+  config:
+    required: true
+  label: slug
+- name: template
+  type: text
+  config:
+    required: true
+  label: Template
+  description: Leave as default.
+  default: post.html
