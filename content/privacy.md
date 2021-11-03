@@ -12,7 +12,7 @@ I use **Amazon Web Services** to host this website. Using AWS Amplify, I have th
 
 Sites starting in `https://gh.git.doamatto.xyz` and `https://sr.git.doamatto.xyz` are **hosted on GitHub Pages and Sourcehut Pages, respectively.** You can see GitHub's subprocessors [here.](https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies) As of writing, Sourcehut does not disclose their subprocessors.
 
-This site is **piped through Cloudflare's servers for caching and load balancing.* You can see their subprocessors [here.](https://www.cloudflare.com/gdpr/subprocessors/) 
+This site is **piped through Cloudflare's servers for caching and load balancing.** You can see their subprocessors [here.](https://www.cloudflare.com/gdpr/subprocessors/) 
 
 ## Analytics
 **Cloudflare collects some information for analytial purposes.** You can read what exactly [in their privacy policy.](https://cloudflare.com/privacypolicy/) **I don't use or share this data with any third-parties.**
