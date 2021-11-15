@@ -13,7 +13,8 @@ I currently **work part-time at [Chili’s](https://chilis.com)** as a host and 
 In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and videos to edit together. I spend a lot of time listening to music with some of my favourite songs coming from artists like Joji, Bibi, and Yaeji.<br/>
 [See what I’ve been working on &rarr;](/projects)
 
-I’m an avid audiophile and general tech know-it-all. I'm an activist for digital rights and accessibility standards like WCAG and general data privacy and security. **I want to take a deep dive into PCB design and further my knowledge of network management and the inner workings of the Linux kernel.**
+I’m an avid audiophile and general tech know-it-all. I'm an activist for digital rights and accessibility standards like WCAG, as well as general data privacy and security. **I want to take a deep dive into PCB design and further my knowledge of network management and the inner workings of the Linux kernel.**<br/>
+[See what I've been learning and following &rarr;](/blog)
 
 **I'm a peer tutor at my high school,** specialising in English and History, with plans to expand into 9th and 10th grade math. **I also help run the audio and visual works for assemblies and other school events,** as well as document it for the school's internal news network.
 
