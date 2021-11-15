@@ -28,9 +28,13 @@ Assuming however that their ability to stay powerful on battery and match the ch
 Seeing that familiar port made my heart skip a beat and reminded me of back in 2009 when I had a MacBook with the same crevice. They created a device that I can truly say is a Pro laptop again.
   
 **Keyboard-** The touchbar is dead. I am okay with this. The function keys are back but they are oddly large in my opinion. It's actually almost unsettlingly large to the point that it might be a killer for me considering this laptop.
+
 **Ports-** The return of HDMI and the SD card slot, as well as MagSafe is more than welcomed. It would have been dope to see a USB-A port as well, but this is a compromise I'm more than willing to have.
+
 **Display-** I don't know if I quite approve of the notch. Although it won't have any issues in videos or with programs, it does take some things out of full-screen apps and games, in theory. The refresh rate bump on the MBP actually means that Apple has brought high refresh rate to all of their devices, sans the Pro Display (afaik). Speaking of: the MBP's screen is the same mini-LED on the Pro Display and iPad, meaning it should display HDR content breathlessly, as well as everything else. It peaks at 1600 nits and can sustain 1000. If they introduced say Face ID with the notch, then I would be very much fine with it.
+
 **Cameras and microphones-** The new 1080p camera is great upgrade, which should allow for great image quality for calls. The microphones should sound generally solid, same with the speakers. If you care about proper sound and quality, you already know these won't cut it fidelity-wise. 
+
 **Performance and battery life-** In theory, we're looking at crazy better performance compared to their former Intel counterparts. Their advertising of up to 64Go of memory for the GPU is honestly a general load of waffle since it's shared, just like normal integrated graphics, with the system memory, even if it's tied together into one SoC. Battery life is of course vaguely put, but they estimate 17 hours of usage (21 on 16"). They didn't mention overall life (unless I was deaf at that time). The batteries also can charge to 50% after 30 minutes, which is really solid.
 
 These new laptops are generally breathtaking. The 14-inch starts at 1999 US$ and the 16-inch at 2499 US$. There is the catch that the 64Go of memory is only on the M1 Max SKUs, not the M1 Pros.
