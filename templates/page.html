@@ -4,11 +4,13 @@
 {% block description %}{{ page.description | default(value=config.description) }}{% endblock description %}
 
 {% block content %}
-<h1 class="title">
-  {{ page.title }}
-</h1>
-<p class="subtitle"><strong>{{ page.date }}</strong></p>
-<div class="readable">
-  {{ page.content | safe }}
+<div class="rdbl">
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.date %}<h3>{{ page.date | date(format="%e %B, %Y") }}</h3>{% endif %}
+  </header>
+  <main>
+    {{ page.content | safe }}
+  </main>
 </div>
 {% endblock content %}

@@ -4,16 +4,13 @@
 {% block description %}{{ page.description | default(value=config.description) }}{% endblock description %}
 
 {% block content %}
-<h1 class="title">
-  {{ page.title }}
-</h1>
-<p class="subtitle">
-  {{page.reading_time}} min read &bull; {{ page.date | date(format="%e %B, %Y") }}.
-</p>
-<div class="readable">
-  {{ page.content | safe }}
-  {% if page.updated %}
-  <p class="disclaimer">Last modified {{ page.updated | date(format="%e %B, %Y") }}.</p>
-  {% endif %}
+<div class="rdbl">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <h3>{{page.reading_time}} min read &bull; {{ page.date | date(format="%e %B, %Y") }}.</h3>
+  </header>
+  <main>
+    {{ page.content | safe }}
+  </main>
 </div>
 {% endblock content %}
