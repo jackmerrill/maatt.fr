@@ -5,22 +5,25 @@
 @media (prefers-color-scheme: dark) { html { background-color: #181a1b; } }
 html,
 body {
-    a {
-        &:hover,
-        &:focus {
-            color: var(--purple-l);
-            opacity: 1 !important;
-            @media(prefers-color-scheme: 'dark') {
-                color: var(--purple);
-            }
-        }
-        @include transition;
-        color: black;
-    }
-    background: #f7f7f7;
     font-family: Inter,
                  system-ui,
                  sans-serif;
+    a {
+        color: inherit;
+        text-underline-offset: .2rem;
+        text-decoration-thickness: .125rem;
+        &:hover,
+        &:focus {
+            background: #f2f2f2;
+            opacity: 1 !important;
+            @media(prefers-color-scheme: 'dark') {
+                //background: #111827;
+                background: #4e4c4f;
+                //color: var(--purple);
+            }
+        }
+        @include transition;
+    }
     p { line-height: 1.5rem; }
     article a p,
     article p { line-height: 1rem; }
@@ -113,6 +116,20 @@ nav {
             margin-top: .9rem;
             margin-bottom: .9rem;
             padding: .5rem;
+            a {
+                text-decoration: none;
+                font-weight: 700;
+                text-decoration-color: rgba(0,0,0,0);
+                @include transition;
+                &:hover,
+                &:focus {
+                    background: none;
+                    text-decoration: underline;
+                    text-underline-offset: .3rem;
+                    text-decoration-thickness: .125rem;
+                    text-decoration-color: initial;
+                }
+            }
         }
         li.home {
             &:hover,
@@ -164,20 +181,21 @@ nav {
 
 .post {
   a {
-      &:hover,
-      &:focus {
-          color: white;
-          h3,
-          p { background: black; }
-          @media (prefers-color-scheme: 'dark') {
-              color: black;
-              h3,
-              p { background: white; }
-          }
-      }
-      text-decoration: none;
-      font-weight: bold;
-      transition: none;
+    color: inherit;
+    &:hover,
+    &:focus {
+        color: white;
+        h3,
+        p { background: black; }
+        @media (prefers-color-scheme: 'dark') {
+            color: black;
+            h3,
+            p { background: white; }
+        }
+    }
+    text-decoration: none;
+    font-weight: bold;
+    transition: none;
   }
 }
 
