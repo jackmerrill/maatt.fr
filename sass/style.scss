@@ -74,6 +74,10 @@ footer {
 
 .readable {
     margin: 1rem auto;
+    ul > li {
+        padding-top: .3rem;
+        padding-bottom: .3rem;
+    }
     img { max-width: 100%; }
 }
 
