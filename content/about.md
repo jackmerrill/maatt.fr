@@ -32,4 +32,4 @@ I designed this site with screen readers and text-based browsers in mind. As a u
 
 ### Programming
 
-I’ve messed around with software and programming for about the past 7 years or so now. I’ve dabbled in tons of languages but always come back to Golang and JavaScript. I'm currently learning Haskell and Swift, and I plan to learn C and Assembly. Anything I make that’s public is likely on [GitHub](https://github.com/doamatto) or [Sourcehut.](https://sr.ht/~doamatto/)
+I’ve messed around with software and programming for about the past 7 years or so now. I’ve dabbled in tons of languages but always come back to Golang and JavaScript. I'm currently learning Haskell and Swift, and I plan to learn C and Assembly. Anything I make that’s public is likely on [Sourcehut](https://sr.ht/~doamatto/) or [GitHub.](https://github.com/doamatto)
