@@ -72,28 +72,33 @@ footer {
     }
 }
 
-.readable {
-    margin: 1rem auto;
+header {
+    text-align: center;
+    h1 {
+        font-size: 3rem;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    h3 { opacity: .8; }
+    p {
+        line-height: 1.25;
+        font-size: 1.25rem;
+    }
+}
+.rdbl {
+    h1 {
+        font-size: 3rem;
+        margin-top: 0;
+    }
+    h2 {
+        font-size: 2rem;
+        margin-bottom: 0;
+    }
     ul > li {
         padding-top: .3rem;
         padding-bottom: .3rem;
     }
     img { max-width: 100%; }
-}
-
-.title {
-    text-align: center;
-    font-size: 3rem;
-    margin-top: 0;
-}
-.subtitle {
-    text-align: center;
-    line-height: 1.25;
-    font-size: 1.25rem;
-    .disclaimer {
-        font-style: normal;
-        font-size: 1rem;
-    }
 }
 
 nav {
