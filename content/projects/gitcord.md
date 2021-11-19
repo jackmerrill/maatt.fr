@@ -2,36 +2,8 @@
 title = "GitCord"
 slug = "gitcord"
 description = "A bot that allows users to search repositories via GitHub's API"
-tag = "Transfered elsewhere"
 date = "2021-01-23"
 +++
-
-<section id="timeline">
-  {{item(
-    status="eol",
-    date="23 January, 2021",
-    title="Transfered repository to DevingOnDiscord",
-    info="I focused on developing something that would get the job done. That was really my only priority. I don''t plan to contribute anymore to GitCord because there's really no need for me to."
-  )}}
-  {{item(
-    status="released",
-    date="23 January, 2021",
-    title="v0.1.0 unofficially releases"
-  )}}
-  {{item(
-    status="active",
-    date="21 January, 2021",
-    title="Started development"
-  )}}
-  {{item(
-    status="progress",
-    date="19 January, 2021",
-    title="Conceptialised idea"
-  )}}
-</section>
-
-### Useful links
-- [GitCord repo](https://github.com/softwarehubgg/gitcord-discord-bot)
 
 ---
 
@@ -53,3 +25,5 @@ GitCord is a Discord bot that allows people to search for repositories via GitHu
   - the parsed query in step 2 in the form of a search to see other results that were excluded.
 
 Overall, there are some flaws with how the bot operates that may be addressed by current maintainers, such as missing types (with the infamous `TSFixMe` as a placeholder) and rate limiting from not using a token. However, for the average person who might see the need to self-host a bot to search GitHub, this gets the job done easily.
+
+Shortly after development in January 2021, I transfered the source to the DOD team. Unfortuantely, the group has since disappeared from the Internet, along with the GitCord source.

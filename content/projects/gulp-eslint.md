@@ -3,23 +3,8 @@ title = "ESLint plugin for Gulp"
 slug = "gulp-eslint"
 description = "A Gulp plugin for ESLint based off Adametry's gulp-eslint package"
 tag = "Active development"
-date = "2021-02-02"
+date = "2021-11-18"
 +++
-
-<section id="timeline">
-  {{item(
-    status="released",
-    date="02 February, 2021",
-    title="Released several versions",
-    info="8 tagged releases, as of writing, have been made bringing patches, dependency updates, and more to this amazing utility. I plan to start the TypeScript rewrite sometimes this month and release it sometime early March."
-  )}}
-  {{item(
-    status="progress",
-    date="03 January, 2021",
-    title="Started development",
-    info="I've finally decided to get started on the TypeScript rewrite and other major improvements to this package (apart from updating to newer versions of ESLint and other tweaks). It will definetely be a challenge, but I look forward to bringing a great tool to the table for everyone."
-  )}}
-</section>
 
 ### Useful links
 - [NPM Package](https://www.npmjs.com/package/@doamatto/gulp-eslint)
@@ -34,6 +19,4 @@ Some rather big changes that happened to the plugin:
 - Tons of updates to ESLint, Mocha (the current testing suite, as of writing), Acorn, and Vinyl
 - and heaps more ([this was a big PR for some of the changes done up on the fork](https://github.com/doamatto/gulp-eslint/pull/10))
 
-Some rather big plans for the plugin:
-- a full rewrite of the plugin in TypeScript
-- a full rewrite of the testing suite in Jest (probably also in TypeScript, though)
+In February of 2021, I wanted to start to reshape the tool on a fundamental basis by rewriting the plugin in TypeScript and refactoring code to be easily understandable by others. Since then, [I've been in talks with numerous other developers](https://github.com/adametry/gulp-eslint/issues/266) and decided to ultimately detach myself from the old fork to create not only a better interface with Gulp for ESLint but to possibly make a better tool than ESLint and Gulp as a whole. These hopes and dreams are far into the future, [but planned nevertheless.](/ideas)

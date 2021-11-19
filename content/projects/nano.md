@@ -6,41 +6,6 @@ tag = "Active Development"
 date = "2021-09-27"
 +++
 
-<section id="timeline">
-  {{item(
-    status="eol",
-    title="Deprecated.",
-    date="27 September, 2021",
-    info="This was one of my first large projects, and I'm proud to have seen it to well over 8.100 downloads, as of writing. After I publish the final version of RubyGems, Nano will be officially deprecated."
-  )}}
-  {{item(
-    status="eol",
-    title="Nearing end-of-life",
-    date="20 December, 2020",
-    info="Jekyll isn't the best documented tool out there. Because of that and my switch to Next.js for my portfolio (this site), I've decided it best to move it into EOL. After v0.6.0, Nano will officially be in EOL."
-  )}}
-  {{item(
-    status="active",
-    title="Active development",
-    date="4 March, 2020 to 25 July, 2020"
-  )}}
-  {{item(
-    status="released",
-    title="Released",
-    date="4 March, 2020"
-  )}}
-  {{item(
-    status="progress",
-    title="Started development",
-    date="18 February, 2020"
-  )}}
-  {{item(
-    status="progress",
-    title="Conceptialised and started prototyping",
-    date="15 December, 2019"
-  )}}
-</section>
-
 ### Useful links
 - [GitHub repo](https://github.com/doamatto/nano)
 - [Demo version](https://git.doamatto.xyz/nano)
@@ -62,4 +27,4 @@ That's not to say that any of this came without troubles. As aforementioned, Jek
 
 That's not to say either that it had a bad run either. With almost 4500 downloads at the time of writing, this theme skyrocketed in popularity since day zero; achieving hundreds of downloads the same day as updates and achieving its current number rapidly through development. I received lots of feedback on the theme through platforms such as Twitter and Instagram PMs, and used them to improve the theme massively.
 
-Will there ever be another Nano? Right now, I'm not sure. But, it would be nice. After all, who doesn't want a website?
+Will there ever be another Nano? Right now, I'm not sure. I do know that, as of September 2021, Nano is deprecated. But.. it would be nice. After all, who doesn't want a website?

@@ -240,4 +240,8 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Integration with Siri Shortcuts for fun
   - Lets you set locations, names, times
   - Custom days for things like minimum days
-- 
+- Make an alternative to GULP and ESLint
+  - Maintaining the adametry fork is kind of exhausting
+  - Native tooling for JavaScript could make it that much more likely to be something I use again often
+    - The speed of Node has just been so abysmal, not to mention the packages themselves
+    - Look into how esbuild bundles itself for NPM to get a similar capability of bundling native bins for release over NPM

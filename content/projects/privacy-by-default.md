@@ -2,25 +2,9 @@
 title = "Privacy by Default Campaign"
 slug = "privacy-by-default"
 description = "An initiative to make more services private-by-default, not by choice."
-tag = "Planning"
 draft = true
 date = "2020-12-31"
 +++
-
-<section id="timeline">
-  {{item(
-    status="progress"
-    title="Started writing of general manifest"
-    date="5 January, 2020"
-    info="Baby steps are being made to the writing of the general manifest of how products and people who want to be a part of this campaign. A rough estimate as to when this will be completed is 2020-01-31."
-  )}}
-  {{item(
-    status="progress"
-    title="Conceptialised and started planning"
-    date="31 December, 2020"
-    info="With the work beginning on Mono, I wanted to start a simple initiative to allow an easy distinction that all of the sub-projects are private-by-default."
-  )}}
-</section>
 
 ### Useful links
 - [Homepage (coming soon)](https://privacybydefault.doamatto.xyz)

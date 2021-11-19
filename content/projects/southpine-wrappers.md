@@ -2,31 +2,11 @@
 title = "SouthNode and SouthPy"
 slug = "southpine-wrappers"
 description = "The now official wrappers for Southpine's player API"
-tag = "Transfered elsewhere"
 date = "2020-10-16"
 +++
 
-<section id="timeline">
-  {{item(
-    status="eol",
-    title="Transfered repositories to Glitch Entertainment",
-    date="16 October, 2020",
-    info="Everyone decided it best to put these wrappers inside the Glitch Entertainment GitHub. Because of such, not only am I no longer in control of the code, but I also would have to mark this at the end of its life, due to virtually non-existent support for it currently."
-  )}}
-  {{item(
-    status="released",
-    date="19 July, 2020",
-    title="v0.1.0 of SouthNode releases"
-  )}}
-  {{item(
-    status="progress"
-    date="16 July, 2020 to 16 October, 2020"
-    title="Started development"
-  )}}
-</section>
-
 ### Useful links
-- [Gltich Entertainment's Website](https://playglitch.xyz)
+- [Gltich Entertainment's Website (now defunct)](https://playglitch.xyz)
 - [SouthNode repo](https://github.com/playglitch/southnode)
 - [SouthNode NPM package](https://www.npmjs.com/package/southnode)
 - [SouthPy repo](https://github.com/playglitch/southpy)
@@ -35,7 +15,9 @@ date = "2020-10-16"
 
 While I did some freelance work at [Glitch Entertainment](https://playglitch.xyz), I worked on an API to interact with the player API and allow you to access things such as a player's level or integrate easily into tools like Discord's Rich presence SDK through a seperate client (if you wanted to do that for some reason).
 
-When I left Glitch this year, I gave them both SouthNode (and SouthJS, the browser-compatible version) and SouthPy. Sadly, they haven't been improved any further.
+When I left Glitch in October 2020, I gave them both SouthNode (and SouthJS, the browser-compatible version) and SouthPy. Sadly, they haven't been improved any further.
+
+---
 
 ## Privacy Statement
 Your privacy is just as important as my privacy. And, per usual, I make it a commitment to ensure your data is handled properly and not in a privacy-friendly matter, rather a private-by-default manner.
