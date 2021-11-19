@@ -27,8 +27,7 @@ body {
     article p { line-height: 1rem; }
     @media (prefers-color-scheme: dark) {
         background: #333333;
-        color: #e8e6e3;
-        a { color: #e8e6e3; }
+        color: #f3f3f3;
     }
     margin: 0 auto;
     padding: var(--body-padding-y) var(--body-padding-x);
