@@ -6,10 +6,10 @@
 {% block description %}{{ section.description | default(value=config.description) }}{% endblock description %}
 
 {% block content %}
-<h1 class="title">
-    {{ section.title }}
-</h1>
-{{ section.content | safe }}
+<header>
+  <h1>{{ section.title }}</h1>
+  {{ section.content | safe }}
+</header>
 <div class="feed">
     {% for page in section.pages %}
     <article class="post">
