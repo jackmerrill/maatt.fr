@@ -52,24 +52,6 @@ body {
   }
 }
 
-#timeline {
-    .date {
-        font-weight: 400;
-        opacity: 0.8;
-        font-size: .9rem;
-    }
-}
-
-.timeline-item {
-    border: 0 solid #ffffff;
-    border-left-width: .2rem;
-    padding-left: .5rem;
-}
-.timeline-item.eol { border-color: var(--eol); }
-.timeline-item.active { border-color: var(--active); }
-.timeline-item.released { border-color: var(--released); }
-.timeline-item.progress { border-color: var(--progress); }
-
 code {
     background: #383838;
     @media (prefers-color-scheme: 'dark') { background: #111827; }
