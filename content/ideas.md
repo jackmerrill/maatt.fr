@@ -245,3 +245,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Native tooling for JavaScript could make it that much more likely to be something I use again often
     - The speed of Node has just been so abysmal, not to mention the packages themselves
     - Look into how esbuild bundles itself for NPM to get a similar capability of bundling native bins for release over NPM
+- An inventory SaaS
+  - Needs to have a simple API that can be easily interacted with securely
+  - Ready for beginners in their homes, powerful enough for enterprise usage
+  - Nice to have a logistics plug-in or endpoints to build a logistsics tool (might not be a good idea to bundle a more advanced tool like this)
