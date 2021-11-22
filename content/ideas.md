@@ -109,9 +109,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Makes it easy to serve as a repo and download site for your projects
 - A sensible way for Go apps (say Fushimi, Watcher, et al) to be installed
     - Has to be written in Go for continuity (probably sacrilage if I didn't)
-- Scoop/Chocolately-compatible package manager for Windows not written in PowerShell scripts
-    - Could and probably would net much faster performance
-    - GoScoop? ChocoGo? IDK.
 - F\*ck Google. Make an AIO [like Soverin](https://soverin.net/), that has:
     - Far better uptime than whatever has recently been happening at Soverin,
     - A dead-simple interface so anyone can easily get started (issue with most paid mail solutions imo)
@@ -249,3 +246,5 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Needs to have a simple API that can be easily interacted with securely
   - Ready for beginners in their homes, powerful enough for enterprise usage
   - Nice to have a logistics plug-in or endpoints to build a logistsics tool (might not be a good idea to bundle a more advanced tool like this)
+- XBPS but for Windows
+  - Compatibility for Scoop/Choco?
