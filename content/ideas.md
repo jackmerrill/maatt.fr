@@ -248,3 +248,17 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Nice to have a logistics plug-in or endpoints to build a logistsics tool (might not be a good idea to bundle a more advanced tool like this)
 - XBPS but for Windows
   - Compatibility for Scoop/Choco?
+- NationStates "copycat"
+  - Lightweight UI so it loads quick
+  - Crowdsource issues (I think NationStates does a similar thing; would still need an approval process)
+  - Creative/Sandbox mode (set the nation how you want, start getting issues from there)
+  - No telegrams; keep that crap to things like Discord. Recruitment messages are bleh
+  - Would be cool to migrate policies and similar from NationStates over for those who want to
+- Auto-locking utility for Wayland
+  - Hooks with brightness client to fade brightness when inactive
+  - Hooks with lock client to lock and go to sleep when inactive
+  - Support for ambient light sensor to auto-dim and brighten
+- Gemini browser for iOS that doesn't suck
+- Gemini protocol integration for Firefox
+  - .. and Safari
+  - .. and Chrome?
