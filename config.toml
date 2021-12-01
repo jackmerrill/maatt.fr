@@ -6,7 +6,7 @@ description = "Salut, I'm Matt Ronchetto. I'm a high school student in San Diego
 default_language = "en"
 
 compile_sass = true
-minify_html = true
+minify_html = false
 output_dir = "out"
 
 generate_feed = true
