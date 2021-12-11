@@ -13,159 +13,62 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 
 ---
 
+## Software
 - Steal Daniel's idea about making an ideas page at [cyckl.net/idea](https://cyckl.net) about logging ideas over time
-- WebExtensions done in WebAssembly
-    - Things like uBlock would be that much more performant
-    - Wrapper for Chrome and Firefox APIs in V/Nim/Zig
-- Engine that parses utility CSS frameworks
-    - Written in Rust, Dart, or V so that it's one tiny, native bin
-    - Plug-ins that have classes like Tailwind, Windi, a17t, et cetera
-    - Clever « punny » name
+- NationStates "copycat"
+  - Lightweight UI so it loads quick
+  - Crowdsource issues (I think NationStates does a similar thing; would still need an approval process)
+  - Creative/Sandbox mode (set the nation how you want, start getting issues from there)
+  - No telegrams; keep that crap to things like Discord. Recruitment messages are bleh
+  - Would be cool to migrate policies and similar from NationStates over for those who want to
+
+### SaaS
 - A quiz to find out what computer you might need
     - Looks at both Macs, prebuilts, and custom-builts
     - Based off the usage that you describe
-- Package tracker app/site
-    - Literally every thing I've used is rubbish
-    - Support for major world platforms
-    - Plugin system for each shipping carrier to make it easy to self-host without racking up costs from mass usage
 - Music search by location
     - Find artists based on a location you give
     - Searches Bandcamp first, then a platform like Spotify
-- Voting info ~~app~~ website
-    - Find out where and when you can vote
-    - Get a better understanding of who you're voting for
-    - Get a better understanding of what you're voting for
-- Voting service: proof of concept for electronic voting
-- Gun approval workflow
-    - See the steps you need to take for certain guns
-    - See what guns are allowed in your state, as well as others
-    - See what is and isn't legal to fly with to other countries
-    - See how to properly travel with your firearm
-- Custom newspaper delivery service: custom RSS/Atom and JSON feeds with reliable sources based on your interests
-- NDA e-signing made simple
-- Tips to live a healthier or generally better app
-    - Based on where you live, which is provided by-user and processed on-device
-- Mobile data syncing
-    - NFC between two phones
-    - Easily sync a calendar event for a meetup time, with the phone numbers and emails of both parties
-    - Easily share meeting notes with others
-    - Easily share business cards with a tap or QR code scan (similar to Cardhop cards)
 - Private analytics (f\*ck privacy-friendly)
     - Only with a pixel/image (makes for much smaller file to use)
     - Collect basically a mirror of [Plausible](https://plausible.io), [Shynet](https://github.com/milesmcc/shynet), or [umami](https://umami.is/)
-    - Uses Redis (because I need an excuse try it)
-- Blogging made simple
-    - A simple way to start blogging (similar to Wordpress)
-    - Made to look good on any screen
-    - Native support for a11y, i18n, and feed readers
-    - Server and renderer written in something native (Dart or Rust?)
-- Static Site Hosting that doesn't suck (I'm upset with Netlify and Vercel)
-    - Configuration files compatible with Vercel/Firebase
-    - Easily switch from other providers (eg. Netlify, Vercel)
-    - Git-based builds
-    - Quick rollbacks
-    - Lock site (to prevent accidental updates)
-    - Easily add new generators to preset list
-        - Auto-detect the generators too
-- Add new ideas using POST requests
-    - Alfred plugin to make it super fast and easy
+- Anonymous network solutions for Librewolf
+    - Proxies to Mozilla's normal servers sans analytics
+    - Support for DRM (needed for a lot of web apps), localisation, et al.
+    - Easily self-hostable
+- Git-based CMS that doesn't suck
+    - Crazy fast IOps
+    - Secure endpoints for allowing client development (either with a standard or through compatible endpoints to other apps (ie. Ghost, WP, et al.)
+
+### Apps/websites
 - Alfred for Windows and Linux
     - [Alfred in the first place](https://www.alfredapp.com/)
 - Sim racing/trucking telemetry made easy
     - Support for major titles (Project Cars, Assetto Corsa, ETS2/ATS, et al)
     - Should have a nil effect on the perfomance of the game
     - Should have both basic information (for those who just want to keep track of times and general performance) to nerd stats
-- Make my own RPi/Arduino
-    - Needs to be somewhat capable (YouTube videos, basic compilation, et al)
-    - Needs to have decent I/O (USB-C, 1G ethernet, et al.)
-    - Needs to be power efficient (ARM or similar)
-    - Likely needs its own derivative of the Linux or UNIX-like kernel 
-- Audio driver for Windows and Linux to send to UPnP (specifically my Sonos)
-    - Could make it work for macOS too, but I don't need to (AirPlay 2 would be faster afaik)
-- Assetto Corsa Server in Docker
-- OPDS server and reader that doesn't suck
-    - [Spec](https://specs.opds.io/) is relatively simple to create a library for
-    - Support for CBZ/CBR would be a nice-to-have
-    - Easy mass-conversion would be a nice-to-have
-    - Calibre integration
-- Audio sharing made simpler
-    - Basically cross-platform SharePlay
-    - ~~Write it in Zig just to screw with myself later~~ Nim may be a better option to try a new language (to screw with future self), as well as from a performance perspective
-- PrivacySpy for countries
-    - Get a nutrition label on countries to better understand if it aligns with your values
-- Alternative client for Origin
-    - It would be nice to have something super lightweight as an alternative to the official one
-    - No overlay
+- Mobile data syncing using NFC
+    - Easily sync a calendar event for a meetup time, with the phone numbers and emails of both parties
+    - Easily share meeting notes with others
+    - Easily share business cards with a tap or QR code scan (similar to Cardhop cards)
+- Package tracker app/site
+    - Literally every thing I've used is rubbish
+    - Support for major world platforms
+    - Plugin system for each shipping carrier to make it easy to self-host without racking up costs from mass usage
 - DAV server thats [minimalist and opionated](https://miniflux.app/opinionated.html)
     - Support for CalDav, CardDav, and WebDav
     - Web app should just add, show, and edit calendar events and contacts. WebDav should be very basic file management.
-- Alternative to Steam overlay
-    - Would have to be really fast and responsive
-    - Needs to work on basically any game™ (within reason ofc)
-    - Lightweight and unnoticable performance hit  
-- Software repository generator
-    - TOML config because why not
-    - Takes TOML configs for apps and creates platform-specific packages (eg. Flatpak, DEB/APT, XBPS, et al)
-    - Makes it easy to serve as a repo and download site for your projects
-- A sensible way for Go apps (say Fushimi, Watcher, et al) to be installed
-    - Has to be written in Go for continuity (probably sacrilage if I didn't)
 - F\*ck Google. Make an AIO [like Soverin](https://soverin.net/), that has:
     - Far better uptime than whatever has recently been happening at Soverin,
     - A dead-simple interface so anyone can easily get started (issue with most paid mail solutions imo)
     - Support for all sieve filters (issue with Protonmail)
     - Support for basic mail standards (IMAP/SMTP, JMAP; issue with Protonmail)
     - Easy method for taking your domain and inbox elsewhere
-- NPM but made right
-    - Cache ALL dependencies and symlink them to the modules folder
-- IMAP/SMTP server
-    - Just a thing to play in a language with
-- Find a way to make Git and/or PGP faster
-- Bring PGP to iOS
-    - Tweak for having it through that whisker like in Mail and Notes
-    - App (like PGPro and similr) that gives both simple info and nerd stats
-- An iOS mail app that doesn't suck
-    - Release both on the App Store and as an APT (jailbreak stores like Cydia, Zileo)
-- Maintain a DCA wrapper in Golang
-    - All the Golang wrappers I've seen are outdated and rely on older versions of FFmpeg
-- Easily convert NoScript rules to uBlock or uMatrix
-    - uBlock uses less memory than NoScript, is faster, and less resource intesnive (YMMV)
-- A user-friendly, but hackable Linux distro
-    - As user-friendly as elementary
-    - As hackable as something like Gentoo, Void, Arch
-- Yet another Linktree/Songlink/FFM alternative
-    - Needs to be in some random native lang just for fun
-    - Fine to require reverse proxy for HTTPS
-    - Should support way too many platforms
-    - In a certain timeline? 24h? 7j?
 - An OSM app that doesn't suck
     - Native UI in Swift and Kotlin (please change prior)
     - Backend in something funky (Golang?)
     - Updates database weekly, manual bypass
     - Support for editing OSM
-- uBlock but for Safari
-    - Support for the same list syntax as uBlock to make plug and play
-    - Should import and export to uBlock compatible data
-    - Swift > JavaScript
-    - Manually fetch rules by default, make it easy to change frequency
-- An OAUTH layer that goes zoom
-    - F\*ck Next-Auth and Auth0 and Magic and all those other things that are finky and weird to use
-    - Simple and sane endpoints for logging in
-    - Simple methods for defining the callback
-    - Full control of GUI, no watermarking, et al.
-    - ~~A sane and conservative amount of wrappers (React Native, Flutter, Swift, native JS, native C or similar)~~
-- Anonymous network solutions for Librewolf
-    - Proxies to Mozilla's normal servers sans analytics
-    - Support for DRM (needed for a lot of web apps), localisation, et al.
-    - Easily self-hostable
-- Auto updater for Choco/Scoop package sources
-    - Makes patches, tags, and pushes to both Git and the respective package servers for approval
-- Simple new tab dashboard
-    - Get data that makes sense for you (weather, grades, et al.)
-    - Scraping tools for popular sites (eg. PowerSchool, Google, et al.)
-    - Integration with popular sites (eg. Google Classroom, Canvas, HotSchedules, et al.)
-- Git-based CMS that doesn't suck
-    - Crazy fast IOps
-    - Secure endpoints for allowing client development (either with a standard or through compatible endpoints to other apps (ie. Ghost, WP, et al.)
 - Kaomoji client for iOS
     - They took it out of the Japanese keyboard on iOS grr
     - All the other apps have tracking bullsh\*t; they are literally just kaomojis, they don't need all the extra crap.
@@ -174,60 +77,13 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - I shouldn't have to pay 2,99 US$ for the luxury of having an easier way to view my schedules
     - I'll probably still buy the app for feature comparsion
     - [API for reference](http://docs.hotschedules.io/#rest-api-service)
-- FOSS Plex-compliant media server
-    - Should have same endpoints to work as a drop-in for an official Plex server
-    - Should be native and 64-bit (unlike Plex on Windows afaik)
-- Foobar2000 & GNOME Music extension for Plex servers
-    - Mostly just an excuse to play around with the extension systems
-- Self-hosted [Termius](https://www.termius.com/)
-- [Mint](https://mint.intuit.com/) but good
-- Health record logging app
-    - If your Apple ID is under an age (as far as I can tell), you can't link health records. This adds a middle ground for manually logging it from reports from your provider
-- MDM solution that's good on all platforms
-    - Think Meraki but cross-platform.
-    - Think Meraki but I don't have to cancel my grandfathered tier to switch regions.
-    - Please don't cancel my Meraki plan after I make this.
 - FOSS flight app
     - I will quite literally gut this idea if Flighty just added trip passes (like Slopes) instead of having to do monthly or yearly subscriptions
 - A sane golden hour timer
     - Most make you pay for specific times. Let's not.
     - Fetch sun position from reputable organisation(s) (NASA? ESA? CNSA? JAXA? Roscosmos? ISRO? All of them?)
-- Online storefront tool
-    - Headless out-of-the-box
-    - Easy to install a simple, accessible theme
-    - Compatible with extensions from Shopify or WooCommerce (not a launch feature)
-    - Support to extend with payment systems
-      - Weixin/WeChat Pay & Alipay
-      - Amazon/Line Pay
-      - Apple/Google/Microsoft Pay
-      - Visa/Mastercard/AmEx/Discover Click to Pay
-      - Visa Checkout
-      - Stripe / Mollie / Payoneer
-      - PayPal
-      - Klarna/Afterpay
-      - Giropay
-      - Cartes Bancaires (Bank Cards, France)
-      - UnionPay
-      - PaySafeCard
-- xBrowserSync server in Golang using `database/sql`
-- xBrowserSync client for Safari
-    - Would be dope to support iOS 15 WebExtensions
-    - Written in Swift (ofc)
-- Minimal xBrowserSync client for WebExtensions browsers (Chrome et Firefox)
-    - Configure settings through the native panel
-    - Out of sight, out of mind
-- FOSS DMV test prep app
-- Proxy for Google Forms (straight to Sheets or auto-submitted for you in one server-side request)
-- FOSS alternative to Google Forms
-  - Not like the piss-poor blockchain ones
-  - Feature parity
-  - Export data to whatever suits your fancy
-- Native Passbolt CLI client
 - FOSS iOS tasks app
-  - Syncs with common backends (WebDAV? Toodledo?) if wanted
-  - Proprietary™ JSON-based backend available for those who want to self-host
-    - Might need more clients for other OSes if I go with this harder
-    - JMAP is making a tasks standard actually; might use that instead as an alternative
+  - Syncs with common backends (WebDAV or JMAP Tasks) if wanted
   - KISS with lovability of Pocket Lists
 - FOSS grades app
   - Adopts similar styling as stocks with colours and graphs to show grades outside of just a number
@@ -237,28 +93,54 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - Integration with Siri Shortcuts for fun
   - Lets you set locations, names, times
   - Custom days for things like minimum days
-- Make an alternative to GULP and ESLint
-  - Maintaining the adametry fork is kind of exhausting
-  - Native tooling for JavaScript could make it that much more likely to be something I use again often
-    - The speed of Node has just been so abysmal, not to mention the packages themselves
-    - Look into how esbuild bundles itself for NPM to get a similar capability of bundling native bins for release over NPM
-- An inventory SaaS
-  - Needs to have a simple API that can be easily interacted with securely
-  - Ready for beginners in their homes, powerful enough for enterprise usage
-  - Nice to have a logistics plug-in or endpoints to build a logistsics tool (might not be a good idea to bundle a more advanced tool like this)
-- XBPS but for Windows
-  - Compatibility for Scoop/Choco?
-- NationStates "copycat"
-  - Lightweight UI so it loads quick
-  - Crowdsource issues (I think NationStates does a similar thing; would still need an approval process)
-  - Creative/Sandbox mode (set the nation how you want, start getting issues from there)
-  - No telegrams; keep that crap to things like Discord. Recruitment messages are bleh
-  - Would be cool to migrate policies and similar from NationStates over for those who want to
+- Gemini browser for iOS that doesn't suck
+
+### The Extremes
+- A user-friendly, but hackable Linux distro
+    - As user-friendly as elementary
+    - As hackable as something like Gentoo, Void, Arch
+- Bring PGP to iOS
+    - Tweak for having it through that whisker like in Mail and Notes
+    - App (like PGPro and similr) that gives both simple info and nerd stats
+- uBlock but for Safari
+    - Support for the same list syntax as uBlock to make plug and play
+    - Should import and export to uBlock compatible data
+    - Swift > JavaScript
+    - Manually fetch rules by default, make it easy to change frequency
+- Cross platform browser syncing extensions
+    - Think Firefox Sync, but on all devices
+    - Hooks into native APIs for each browser to sync as much amongst the browsers as possible
+    - E2EE with no-knowledge possible
+    - Dirt-simple API system
+- Gemini protocol integration for Firefox, Safari, and Chrome
+
+### Utilities
+- Blogging made simple
+    - A simple way to start blogging (similar to Wordpress)
+    - Made to look good on any screen
+    - Native support for a11y, i18n, and feed readers
+    - Server and renderer written in something native (Golang?)
+- Add new ideas using POST requests
+    - Alfred plugin to make it super fast and easy
+- Audio driver for Windows and Linux to send to UPnP (specifically my Sonos)
+    - Could make it work for macOS too, but I don't need to (AirPlay 2 would be faster afaik)
+- Assetto Corsa Server in Docker
+- Software repository generator
+    - TOML config because why not
+    - Takes TOML configs for apps and creates platform-specific packages (eg. Flatpak, DEB/APT, XBPS, et al)
+    - Makes it easy to serve as a repo and download site for your projects
+- FOSS Plex-compliant media server
+    - Should have same endpoints to work as a drop-in for an official Plex server
+    - Should be native and 64-bit (unlike Plex on Windows afaik)
+- Proxy for Google Forms (straight to Sheets or auto-submitted for you in one server-side request)
 - Auto-locking utility for Wayland
   - Hooks with brightness client to fade brightness when inactive
   - Hooks with lock client to lock and go to sleep when inactive
   - Support for ambient light sensor to auto-dim and brighten
-- Gemini browser for iOS that doesn't suck
-- Gemini protocol integration for Firefox
-  - .. and Safari
-  - .. and Chrome?
+
+## Hardware
+- Prusa-esque 2D printer
+  - FOSS firmware, software, drivers, et al.
+  - Open blueprints so you could print it or buy a DIY kit
+- Move to country X
+
