@@ -8,6 +8,12 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
 
 ## Table of contents
 - [Ideas I have](/ideas)
+  - [Software](#software)
+    - [SaaS](#saas)
+    - [Apps/websites](#apps-websites)
+    - [The Extremes](#the-extremes)
+    - [Utilities](#utilities) 
+  - [Hardware](#hardware)
 - [Ideas I've done](/archive/good-ideas)
 - [Ideas I won't do](/archive/bad-ideas)
 
