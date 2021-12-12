@@ -5,10 +5,10 @@ description = "Some legal mumbo jumbo that helps me stay compliant."
 +++
 
 ## Contact information
-Matthew Ronchetto (doamatto)<br/>
+Matthew Ronchetto d.b.a doamatto<br/>
 **Email:** [hello \[at\] doamatto.xyz](mailto:hello@doamatto.xyz)<br/>
 **Phone:** +1 858-333-4262 ([tel](tel:+18583334262) | [sms](sms:+18583334262))<br/>
-**Please note:** the phone number provided is not for support and purely for legal purposes.
+**Please note:** the phone number provided is not for support or general contact and purely for legal purposes.
 
 ## Disclaimers
 ### Liability for Links
