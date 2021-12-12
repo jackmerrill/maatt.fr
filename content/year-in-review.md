@@ -3,9 +3,17 @@ title = "Year in Review"
 template = "page.html"
 +++
 
+## December
+
+## November
+- **[Created a sticker ripper](https://git.sr.ht/~doamatto/sticker-me)**
+- **Started moving to Sourcehut—** As cool as GitHub is, I really just needed to use something different that's faster and slimmer as a whole. Sourcehut seems to fit that bill.
+- **[Forked Ly for Void Linux—](https://github.com/doamatto/ly)** Ly is a display manager that didn't have a real way of working with Void, or the runit init system. I did some general porting to get it to work through the general build system.
+
 ## October
+- **Participated in Hacktober 2021**
+- **Started Michiru—** A small software initative for generally better software.
 - **Started working on a homebrew calculator—** Along with [Daniel](https://cyckl.net), we set off to create a calculator by around this time next year that would be great to daily drive, while staying cheap enough to be practical.
-- [**Published my collection of TI-Basic functions**](https://github.com/doamatto/ti)
 
 ## September
 - **Recruited to Inkjar—** I lead the web design/development branch, as well as stay at the forefront of web administration. I maintain our webiste, along with our web and mail servers. 
