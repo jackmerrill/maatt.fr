@@ -1,11 +1,10 @@
 +++
-title = "Mono"
+title = "Project Mono"
 slug = "mono"
 description = "No news yet. Only a baby announcement :)."
-tag = "Planning"
-date = "2021-05-31"
+date = "2021-12-23"
 +++
 
-A third of Mono has been announced. [See Studio9.](/blog/studio-neuf)
+It's nearly ready to be announced publicly; this is afaik my first serious attempt to do this kind of thing— hopefully it goes well.
 
-More information will come here in the future.
+More information to come soon.
