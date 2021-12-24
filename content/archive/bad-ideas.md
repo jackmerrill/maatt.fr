@@ -57,3 +57,5 @@ description="Not necessarily bad ideas, but not practical ideas. These were thin
     - Just use a CSV file and you'll be generally grand 
 - XBPS but for Windows
     - It's possible, but just not pracitcal in terms of building it up
+- DAV server thats [minimalist and opionated](https://miniflux.app/opinionated.html)
+- [FOSS Plex-compliant media server](https://xkcd.com/927/)
