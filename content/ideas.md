@@ -43,7 +43,7 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Support for DRM (needed for a lot of web apps), localisation, et al.
     - Easily self-hostable
 - Git-based CMS that doesn't suck
-    - Crazy fast IOps
+    - Crazy fast IOPS
     - Secure endpoints for allowing client development (either with a standard or through compatible endpoints to other apps (ie. Ghost, WP, et al.)
 
 ### Apps/websites
@@ -61,9 +61,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - Literally every thing I've used is rubbish
     - Support for major world platforms
     - Plugin system for each shipping carrier to make it easy to self-host without racking up costs from mass usage
-- DAV server thats [minimalist and opionated](https://miniflux.app/opinionated.html)
-    - Support for CalDav, CardDav, and WebDav
-    - Web app should just add, show, and edit calendar events and contacts. WebDav should be very basic file management.
 - F\*ck Google. Make an AIO [like Soverin](https://soverin.net/), that has:
     - Far better uptime than whatever has recently been happening at Soverin,
     - A dead-simple interface so anyone can easily get started (issue with most paid mail solutions imo)
@@ -135,7 +132,6 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
     - TOML config because why not
     - Takes TOML configs for apps and creates platform-specific packages (eg. Flatpak, DEB/APT, XBPS, et al)
     - Makes it easy to serve as a repo and download site for your projects
-- FOSS Plex-compliant media server
     - Should have same endpoints to work as a drop-in for an official Plex server
     - Should be native and 64-bit (unlike Plex on Windows afaik)
 - Proxy for Google Forms (straight to Sheets or auto-submitted for you in one server-side request)
@@ -149,4 +145,5 @@ Although I don't mind if you do one of these before me, it's very likely I'll do
   - FOSS firmware, software, drivers, et al.
   - Open blueprints so you could print it or buy a DIY kit
 - Move to country X
-
+  - Move to province/state Y
+    - Move to city Z 
