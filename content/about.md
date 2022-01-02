@@ -10,15 +10,15 @@ My name’s **Matt Ronchetto** (I go by `ドアマット` or `doamatto` on the I
 I currently **work part-time at [Chili’s](https://chilis.com)** as a host and **as the solutions architect and web development manager [at Inkjar.](https://inkjar.org)**<br/>
 [See my full work history and CV on Linkedin &rarr;](https://linkedin.com/in/matthewronchetto)
 
-In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and videos to edit together. I spend a lot of time listening to music with some of my favourite songs coming from artists like BIBI, spill tab, and yaeji.<br/>
+In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and videos to edit together. I spend a lot of time listening to music with some of my favourite songs coming from artists like mxmtoon, Kings of Leon, and iDKHOW.<br/>
 [See what I’ve been working on &rarr;](/projects)
 
-I’m an avid audiophile and general tech know-it-all. I'm an activist for digital rights and accessibility standards like WCAG, as well as general data privacy and security. **I want to take a deep dive into PCB design and further my knowledge of network management and the inner workings of the Linux kernel.**<br/>
+I’m an avid audiophile and general tech know-it-all. I'm an activist for digital accessibility standards like WCAG, as well as general data privacy and security. **I want to take a deep dive into PCB design and further my knowledge of network management, as well as the inner workings of the Linux kernel.**<br/>
 [See what I've been learning and following &rarr;](/blog)
 
 **I'm a peer tutor at my high school,** specialising in English and History, with plans to expand into 9th and 10th grade math. **I also help run the audio and visual works for assemblies and other school events,** as well as document it for the school's internal news network.
 
-Outside of technology, I enjoy reading books and watching animated series. Some of my favourites are *1984* by George Orwell and *Soul Eater*. I love puzzle and story-rich games; some of my favourites being Necrobarista, VA-11 HALL-A, Superliminal, and the Portal series. I enjoy learning new things and am currently learning my third language (Japanese; my first two were French and English).
+Outside of technology, I enjoy reading books and watching animated series. Some of my favourites are *1984* by George Orwell and *Soul Eater*. I love puzzle and story-rich games; some of my favourites being Necrobarista, Life is Strange: True Colors, Superliminal, and the Portal series. I enjoy learning new things and am currently learning my third language (Japanese; my first two were French and English).
 
 ---
 
