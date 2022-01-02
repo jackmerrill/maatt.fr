@@ -18,11 +18,11 @@ I’m an avid audiophile and general tech know-it-all. I'm an activist for digit
 
 **I'm a peer tutor at my high school,** specialising in English and History, with plans to expand into 9th and 10th grade math. **I also help run the audio and visual works for assemblies and other school events,** as well as document it for the school's internal news network.
 
-Outside of technology, I enjoy reading books and watching animated series. Some of my favourites are *1984* by George Orwell and *Soul Eater*. I love puzzle and story-rich games; some of my favourites being Necrobarista, Life is Strange: True Colors, Superliminal, and the Portal series. I enjoy learning new things and am currently learning my third language (Japanese; my first two were French and English).
+Outside of technology, I enjoy reading books and watching tele series. Some of my favourites are *1984* by George Orwell and *Ted Lasso*. I love puzzle and story-rich games; some of my favourites being Necrobarista, Life is Strange: True Colors, Superliminal, and the Portal series. I enjoy learning new things and am currently learning my third language (Japanese; my first two were French and English).
 
 ---
 
-### Nerd facts
+### This website
 
 This website was designed to be simple, yet nice looking. It’s preprocessed by Zola and hosted on AWS Amplify. It’s distributed globally by Cloudflare, which I may (or may not) regret. I use [my own Docker image](https://github.com/doamatto/amplify-zola) for AWS to try and keep things as light as possible, while staying as fast as possible. It also allows me to be able to use Zola in the first place, as Zola isn't on the NPM, nor is it pre-installed or easily installable on AWS' default container.
 
