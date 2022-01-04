@@ -7,7 +7,7 @@ template="about.html"
 
 My name’s **Matt Ronchetto** (I go by `ドアマット` or `doamatto` on the Internet) and **I’m a high schooler living in San Diego.** I enjoy engineering, be it computer or otherwise, photography, and videography.
 
-I currently **work part-time at [Chili’s](https://chilis.com)** as a host and **as the solutions architect and web development manager [at Inkjar.](https://inkjar.org)**<br/>
+I currently **work part-time at [Chili’s](https://chilis.com)** as a host and in to-go. I am also **the solutions architect and web development manager [at Inkjar.](https://inkjar.org)**<br/>
 [See my full work history and CV on Linkedin &rarr;](https://linkedin.com/in/matthewronchetto)
 
 In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and videos to edit together. I spend a lot of time listening to music with some of my favourite songs coming from artists like mxmtoon, Kings of Leon, and iDKHOW.<br/>
