@@ -17,6 +17,7 @@ description="Not necessarily bad ideas, but not practical ideas. These were thin
     - This is honestly just one of those things that isn't needed by anyone but maybe a hedge-fund analyst to know their stocks. As cool as it might be or see to have all this data aggregated for your viewing pleasure, there's really no gain to it. Make stuff you like to make, whether people give you likes or not (unless it's illegal and/or immoral).
 - Daily my RPi
     - I have no reason not to this other than the fact that school is in session and I'm on payroll now, meaning I don't really have the time to deal with the finikiness or any other quirks that might come from either a Raspberry Pi, its power supply, its microSD card, Linux, or some other variable I'm not aware of. Running Windows 10 E-Channel in the meantime
+    - I also now use a Mac mini with M1 for daily ops, so there's no point going even lower and sacrifing desktop enjoyment.
 - Anki client that's a bit prettier than the original
     - I realise now that the Anki client is fine how it is. Decks are now working fine on Windows, but still wonky on my laptop (Debian-based). The only thing that I might want to make a client for is iOS, but I still plan to buy the client if I go down that route. 
 - Voting info ~~app~~ website, gun approval workflow, et al. politics

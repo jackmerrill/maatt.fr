@@ -2,11 +2,11 @@
     transition: all 125ms ease-out;
 }
 
-/*
+
 @mixin q {
-  color: linear-gradient(#D60270, #9B4F96, #0038A8); //b
-  color: linear-graidnet(#D12229, #F68A1E, #FDE01A, #007940, #24408E, #732982); //p
-}*/
+  background-image: linear-gradient(#D60270, #9B4F96, #0038A8); //b
+  //color: linear-graidnet(#D12229, #F68A1E, #FDE01A, #007940, #24408E, #732982); //p
+}
 
 @mixin feed-grid {
     display: grid;

@@ -17,6 +17,7 @@ Some other places around the internet that I'm at are:
 - GitHub: [@doamatto](https://github.com/doamatto)
 - GOG: [/u/doamatto](https://www.gog.com/u/doamatto)
 - Itch: [doamatto](https://doamatto.itch.io)
+- Last.fm: [doamatto](https://last.fm/user/doamatto)
 - MusicBrainz: [/user/doamatto](https://musicbrainz.org/user/doamatto)
 - Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
 - Sourcehut: [~doamatto](https://sr.ht/~doamatto/)

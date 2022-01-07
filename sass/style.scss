@@ -88,17 +88,51 @@ header {
 .rdbl {
     h1 {
         font-size: 3rem;
-        margin-top: 0;
+        @media(min-width: 650px) { margin-top: 0; }
     }
     h2 {
         font-size: 2rem;
         margin-bottom: 0;
+        margin-top: 0;
     }
     ul > li {
         padding-top: .3rem;
         padding-bottom: .3rem;
     }
     img { max-width: 100%; }
+}
+
+.flist > li {
+    p {
+        margin: 0;
+        margin-top: .2rem;
+    }
+}
+.blist {
+    .a {
+        background: #3b82f6;
+        &:hover {
+            background: #1461de;
+        }
+    }
+    .g {
+        background: #f97316;
+        &:hover {
+            background: #dd5a00;
+        }
+    }
+    .h {
+        background: #10b981;
+        &:hover {
+            background: #08a370;
+        }
+    }
+    a {
+        padding: .5rem 2rem;
+        margin: .2rem;
+        border-radius: .25rem;
+        cursor: pointer;
+    }
 }
 
 nav {
@@ -180,14 +214,30 @@ nav {
     }
 }
 
+.feed.er {
+    margin-bottom: 1rem;
+    .post { a { display: inline-block; }}
+}
+
 .post {
+  margin-top: 1rem;
   a {
     color: inherit;
+    p {
+        margin: 0;
+        border-radius: calc(var(--unit)*0.5);
+        padding-left: calc(var(--unit)*0.75);
+        padding-right: calc(var(--unit)*0.75);
+        margin-left: calc(var(--unit)*-0.5);
+        margin-right: calc(var(--unit)*-0.5);
+    }
     &:hover,
     &:focus {
         color: white;
         h3,
-        p { background: black; }
+        p {
+            background: black;
+        }
         @media (prefers-color-scheme: 'dark') {
             color: black;
             h3,

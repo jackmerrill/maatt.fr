@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="rdbl">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <h3>I have <a href="/ideas">a lot of ideas</a>, but this is a list of all the things I've done so far.</h3>
+  </header>
+  <nav class="blist">
+    <a href="#apps" class="a">Apps</a>
+    <a href="#games" class="g">Games</a>
+    <a href="#hardware" class="h">Hardware</a>
+  </nav>
+  <main>
+    <h2 id="apps">Apps</h2>
+    <div class="feed er">
+      <article class="post">
+        <a href="#"><p>Project Mono</p></a>
+        <p>Unannounced small software company.</p>
+      </article>
+      <article class="post">
+        <a href="/projects/nano"><p>Nano for Jekyll</p></a>
+        <p>A Jekyll website template that just works.</p>
+      </article>
+      <article class="post">
+        <a href="/projects/mello"><p>Mello</p></a>
+        <p>A free, open-source meditation and sleep story app.</p>
+      </article>
+    </div>
+
+    <h2 id="games">Games</h2>
+    <div class="feed er">
+      <article class="post">
+        <a href="#"><p>Placeholder</p></a>
+        <p>Unannounced, unreleased game.</p>
+      </article>
+    </div>
+
+    <h2 id="hardware">Hardware</h2>
+    <div class="feed er">
+      <article class="post">
+        <a href="#"><p>Cronus</p></a>
+        <p>Unannounced, unreleased hardware project.</p>
+      </article>
+      <article class="post">
+        <a href="#"><p>Lazr</p></a>
+        <p>Unannounced, unreleased hardware project.</p>
+      </article>
+      <article class="post">
+        <a href="#"><p>Muse</p></a>
+        <p>Unannounced, unreleased hardware project.</p>
+      </article>
+    </div>
+
+    <h2 id="tools">Tools</h2>
+    <ul class="flist">
+      <li>
+        <p><a href="/projects/maji">マージ (Māji)</a></p>
+        <p>A dirt-simple tool to merge JSON files. An experiment with Newtonsoft.</p>
+      </li>
+      <li>
+        <p><a href="/projects/fushimi">伏見 (Fushimi)</a></p>
+        <p>A simple webhook updated to keep remotes up-to-date on every push to Git.</p>
+      </li>
+      <li>
+        <p><a href="/projects/inari">稲荷 (Inari)</a></p>
+        <p>A zero-config web server with sensible defaults.</p>
+      </li>
+      <li>
+        <p><a href="https://github.com/srfalcon5/marie">Codename Marie</a></p>
+        <p>A GUI for youtube-dl.</p>
+      </li>
+      <li>
+        <p><a href="https://github.com/srfalcon5/nina">Codename Nina</a></p>
+        <p>Remote control utility for Tricaster hardware.</p>
+      </li>
+      <li>
+        <p><a href="https://github.com/michiru-hq/sailboat">Sailboat</a> & <a href="https://github.com/michiru-hq/sakura">the Sakura Engine</a></p>
+        <p>A dead-simple, fast, zero-config static site generator using the Sakura templating engine.</p>
+      </li>
+    </div>
+  </main>
+</div>
+{% endblock content %}

@@ -1,7 +1,7 @@
 +++
 title = "稲荷 (Inari)"
 slug = "inari"
-description = "A simple webhook updated to keep remotes up-to-date on every push to Git"
+description = "A zero-config web server with sensible defaults."
 date = "2021-08-11"
 +++
 
