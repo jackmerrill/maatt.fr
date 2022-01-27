@@ -1,9 +1,9 @@
 +++
 title="Work"
-template="work.html"
+template="page.html"
 +++
 
-## 2022**
+## 2022
 - **Cronus** (coming soon)– Unannounced, unreleased hardware project.
 - **[Mello](https://getmello.org)** (coming soon)– A free, open-source meditation app.
 - **[Michiru](https://michiruhq.com)** (coming soon)– Unannounced small software company.
