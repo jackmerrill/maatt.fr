@@ -19,7 +19,6 @@ Some other places around the internet that I'm at are:
 - Itch: [doamatto](https://doamatto.itch.io)
 - Last.fm: [doamatto](https://last.fm/user/doamatto)
 - MusicBrainz: [/user/doamatto](https://musicbrainz.org/user/doamatto)
-- Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
 - Sourcehut: [~doamatto](https://sr.ht/~doamatto/)
 - Steam: [/id/notnotdoamatto](https://steamcommunity.com/id/notnotdoamatto)
 
