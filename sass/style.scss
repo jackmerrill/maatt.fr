@@ -109,32 +109,6 @@ header {
         margin-top: .2rem;
     }
 }
-.blist {
-    .a {
-        background: #3b82f6;
-        &:hover {
-            background: #1461de;
-        }
-    }
-    .g {
-        background: #f97316;
-        &:hover {
-            background: #dd5a00;
-        }
-    }
-    .h {
-        background: #10b981;
-        &:hover {
-            background: #08a370;
-        }
-    }
-    a {
-        padding: .5rem 2rem;
-        margin: .2rem;
-        border-radius: .25rem;
-        cursor: pointer;
-    }
-}
 
 nav {
     display: flex;
