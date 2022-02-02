@@ -10,4 +10,9 @@
     @media (max-width: 600px) { --body-padding-x: calc(var(--unit)*2); }
     --body-max-width: calc(var(--unit)*152);
     --unit: calc(16px*0.5);
+  
+    /* Seasonal occasions */
+    --lunar: #ff292a;
+    --lunar-bg: #f5e814;
+    //--pride:;
 }
