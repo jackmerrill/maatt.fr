@@ -211,7 +211,8 @@ nav {
     }
     &:hover,
     &:focus {
-        background: var(--lunar-bg);
+        h3,
+        p { background: var(--lunar-bg);
         color: black;
         /*color: white;
         h3,
