@@ -1,0 +1,10 @@
+@import './root.scss';
+
+html,
+body {
+  background: black;
+  color: white;
+}
+
+a { color: var(--lunar); }
+  
