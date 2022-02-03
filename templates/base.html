@@ -6,9 +6,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="/style.css" rel="stylesheet">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-        <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+        <title>{% block title %}{{ page.title }}{% endblock title %}</title>
         <link rel="author" href="humans.txt" />
-        <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}" />
+        <meta name="description" content="{% block description %}{% endblock description %}" />
         <meta name="author" content="Matt Ronchetto" />
         <meta property="og:url" content="{% block ogurl %}{{config.base_url | safe }}{% endblock ogurl %}" />
         {% if page.date -%}
