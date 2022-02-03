@@ -10,7 +10,7 @@ My name’s **Matt Ronchetto** (I go by `ドアマット` or `doamatto` on the I
 I currently **work part-time at [Chili’s](https://chilis.com)** and as **the solutions architect and web development manager [at Inkjar.](https://inkjar.org)**<br/>
 [See my full work history on Linkedin &rarr;](https://linkedin.com/in/matthewronchetto) or [my CV &rarr;](/cv)
 
-In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and video to edit together. I spend a lot of time either listening to music or focusing on studies to land a spot at a nice uni in ideally the Pacific/Mountain region. My favourite artists are mxmtoon, Kings of Leon, and iDKHOW.<br/>
+In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and video to edit together. I spend a lot of time either listening to music or focusing on studies to land a spot at a nice uni in ideally the Pacific/Mountain region. My favourite artists are mxmtoon, Ado, and Beach Bunny.<br/>
 [See what I’ve been working on &rarr;](/work)
 
 I’m an avid audiophile and general tech know-it-all. I'm an activist for digital accessibility standards like WCAG, as well as general data privacy and security. **I want to take a deep dive into PCB design and further my knowledge of network management, as well as the inner workings of the Linux kernel.**<br/>
