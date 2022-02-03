@@ -135,6 +135,7 @@ nav {
                 @include transition;
                 &:hover,
                 &:focus {
+                    color: var(--lunar);
                     background: none;
                     text-decoration: underline;
                     text-underline-offset: .3rem;
