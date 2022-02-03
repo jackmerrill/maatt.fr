@@ -2,37 +2,89 @@
 
 {% block content %}
 <header>
-  <h1>新年快乐! I'm Matt Ronchetto.</h1>
-  <p>
-    I'm a high school student living in San Diego, CA. I like to mess around with software development and graphic design as well.
-  </p>
+  <h1>CV</h1>
+  <p>Fun fact: printing this page will provide a print-friendly copy that makes this page look a bit better.</p>
 </header>
-<div class="feeds">
+<style>
+  @media print {
+    nav,
+    footer { display: none; }
+    .attr { display: block; }
+  }
+</style>
+<main>
+  <h2>Matthew "Matt" Ronchetto</h2>
+  <h3>High-school computer engineer, avid autophile, cinematographer.</h3>
+  <div>
     <div>
-        <h2>Blog posts</h2>
-        {% set feed = get_section(path="blog/_index.md")%}
-        {% for page in feed.pages | slice(end=4) %}
-            <article class="post">
-                <a href="{{ page.permalink }}" title="{{page.title}}">
-                    <h3>{{page.title}}</h3>
-                </a>
-                <p>{{page.description | safe }} <span class="disclaimer">{{page.date | date(format="%e %B, %Y")}}</span></p>
-            </article>
-        {% endfor %}
-        <a href="/blog" class="disclaimer">See all {{ feed.pages | length }} posts &rarr;</a>
+      <a href="mailto:hey@doamatto.xyz">hey@doamatto.xyz</a>
+      <a href="https://doamatto.xyz">doamatto.xyz</a>
     </div>
     <div>
-        <h2>Projects</h2>
-        {% set feed = get_section(path="projects/_index.md")%}
-        {% for page in feed.pages | slice(end=6) %}
-            <article class="post">
-                <a href="{{ page.permalink }}" title="{{page.title}}">
-                    <h3>{{page.title}}</h3>
-                </a>
-                <p>{{page.description | safe }}</p>
-            </article>
-        {% endfor %}
-        <a href="/projects" class="disclaimer">See all {{ feed.pages | length }} projects &rarr;</a>
+      <h2>Experience</h2>
+      <div>
+        <p>
+          <b>To-Go & Host/Hostess, Chili's</b><br/>
+          <i>Aug 2021 - Present</i>
+        </p>
+      </div>
+      <div>
+        <p>
+          <b>Solutions Architect & Web Development Manager, Inkjar</b><br/>
+          <i>Sep 2021 - Present</i>
+        </p>
+        <ul>
+          <li>Managed mail and web solutions both internally and for clients</li>
+          <li>Setup and maintain Inkjar's website, as well as the hosting for clients</li>
+          <li>Lead the development of several websites</li>
+          <li>Managed a small team of developers and designers</li>
+        </ul>
+      </div>
+      <div>
+        <p>
+          <b>Production Crew, Scripps Ranch HS</b><br/>
+          <i>Aug 2021 - Present</i>
+        </p>
+        <ul>
+          <li>Ran AV work for assemblies and other school events</li>
+          <li>Held high power in production of school news network</li>
+        </ul>
+      </div>
     </div>
-</div>
+    <aside>
+      <div>
+        <h2>Education</h2>
+        <div>
+          <p>
+            <b>Scripps Ranch HS</b>
+            High school diploma – Jun 2023
+          </p>
+        </div>
+      </div>
+      <div>
+        <h2>Skills</h2>
+        <ul>
+          <li>IT Operations</li>
+          <li>Web development</li>
+          <li>Linux system administration</li>
+          <li>Node.js</li>
+          <li>Git</li>
+          <li>Figma (software)</li>
+          <li>Golang / Go</li>
+          <li>Web Content Accessibility Guidelines</li>
+          <li>Dart</li>
+          <li>Amazon Web Services</li>
+        </ul>
+      </div>
+      <div>
+        <h2>Languages</h2>
+        <ul>
+          <li><b>English–</b> Native/bilingual tongue</li>
+          <li><b>Français–</b> Native/bilingual tongue (limited working proficiency)</li>
+          <li><b>日本語–</b> Elementary proficiency</li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+</main>
 {% endblock content %}
