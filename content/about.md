@@ -8,9 +8,9 @@ template="about.html"
 My name’s **Matt Ronchetto** (I go by `ドアマット` or `doamatto` on the Internet) and **I’m a high schooler living in San Diego.** I enjoy engineering, be it computer or otherwise, photography, and videography.
 
 I currently **work part-time at [Chili’s](https://chilis.com)** and as **the solutions architect and web development manager [at Inkjar.](https://inkjar.org)**<br/>
-[See my full work history and CV on Linkedin &rarr;](https://linkedin.com/in/matthewronchetto)
+[See my full work history on Linkedin &rarr;](https://linkedin.com/in/matthewronchetto) or [my CV &rarr;](/cv)
 
-In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and video to edit together. I spend a lot of time either listening to music or focusing on studies to land a spot at a nice uni in ideally the Pacific/Mountain region. My favourite artists are mxmtoon, Kings of Leon, and iDKHOW; as for unis, I'm still narrowing things down.<br/>
+In my spare time, **I experiment with different programming languages and libraries**, as well as love shooting pictures and video to edit together. I spend a lot of time either listening to music or focusing on studies to land a spot at a nice uni in ideally the Pacific/Mountain region. My favourite artists are mxmtoon, Kings of Leon, and iDKHOW.<br/>
 [See what I’ve been working on &rarr;](/work)
 
 I’m an avid audiophile and general tech know-it-all. I'm an activist for digital accessibility standards like WCAG, as well as general data privacy and security. **I want to take a deep dive into PCB design and further my knowledge of network management, as well as the inner workings of the Linux kernel.**<br/>
@@ -32,4 +32,4 @@ I designed this site with screen readers and text-based browsers in mind. As a u
 
 ### Programming
 
-I’ve messed around with software and programming for about the past 7 years or so now. I’ve dabbled in tons of languages but always come back to Golang and JavaScript. I'm currently learning C and Assembly, and I plan to learn Swift. Anything I make that’s public is likely on [Sourcehut](https://sr.ht/~doamatto/) or [GitHub.](https://github.com/doamatto)
+I’ve messed around with software and programming for about the past 7 years or so now. I’ve dabbled in tons of languages but always come back to Golang and JavaScript. I'm currently learning C, Assembly, and Java, with plans to learn Swift and MATLAB. Anything I make that’s public is likely on [Sourcehut](https://sr.ht/~doamatto/) or [GitHub.](https://github.com/doamatto)
