@@ -9,7 +9,7 @@
   </head>
   <body>
     <main>
-      {%block content}{%endblock%}
+      {%block content%}{{page.content | safe}}{%endblock%}
     </main>
     <footer>
       &copy; 2017-2022 Matt Ronchetto d.b.a. doamatto.<br/>
