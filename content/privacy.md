@@ -23,4 +23,4 @@ When you download an app published by me on the Apple App Store or Google Play s
 There are no longer public past versions of this document. **This privacy policy was last updated on 26 January, 2022,** and is updated infrequently. Feel free to check back however often you please.
 
 ### Contact
-You can write to [hello [at] doamatto.xyz](mailto:hello@doamatto.xyz) to get help as swiftly as possible on amending and fixing this document, as well as get answers to questions regarding this policy.
+You can write to [hey [at] doamatto.xyz](mailto:hey@doamatto.xyz) to get help as swiftly as possible on amending and fixing this document, as well as get answers to questions regarding this policy.
