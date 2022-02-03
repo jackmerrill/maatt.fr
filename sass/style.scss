@@ -70,6 +70,9 @@ footer {
         padding-left: 0;
         li {
             padding: .25rem 0;
+            a:hover {
+              opacity: 1 !important; // for lunar
+            }
         }
     }
 }
