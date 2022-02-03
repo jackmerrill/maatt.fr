@@ -1,11 +1,11 @@
 @mixin transition {
-    transition: all 125ms ease-out;
+  transition: color text-decoration-color opacity background-color 125ms ease-out;
+  -webkit-transition: 125ms color text-decoration-color opacity background-color;
 }
 
 
 @mixin q {
-  background-image: linear-gradient(#D60270, #9B4F96, #0038A8); //b
-  //color: linear-graidnet(#D12229, #F68A1E, #FDE01A, #007940, #24408E, #732982); //p
+  // background-image: linear-gradient(#D60270, #9B4F96, #0038A8); //b
 }
 
 @mixin feed-grid {
