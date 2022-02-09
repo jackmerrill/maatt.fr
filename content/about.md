@@ -26,7 +26,7 @@ Outside of technology, I enjoy reading books and watching tele series. Some of m
 
 This website was designed to be simple, yet nice looking. It’s preprocessed by my own static-site generator (coming soon-ish) and hosted on AWS Amplify. It’s distributed globally by Cloudflare, which I may (or may not) regret. I use a custom Docker image for AWS to try and keep things as light as possible, while staying as fast as possible. It also allows me to be able to use my generator in the first place, as it isn't on the NPM, nor is it pre-installed or easily installable on AWS' default container.
 
-I designed this site with screen readers and text-based browsers in mind. As a user of a screen reader, I wanted to make sure that, if I wanted to use my screen without my glasses, I could. I also made sure to use WCAG AA or greater colour contrast, as well as used common practices with images and document formatting to ensure the best experience for those who use alternative interface methods from a mouse or keyboard, like a joystick.
+I designed this site with screen readers and text-based browsers in mind. As a user of a screen reader, I wanted to make sure that, if I wanted to use my screen without my glasses, I could. I also made sure to use WCAG AA or greater colour contrast, as well as used common practices with images and document formatting to ensure the best experience for those who use alternative interface methods from a mouse or keyboard, like a joystick. Some colours are from Pantone swatches and make use of the wide P3 colour space to provide richer and deeper colour in browsers that support the `color(display-p3 R G B)` function and on displays with a wide-gamut.
 
 ---
 
