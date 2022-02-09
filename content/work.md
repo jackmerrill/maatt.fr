@@ -4,7 +4,7 @@ template="page.html"
 +++
 
 ## 2022
-- **[Polytechnic Cronus](http://polytechni.cc)** (coming soon)– Unannounced hardware project.
+- **Cronus** (coming soon)– Unannounced, unreleased hardware project.
 - **[Mello](https://getmello.org)** (coming soon)– A free, open-source meditation app.
 - **[Michiru](https://michiruhq.com)** (coming soon)– Unannounced small software company.
 - **より良い (Yoriyoi)** (coming soon)–  A cross-platform content blocker to help with a better Internet. An experiment with Safari Content Blockers.
