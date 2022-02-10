@@ -30,6 +30,7 @@ body {
       &::selection { background: var(--lunar-bg); }
       &::-moz-selection { background: var(--lunar-bg); }
     }
+    p { line-height: 1.6; }
     article a p,
     article p { line-height: 1rem; }
     @media (prefers-color-scheme: dark) {
@@ -96,7 +97,6 @@ header {
     }
 }
 .rdbl {
-  p { line-height: 1.6; }
     h1 {
         font-size: 3rem;
         @media(min-width: 650px) { margin-top: 0; }
