@@ -4,21 +4,20 @@ template="page.html"
 +++
 
 ### People to Meet (in person)
-- Emmanuel Macron (French President in 2017)
-- 习近平 (Chinese President in 2013)
-- Rasmus Andersson (ex-Spotify)
-- R. Miles McCain (PrivacySpy developer)
-  - [Did an inteview with about AI in my sophomore year.](https://edu.doamatto.xyz/interview-with-miles)
-- Igor Barakaiev (PrivacySpy developer)
-- Lee Robinson (Vercel employee)
-- Evan Wallace (ex-Figma)
-- Mirac (desginer/artist)
 - Christian Selig (Apollo for Reddit developer)
 - Drew DeVault (developer of SourceHut)
+- Emmanuel Macron (French President in 2017)
+- Evan Wallace (ex-Figma)
+- Igor Barakaiev (PrivacySpy developer)
 - James Newton-King (developer of Newtonsoft.Json)
+- Lee Robinson (Vercel employee)
+- Maia (mxmtoon)
+- Miles McCain (PrivacySpy developer)
+  - [Did an inteview with about AI in my sophomore year.](https://edu.doamatto.xyz/interview-with-miles)
+- Mirac (desginer/artist)
+- Rasmus Andersson (ex-Spotify)
 - Steve Eynon (Fantom Factory "Boss Man")
   - Had a Zoom call to discuss the Fantom language; would be cool to touch base again
-- Maia (mxmtoon)
 
 ### Places to Visit
 - Belgium
