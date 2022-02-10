@@ -18,6 +18,7 @@ template="page.html"
 - Rasmus Andersson (ex-Spotify)
 - Steve Eynon (Fantom Factory "Boss Man")
   - Had a Zoom call to discuss the Fantom language; would be cool to touch base again
+- 习近平 (Chinese President in 2013)
 
 ### Places to Visit
 - Belgium
