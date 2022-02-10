@@ -25,7 +25,7 @@ template="page.html"
 - China
 - France (..again)
 - Italy (..again)
-- Japan (country and city)
+- Japan
 - South Korea
 - Sweden
 - Switzerland (..again)
