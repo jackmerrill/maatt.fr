@@ -8,9 +8,11 @@ template="page.html"
 - **[Mello](https://getmello.org)** (coming soon)– A free, open-source meditation app.
 - **[Michiru](https://michiruhq.com)** (coming soon)– Unannounced small software company.
 - **より良い (Yoriyoi)** (coming soon)–  A cross-platform content blocker to help with a better Internet. An experiment with Safari Content Blockers.
+- **Live production crew of 2022 Graduation @ Scripps.** 
 
 ## 2021
 - **[First interview with Miles McCain–](https://edu.doamatto.xyz/interview-with-miles)** An interview with R. Miles McCain, a Stanford student and developer of PrivacySpy, on the topic of artificial intelligence. First professional interview I've done; not great, not terrible.
+- **First part-time job–** Worked in to-go and as a host at Chili's since.
 - **[マージ (Māji)–](https://github.com/doamatto/maji)** A dirt-simple tool to merge JSON files. An experiment with Newtonsoft.
 - **[伏見 (Fushimi)–](https://github.com/doamatto/fushimi)** A simple webhook updated to keep remotes up-to-date on every push to Git.
 - **[稲荷 (Inari)–](https://github.com/doamatto/inari)** A zero-config web server with sensible defaults.
@@ -22,7 +24,7 @@ template="page.html"
 - **[Lunar Design–](https://github.com/designbylunar)** A now-defunct French-American software development duo.
 
 ## 2020
-- **[Material UI Colors for VS Code](https://github.com/doamatto/materialui-vscode)**
+- **[Material UI Colors for VS Code.](https://github.com/doamatto/materialui-vscode)**
 - **[Mallow for Jekyll–](https://github.com/doamatto/mallow-theme)** A simple one-pager Jekyll theme that puts emphasis on simplicty and speed.
 - **[UPnP Port Mapper](https://github.com/doamatto/upnp-portmapper)**
 - **[Always Amazon Smiling–](https://github.com/doamatto/always-amazon-smiling)** A simple tool to redirect you from Amazon's sites to their Amazon Smile counterparts.
