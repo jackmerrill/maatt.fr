@@ -22,5 +22,5 @@ I got straight to work and released v0.1.0 on GitHub later that week. I made [a 
 
 From July to September, I worked tirelessly on the loading screen. A lot of feedback came from the aforementioned forum, as well as bug reports. It was a crucial tool and was great to talk with those who used my rather simple loading screen to better it. Over time, with patches and more features, v0.5.0 came out in December 2020.
 
-That same month, I decided to deprecate and bring 5mLoading into an end-of-life state due to technical limitations. I switched to Pop!\_OS full-time, and was no longer able to play FiveM.  
+That same month, I decided to deprecate and bring 5mLoading into an end-of-life state due to technical limitations. I switched to Pop!\_OS full-time, and was no longer able to play FiveM. 
 

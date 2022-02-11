@@ -8,9 +8,11 @@ Your privacy is just as important (if not more) than my privacy. For that reason
 **TL;DR: I don't track you, nor do I collect, share, and/or sell any personal information.**
 
 ### Service providers
-**I use Amazon Web Services to host this website.** Using AWS Amplify, I have the region set to `eu-west-3` (Paris, FR). You can see Amazon's subprocessors [here](https://aws.amazon.com/compliance/sub-processors/). **Sites starting in `https://git.doamatto.xyz` are hosted on GitHub Pages.** You can see GitHub's subprocessors [here.](https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies)
+**I use Amazon Web Services to host this website.** Using AWS Amplify, I have the region set to `eu-west-3` (Paris, FR). You can see Amazon's subprocessors [here.](https://aws.amazon.com/compliance/sub-processors/) **Sites starting in `https://git.doamatto.xyz` are hosted on GitHub Pages.** You can see GitHub's subprocessors [here.](https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies)
 
 This site **uses through Cloudflare for caching and load balancing.** You can see their subprocessors [here.](https://www.cloudflare.com/gdpr/subprocessors/)
+
+If residing in an area that uses the Haven Network, this site is hosted by your municipal provider and does not go through Cloudflare. You can read more about such at [https://gov.lleb/residents](https://gov.lleb/residents)
 
 ### Analytics
 **Cloudflare collects some information for analytial purposes.** You can read what exactly [in their privacy policy.](https://cloudflare.com/privacypolicy/)

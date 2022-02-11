@@ -14,5 +14,4 @@ Because of some funky bug with Shortcuts, these are distrubted sanely (as of 202
 - [**I think I have a fever&mdash;**](/icloud-shortcuts/fever-qa.shortcut) Logs your temperature and provides basic advice to take care of yourself (tips from Mayo Clinic). 
 - [**I feel congested&mdash;**](/icloud-shortcuts/congestion-qa.shortcut) Logs your congestion and gives some basic advice to take care of yourself (tips from Healthline Anon).
 - [**Turn on some white noise&mdash;**](/icloud-shortcuts/whitenoise-on.shortcut) ([companion to turn off](/icloud-shortcuts/whitenoise-off.shortcut)) Uses iOS 15's native white noise system to play some nice sounds. I plan to add a Dark Noise integration if I ever cough up the money for that app
-- Route to petrol&mdash; (needs polishing before release) Routes to the closet Costco petrol station. Could change to work with different pumps, but most people use Costco cards for that savings action. Used this for a road trip where we needed directions on the fly sometimes.
 - [**I just weighed myself&mdash;**](/icloud-shortcuts/weight-log.shortcut) Logs your weight and, if possible, calculates and logs your BMI.

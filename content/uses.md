@@ -8,17 +8,14 @@ template = "page.html"
 - **[Alfred—](https://www.alfredapp.com)** Alfred is essentially Spotlight Search, but on steriods. An essential for anyone on macOS.
 - **[Apollo—](https://www.apolloapp.io)** As most everyone will tell you, this is easly the best third-party Reddit app on the App Store.
 - **[Bandcamp—](https://bandcamp.com)** Bandcamp is home to a metric crap tonne of music from indie artists to some rather large bands.
-- **[Fastmail—](https://fastmail.com)** I used Tutanota and Protonmail but both are far too limited to be remotely recommendable. Fastmail is a good middle ground for privacy respecting while still having the features I find essential (ie. IMAP, full Sieve support). Tempted to switch to Migadu for personal and family.
-- **[Figma—](https://www.figma.com)** Needs little to no introduction in the design space: Figma is one of the greatest design tols that lets you do some crazy stuff with little effort.
+- **[Fastmail—](https://fastmail.com)** I used Tutanota and Protonmail but both are far too limited to be remotely recommendable. Fastmail is a good middle ground for privacy respecting while still having the features I find essential (ie. IMAP, full Sieve support).
 - **[foobar2000—](https://foobar2000.org)** Greatest music player on Windows, hands down.
 - **[ghostwriter—](https://wereturtle.github.io/ghostwriter)** A gorgerous Markdown editor that is easily one of the greatest notepad apps out there
-- **[Hush—](https://oblador.github.io/hush/)** One of the fastest content blockers for Safari. An essential on my phone.
 - **[Miniflux—](https://miniflux.app)** One of my favourite feed readers that is flawless for being used on my laptop or computer.
-- **[Mullvad—](https://mullvad.net)** Hands down the best VPN I've used. Well worth the 5€ a month.
+- **[Mullvad—](https://mullvad.net)** One of the best VPNs I've used. Well worth the 5€ a month.
 - **[Namecheap—](https://www.namecheap.com)** Namecheap is easily on of the best domain providers out there. They've got crazy fast support and are privacy-friendly.
 - **[NetNewsWire—](https://netnewswire.com)** One of the greatest feed readers out there.
-- **[Pocket Casts—](https://www.pocketcasts.com)** Easy the greatest podcast client ever. Still hate that they switched to a subscription-model. Still love that they grandfathered me to a lifetime plan.
-- **[Prism Music—](https://prism-music.app/)** An essential if you use Plex for music on iOS
+- **[Pocket Casts—](https://www.pocketcasts.com)** Simply the greatest podcast client. Ever.
 - **[Sublime Text—](https://sublimetext.com)** Easily the best code editor out there.
 - **[Tailscale—](https://tailscale.com)** Great one-click solution for a WireGuard VPN for connecting to self-hosted things off your network.
 
@@ -28,7 +25,7 @@ template = "page.html"
 	- Intel i5-4670k
 	- 16Go DDR3
 	- Nvidia RTX 2080
-	- Plenty storage to last
+	- Plenty of storage to last
 	- Running Windows 10 E-channel
 - Mac mini for daily operations
 	- M1
@@ -46,12 +43,11 @@ template = "page.html"
 - Muji double-wire notebooks [with the occasional sticker](http://cdn.doamatto.xyz/IMG_2661.jpg)
 
 ### On-the-go / Everyday Carry
-Although, how much of "on-the-go" are we doing right now?
 - Apple EarPods (3.5mm variant)
 - Lightning to 3.5mm adapter (sadly, essential)
-- 13-inch 2019 Razer Blade Stealth (512Go; running Elementary OS currently)
+- 13-inch 2019 Razer Blade Stealth (512Go; running Fedora currently)
 - SanDisk Ultra Dual Drive (256Go)
-- A black face mask
+- A black face mask + KN95 or KF94 mask
 - rOtring 600 / Mitsubishi Kuru Toga
 - uni Propus highlighters
 
