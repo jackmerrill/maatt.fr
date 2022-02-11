@@ -11,11 +11,6 @@
                       125ms text-decoration;
 }
 
-
-@mixin q {
-  // background-image: linear-gradient(#D60270, #9B4F96, #0038A8); //b
-}
-
 @mixin feed-grid {
     display: grid;
     gap: 1rem;

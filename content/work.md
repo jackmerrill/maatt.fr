@@ -8,7 +8,7 @@ template="page.html"
 - **[Mello](https://getmello.org)** (coming soon)– A free, open-source meditation app.
 - **[Michiru](https://michiruhq.com)** (coming soon)– Unannounced small software company.
 - **より良い (Yoriyoi)** (coming soon)–  A cross-platform content blocker to help with a better Internet. An experiment with Safari Content Blockers.
-- **Live production crew of 2022 Graduation @ Scripps.** 
+- **Live production crew for graduation with \~7000 viewers** (SRHS).  
 
 ## 2021
 - **[First interview with Miles McCain–](https://edu.doamatto.xyz/interview-with-miles)** An interview with R. Miles McCain, a Stanford student and developer of PrivacySpy, on the topic of artificial intelligence. First professional interview I've done; not great, not terrible.

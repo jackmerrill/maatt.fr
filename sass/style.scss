@@ -25,10 +25,6 @@ body {
         }
         @include transition;
     }
-    * {
-      &::selection { background: var(--lunar-bg); }
-      &::-moz-selection { background: var(--lunar-bg); }
-    }
     p { line-height: 1.6; }
     article a p,
     article p { line-height: 1rem; }
