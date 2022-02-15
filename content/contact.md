@@ -6,10 +6,10 @@ description = "There are a few ways you can reach out to me; be it for a gig, qu
 
 There are a few ways you can reach out to me, be it for a gig, questions about my past works or if you just want to chat. If you want to encrypt or check want me to certify a message of mine, my PGP key is [`7315 13B7 6DED 8009`](/assets/pgp.asc).
 
-- Email: [hey \[at\] doamatto.xyz](mailto:hey@doamatto.xyz)
+- Email: [web \[at\] doamatto.xyz](mailto:web@doamatto.xyz)
 - LinkedIn: [/in/matthewronchetto](https://www.linkedin.com/in/matthewronchetto)
-- Line: <a href="https://line.me/ti/p/uLA62qxZTr" class="himgl">@doamatto</a><img src="/assets/line_invite.jpg" class="himg" loading="lazy" alt="QR for adding @doamatto on Line" />
-- 微信 (Weixin): <a href="/assets/wechat_invite.jpg" class="himgl">@doamatto</a><img src="/assets/wechat_invite.jpg" class="himg" loading="lazy" alt="QR for adding @doamatto on 微信" /> (I ignore requests for signup verifications; PGP recommended)
+- Line: @doamatto ([qr](/assets/line_invite.jpg))
+- 微信 (Weixin): [@doamatto](weixin://dl/chat?doamatto) ([qr](/assets/wechat_invite.jpg)) –– I ignore requests for signup verifications.
 
 Some other places around the internet that I'm at are:
 - Bandcamp: [/doamatto](https://bandcamp.com/doamatto)

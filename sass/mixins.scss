@@ -10,11 +10,3 @@
                       125ms text-underline-offset,
                       125ms text-decoration;
 }
-
-@mixin feed-grid {
-    display: grid;
-    gap: 1rem;
-    width: 100%;
-    margin-top: .5rem;
-    margin-bottom: .5rem;
-}

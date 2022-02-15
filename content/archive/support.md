@@ -10,6 +10,4 @@ I've never been good at receiving (or giving, for that matter) gifts, but I unde
 - [GitHub Sponsors](https://github.com/sponsors/doamatto/)
 - [Liberapay](https://liberapay.com/doamatto/)
 
-If for some reason the two places above don't work, [reach out to me](/contact) so we can use another method (eg. Zelle, Apple Pay, et al).
-
 Thank you for your support and here's to more great things in the future!

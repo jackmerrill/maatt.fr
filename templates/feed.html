@@ -14,7 +14,7 @@
     {% for page in section.pages %}
     <article class="post">
         <a href="{{ page.permalink | safe }}">
-            <p>{{ page.title }}</p>
+            <h3>{{ page.title }}</h3>
         </a>
         <p>{{page.description | safe }}</p>
     </article>

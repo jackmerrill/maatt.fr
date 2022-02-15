@@ -22,19 +22,4 @@
     {% endfor %}
     <a href="/blog" class="disclaimer">See all {{ feed.pages | length }} posts &rarr;</a>
 </div>
-{#<!--<div class="feeds">
-    <div>
-        <h2>Projects</h2>
-        {% set feed = get_section(path="projects/_index.md")%}
-        {% for page in feed.pages | slice(end=6) %}
-            <article class="post">
-                <a href="{{ page.permalink }}" title="{{page.title}}">
-                    <h3>{{page.title}}</h3>
-                </a>
-                <p>{{page.description | safe }}</p>
-            </article>
-        {% endfor %}
-        <a href="/projects" class="disclaimer">See all {{ feed.pages | length }} projects &rarr;</a>
-    </div>
-</div>--> #}
 {% endblock content %}

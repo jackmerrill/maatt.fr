@@ -4,19 +4,15 @@ template = "page.html"
 +++
 
 ## Software
-- **[1Password—](https://1password.com)** I used [Bitwarden](https://bitwarden.com) for ages (still recommend it for those who need a *free* password manager). 1Password is way more polished, however.
-- **[Alfred—](https://www.alfredapp.com)** Alfred is essentially Spotlight Search, but on steriods. An essential for anyone on macOS.
-- **[Apollo—](https://www.apolloapp.io)** As most everyone will tell you, this is easly the best third-party Reddit app on the App Store.
-- **[Bandcamp—](https://bandcamp.com)** Bandcamp is home to a metric crap tonne of music from indie artists to some rather large bands.
-- **[Fastmail—](https://fastmail.com)** I used Tutanota and Protonmail but both are far too limited to be remotely recommendable. Fastmail is a good middle ground for privacy respecting while still having the features I find essential (ie. IMAP, full Sieve support).
+- **[1Password—](https://1password.com)** I used [Bitwarden](https://bitwarden.com) for ages (still recommend it for those who need a *free* password manager). 1Password is far more polished.
+- **[Apollo—](https://www.apolloapp.io)** As most everyone will tell you, this is the best third-party Reddit app on the App Store.
+- **[Bandcamp—](https://bandcamp.com)** Home to a metric crap tonne of music from indie artists to some rather large bands.
+- **[Fastmail—](https://fastmail.com)** Used Tutanota and Protonmail, but both are far too limited to be remotely recommendable. FM is a good middle ground for privacy respecting while still having the features I find essential: IMAP, full Sieve support, et al.
 - **[foobar2000—](https://foobar2000.org)** Greatest music player on Windows, hands down.
-- **[ghostwriter—](https://wereturtle.github.io/ghostwriter)** A gorgerous Markdown editor that is easily one of the greatest notepad apps out there
-- **[Miniflux—](https://miniflux.app)** One of my favourite feed readers that is flawless for being used on my laptop or computer.
 - **[Mullvad—](https://mullvad.net)** One of the best VPNs I've used. Well worth the 5€ a month.
-- **[Namecheap—](https://www.namecheap.com)** Namecheap is easily on of the best domain providers out there. They've got crazy fast support and are privacy-friendly.
-- **[NetNewsWire—](https://netnewswire.com)** One of the greatest feed readers out there.
+- **[Namecheap—](https://www.namecheap.com)** Crazy fast support and privacy-friendly.
+- **[NetNewsWire—](https://netnewswire.com)** One of the best feed reader for iOS and macOS.
 - **[Pocket Casts—](https://www.pocketcasts.com)** Simply the greatest podcast client. Ever.
-- **[Sublime Text—](https://sublimetext.com)** Easily the best code editor out there.
 - **[Tailscale—](https://tailscale.com)** Great one-click solution for a WireGuard VPN for connecting to self-hosted things off your network.
 
 ## Hardware
@@ -39,7 +35,6 @@ template = "page.html"
 - Schiit Magni 3 and Modi 3
 - Sonos One (non-SL)
 - Staedtler pencil set
-- Sakura Micron pens
 - Muji double-wire notebooks [with the occasional sticker](http://cdn.doamatto.xyz/IMG_2661.jpg)
 
 ### On-the-go / Everyday Carry
