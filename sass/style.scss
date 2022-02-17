@@ -123,14 +123,18 @@ nav {
             &:hover,
             &:focus {
                 svg path {
-                    stroke: var(--lunar);
-                    /*stroke: var(--purple-l);
+                    //stroke: var(--lunar);
+                    stroke: var(--purple-l);
                     @media (prefers-color-scheme: 'dark') {
                         stroke: var(--purple);
-                    }*/
+                    }
                 }
                 a {
-                    color: var(--lunar);
+                    //color: var(--lunar);
+                    color: var(--purple-l);
+                    @media (prefers-color-scheme: 'dark') {
+                        color: var(--purple);
+                    }
                     background: none;
                     text-decoration: underline;
                     text-decoration-color: initial;
