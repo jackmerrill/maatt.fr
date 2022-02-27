@@ -5,13 +5,19 @@ template="page.html"
 
 ### People to Meet (in person)
 - Christian Selig (Apollo for Reddit developer)
+- Dallon Weekes (ex-P!ATD, iDKHOW)
+- Dan Povenmire (Dr Doofenshmirtz and artist/animator)
 - Dana Terrace (artist/animator)
 - Drew DeVault (developer of SourceHut)
 - Emmanuel Macron (French President in 2017)
 - Evan Wallace (ex-Figma)
+- ~~Hergé (Tintin)
+  - Imagine forgetting he's dead. Couldn't be me.
 - 宮崎 駿 (株式会社スタジオジブリ co-founder)
 - Igor Barakaiev (PrivacySpy developer)
+- Jack Merrill (developer at Merch)
 - James Newton-King (developer of Newtonsoft.Json)
+- Jane Manchun Wong (forbes 30 under 30)
 - Lee Robinson (Vercel employee)
 - Maia (mxmtoon)
 - Marques Brownlee (journalist)
@@ -19,6 +25,7 @@ template="page.html"
   - [Did an inteview with about AI in my sophomore year.](https://edu.doamatto.xyz/interview-with-miles)
 - Mirac (desginer/artist)
 - Rasmus Andersson (ex-Spotify)
+- Ryan Seaman (ex-Falling in Reverse, iDKHOW)
 - Steve Eynon (Fantom Factory "Boss Man")
   - Had a Zoom call to discuss the Fantom language; would be cool to touch base again
 - 习近平 (Chinese President in 2013)
