@@ -11,7 +11,7 @@ template="page.html"
 - Drew DeVault (developer of SourceHut)
 - Emmanuel Macron (French President in 2017)
 - Evan Wallace (ex-Figma)
-- ~~Hergé (Tintin)
+- ~~Hergé (Tintin)~~
   - Imagine forgetting he's dead. Couldn't be me.
 - 宮崎 駿 (株式会社スタジオジブリ co-founder)
 - Igor Barakaiev (PrivacySpy developer)
