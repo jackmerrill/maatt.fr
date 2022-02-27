@@ -49,4 +49,5 @@ template="page.html"
 - Learn to snowboard
 - Attend the Olympics as a guest
 - Contribute to the research of a major topic
-- Steal whatever bucket list [Daniel](https://cyckl.net) comes up with
+- Have or attend a slumber party/sleepover
+- Steal whatever bucket list [Daniel](https://daan.ws) comes up with
