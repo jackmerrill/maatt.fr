@@ -3,6 +3,8 @@ title="Bucket List"
 template="page.html"
 +++
 
+**[pour sudoers](https://github.com/doamatto/doamatto.xyz/edit/main/content/wishlist.md)**
+
 ### People to Meet (in person)
 - William "Bill" Nye (engineer, comedian)
 - Christian Selig (Apollo for Reddit developer)
