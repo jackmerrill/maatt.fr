@@ -4,6 +4,7 @@ template="page.html"
 +++
 
 ### People to Meet (in person)
+- William "Bill" Nye (engineer, comedian)
 - Christian Selig (Apollo for Reddit developer)
 - Dallon Weekes (ex-P!ATD, iDKHOW)
 - Dan Povenmire (Dr Doofenshmirtz and artist/animator)
@@ -18,6 +19,11 @@ template="page.html"
 - Jack Merrill (developer at Merch)
 - James Newton-King (developer of Newtonsoft.Json)
 - Jane Manchun Wong (forbes 30 under 30)
+- Last.fm and Audioscrobbler founders
+  - Felix Miller
+  - Martin Stiksel
+  - Michael Breidenbruecker
+  - Thomas Willomitzer 
 - Lee Robinson (Vercel employee)
 - Maia (mxmtoon)
 - Marques Brownlee (journalist)
@@ -36,6 +42,8 @@ template="page.html"
 - France (..again)
 - Italy (..again)
 - Japan
+- Philippines
+- ROC / Taiwan
 - South Korea
 - Sweden
 - Switzerland (..again)
@@ -57,4 +65,5 @@ template="page.html"
 - Attend the Olympics as a guest
 - Contribute to the research of a major topic
 - Have or attend a slumber party/sleepover
+- Attend a decent university (UC San Diego?)
 - Steal whatever bucket list [Daniel](https://daan.ws) comes up with
