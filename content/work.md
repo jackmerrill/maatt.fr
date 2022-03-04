@@ -27,7 +27,7 @@ template="page.html"
 - **[Mallow for Jekyll–](https://github.com/doamatto/mallow-theme)** A simple one-pager Jekyll theme that puts emphasis on simplicty and speed.
 - **[UPnP Port Mapper](https://github.com/doamatto/upnp-portmapper)**
 - **[Always Amazon Smiling–](https://github.com/doamatto/always-amazon-smiling)** A simple tool to redirect you from Amazon's sites to their Amazon Smile counterparts.
-- **[5M Loading–](https://github.com/doamatto/5m_loading)** Another FiveM loading screen.
+- **[5M Loading–](https://github.com/doamatto/5m_loading)** Another FiveM loading screen. Net ~8000 views and 700+ downloads.
 - **Pixel Spice–** An unreleased LED array controllable by Twitch "bits" donations.
 
 ## 2019
