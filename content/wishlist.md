@@ -7,6 +7,7 @@ template="page.html"
 
 - [Lego Technic McLaren F1 Car](https://www.lego.com/en-us/product/mclaren-formula-1-race-car-42141)
 - [Sunchokes - Remember SPORTS (CD)](https://remembersports.bandcamp.com/album/sunchokes-deluxe-edition) (UPC 634457829022)
+- [Prusa MK3S+](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/)
 - [Yamaha HS7](https://smile.amazon.com/dp/B00CFOXHGS)<br/>
   This item depends on the following item(s):
   - [Sonos Port](https://sonos.com/en-us/shop/port)
