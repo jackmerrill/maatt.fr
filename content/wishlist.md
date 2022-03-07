@@ -18,5 +18,4 @@ template="page.html"
 - [The Vanishing Half](https://smile.amazon.com/gp/product/0525536299/) (ISBN 0525536299)
 - [Ubiquiti Dream Machine Pro](https://store.ui.com/products/udm-pro)
 - [Victorinox Hunter Pro](https://www.victorinox.com/us/en/Products/Swiss-Army-Knives/Outdoor/Hunter-Pro/p/0.9411.M63)
-- [DaVinci Resolve 17 Studio w/ Speed Editor (Activation Card)](https://bhpho.to/3HQcjsK)
 - [Angus & Julia Stone - Life is Strange (CD)](https://www.discogs.com/release/20983417-Angus-Julia-Stone-Life-Is-Strange)
