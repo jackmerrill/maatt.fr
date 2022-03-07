@@ -11,7 +11,7 @@ template="page.html"
 - [Yamaha HS7 (x2)](https://smile.amazon.com/dp/B00CFOXHGS)<br/>
   This item depends on the following item(s):
   - [Sonos Port](https://sonos.com/en-us/shop/port)
-  - [Schiit Freya S+](https://www.schiit.com/products/freya-s)
+  - [Schiit Freya S+ (Silver)](https://www.schiit.com/products/freya-s)
 - [Zoom H5](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h5/)
 - [Life is Strange Vol. 6 (Paperback)](https://amzn.to/3HhGng5) (ISBN 1787734757)
 - [The Vanishing Half](https://smile.amazon.com/gp/product/0525536299/) (ISBN 0525536299)
