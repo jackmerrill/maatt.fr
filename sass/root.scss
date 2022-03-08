@@ -2,7 +2,6 @@
     /* Tag colours */
     --purple: #b7c0ff; // AAA compliant
     --purple-l: #4259fd; // AA compliant (light)
-    --purple-old: #909eff; // legacy colour still used in logo
 
     /* Variables */
     --body-padding-y: calc(var(--unit));
@@ -12,6 +11,5 @@
     --unit: calc(16px*0.5);
   
     /* Seasonal occasions */
-    // --lunar: #ff292a;
     --lunar-bg: #f5e814;
 }
