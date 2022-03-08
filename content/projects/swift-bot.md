@@ -5,6 +5,11 @@ description = "A deprecated Discord bot that was to be lightweight, feature-fill
 date = "2021-08-26"
 +++
 
+## ⚠️ Heads up!
+This page is for a project that doesn't exist anymore or never existed in the first place. The best term for something like this is **vaporware.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](/blog/linkrot)
+
+---
+
 Swift has been deprecated and [archived.](https://github.com/doamatto/swiftbot-legacy) The main issue I realised off the bat was that I was making the bot too general and needed to target my attention before aiming for this kind of bot. SInce then, the following projects were born (these links may not be live yet, as not all of the smaller bots have released, as of writing):
 - [Tu Ecoutés](/projects/tu-ecoutes)
 - [Dove](/projects/dove-bot)

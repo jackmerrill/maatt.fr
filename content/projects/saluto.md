@@ -5,8 +5,8 @@ description = "A simple way to give a random way to greet people."
 date = "2021-08-26"
 +++
 
-## Useful links
-- [GitHub repository](https://github.com/doamatto/saluto)
+## ⚠️ Heads up!
+This page is for a project that doesn't exist anymore or never existed in the first place. The best term for something like this is **vaporware.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](/blog/linkrot)
 
 ---
 

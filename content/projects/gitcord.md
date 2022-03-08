@@ -5,6 +5,9 @@ description = "A bot that allows users to search repositories via GitHub's API"
 date = "2021-01-23"
 +++
 
+## ⚠️ Heads up!
+This page is for a project that doesn't exist anymore or never existed in the first place. The best term for something like this is **vaporware.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](/blog/linkrot)
+
 ---
 
 I recently was sent an invite to a GitHub organisation and a Discord group known as «DevingOnDiscord». From my understanding, it's essentially a group of lads who use Discord to turn a profit with their software. Frankly, I've never really cared about making a profit from my service, but I decided to help out with some of the projects. One of those being GitCord.

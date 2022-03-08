@@ -6,7 +6,6 @@ date = "2020-10-16"
 +++
 
 ### Useful links
-- [Gltich Entertainment's Website (now defunct)](https://playglitch.xyz)
 - [SouthNode repo](https://github.com/playglitch/southnode)
 - [SouthNode NPM package](https://www.npmjs.com/package/southnode)
 - [SouthPy repo](https://github.com/playglitch/southpy)
