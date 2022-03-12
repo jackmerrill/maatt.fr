@@ -2,6 +2,7 @@
 title = "Apple's March Event: Mac Studio and Co."
 slug = "apple-march-22"
 date = "2022-03-08T11:02:00Z"
+updated = "2022-03-12T06:39:10Z"
 description = "Apple announced today the last iteration of the M1 chip, as well as new Mac products and some minor things like Apple TV+ and Arcade additions."
 +++
 
@@ -52,6 +53,8 @@ I'm actually not really sold on the display; maybe it's because I've already cai
 
 ## Minor things
 - The iPhone got a cool new green colour way dubbed "Alpine Green." I dig it; available March 18th.
-- Apple Arcade is getting some new games. The racing game they showcased () actually doesn't look half bad. I'll still stick to Assetto Corssa though.
+- Apple Arcade is getting some new games. The racing game they showcased (Gear.Club Stradale) actually doesn't look half bad. I'll still stick to Assetto Corssa though.
 
 **P.S.** While watching, I did a live playlist of the music that played. Hilariously enough, Spotify actually went down mid-playlist creation. 
+
+*This post was edited once to add the name of the Apple Arcade game. I had forgotten the name.*
