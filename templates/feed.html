@@ -13,10 +13,12 @@
 <div class="feed">
     {% for page in section.pages %}
     <article class="post">
-        <a href="{{ page.permalink | safe }}">
-            <h3>{{ page.title }}</h3>
-        </a>
-        <p>{{page.description | safe }}</p>
+        <div>
+            <a href="{{ page.permalink | safe }}">
+                <h3>{{ page.title }}</h3>
+            </a>
+            <p>{{page.description | safe }} <span class="disclaimer">{{page.date | date(format="%e %B, %Y")}}</span></p>
+        </div>
     </article>
     {% endfor %}
 </div>
