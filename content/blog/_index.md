@@ -6,5 +6,3 @@ page_template = "post.html"
 +++
 
 I usually post twice a month. Subscribe via [Atom feed.](/atom.xml)
-
----
