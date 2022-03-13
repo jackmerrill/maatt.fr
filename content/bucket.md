@@ -7,6 +7,7 @@ template="page.html"
 
 ### People to Meet (in person)
 - William "Bill" Nye (engineer, comedian)
+- Charles Leclerc (Scuderia Ferrari driver)
 - Christian Selig (Apollo for Reddit developer)
 - Dallon Weekes (ex-P!ATD, iDKHOW)
 - Dan Povenmire (Dr Doofenshmirtz and artist/animator)
@@ -21,6 +22,7 @@ template="page.html"
 - Jack Merrill (developer at Merch)
 - James Newton-King (developer of Newtonsoft.Json)
 - Jane Manchun Wong (forbes 30 under 30)
+- Lando Norris (McLaren driver)
 - Last.fm and Audioscrobbler founders
   - Felix Miller
   - Martin Stiksel
@@ -29,10 +31,13 @@ template="page.html"
 - Lee Robinson (Vercel employee)
 - Maia (mxmtoon)
 - Marques Brownlee (journalist)
+- Mattia Binotto (Scuderia Ferrari team principal)
 - Miles McCain (PrivacySpy developer)
   - [Did an inteview with about AI in my sophomore year.](https://edu.doamatto.xyz/interview-with-miles)
 - Mirac (desginer/artist)
+- Pierre Gasly (AlphaTauri driver)
 - Rasmus Andersson (ex-Spotify)
+- Romain Grosjean (IndyCar driver, ex-F1)
 - Ryan Seaman (ex-Falling in Reverse, iDKHOW)
 - Steve Eynon (Fantom Factory "Boss Man")
   - Had a Zoom call to discuss the Fantom language; would be cool to touch base again
@@ -44,6 +49,7 @@ template="page.html"
 - France (..again)
 - Italy (..again)
 - Japan
+- Monaco
 - Philippines
 - ROC / Taiwan
 - South Korea
@@ -58,6 +64,8 @@ template="page.html"
 - Learn new languages
   - Chinese
   - German & Swiss German
+  - Italian
+  - Japanese
   - Korean
   - Swedish
 - Become self-employed
@@ -68,4 +76,6 @@ template="page.html"
 - Contribute to the research of a major topic
 - Have or attend a slumber party/sleepover
 - Attend a decent university (UC San Diego?)
+- Attend a F1 race
+  - And enter the paddock
 - Steal whatever bucket list [Daniel](https://daan.ws) comes up with
