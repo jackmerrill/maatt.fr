@@ -14,7 +14,7 @@ Getting back to the point, using Keychain Access, I exported a certificate that 
 ## Telling your computer that it's stupid
 A fun feature of computers is that they're not always the smartest. Fortunately, in this instance, that's a good thing. Without doing anything more, I would always get warnings still about an untrusted certificate (bar on the Mac that I created the CA on). I used Meraki to deploy the CA on my other devices to remove this warning, which did on my Windows devices. But, curiously, it still didn't work on iOS or macOS. Both had the CA, so what gives?
 
-## Telling Apple that their stupid
+## Telling Apple that they're stupid
 Safari warned that the certificate was "not standards compliant." Taking to the Internet, I was quick to find that Apple decided that, with iOS 13 and macOS 10.15, web certificates and CAs needed to follow some new rules:
 - CAs and certificates must have a key size of at least 2048 bits (the CA and certificate were both 4096)
 - CAs and certificates must use SHA-2 hashing (which they were)
