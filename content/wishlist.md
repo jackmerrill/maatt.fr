@@ -15,4 +15,3 @@ template="page.html"
 - [Mitsubishi Posca Paint Marker Set (PC-5M)](https://amzn.to/3Leun0z)
 - [Zoom H5](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h5/)
 - [Life is Strange Vol. 6 (Paperback)](https://amzn.to/3HhGng5) (ISBN `1787734757`)
-- [Ubiquiti Dream Machine Pro](https://store.ui.com/products/udm-pro)
