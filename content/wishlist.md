@@ -19,3 +19,6 @@ template="page.html"
 - [dawn & dusk Vinyl](https://merch.mxmtoon.com/products/dawn-dusk-vinyl-eco-mix)
 - [The World Turned Upside Down](https://bookshop.org/books/the-world-turned-upside-down-a-history-of-the-chinese-cultural-revolution/9780374293130) (ISBN `9780374293130`)
 - [Semicolon: The Past, Present, and Future of a Misunderstood Mark](https://bookshop.org/books/semicolon-the-past-present-and-future-of-a-misunderstood-mark/9780062853059) (ISBN `9780062853059`)
+- [Turing Pi 2](https://turingpi.com)
+  This item depends on the following item(s):
+  - [Compute Module 4 (4Go; x4)](https://www.raspberrypi.com/products/compute-module-4)
