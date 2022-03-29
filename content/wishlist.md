@@ -9,9 +9,13 @@ template="page.html"
 - [Sunchokes - Remember SPORTS (CD)](https://remembersports.bandcamp.com/album/sunchokes-deluxe-edition) (UPC `634457829022`)
 - [Yamaha HS7 (x2)](https://smile.amazon.com/dp/B00CFOXHGS)<br/>
   This item depends on the following item(s):
-  - [Sonos Port](https://sonos.com/en-us/shop/port)
   - [Schiit Freya S+ (Silver)](https://www.schiit.com/products/freya-s)
-  - [Cambridge Audio AXC35](https://smile.amazon.com/dp/B07SN6BQJ3)
+- [Cambridge Audio AXC35](https://www.cambridgeaudio.com/products/hi-fi/ax/axc35)
 - [Mitsubishi Posca Paint Marker Set (PC-5M)](https://amzn.to/3Leun0z)
 - [Zoom H5](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h5/)
-- [Life is Strange Vol. 6 (Paperback)](https://amzn.to/3HhGng5) (ISBN `1787734757`)
+- [Life is Strange Vol. 6 (Paperback)](https://amzn.to/3HhGng5) (ISBN `9781787734757`)
+- [Fluance RT81](https://www.fluance.com/rt81-high-fidelity-vinyl-turntable-record-player-with-premium-cartridge-diamond-needle)
+- [Mechanical Bull Vinyl](https://www.discogs.com/master/599554-Kings-Of-Leon-Mechanical-Bull-)
+- [dawn & dusk Vinyl](https://merch.mxmtoon.com/products/dawn-dusk-vinyl-eco-mix)
+- [The World Turned Upside Down](https://bookshop.org/books/the-world-turned-upside-down-a-history-of-the-chinese-cultural-revolution/9780374293130) (ISBN `9780374293130`)
+- [Semicolon: The Past, Present, and Future of a Misunderstood Mark](https://bookshop.org/books/semicolon-the-past-present-and-future-of-a-misunderstood-mark/9780062853059) (ISBN `9780062853059`)
