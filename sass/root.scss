@@ -2,13 +2,6 @@
     /* Tag colours */
     --purple: #b7c0ff; // AAA compliant
     --purple-l: #4259fd; // AA compliant (light)
-
-    /* Variables */
-    --body-padding-y: calc(var(--unit));
-    --body-padding-x: calc(var(--unit)*4);
-    @media (max-width: 600px) { --body-padding-x: calc(var(--unit)*2); }
-    --body-max-width: calc(var(--unit)*152);
-    --unit: calc(16px*0.5);
   
     /* Seasonal occasions */
     --lunar-bg: #f5e814;
