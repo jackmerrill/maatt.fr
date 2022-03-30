@@ -13,7 +13,7 @@
     <h2>Blog posts</h2>
     {% set feed = get_section(path="blog/_index.md")%}
     {% for page in feed.pages | slice(end=5) %}
-        <article>
+        <article class="post">
             <a href="{{ page.permalink }}" title="{{page.title}}">
                 <h3>{{page.title}}</h3>
             </a>
