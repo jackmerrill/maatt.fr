@@ -8,8 +8,8 @@ There are a few ways you can reach out to me, be it for a gig, questions about m
 
 - Email: [web \[at\] doamatto.xyz](mailto:web@doamatto.xyz) ([public key](/key))
 - LinkedIn: [/in/matthewronchetto](https://www.linkedin.com/in/matthewronchetto)
-- Line: @doamatto ([qr](/assets/line_invite.jpg))
-- 微信 (Weixin): [@doamatto](weixin://dl/chat?doamatto) ([qr](/assets/wechat_invite.jpg)) –– I ignore requests for signup verifications.
+- Line: @doamatto
+- 微信 (Weixin): [@doamatto](weixin://dl/chat?doamatto)–– I ignore requests for signup verifications.
 
 Some other places around the internet that I'm at are:
 - Bandcamp: [/doamatto](https://bandcamp.com/doamatto)
