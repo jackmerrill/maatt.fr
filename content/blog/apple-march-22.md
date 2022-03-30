@@ -23,7 +23,7 @@ There were also updates to the front camera by **replacing the old front camera 
 
 I liked the purple and blue colours that they showed off. **Starting at 599$ with a 64Go and 256Go models.**
 
-## M1 Ultra: F\*ck these names man.
+## M1 Ultra: F\*ck these names, man.
 I was basically shouting when they announced this chip. I hated the name of the Pro and Max, but kind of saw it coming. Ultra was the most steaming pile of BS I've seen in a hot minute though. The chip itself, however, is pretty great.
 
 They targeted Xeon chips by saying that to get even greater performance they need two chips. They basically said they fixed this problem by just connecting the two chips like LEGO: UltraFusion is the name. Inter-processor bandwidth is crazy fast however (2.5To/s). Memory is also now at a bandwidth of 800Go/s, which is nuts to say the least. The unified memory has jumped to 128Go which is insane as well.
@@ -35,7 +35,7 @@ They targeted Xeon chips by saying that to get even greater performance they nee
 
 They advertise the same performance to the "fastest 16-core chip" and nets 90% performance in the window and by using 100W less. They also advertise a third of the power usage of the "leading desktop GPU." Overall, it's a lot. More vague graphs and comparisons, but it's still sounds like it will be impressive.
 
-## Mac Studio: I wish I didn't buy a Mac Mini now
+## Mac Studio: I (mildly) wish I didn't buy a Mac Mini now
 I'll preface by saying **the computer itself is ugly, but that's more than okay.** It's way larger, likely to fit cooling for this beefier cooling. When they cut away the side, it was clear that it was the case. Huge fans, huge heatsink. It's almost like using cooling helps performance. Probably going to be as quiet as their other computers.
 
 The **I/O on the Mac Studio is kind of insane,** but shouldn't have needed to be: HDMI, 2 USB-A, audio, 4 Thunderbolt 4. Why there couldn't have been similar I/O on the Mac Mini is sadly beyond me They also brought back an SD card reader and 2 USB-C ports on the front; assuming you get the M1 Ultra SKU, those USB-C ports are Thunderbolt 4 as well, with support for 4 Pro Displays and 1 TV. This is bonkers.
@@ -44,7 +44,7 @@ Comparing the chips to ohter computers, they showed off how they beat the Mac Pr
 
 The Mac Studio makes buying the Mac Mini seem kind of useless if you need a small computer for serious work. I'd like to see M1 Ultra get support for WINE and the Linux kernel: imaging the performance that they boast, it seems like it will be an awesome experience. **M1 Max starts at 2999$, M1 Ultra starts at 3999$**
 
-## Studio Display: Pro Display is now
+## Studio Display: Pro Display sans Grater
 **The best way to describe this display is that it should have been what the iMac looked like.** Supports the Pro Display Stand and has a VESA adapter. It comes with the same coating options as the Pro Display. **Curiously enough, it has an A13 chip inside for dedicated image and sound processing.** Why it started to a "prosumer" device is beyond me: it would likely have been ideal to be started in a MacBook of some sort. 
 
 3 USB-C ports and a Thunderbolt port, with the latter meant to connect between your Mac and the display, with fast charge support for MacBook Pro (96W of charging). They also finally released the black colour schemes for the Pro devices for the Studio Display to pair nicely.
