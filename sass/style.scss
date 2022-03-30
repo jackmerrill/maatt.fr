@@ -81,6 +81,7 @@ footer {
 
 header {
     margin-bottom: 1rem;
+    hr { border-width: 4px; }
     h1 {
         margin-top: 0;
         margin-bottom: 0;
@@ -199,4 +200,3 @@ nav {
 }
 
 .footnote-definition { display: inline-flex; }
-hr { border-width: 4px; }
