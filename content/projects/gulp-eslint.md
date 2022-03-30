@@ -6,9 +6,8 @@ tag = "Active development"
 date = "2021-11-18"
 +++
 
-### Useful links
-- [NPM Package](https://www.npmjs.com/package/@doamatto/gulp-eslint)
-- [GitHub repository](https://github.com/doamatto/gulp-eslint)
+## ⚠️ Heads up!
+This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](/blog/linkrot)
 
 ---
 
@@ -20,3 +19,9 @@ Some rather big changes that happened to the plugin:
 - and heaps more ([this was a big PR for some of the changes done up on the fork](https://github.com/doamatto/gulp-eslint/pull/10))
 
 In February of 2021, I wanted to start to reshape the tool on a fundamental basis by rewriting the plugin in TypeScript and refactoring code to be easily understandable by others. Since then, [I've been in talks with numerous other developers](https://github.com/adametry/gulp-eslint/issues/266) and decided to ultimately detach myself from the old fork to create not only a better interface with Gulp for ESLint but to possibly make a better tool than ESLint and Gulp as a whole. These hopes and dreams are far into the future, [but planned nevertheless.](/ideas)
+
+---
+
+### Useful links
+- [NPM Package](https://www.npmjs.com/package/@doamatto/gulp-eslint)
+- [GitHub repository](https://github.com/doamatto/gulp-eslint)
