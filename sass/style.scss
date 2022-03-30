@@ -2,19 +2,14 @@
 @import './mixins.scss';
 
 /* Start main doc */
-@media (prefers-reduced-motion) {
-    * { animation: none !important; }
-}
-
-html { background: #6667AB; }
+html,
 body {
     font-family: Helvetica,
                  Inter,
                  sans-serif;
-    border-top: .5rem solid #6667AB;
-    background: white;
-    margin: 0;
-    height: 100%;
+    @media (prefers-reduced-motion) {
+        * { animation: none !important; }
+    }
     a {
         color: inherit;
         text-underline-offset: .2rem;
@@ -35,8 +30,10 @@ body {
         color: #f3f3f3;
     }
     margin: 0 auto;
-    max-width: var(--body-max-width);
-    padding: 0 var(--body-padding-x) var(--body-padding-y) var(--body-padding-x);
+}
+main {
+    margin: 0 auto;
+    max-width: 80%;
 }
 
 .adj {
@@ -65,7 +62,6 @@ code {
 
 footer {
     padding-top: 1rem;
-    padding-bottom: 2em;
     text-align: center;
     color: rgba(0,0,0,0.8);
     @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.8);}
@@ -103,55 +99,54 @@ main,
         ul > li:last-child { padding-bottom: 0; }
     }
     img { max-width: 100%; }
-    main { li { line-height: 1.6; } }
 }
 
 nav {
-    @media(min-width: 650px) {
-        background: #6667AB;
-        color: white;
-        //position: fixed;
-        
-        //border-top: .25rem solid #6667AB;
-        padding-top: .5rem;
-    }
     display: flex;
+    align-items: center;
     justify-content: center;
-    flex-direction: column;
-    width: 100%;
-    // z-index: 2;
-    background-color: #6667AB;
-    margin-bottom: 3rem;
-    color: white;
     ul {
-        display: grid;
-        @media(min-width: 650px) {
-            display: flex;
-            justify-content: space-between;
-            height: 2.5rem;
-            padding-top: .6rem;
-            padding-left: 2rem;
-            padding-right: 2rem;
-        }
-        grid-template-columns: 1fr 1fr;
-        row-gap: 1.25rem;
+        display: flex;
+        list-style: none;
+        text-align: center;
+        margin: 0;
         padding: 0;
         li {
-            text-align: center;
-            list-style-type: none;
-            font-size: 1rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin-top: .9rem;
+            margin-bottom: .9rem;
+            padding: .5rem;
+            svg path,
+            a { @include transition; }
             &:hover,
             &:focus {
+                svg path {
+                    //stroke: var(--lunar);
+                    stroke: var(--purple-l);
+                    @media (prefers-color-scheme: 'dark') {
+                        stroke: var(--purple);
+                    }
+                }
                 a {
-                    color: white;
+                    //color: var(--lunar);
+                    color: var(--purple-l);
+                    @media (prefers-color-scheme: 'dark') {
+                        color: var(--purple);
+                    }
                     background: none;
                     text-decoration: underline;
                     text-decoration-color: initial;
                 }
             }
+            @media (prefers-color-scheme: 'dark') {
+                svg path { stroke: white; }
+            }
             a {
                 text-decoration: none;
                 font-weight: bold;
+                text-decoration-color: rgba(0,0,0,0); // Fix flash of white/black
             }
         }
     }
@@ -179,23 +174,7 @@ nav {
     }
 }
 .post {
-    background: radial-gradient(#6667AB 35%,transparent 35%);
-    border-radius: 3px;
-    border: 3px solid #6667AB;
-    margin: 0 auto 1rem auto;
     margin-top: 1rem;
-    background-size: 5px 5px;
-    padding: 1rem;
-    div {
-        margin-left: auto;
-        margin-right: auto;
-        background: white;
-        padding: 1rem;
-        border-radius: 3px;
-        @media(prefers-color-scheme: dark) {
-            background: #191919;
-        }
-    }
     a {
         color: inherit;
         &:hover,

@@ -8,7 +8,7 @@
   <h1>{{ page.title }}</h1>
   <p>{{page.reading_time}} min read &bull; {{ page.date | date(format="%e %B, %Y") }}</p>
 </header>
-<main class="rdbl">
+<section class="rdbl">
   {{ page.content | safe }}
-</main>
+</section>
 {% endblock content %}
