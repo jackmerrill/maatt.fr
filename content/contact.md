@@ -4,9 +4,9 @@ template = "page.html"
 description = "There are a few ways you can reach out to me; be it for a gig, questions about my past works, or if you just want to chat."
 +++
 
-There are a few ways you can reach out to me, be it for a gig, questions about my past works or if you just want to chat. If you want to encrypt or check want me to certify a message of mine, my PGP key is [`7315 13B7 6DED 8009`](/assets/pgp.asc).
+There are a few ways you can reach out to me, be it for a gig, questions about my past works or if you just want to chat.
 
-- Email: [web \[at\] doamatto.xyz](mailto:web@doamatto.xyz)
+- Email: [web \[at\] doamatto.xyz](mailto:web@doamatto.xyz) ([public key](/key))
 - LinkedIn: [/in/matthewronchetto](https://www.linkedin.com/in/matthewronchetto)
 - Line: @doamatto ([qr](/assets/line_invite.jpg))
 - 微信 (Weixin): [@doamatto](weixin://dl/chat?doamatto) ([qr](/assets/wechat_invite.jpg)) –– I ignore requests for signup verifications.
