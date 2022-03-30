@@ -22,9 +22,6 @@ body {
         }
         @include transition;
     }
-    p { line-height: 1.6; }
-    article a p,
-    article p { line-height: 1rem; }
     @media (prefers-color-scheme: dark) {
         background: #191919;
         color: #f3f3f3;
@@ -85,6 +82,7 @@ header {
 }
 main,
 .rdbl {
+    p { line-height: 1.6; }
     h1 {
         font-size: 3rem;
         @media(min-width: 650px) { margin-top: 0; }
@@ -105,13 +103,15 @@ main,
 nav {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     ul {
         display: flex;
         list-style: none;
         text-align: center;
         margin: 0;
         padding: 0;
+        :first-child { padding-left: 0; }
+        :last-child { padding-right: 0; }
         li {
             display: flex;
             flex-direction: column;
