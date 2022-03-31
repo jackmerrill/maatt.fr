@@ -2,7 +2,7 @@
 title = "Why analytics are a niche tool, not something everyone should use."
 slug = "why-analytics-are-a-niche-tool"
 date = "2021-07-05"
-description = "For about a month, I deployed an analytics tool on every site I maintained; however, only a few of them could see a legitmate benefit from it"
+description = "I used analytics for about a month, then stopped because it was futile."
 +++
 
 There are a few things that come to mind when you think of the Internet these days:

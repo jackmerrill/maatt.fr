@@ -1,6 +1,6 @@
 +++
 title="Year of the Tiger: A New Year, A Fresh Coat of Paint"
-description="With the year of the tiger here, it seemed fitting to give this site a fresh coat of paint to kick-off the new year on the right foot."
+description="A small update to the website as a whole for the new year."
 date=2022-02-15
 draft=false
 +++

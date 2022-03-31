@@ -2,7 +2,7 @@
 title = "Mobile apps are... interesting"
 slug = "mobile-apps-are-interesting"
 date = "2021-06-18"
-description = "Mobile apps are so frequently used, yet they've all become not just boring, but just as bad as desktop apps: poor performance, poor design, and, worst of all, poor data protection."
+description = "Mobile apps followed desktop apps going from bad to worse."
 +++
 
 As a kid from the early 2000s, I can technically say « Back in my day, we had rotary telephones » and other similar things and be telling the truth. I did have a box television with OTA (watched a lot of PBS), had a 1st iPod (5Go :astonished:), and had a Core 2 Duo as my desktop. The internet was starting to manifest some of the biggest sites to date; like: YouTube a month before me, MySpace, Facebook, and Tumblr. All these sites had something in common: they all looked starkly different. Sure: everything still had the old internet look to them. But there was a clear distinction between them all. Vastly different ways they were layed out, the content on them, et al.

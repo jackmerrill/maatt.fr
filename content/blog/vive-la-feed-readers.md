@@ -2,7 +2,7 @@
 title = "Vive La Feed Readers"
 slug = "vive-la-feed-readers"
 date = "2021-06-15"
-description = "I've used feed readers for the better part of 5 years off and on. It's easily one of the greatest ways to get the latest news, catch up on what other people are blogging about (cough cough), or have better control of what you do and don't see."
+description = "Screw social media feeds with ads: RSS or Bust."
 tag = "Opinion"
 +++
 

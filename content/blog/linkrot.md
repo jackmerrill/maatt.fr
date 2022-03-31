@@ -1,6 +1,6 @@
 +++
 title="The (Rotting, Dying) Internet"
-description="The Internet is such a vibrant place with so much to read, watch, et al. Unfortuantely, it's rotting through the poorly maintained areas of it."
+description="The Internet was dope. Now it's rotting."
 date=2022-03-07
 draft=false
 +++
