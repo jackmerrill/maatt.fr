@@ -2,7 +2,7 @@
 title = "Why analytics are a niche tool, not something everyone should use."
 slug = "why-analytics-are-a-niche-tool"
 date = "2021-07-05"
-description = "For about a month, I deployed an analytics tool on every site I maintained; however, only a few of them could see a legitmate benefit from it"
+description = "I used analytics for about a month, then stopped because it was futile."
 +++
 
 There are a few things that come to mind when you think of the Internet these days:
@@ -24,7 +24,7 @@ People who are just writing blog posts or making [now pages](https://nownownow.c
 There are large portions of [not only the United States](https://www.pewresearch.org/internet/fact-sheet/internet-broadband#who-has-home-broadband) (see both Comunity and Income), but also [across the world](https://www.measurementlab.net/visualizations/)[^1] with slow or no Internet. These slow connections make big sites feel like they take ages to load. This limits the amount of people with access to content either for entertainment or out of needs (eg. studying and learning).
 
 ## A simple solution: stop supporting a bloated web
-Although I could say we could join [my friend Daniel](https://cyckl.net/) in peak minimalism (took 1.23s on a throttled connection to load the page), there is a much easier and simpler solution: to stop bloating the web as much. Even on my average Internet speeds (about 200Mbps down, 20Mbps up), some sites take a few seconds to load due to the sheer girth of them. Outside of removing analytics where it isn't needed, you can make your sites more accessible by:
+Although I could say we could join [my friend Daniel](https://daan.ws/) in peak minimalism (took 1.23s on a throttled connection to load the page), there is a much easier and simpler solution: to stop bloating the web as much. Even on my average Internet speeds (about 200Mbps down, 20Mbps up), some sites take a few seconds to load due to the sheer girth of them. Outside of removing analytics where it isn't needed, you can make your sites more accessible by:
 - [making them more accessible](https://www.a11yproject.com/) (I know, wild),
 - minimising and/or [dithering](https://www.cs.princeton.edu/courses/archive/fall00/cs426/lectures/dither/dither.pdf) images,
 - [using one font](https://web.dev/font-best-practices/) or system fonts (as opposed to several fonts/weights),

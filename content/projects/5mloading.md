@@ -5,12 +5,6 @@ description = "Most all of FiveM's loading screen mods have been, in my experien
 date = "2020-12-20"
 +++
 
-### Useful links
-- [GitHub repo](https://github.com/doamatto/5m_loading)
-- [FiveM forum post](https://forum.cfx.re/t/release-5mloading-yet-another-loading-screen/1459768)
-
----
-
 Most all of FiveM's loading screen mods have been, in my experience, poor looking and poor performing. Because of this, I made my own. With the absence of an original name, 5mLoading was born.
 
 5mLoading is a feature-rich, customisable, and, most importantly, lightweight loading screen. Some key features being that:
@@ -24,3 +18,8 @@ From July to September, I worked tirelessly on the loading screen. A lot of feed
 
 That same month, I decided to deprecate and bring 5mLoading into an end-of-life state due to technical limitations. I switched to Pop!\_OS full-time, and was no longer able to play FiveM. 
 
+---
+
+### Useful links
+- [GitHub repo](https://github.com/doamatto/5m_loading)
+- [FiveM forum post](https://forum.cfx.re/t/release-5mloading-yet-another-loading-screen/1459768)

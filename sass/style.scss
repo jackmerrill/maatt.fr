@@ -6,30 +6,37 @@ html,
 body {
     font-family: Helvetica,
                  Inter,
-                 system-ui,
                  sans-serif;
+    font-size: 1.075rem;
+    @media (prefers-reduced-motion) {
+        * { animation: none !important; }
+    }
     a {
-        color: inherit;
+        color: var(--purple);
+        //color: var(--lunar-bg);
         text-underline-offset: .2rem;
         text-decoration-thickness: .125rem;
+        opacity: 1;
         &:hover,
         &:focus {
-            background: var(--lunar-bg);
-            color: black;
-            opacity: 1 !important;
+            //background: var(--lunar-bg);
+            //color: black;
+            opacity: .7 !important;
         }
         @include transition;
     }
-    p { line-height: 1.6; }
-    article a p,
-    article p { line-height: 1rem; }
     @media (prefers-color-scheme: dark) {
         background: #191919;
         color: #f3f3f3;
     }
     margin: 0 auto;
-    padding: var(--body-padding-y) var(--body-padding-x);
-    max-width: var(--body-max-width);
+}
+main {
+    margin: 0 auto;
+    max-width: 85%;
+    @media(min-width: 1200px) {
+        max-width: 65%;
+    }
 }
 
 .adj {
@@ -50,48 +57,47 @@ body {
   }
 }
 
+// Inline code and blocks
+pre,
 code {
     background: #383838;
-    color: #e6e1dc;
-    padding: .2rem;
+    color: #b1a9d3;
+    border-radius: .5rem;
+    line-height: 1.5;
 }
+pre {
+    padding: .5rem 1rem;
+    overflow-x: auto;
+}
+code { padding: .25rem .5rem; }
 
 footer {
-    padding-top: 1rem;
+    margin-bottom: 2rem;
     text-align: center;
-    color: rgba(0,0,0,0.8);
-    @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.8);}
-    ul {
-        list-style: none;
-        padding-left: 0;
-        li { padding: .25rem 0; }
-    }
+    font-size: 1rem;
+    color: rgba(0,0,0,0.7);
+    @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.7);}
 }
 
 header {
-    text-align: center;
+    margin-bottom: .5rem;
+    hr { border-width: 2px; }
     h1 {
-        font-size: 3rem;
         margin-top: 0;
         margin-bottom: 0;
     }
-    p {
-        color: rgba(0,0,0,0.8);
-        @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.8);}
-        line-height: 1.25;
-        font-weight: bold;
-        font-size: 1.1rem;
-    }
 }
+main,
 .rdbl {
+    p { line-height: 1.6; }
     h1 {
-        font-size: 3rem;
-        @media(min-width: 650px) { margin-top: 0; }
+        font-size: 2rem;
+        margin: 0;
+        margin-bottom: 5px;
     }
     h2 {
-        font-size: 2rem;
-        margin-bottom: .5rem;
-        margin-top: 0;
+        font-size: 1.5rem;
+        margin: .5rem 0;
     }
     ul > li {
         padding-top: .3rem;
@@ -104,13 +110,15 @@ header {
 nav {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     ul {
         display: flex;
         list-style: none;
         text-align: center;
         margin: 0;
         padding: 0;
+        :first-child { padding-left: 0; }
+        :last-child { padding-right: 0; }
         li {
             display: flex;
             flex-direction: column;
@@ -146,8 +154,6 @@ nav {
             a {
                 text-decoration: none;
                 font-weight: bold;
-                text-underline-offset: .3rem;
-                text-decoration-thickness: .125rem;
                 text-decoration-color: rgba(0,0,0,0); // Fix flash of white/black
             }
         }
@@ -155,40 +161,41 @@ nav {
 }
 
 .disclaimer {
-    font-style: italic;
+    font-weight: bold;
     color: rgba(0,0,0,0.8);
     @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.8);}
 }
 
-// Feed classes
-.feed {
-    @media (min-width: 600px) {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0,1fr));
-    }
-    @media(min-width: 1000px) {
-        grid-template-columns: repeat(3, minmax(0,2fr));
-    }
-    .post {
-        margin-top: 0;
-        margin-left: .5rem;
-        margin-right: .5rem;
-    }
+// Post items
+.y {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
+.in { margin-left: .5rem; }
 .post {
-    margin-top: 1rem;
+    h3,
+    p { margin: .5rem 0; }
     a {
-        color: inherit;
+        color: var(--purple);
         &:hover,
         &:focus {
             h3,
             p {
-              background: var(--lunar-bg);
+              //background: var(--lunar-bg);
+              //color: black;
+              opacity: .7;
             }
-            color: #000;
         }
-        text-decoration: none;
+        //text-decoration: none;
         font-weight: bold;
         transition: none;
     }
 }
+
+// Misc
+.anchor { padding-left: .5rem; }
+hr {
+    border-style: solid;
+    margin-bottom: 1.5rem;
+}
+.footnote-definition { display: inline-flex; }

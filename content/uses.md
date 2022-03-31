@@ -1,53 +1,41 @@
 +++
-title = "Uses"
-template = "page.html"
+title= "Technology I use"
+description= "Different technologies that Matt Ronchetto uses."
+template="layouts/page.html"
+aliases= ["/use","/stack"]
+
+[extra]
+updated= "2022-03-30"
 +++
 
-## Software
-- **[1Password—](https://1password.com)** I used [Bitwarden](https://bitwarden.com) for ages (still recommend it for those who need a *free* password manager). 1Password is far more polished.
-- **[Apollo—](https://www.apolloapp.io)** As most everyone will tell you, this is the best third-party Reddit app on the App Store.
-- **[Bandcamp—](https://bandcamp.com)** Home to a metric crap tonne of music from indie artists to some rather large bands.
-- **[Fastmail—](https://fastmail.com)** Used Tutanota and Protonmail, but both are far too limited to be remotely recommendable. FM is a good middle ground for privacy respecting while still having the features I find essential: IMAP, full Sieve support, et al.
-- **[foobar2000—](https://foobar2000.org)** Greatest music player on Windows, hands down.
-- **[Mullvad—](https://mullvad.net)** One of the best VPNs I've used. Well worth the 5€ a month.
-- **[Namecheap—](https://www.namecheap.com)** Crazy fast support and privacy-friendly.
-- **[NetNewsWire—](https://netnewswire.com)** One of the best feed reader for iOS and macOS.
-- **[Pocket Casts—](https://www.pocketcasts.com)** Simply the greatest podcast client. Ever.
-- **[Tailscale—](https://tailscale.com)** Great one-click solution for a WireGuard VPN for connecting to self-hosted things off your network.
-
 ## Hardware
-### Computer / Office
-- Custom PC for gaming or heavy loads
-	- Intel i5-4670k
-	- 16Go DDR3
-	- Nvidia RTX 2080
-	- Plenty of storage to last
-	- Running Windows 10 E-channel
-- Mac mini for daily operations
-	- M1
-	- 16Go RAM
-	- (Hopefully) Enough storage
-- 21.5" Acer KG221Q
-- AKG K712 Pro (open-back) & Audio-Technica ATH-M50x (closed-back)
-- Ikea Markus
-- Logitech MX518 (the old one) & Apple Magic Trackpad
-- Razer Blackwidow X & Apple Magic Keyboard
-- Schiit Magni 3 and Modi 3
-- Sonos One (non-SL)
-- Staedtler pencil set
-- Muji double-wire notebooks [with the occasional sticker](http://cdn.doamatto.xyz/IMG_2661.jpg)
+- **Mac Mini M1 16GB.** Super power-efficient, and gets the job done.
+- **iPhone 12 Pro Max.** I've almost run out of space for music.
+- **Custom built desktop.** Used purely for gaming and rendering.
+- **AKG K712 Pro.** Hands-down best set of headphones I've used.
+- **Razer Blade Stealth.** Glorified web browsing computer.
 
-### On-the-go / Everyday Carry
-- Apple EarPods (3.5mm variant)
-- Lightning to 3.5mm adapter (sadly, essential)
-- 13-inch 2019 Razer Blade Stealth (512Go; running Fedora currently)
-- SanDisk Ultra Dual Drive (256Go)
-- A black face mask + KN95 or KF94 mask
-- rOtring 600 / Mitsubishi Kuru Toga
-- uni Propus highlighters
+## Software
+### Mac
+- Apple Mail. The only decent mail client.
+- [Anki.](https://apps.ankiweb.net) Virtual index/study cards.
+- [AppCleaner.](https://freemacsoft.net/appcleaner/) Screw leftovers.
+- [Magnet.](https://apps.apple.com/fr/app/magnet/id441258766) Tiling for macOS. [FOSS alternative.](https://github.com/rxhanson/Rectangle)
+- [NetNewsWire.](https://netnewswire.com/) RSS reader.
+- [Sublime Text 4.](https://sublimetext.com/) One of the best code editors around.
+- [Signal.](https://signal.org/fr/) A half-decent messaging app.
+- [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
 
-### Other goodies
-- Apple iPhone 12 Pro Max (512Go)
-- Nintendo Switch (Friend code: `SW-0161-0171-7068`)
-- Fender Squier Stratocaster + iRig Pro HD 2
-- Texas Instruments 84 Plus Colour Edition
+### iPhone
+- [Apollo.](https://www.apolloapp.io/) The only good Reddit app. Period. No real FOSS alternative.
+- [Forest.](https://forestapp.cc/) Gamified timers.
+- [McDo+.](https://mcdonalds.fr/) A joke, but I love the name still.
+- [Pocket Casts.](https://pocketcasts.com) Beautiful and powerful podcast player.
+- [Prism.](https://prism-music.app/) Best music player for Plex servers. No real FOSS alternative.
+- [Signal.](https://signal.org) A half-decent messagin app.
+- [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
+
+## Services
+- [Fastmail.](https://fastmail.com/) Great email provider. Equally great: [Migadu](https://www.migadu.com/)
+- [Mullavd.](https://mullvad.net/fr/) Privacy focused VPN provider.
+- [Namecheap.](https://namecheap.com) Respectful domain registrar.

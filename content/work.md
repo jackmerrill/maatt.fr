@@ -1,17 +1,18 @@
 +++
 title="Work"
-template="page.html"
+template="layouts/page.html"
 +++
 
 ## 2022
 - **Cronus** (coming soon)– Unannounced, unreleased hardware project.
-- **[Michiru](https://michiruhq.com)** (coming soon)– Unannounced small software company.
-- **より良い (Yoriyoi)** (coming soon)–  A cross-platform content blocker to help with a better Internet. An experiment with Safari Content Blockers.
+- **[Michiru—](https://michiruhq.com)** Unannounced small software company.
+- **Jeux Avec** (coming soon)— Web-based asynchronous games to play with a friend.
+- **より良い (Yoriyoi)** (coming soon)— A cross-platform content blocker to help with a better Internet. An experiment with Safari Content Blockers.
 - **Live production crew for graduation with \~7000 viewers** (SRHS).  
 
 ## 2021
 - **[First interview with Miles McCain–](https://edu.doamatto.xyz/interview-with-miles)** An interview with R. Miles McCain, a Stanford student and developer of PrivacySpy, on the topic of artificial intelligence. First professional interview I've done; not great, not terrible.
-- **First part-time job–** Worked in to-go and as a host at Chili's since.
+- **First part-time job–** Worked in to-go and as a host at Chili's.
 - **[マージ (Māji)–](https://github.com/doamatto/maji)** A dirt-simple tool to merge JSON files. An experiment with Newtonsoft.
 - **[伏見 (Fushimi)–](https://github.com/doamatto/fushimi)** A simple webhook updated to keep remotes up-to-date on every push to Git.
 - **[稲荷 (Inari)–](https://github.com/doamatto/inari)** A zero-config web server with sensible defaults.

@@ -1,6 +1,6 @@
 +++
 title = "Social medias"
-template = "page.html"
+template = "layouts/page.html"
 description = "I'm not a huge fan of it, but here are the places I used to spend too much time on."
 +++
 
@@ -10,7 +10,7 @@ I decided after a while to stop using the vast majority of platforms I do to kee
 - Discord: doamatto#8083
 - Dribbble: @doamatto
 - Flickr: /doamatto
-- Instagram: @thetruedoormat and @doamatto
+- Instagram: @thetruedoormat, @doamatto, @maatt.fr
 - Keybase: @doamatto
 - Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
 - TapTap (for like two games): [ドアマット](https://www.taptap.io/user/375462982)

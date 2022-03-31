@@ -1,11 +1,11 @@
 +++
 title = "Ideas"
-template = "page.html"
+template = "layouts/page.html"
 description = "I get a lot of ideas of things I should make, this is a way I easily log those things down so I can do them in the future."
 +++
 
 ## Software
-- Steal Daniel's idea about making an ideas page at [cyckl.net/idea](https://cyckl.net) about logging ideas over time
+- Steal Daniel's idea about making an ideas page at [daan.ws/ideas](https://daan.ws/ideas) about logging ideas over time
 - Blogging made simple– a simple way to start blogging (similar to Wordpress)
 - Add new ideas using POST requests
 - Software repository generator– one config creates platform-specific packages (Flatpak, XBPS, et al.)

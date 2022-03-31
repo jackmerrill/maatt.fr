@@ -1,7 +1,7 @@
 +++
 title="Apple's October Event: A Huge Day for the Mac"
 slug="apple-oct2021"
-description="Apple announced today new Airpods, as well as new variations of their M1 chips. With the chips came the new MacBook Pro, which should excite with its return of notable features."
+description="New AirPods and M1 chips. Refreshed Macbook Pro."
 date="2021-10-18"
 +++
 
