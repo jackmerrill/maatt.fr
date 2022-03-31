@@ -6,8 +6,8 @@ template="layouts/page.html"
 ## 2022
 - **Cronus** (coming soon)– Unannounced, unreleased hardware project.
 - **[Michiru—](https://michiruhq.com)** Unannounced small software company.
-- **[Jeux Avec—](https://github.com/doamatto/jeuxavec)** Web-based asynchronous games to play with a friend.
-- **[より良い (Yoriyoi)–](https://github.com/doamatto/yoriyoi)**  A cross-platform content blocker to help with a better Internet. An experiment with Safari Content Blockers.
+- **Jeux Avec** (coming soon)— Web-based asynchronous games to play with a friend.
+- **より良い (Yoriyoi)** (coming soon)— A cross-platform content blocker to help with a better Internet. An experiment with Safari Content Blockers.
 - **Live production crew for graduation with \~7000 viewers** (SRHS).  
 
 ## 2021
