@@ -72,17 +72,16 @@ pre {
 code { padding: .25rem .5rem; }
 
 footer {
-    padding-top: 1rem;
     margin-bottom: 2rem;
     text-align: center;
     font-size: 1rem;
-    color: rgba(0,0,0,0.8);
-    @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.8);}
+    color: rgba(0,0,0,0.7);
+    @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.7);}
 }
 
 header {
-    margin-bottom: 1rem;
-    hr { border-width: 4px; }
+    margin-bottom: .5rem;
+    hr { border-width: 2px; }
     h1 {
         margin-top: 0;
         margin-bottom: 0;
@@ -167,8 +166,15 @@ nav {
     @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.8);}
 }
 
+// Post items
+.y {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.in { margin-left: .5rem; }
 .post {
-    margin-top: 1rem;
+    h3,
+    p { margin: .5rem 0; }
     a {
         color: var(--purple);
         &:hover,
@@ -185,6 +191,11 @@ nav {
         transition: none;
     }
 }
+
+// Misc
 .anchor { padding-left: .5rem; }
-hr { margin-bottom: 1.5rem; }
+hr {
+    border-style: solid;
+    margin-bottom: 1.5rem;
+}
 .footnote-definition { display: inline-flex; }
