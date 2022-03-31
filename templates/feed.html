@@ -5,21 +5,45 @@
 {% block title %}{{section.title}} - doamatto{% endblock title %}
 {% block description %}{{ section.description | default(value=config.description) }}{% endblock description %}
 
+
+
 {% block content %}
 <header>
   <h1>{{ section.title }}</h1>
   {{ section.content | safe }}
 </header>
-<section class="feed">
-    {% for page in section.pages %}
-    <article class="post">
-        <div>
-            <a href="{{ page.permalink | safe }}">
-                <h3>{{ page.title }}</h3>
-            </a>
-            <p>{{page.description | safe }} <span class="disclaimer">{{page.date | date(format="%e %B, %Y")}}</span></p>
-        </div>
-    </article>
+<section>
+    {% set pages = section.pages %}
+    {% if paginator.pages %}
+        {% set pages = paginator.pages %}
+    {% endif %}
+
+    {% for year, posts in pages | group_by(attribute="year") %}
+    <a href="#{{year}}">{{year}}</a>
+    {% endfor %}
+
+    {% for year, posts in pages | group_by(attribute="year") %}
+        <h2 id="{{year}}">{{year}}</h2>
+        {% for post in posts %}
+        <article class="post">
+            <div>
+                <a href="{{ post.permalink | safe }}">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <p>{{post.description | safe }} <span class="disclaimer">{{post.date | date(format="%e %B, %Y")}}</span></p>
+            </div>
+        </article>
+        {% endfor %}
     {% endfor %}
 </section>
+{% if paginator.pages %}
+<nav class="pagination">
+    {% if paginator.previous %}
+        <a class="previous" href="{{ paginator.previous }}">‹ Previous page</a>
+    {% endif %}
+    {% if paginator.next %}
+        <a class="next" href="{{ paginator.next }}">Next page ›</a>
+    {% endif %}
+</nav>
+{% endif %}
 {% endblock content %}
