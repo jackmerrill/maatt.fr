@@ -18,7 +18,7 @@ Outside of my technical hobbies, I've found love in reading books and watching t
 ---
 
 ### This website
-This site was designed to work great with screen readers and have a minimum of WCAG AA contrast. Both of these aid me personally, and only made sense to be requirements for any changes to this site. I had originally planned to redo this site with my own site generator, but decided to settle with [Zola](https://getzola.org) for a bit longer. It handles my load pretty well.
+This site was designed to work great with screen readers and have a minimum of WCAG AA contrast. Both of these aid me personally, and only made sense to be requirements for any changes to this site. I had originally planned to redo this site with my own site generator, but decided to keep with [Zola](https://getzola.org) for a bit longer. It fits the needs of this site pretty well.
 
 ---
 
