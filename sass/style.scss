@@ -12,14 +12,16 @@ body {
         * { animation: none !important; }
     }
     a {
-        color: inherit;
+        color: var(--purple);
+        //color: var(--lunar-bg);
         text-underline-offset: .2rem;
         text-decoration-thickness: .125rem;
+        opacity: 1;
         &:hover,
         &:focus {
-            background: var(--lunar-bg);
-            color: black;
-            opacity: 1 !important;
+            //background: var(--lunar-bg);
+            //color: black;
+            opacity: .7 !important;
         }
         @include transition;
     }
@@ -168,16 +170,17 @@ nav {
 .post {
     margin-top: 1rem;
     a {
-        color: inherit;
+        color: var(--purple);
         &:hover,
         &:focus {
             h3,
             p {
-              background: var(--lunar-bg);
+              //background: var(--lunar-bg);
+              //color: black;
+              opacity: .7;
             }
-            color: #000;
         }
-        text-decoration: none;
+        //text-decoration: none;
         font-weight: bold;
         transition: none;
     }
