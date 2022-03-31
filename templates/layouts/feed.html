@@ -22,9 +22,9 @@
     <hr/>
 
     {% for year, posts in pages | group_by(attribute="year") %}
-        <h2 id="{{year}}">{{year}}</h2>
+        <h2 id="{{year}}" class="y">{{year}}</h2>
         {% for post in posts %}
-        <article class="post">
+        <article class="post in">
             <div>
                 <a href="{{ post.permalink | safe }}">
                     <h3>{{ post.title }}</h3>
