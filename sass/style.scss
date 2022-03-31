@@ -55,21 +55,19 @@ main {
   }
 }
 
+// Inline code and blocks
 pre,
 code {
     background: #383838;
     color: #b1a9d3;
+    border-radius: .5rem;
+    line-height: 1.5;
 }
 pre {
     padding: .5rem 1rem;
     overflow-x: auto;
-    border-radius: .5rem;
-    line-height: 1.5;
 }
-code {
-    padding: .25rem .5rem;
-    border-radius: .5rem;
-}
+code { padding: .25rem .5rem; }
 
 footer {
     padding-top: 1rem;
@@ -167,21 +165,6 @@ nav {
     @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.8);}
 }
 
-// Feed classes
-.feed {
-    @media (min-width: 600px) {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0,1fr));
-    }
-    @media(min-width: 1000px) {
-        grid-template-columns: repeat(3, minmax(0,2fr));
-    }
-    .post {
-        margin-top: 0;
-        margin-left: .5rem;
-        margin-right: .5rem;
-    }
-}
 .post {
     margin-top: 1rem;
     a {
