@@ -5,8 +5,6 @@
 {% block title %}{{section.title}} - doamatto{% endblock title %}
 {% block description %}{{ section.description | default(value=config.description) }}{% endblock description %}
 
-
-
 {% block content %}
 <header>
   <h1>{{ section.title }}</h1>
@@ -21,6 +19,7 @@
     {% for year, posts in pages | group_by(attribute="year") %}
     <a href="#{{year}}">{{year}}</a>
     {% endfor %}
+    <hr/>
 
     {% for year, posts in pages | group_by(attribute="year") %}
         <h2 id="{{year}}">{{year}}</h2>
