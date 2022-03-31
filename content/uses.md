@@ -23,7 +23,7 @@ updated= "2022-03-30"
 - [Magnet.](https://apps.apple.com/fr/app/magnet/id441258766) Tiling for macOS. [FOSS alternative.](https://github.com/rxhanson/Rectangle)
 - [NetNewsWire.](https://netnewswire.com/) RSS reader.
 - [Sublime Text 4.](https://sublimetext.com/) One of the best code editors around.
-- [Signal.](https://signal.org) A half-decent messaging app.
+- [Signal.](https://signal.org/fr/) A half-decent messaging app.
 - [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
 
 ### iPhone
@@ -36,6 +36,6 @@ updated= "2022-03-30"
 - [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
 
 ## Services
-- [Fastmail.](https://fastmail.com) Great email provider. Equally great: [Migadu](https://www.migadu.com)
-- [Mullavd.](https://mullvad.net) Privacy focused VPN provider.
+- [Fastmail.](https://fastmail.com/) Great email provider. Equally great: [Migadu](https://www.migadu.com/)
+- [Mullavd.](https://mullvad.net/fr/) Privacy focused VPN provider.
 - [Namecheap.](https://namecheap.com) Respectful domain registrar.
