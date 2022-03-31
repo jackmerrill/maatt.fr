@@ -1,6 +1,6 @@
 +++
 title="Bucket List"
-template="page.html"
+template="layouts/page.html"
 +++
 
 **[pour sudoers](https://github.com/doamatto/doamatto.xyz/edit/main/content/wishlist.md)**

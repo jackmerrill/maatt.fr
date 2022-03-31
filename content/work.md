@@ -1,6 +1,6 @@
 +++
 title="Work"
-template="page.html"
+template="layouts/page.html"
 +++
 
 ## 2022

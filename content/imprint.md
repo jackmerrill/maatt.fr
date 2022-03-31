@@ -1,6 +1,6 @@
 +++
 title = "Imprint"
-template = "page.html"
+template = "layouts/page.html"
 +++
 
 ## Contact information

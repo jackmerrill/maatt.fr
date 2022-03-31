@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-template = "page.html"
+template = "layouts/page.html"
 description = "There are a few ways you can reach out to me; be it for a gig, questions about my past works, or if you just want to chat."
 +++
 

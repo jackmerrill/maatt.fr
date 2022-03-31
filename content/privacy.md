@@ -1,6 +1,6 @@
 +++
 title = "Privacy"
-template = "page.html"
+template = "layouts/page.html"
 +++
 
 Your privacy is just as important as mine, and should be treated as such. For that reason, I make it a commitment to ensure my site isn't privacy-friendly, but private, period.

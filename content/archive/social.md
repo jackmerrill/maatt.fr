@@ -1,6 +1,6 @@
 +++
 title = "Social medias"
-template = "page.html"
+template = "layouts/page.html"
 description = "I'm not a huge fan of it, but here are the places I used to spend too much time on."
 +++
 

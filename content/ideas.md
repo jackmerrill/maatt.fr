@@ -1,6 +1,6 @@
 +++
 title = "Ideas"
-template = "page.html"
+template = "layouts/page.html"
 description = "I get a lot of ideas of things I should make, this is a way I easily log those things down so I can do them in the future."
 +++
 

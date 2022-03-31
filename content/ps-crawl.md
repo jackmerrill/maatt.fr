@@ -1,6 +1,6 @@
 +++
 title="PrivacySpy Crawler"
-template="page.html"
+template="layouts/page.html"
 +++
 
 If you're a web administrator or manage a site's analytics tool, you may have noticed requests from a device: `PS Crawl - https://maatt.ch/ps-crawl` or similar. This is the unofficial (hopefully to be official, in the future) web crawler for [PrivacySpy](https://privacyspy.org) that makes automated issues to GitHub for when a policy has problems. You can see its source code [on GitHub.](https://github.com/doamatto/privacyspy-bot)

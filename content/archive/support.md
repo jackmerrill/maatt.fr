@@ -1,6 +1,6 @@
 +++
 title = "Support"
-template = "page.html"
+template = "layouts/page.html"
 +++
 
 Over the past 6 or so years, I've worked on software and tools that allow me to do my best work, and to help empower others. I feel like I've found myself successful with some of those projects making various sized impacts.
