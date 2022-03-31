@@ -1,6 +1,6 @@
 +++
 title="guest@maatt.ch ~ %"
-template="tilde.html"
+template="layouts/tilde.html"
 +++
 
 新年快乐! **I'm Matt Ronchetto** (I go by ドアマット or doamatto on the Internet) and **I’m a high schooler living in San Diego.** I enjoy engineering, be it computer or otherwise, photography, and videography.
