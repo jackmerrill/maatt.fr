@@ -12,7 +12,7 @@ body {
         * { animation: none !important; }
     }
     a {
-        color: var(--purple);
+        color: var(--purple-l);
         //color: var(--lunar-bg);
         text-underline-offset: .2rem;
         text-decoration-thickness: .125rem;
@@ -28,6 +28,7 @@ body {
     @media (prefers-color-scheme: dark) {
         background: #191919;
         color: #f3f3f3;
+        a { color: var(--purple); }
     }
     margin: 0 auto;
 }
