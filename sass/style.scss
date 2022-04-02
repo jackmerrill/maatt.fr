@@ -99,9 +99,11 @@ main,
         font-size: 1.5rem;
         margin: .5rem 0;
     }
+    ol > li,
     ul > li {
         padding-top: .3rem;
         padding-bottom: .3rem;
+        ol > li:last-child,
         ul > li:last-child { padding-bottom: 0; }
     }
     img { max-width: 100%; }
