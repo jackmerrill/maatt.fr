@@ -2,7 +2,7 @@
 
 This utilises:
 - **Zola** for page compilation,
-- **AWS Amplify** for hosting,
+- **1984** for hosting,
 - **Cloudflare** for load balancing; and:
 - **GitHub Actions, SonarCloud, and AccessLint** for code quality.
 
