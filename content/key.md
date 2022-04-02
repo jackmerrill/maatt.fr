@@ -10,6 +10,7 @@ You can also use `curl -sL https://maatt.ch/pgp.asc | gpg --import`.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 mQINBFzd3eQBEACx1H28CatNl42ejiD1XElHHK8uZTAyrIHkeZcYAxtJz955aj25
 o+Rjhy1aSWVv3AhfbRrgaotwQ16yNKtk4DxTS1dQ/s3ERZauOA63+Xo8rvA5drQz
 68IiIMoSh2uNJVXrrGnt2/xT+gqbT+b17xh40K632+hefPraTvxoLjkrgPuoc87H
