@@ -22,7 +22,7 @@ Although I hate the name of the new chip, the M1 Pro is what's powering the new 
 
 These specs are actually a bit disappointing for me, as pro workloads usually require far more than 32Go of RAM. Although for many prosumers this will be fine, it worries me for when I edit videos that I'd reach the memory limit quickly. Fortunately, Apple released the also terrible named M1 Max. It has double the memory bandwidth, up to 64Go of RAM, and 24- or 32- core's on the GPU. Sadly, it still has only a 10-core CPU, but we'll see if that becomes a bottleneck or not. There were some power comparisons that admittedly were still pretty vague, but at least was labelled properly this time.
 
-Assuming however that their ability to stay powerful on battery and match the chonkster gaming laptops (which I assume are there non-compact pro laptops), I'd be lying if I said wasn't excited to see these new chips. My laptop (2018 Razer Blade Stealth) barely makes it through a day at school (~5hrs of moderate usage), requiring at least one charge throughout the day to keep working.
+Assuming however that their ability to stay powerful on battery and match the chonkster gaming laptops (which I assume are there non-compact pro laptops), I'd be lying if I said wasn't excited to see these new chips. My laptop (2018 Razer Blade Stealth) barely makes it through a day at school (\~5hrs of moderate usage), requiring at least one charge throughout the day to keep working.
 
 ## The New MacBook Pro: F\*ck yes.
 Seeing that familiar port made my heart skip a beat and reminded me of back in 2009 when I had a MacBook with the same crevice. They created a device that I can truly say is a Pro laptop again.
