@@ -3,7 +3,7 @@ title="Bucket List"
 template="layouts/page.html"
 +++
 
-**[pour sudoers](https://github.com/doamatto/doamatto.xyz/edit/main/content/wishlist.md)**
+**[pour sudoers](https://github.com/doamatto/doamatto.xyz/edit/main/content/bucket.md)**
 
 ### People to Meet (in person)
 - William "Bill" Nye (engineer, comedian)
@@ -79,3 +79,5 @@ template="layouts/page.html"
 - Attend a F1 race
   - And enter the paddock
 - Steal whatever bucket list [Daniel](https://daan.ws) comes up with
+- Get a train and a license
+- Drive an F1 car
