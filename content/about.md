@@ -13,7 +13,7 @@ I spend most of my free time listening to music or focusing on studies to land a
 **I'm a peer tutor at my high school,** specialising in English and History, with plans to expand into first-year Physics. **I also help run the audio and visual works for assemblies and other school events,** as well as document it for the school's internal news network.<br/>
 [See my CV &rarr;](/cv) or [view my LinkedIn &rarr;](https://www.linkedin.com/in/matthewronchetto/)
 
-Outside of my technical hobbies, I've found love in reading books and watching tele series. Some of my favourites are *1984* by George Orwell, *The Subtle Art of Not Giving A F\*ck* by Mark Manson, and *Ted Lasso*. I also enjoy watching Formula races and playing story-rich games; *Necrobarista*, the *Life is Strange* and *Portal* series being my favourites. I am starting to learn my third language, Italian; my first two being French and English.
+Outside of my technical hobbies, I've found love in reading books and watching tele series. Some of my favourites are *1984* by George Orwell, *The Subtle Art of Not Giving A F\*ck* by Mark Manson, and *Ted Lasso*. I also enjoy watching Formula races and playing story-rich games; *Necrobarista*, the *Life is Strange* and *Portal* series being my favourites. I am starting to learn my third language, Italian; my first two being French and English. I also like trains and wish there were games like Euro Truck Simulator (2) and Microsoft Flight Simulator, but for trains.
 
 ---
 
