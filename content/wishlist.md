@@ -6,13 +6,11 @@ template="layouts/page.html"
 **[pour sudoers](https://github.com/doamatto/doamatto.xyz/edit/main/content/wishlist.md)**
 
 - [Lego Technic McLaren F1 Car](https://www.lego.com/en-us/product/mclaren-formula-1-race-car-42141) ([alternative link](https://www.mclarenstore.com/products/mclaren-lego-car-model))
-- [Sunchokes - Remember SPORTS (CD)](https://remembersports.bandcamp.com/album/sunchokes-deluxe-edition) (UPC `634457829022`)
 - [Yamaha HS7 (x2)](https://smile.amazon.com/dp/B00CFOXHGS)<br/>
   This item depends on the following item(s):
   - [Schiit Freya S+ (Silver)](https://www.schiit.com/products/freya-s)
 - [Cambridge Audio AXC35](https://www.cambridgeaudio.com/products/hi-fi/ax/axc35)
 - [Mitsubishi Posca Paint Marker Set (PC-5M)](https://amzn.to/3Leun0z)
-- [Zoom H5](https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h5/)
 - [Life is Strange Vol. 6 (Paperback)](https://amzn.to/3HhGng5) (ISBN `9781787734757`)
 - [Fluance RT81](https://www.fluance.com/rt81-high-fidelity-vinyl-turntable-record-player-with-premium-cartridge-diamond-needle)
 - [Mechanical Bull Vinyl](https://www.discogs.com/master/599554-Kings-Of-Leon-Mechanical-Bull-)
