@@ -1,5 +1,6 @@
 +++
 title="Public key"
+template = "layouts/page.html"
 +++
 
 Fingerprint: `58B953E7225F839C20AB2371731513B76DED8009`
