@@ -1,0 +1,5 @@
+www.doamatto.xyz,
+www.maatt.ch {
+	redir /archive/social /contact
+	redit /archive/support /support
+}
