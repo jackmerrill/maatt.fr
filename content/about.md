@@ -7,7 +7,7 @@ template="about.html"
 
 My name's Matt Ronchetto (I go by `ドアマット`, `doamatto`, or `maatt` on the Internet) and **I'm a high school student** and an **open-source developer/designer with a passion for making accessible, ethical software.**
 
-I spend most of my free time listening to music or focusing on studies to land a spot at a nice uni, ideally in the Pacific/Mountain region. When I'm not doing either, chances are I'm either on campus doing life or prorgamming <br/>
+I spend most of my free time listening to music or focusing on studies to land a spot at a nice uni, ideally in the Pacific/Mountain region. When I'm not doing either, chances are I'm either on campus doing life or programming <br/>
 [See what I'm listening to &rarr;](https://last.fm/user/doamatto) or [what I've been working on &rarr;](/work) 
 
 **I'm a peer tutor at my high school,** specialising in English and History, with plans to expand into first-year Physics. **I also help run the audio and visual works for assemblies and other school events,** as well as document it for the school's internal news network.<br/>
