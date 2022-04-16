@@ -7,6 +7,7 @@ template="layouts/page.html"
 
 ### People to Meet (in person)
 - William "Bill" Nye (engineer, comedian)
+- Cabel ([Panic](https://panic.com))
 - Charles Leclerc (Scuderia Ferrari driver)
 - Christian Selig (Apollo for Reddit developer)
 - Dallon Weekes (ex-P!ATD, iDKHOW)
@@ -20,6 +21,7 @@ template="layouts/page.html"
 - 宮崎 駿 (株式会社スタジオジブリ co-founder)
 - Igor Barakaiev (PrivacySpy developer)
 - Jack Merrill (developer at Merch)
+  - We've done the occasional digital project: see [lleb](https://github.com/lleb-me) or [lunar](https://github.com/designbylunar)
 - James Newton-King (developer of Newtonsoft.Json)
 - Jane Manchun Wong (forbes 30 under 30)
 - Lando Norris (McLaren driver)
@@ -28,6 +30,7 @@ template="layouts/page.html"
   - Martin Stiksel
   - Michael Breidenbruecker
   - Thomas Willomitzer 
+- Lauren Lopez (actress)
 - Lee Robinson (Vercel employee)
 - Maia (mxmtoon)
 - Marques Brownlee (journalist)
@@ -39,8 +42,10 @@ template="layouts/page.html"
 - Rasmus Andersson (ex-Spotify)
 - Romain Grosjean (IndyCar driver, ex-F1)
 - Ryan Seaman (ex-Falling in Reverse, iDKHOW)
+- Sam Yang (artist)
 - Steve Eynon (Fantom Factory "Boss Man")
   - Had a Zoom call to discuss the Fantom language; would be cool to touch base again
+- Ursula von der Leyen (EU Commission president)
 - 习近平 (Chinese President in 2013)
 
 ### Places to Visit
@@ -64,6 +69,7 @@ template="layouts/page.html"
 - Learn new languages
   - Chinese
   - German & Swiss German
+  - Filipino
   - Italian
   - Japanese
   - Korean
@@ -80,4 +86,6 @@ template="layouts/page.html"
   - And enter the paddock
 - Steal whatever bucket list [Daniel](https://daan.ws) comes up with
 - Get a train and a license
+  - Cross Europe to Japan
 - Drive an F1 car
+  - Maybe even race? A loose item.
