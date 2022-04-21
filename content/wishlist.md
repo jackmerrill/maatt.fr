@@ -21,4 +21,4 @@ template="layouts/page.html"
   This item depends on the following item(s):
   - [Compute Module 4 (4Go; x4)](https://www.raspberrypi.com/products/compute-module-4)
 - [Sony a6600](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6600-b) + [Sigma 16mm f/1.4](https://smile.amazon.com/gp/product/B077BWD2BB)
-- [Wacom Cintiq Pro 24 touch](https://estore.wacom.com/en-US/wacom-cintiq-pro-24-touch-dth2420k0.html) + [Wacom Flex Arm](https://estore.wacom.com/en-US/wacom-flex-arm-for-cintiq-pro-24-32-ack62803k.html)
+- [iPad Pro (12.9", Space Gray, 512Go](https://www.apple.com/shop/buy-ipad/ipad-pro/12.9-inch-display-512gb-space-gray-wifi) + [Apple Pencil (2nd gen)](https://apple.co/3L7ijPk)
