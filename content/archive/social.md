@@ -9,7 +9,7 @@ I decided after a while to stop using the vast majority of platforms I do to kee
 - Discord: doamatto#8083
 - Instagram: @thetruedoormat, @doamatto
 - Keybase: @doamatto
-- Pixiv: [ドアマット](https://www.pixiv.net/en/users/70007059)
+- Pixiv: [ドアマット](https://www.pixiv.net/users/70007059)
 - TapTap (for like two games): [ドアマット](https://www.taptap.io/user/375462982)
 - Tumblr: doamatto
 - Twitter: @doamatto
