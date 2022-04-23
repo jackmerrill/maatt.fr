@@ -27,13 +27,13 @@
                 </ul>
                 <ul>
                     <li>
-                        <a href="/work" title="Work">Work</a>
+                        <a href="{{ get_url(path="@/work.md") }}" title="Work">Work</a>
                     </li>
                     <li>
-                        <a href="/about" title="About">About</a>
+                        <a href="{{ get_url(path="@/about.md") }}" title="About">About</a>
                     </li>
                     <li>
-                        <a href="/contact" title="About">Contact</a>
+                        <a href="{{ get_url(path="@/contact.md") }}" title="About">Contact</a>
                     </li>
                 </ul>
             </nav>
@@ -46,9 +46,9 @@
                     <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC-BY,</a> unless mentioned otherwise.<br/>
                 </p>
                 <div>
-                    <a href="/imprint">Impressum.</a>
-                    <a href="/privacy">I protect your privacy.</a>
-                    <a href="/contact">Contact.</a>
+                    <a href="{{ get_url(path="@/imprint.md") }}">Impressum.</a>
+                    <a href="{{ get_url(path="@/privacy.md") }}">I protect your privacy.</a>
+                    <a href="{{ get_url(path="@/contact.md") }}">Contact.</a>
                 </div>
             </footer>
         </main>
