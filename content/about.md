@@ -8,17 +8,17 @@ template="about.html"
 My name's Matt Ronchetto (I go by `ドアマット`, `doamatto`, or `maatt` on the Internet) and **I'm a high school student** and an **open-source developer/designer with a passion for making accessible, ethical software.**
 
 I spend most of my free time listening to music or focusing on studies to land a spot at a nice uni, ideally in the Pacific/Mountain region. When I'm not doing either, chances are I'm either on campus doing life or programming <br/>
-[See what I'm listening to &rarr;](https://last.fm/user/doamatto) or [what I've been working on &rarr;](/work) 
+[See what I'm listening to &rarr;](https://www.last.fm/user/doamatto) or [what I've been working on &rarr;](@/work.md) 
 
 **I'm a peer tutor at my high school,** specialising in English and History, with plans to expand into first-year Physics. **I also help run the audio and visual works for assemblies and other school events,** as well as document it for the school's internal news network.<br/>
-[See my CV &rarr;](/cv) or [view my LinkedIn &rarr;](https://www.linkedin.com/in/matthewronchetto/)
+[See my CV &rarr;](@/cv.md) or [view my LinkedIn &rarr;](https://www.linkedin.com/in/matthewronchetto/)
 
 Outside of my technical hobbies, I've found love in reading books and watching tele series. Some of my favourites are *1984* by George Orwell, *The Subtle Art of Not Giving A F\*ck* by Mark Manson, and *Ted Lasso*. I also enjoy watching Formula races and playing story-rich games; *Necrobarista*, the *Life is Strange* and *Portal* series being my favourites. I am starting to learn my third language, Italian; my first two being French and English. I also like trains and wish there were games like Euro Truck Simulator (2) and Microsoft Flight Simulator, but for trains.
 
 ---
 
 ### This website
-This site was designed to work great with screen readers and have a minimum of WCAG AA contrast. Both of these aid me personally, and only made sense to be requirements for any changes to this site. I had originally planned to redo this site with my own site generator, but decided to keep with [Zola](https://getzola.org) for a bit longer. It fits the needs of this site pretty well.
+This site was designed to work great with screen readers and have a minimum of WCAG AA contrast. Both of these aid me personally, and only made sense to be requirements for any changes to this site. I had originally planned to redo this site with my own site generator, but decided to keep with [Zola](https://getzola.org/) for a bit longer. It fits the needs of this site pretty well.
 
 ---
 
