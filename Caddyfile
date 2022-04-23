@@ -22,5 +22,5 @@
 	header Vary "Origin"
 	header X-XSS-Protection "1; mode=block"
 	header Expect-CT "max-age=86400, enforce"
-	header Content-Security-Policy "default-src 'none'; img-src data: *; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
+	header Content-Security-Policy "default-src 'none'; style-src 'self'; img-src data: *; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
 }
