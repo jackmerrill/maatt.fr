@@ -5,7 +5,7 @@ template = "layouts/page.html"
 
 Fingerprint: `58B953E7225F839C20AB2371731513B76DED8009`
 
-You can download my key [here](/public-key.asc), you can also find it on [keys.openpgp.org](https://keys.openpgp.org/search?q=hello%40doamatto.xyz).
+You can download my key [here](/pgp.asc), you can also find it on [keys.openpgp.org](https://keys.openpgp.org/search?q=hello%40doamatto.xyz).
 
 You can also use `curl -sL https://maatt.ch/pgp.asc | gpg --import`.
 
