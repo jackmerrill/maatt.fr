@@ -1,5 +1,4 @@
-doamatto.xyz,
-maatt.ch {
+(redirs) {
 	redir /archive/social /contact/
 	redir /archive/support /support/
 	redir /bashin /archive/bashin/
