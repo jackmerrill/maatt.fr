@@ -26,4 +26,3 @@ On the 3 May, 2020, AAS was launched onto major extensions stores and entered an
 - Store pages:
   - [Chrome Web Store](https://chrome.google.com/webstore/detail/always-amazon-smiling/ioeinegegnpkndnbkmmhhhaljlfpemgf)
   - [Firefox Add-ons Shop](https://addons.mozilla.org/firefox/addon/always-amazon-smiling/)
-  - [Opera Addons Shop](https://addons.opera.com/extensions/details/always-amazon-smiling/)

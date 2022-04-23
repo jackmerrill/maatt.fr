@@ -7,7 +7,7 @@ date = "2021-09-27"
 +++
 
 ## ⚠️ Heads up!
-This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](/blog/linkrot)
+This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](@/blog/linkrot.md)
 
 ---
 
