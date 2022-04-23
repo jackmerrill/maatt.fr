@@ -1,5 +1,10 @@
 (redirs) {
+	# Old page URLs
 	redir /archive/social /contact/
 	redir /archive/support /support/
+
+	# Old project URLS
+	redir /always-amazon-smiling /projects/always-amazon-smiling
 	redir /bashin /archive/bashin/
+	redir /bittalk /archive/bashin/
 }
