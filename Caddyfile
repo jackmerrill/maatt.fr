@@ -13,12 +13,12 @@
 	header /static/* Cache-Control max-age=31536000
 
 	# General headers
-	Permissions-Policy interest-cohort=()
-	X-Content-Type-Options nosniff
-	X-Frame-Options DENY
-	Referrer-Policy no-refrrer
-	Strict-Transport-Security max-age=31536000;includeSubDomains
-	#Strict-Transport-Security max-age=31536000;includeSubDomains;preload
+	header Permissions-Policy interest-cohort=()
+	header X-Content-Type-Options nosniff
+	header X-Frame-Options DENY
+	header Referrer-Policy no-refrrer
+	header Strict-Transport-Security max-age=31536000;includeSubDomains
+	#header Strict-Transport-Security max-age=31536000;includeSubDomains;preload
 	header Vary Origin
 	header X-XSS-Protection 1; mode=block
 	header Expect-CT max-age=86400, enforce
