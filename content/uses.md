@@ -22,12 +22,12 @@ updated= "2022-03-30"
 - [AppCleaner.](https://freemacsoft.net/appcleaner/) Screw leftovers.
 - [Magnet.](https://apps.apple.com/fr/app/magnet/id441258766) Tiling for macOS. [FOSS alternative.](https://github.com/rxhanson/Rectangle)
 - [NetNewsWire.](https://netnewswire.com/) RSS reader.
-- [Sublime Text 4.](https://sublimetext.com/) One of the best code editors around.
+- [Sublime Text 4.](https://www.sublimetext.com/) One of the best code editors around.
 - [Signal.](https://signal.org/fr/) A half-decent messaging app.
 - [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
 
 ### iPhone
-- [Apollo.](https://www.apolloapp.io/) The only good Reddit app. Period. No real FOSS alternative.
+- [Apollo.](https://apolloapp.io/) The only good Reddit app. Period. No real FOSS alternative.
 - [Forest.](https://forestapp.cc/) Gamified timers.
 - [McDo+.](https://mcdonalds.fr/) A joke, but I love the name still.
 - [Pocket Casts.](https://pocketcasts.com) Beautiful and powerful podcast player.
@@ -36,6 +36,6 @@ updated= "2022-03-30"
 - [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
 
 ## Services
-- [Fastmail.](https://fastmail.com/) Great email provider. Equally great: [Migadu](https://www.migadu.com/)
+- [Fastmail.](https://www.fastmail.com/) Great email provider. Equally great: [Migadu](https://www.migadu.com/)
 - [Mullavd.](https://mullvad.net/fr/) Privacy focused VPN provider.
-- [Namecheap.](https://namecheap.com) Respectful domain registrar.
+- [Namecheap.](https://www.namecheap.com) Respectful domain registrar.
