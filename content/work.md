@@ -6,9 +6,6 @@ template="layouts/page.html"
 ## 2022
 - **[Courier Service—](https://codeberg.org/doamatto/courier-service)** Check for new RSS posts and create emails or drafts with Buttondown.
 - **Cronus** (coming soon)– Unannounced, unreleased hardware project.
-- **[Michiru—](https://michiruhq.com)** Unannounced small software company.
-- **Jeux Avec** (coming soon)— Web-based asynchronous games to play with a friend.
-- **より良い (Yoriyoi)** (coming soon)— A cross-platform content blocker to help with a better Internet. An experiment with Safari Content Blockers.
 - **Live production crew for graduation with \~7000 viewers** (SRHS).  
 
 ## 2021
