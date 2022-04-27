@@ -10,7 +10,6 @@ template="layouts/page.html"
   This item depends on the following item(s):
   - [Schiit Freya S+ (Silver)](https://www.schiit.com/products/freya-s)
 - [Cambridge Audio AXC35](https://www.cambridgeaudio.com/products/hi-fi/ax/axc35)
-- [Mitsubishi Posca Paint Marker Set (PC-5M)](https://www.jetpens.com/Uni-Posca-Paint-Marker-PC-5M-Medium-Point-15-Color-Set/pd/8686)
 - [Life is Strange Vol. 6 (Paperback)](https://amzn.to/3HhGng5) (ISBN `9781787734757`)
 - [Fluance RT81](https://www.fluance.com/rt81-high-fidelity-vinyl-turntable-record-player-with-premium-cartridge-diamond-needle)
 - [Mechanical Bull Vinyl](https://www.discogs.com/master/599554-Kings-Of-Leon-Mechanical-Bull-)
