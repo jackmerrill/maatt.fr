@@ -10,7 +10,7 @@ template="layouts/page.html"
   This item depends on the following item(s):
   - [Schiit Freya S+ (Silver)](https://www.schiit.com/products/freya-s)
 - [Cambridge Audio AXC35](https://www.cambridgeaudio.com/products/hi-fi/ax/axc35)
-- [Mitsubishi Posca Paint Marker Set (PC-5M)](https://amzn.to/3Leun0z)
+- [Mitsubishi Posca Paint Marker Set (PC-5M)](https://www.jetpens.com/Uni-Posca-Paint-Marker-PC-5M-Medium-Point-15-Color-Set/pd/8686)
 - [Life is Strange Vol. 6 (Paperback)](https://amzn.to/3HhGng5) (ISBN `9781787734757`)
 - [Fluance RT81](https://www.fluance.com/rt81-high-fidelity-vinyl-turntable-record-player-with-premium-cartridge-diamond-needle)
 - [Mechanical Bull Vinyl](https://www.discogs.com/master/599554-Kings-Of-Leon-Mechanical-Bull-)
@@ -22,3 +22,7 @@ template="layouts/page.html"
   - [Compute Module 4 (4Go; x4)](https://www.raspberrypi.com/products/compute-module-4)
 - [Sony a6600](https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6600-b) + [Sigma 16mm f/1.4](https://smile.amazon.com/gp/product/B077BWD2BB)
 - [iPad Pro (12.9", Space Gray, 512Go)](https://www.apple.com/shop/buy-ipad/ipad-pro/12.9-inch-display-512gb-space-gray-wifi) + [Apple Pencil (2nd gen)](https://apple.co/3L7ijPk)
+- [rOtring 600 0,5mm (Green)](https://www.jetpens.com/Rotring-600-Drafting-Pencil-0.5-mm-Camouflage-Green/pd/29713)
+- [rOtring Rapid Pro (Black)](https://www.jetpens.com/Rotring-Rapid-Pro-Ballpoint-Pen-1.0-mm-Black-Body-Blue-Ink/pd/8162)
+- [Reverb gift cards](https://reverb.com/gift-cards)
+- [Mitsubishi Posca Paint Marker Set (PC-1M)](https://www.jetpens.com/Uni-Posca-Paint-Marker-PC-1M-Extra-Fine-Point-12-Color-Set/pd/8682)
