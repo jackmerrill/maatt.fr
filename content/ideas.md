@@ -30,6 +30,7 @@ description = "I get a lot of ideas of things I should make, this is a way I eas
   - Integration with Siri Shortcuts for fun
   - Lets you set locations, names, times
   - Custom days for things like minimum days
+  - Sync with a remote JSON file that can be managed by a school or district
 - HP 48 emulator in SwiftUI (Daniel has a logo for it)
 - Last.fm alternative
 - Plex music streaming alternative
