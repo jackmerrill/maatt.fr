@@ -1,10 +1,11 @@
 (redirs) {
 	# Old page URLs
 	redir /archive/social /contact/
-	redir /archive/support /support/
+	redir /ways-to-support /support/
+	redir /ways-to-support /archive/support/
 
 	# Old project URLS
-	redir /always-amazon-smiling /projects/always-amazon-smiling
+	redir /always-amazon-smiling /projects/always-amazon-smiling/
 	redir /bashin /archive/bashin/
 	redir /bittalk /archive/bashin/
 
@@ -17,8 +18,7 @@
 	header X-Content-Type-Options "nosniff"
 	header X-Frame-Options "DENY"
 	header Referrer-Policy "no-refrrer"
-	header Strict-Transport-Security "max-age=31536000;includeSubDomains"
-	#header Strict-Transport-Security "max-age=31536000;includeSubDomains;preload"
+	header Strict-Transport-Security "max-age=31536000;includeSubDomains;preload"
 	header Vary "Origin"
 	header Expect-CT "max-age=86400, enforce"
 	header Content-Security-Policy "default-src 'none'; style-src 'self'; img-src data: *; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
