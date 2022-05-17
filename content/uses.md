@@ -17,7 +17,6 @@ updated= "2022-03-30"
 
 ## Software
 ### Mac
-- Apple Mail. The only decent mail client.
 - [Anki.](https://apps.ankiweb.net) Virtual index/study cards.
 - [AppCleaner.](https://freemacsoft.net/appcleaner/) Screw leftovers.
 - [Magnet.](https://apps.apple.com/fr/app/magnet/id441258766) Tiling for macOS. [FOSS alternative.](https://github.com/rxhanson/Rectangle)
@@ -32,10 +31,11 @@ updated= "2022-03-30"
 - [McDo+.](https://mcdonalds.fr/) A joke, but I love the name still.
 - [Pocket Casts.](https://pocketcasts.com) Beautiful and powerful podcast player.
 - [Prism.](https://prism-music.app/) Best music player for Plex servers. No real FOSS alternative.
-- [Signal.](https://signal.org) A half-decent messagin app.
+- [Signal.](https://signal.org) A half-decent messaging app.
 - [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
 
 ## Services
+- [1Password.](https://1password.com) Probably the best password manager to date. FOSS alternative that isn't as great: [Bitwarden](https://bitwarden.com)
 - [Fastmail.](https://www.fastmail.com/) Great email provider. Equally great: [Migadu](https://www.migadu.com/)
 - [Mullavd.](https://mullvad.net/fr/) Privacy focused VPN provider.
 - [Namecheap.](https://www.namecheap.com) Respectful domain registrar.
