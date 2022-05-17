@@ -6,12 +6,8 @@ description = "I get a lot of ideas of things I should make, this is a way I eas
 
 ## Software
 - Steal Daniel's idea about making an ideas page at [daan.ws/ideas](https://daan.ws/ideas/) about logging ideas over time
-- Blogging made simple– a simple way to start blogging (similar to Wordpress)
-- Add new ideas using POST requests
-- Software repository generator– one config creates platform-specific packages (Flatpak, XBPS, et al.)
 - A user-friendly, but hackable Linux distro– similar to elementary and Void
 - uBlock but for Safari– support for same list syntax as uBlock
-- A quiz to find out what computer you might need– Macs, prebuilts, et al.
 - Music search by location– favours Bandcamp, then Spotify/Qobuz
 - Anonymous network solutions for Librewolf
     - Support for DRM (needed for a lot of web apps), localisation, et al.
