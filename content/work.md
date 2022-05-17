@@ -30,7 +30,7 @@ template="layouts/page.html"
 - **Pixel Spice–** An unreleased LED array controllable by Twitch "bits" donations.
 
 ## 2019
-- **[Nano for Jekyll–](/projects/nano/)** A Jekyll website template that just works.
+- **[Nano for Jekyll–](@/projects/nano.md)** A Jekyll website template that just works.
 
 ## 2017
 - **Lavender (formerly Miku-Chan)–** A now-defunct Discord bot that accrued ~500 servers.
