@@ -4,6 +4,7 @@ template="layouts/page.html"
 +++
 
 ## 2022
+- **[Firewatch colour scheme for Sublime Text 3/4.](https://github.com/doamatto/sublime-firewatch)**
 - **[Courier Service—](https://codeberg.org/doamatto/courier-service)** Check for new RSS posts and create emails or drafts with Buttondown.
 - **Cronus** (coming soon)– Unannounced, unreleased hardware project.
 - **Live production crew for graduation with \~7000 viewers** (SRHS).  
