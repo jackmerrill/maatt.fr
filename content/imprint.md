@@ -5,7 +5,7 @@ template = "layouts/page.html"
 
 ## Contact information
 Matthew Ronchetto d.b.a doamatto<br/>
-**Email:** [hey \[at\] doamatto.xyz](mailto:hey@doamatto.xyz)<br/>
+**Email:** [dpo \[at\] doamatto.xyz](mailto:dpo@doamatto.xyz)<br/>
 **Phone:** +1 858-333-4262 ([tel](tel:+18583334262) | [sms](sms:+18583334262))<br/>
 **Please note:** the phone number provided is not for support or general contact and purely for legal purposes.
 
