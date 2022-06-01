@@ -25,6 +25,13 @@ body {
         }
         @include transition;
     }
+    abbr {
+        text-decoration: underline;
+        text-decoration-style: dotted;
+        text-underline-offset: .2rem;
+        text-decoration-thickness: .125rem;
+        cursor: help;
+    }
     @media (prefers-color-scheme: dark) {
         background: #191919;
         color: #f3f3f3;
