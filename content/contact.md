@@ -6,6 +6,8 @@ description = "There are a few ways you can reach out to me; be it for a gig, qu
 
 There are a few ways you can reach out to me, be it for a gig, questions about my past works or if you just want to chat.
 
+I accept communication in either English or French. Chinese is not my strong suit. Other languages will be translated where possible; those that can't be will be ignored (sorry!)
+
 - Email: [web \[at\] doamatto.xyz](mailto:web@doamatto.xyz) ([public key](@/key.md))
 - Line: @doamatto
 - 微信 (Weixin): [@doamatto](weixin://dl/chat?doamatto)–– I ignore requests for signup verifications.
