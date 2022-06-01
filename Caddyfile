@@ -9,6 +9,11 @@
 	redir /bashin /archive/bashin/
 	redir /bittalk /archive/bashin/
 
+	# Rainbows
+	redir /🏳️‍🌈 /rainbows
+	redir /%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88 /rainbows
+	redir /🏳%EF%B8%8F%E2%80%8D🌈 /rainbows
+
 	# Caching
 	header Cache-Control "max-age=3600"
 	header /static/* Cache-Control "max-age=31536000"
