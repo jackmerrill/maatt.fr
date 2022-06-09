@@ -24,6 +24,7 @@ description = "I get a lot of ideas of things I should make, this is a way I eas
 - Last.fm alternative
 - Plex music streaming alternative
 - Plex self-service invites (for intranet)
+- Convert SVG to Tricaster XML
 
 ## Hardware
 - Prusa-esque 2D printer
