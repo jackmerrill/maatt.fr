@@ -10,6 +10,12 @@ The best you can do is show your appreciation
 - [reach out to me](@/contact.md) for anything, even if it's simply to say thanks for something I've done
 - share things that I've made or been a part of with others
 
+## Support those who need it first
+![Monterey Bay Aquarium banner](/img/baybanner.png)
+Every two quarters, I choose a charity to match up to 100 US$ to. These are commonly tax write-offs in the U.S. and help put money in the pockets of those who deserve it the most.
+
+From **1 june, 2022 to 31 december, 2022**, we're raising money for the Monterey Bay Aquarium. [Donate on their website](https://www.montereybayaquarium.org/join-give/ways-to-give/give) and send your receipt to `foragoodcause [at] maatt.ch`
+
 ---
 
 Basically everything from this point on are very generous ways to help support my projects or support me.
