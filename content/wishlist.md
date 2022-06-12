@@ -20,4 +20,3 @@ template="layouts/page.html"
 - [Yamaha HS7 (x2)](https://smile.amazon.com/dp/B00CFOXHGS)<br/>
   This item depends on the following item(s):
   - [Schiit Freya S+ (Silver)](https://www.schiit.com/products/freya-s)
-{#- [Monterey Bay Aquarium gift subscription](https://www.montereybayaquarium.org/join-give/become-a-member/give)#}
