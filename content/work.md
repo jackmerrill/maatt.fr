@@ -4,10 +4,10 @@ template="layouts/page.html"
 +++
 
 ## 2022
+- **Live production crew for graduation with \~7000 viewers** (SRHS).
 - **[Firewatch colour scheme for Sublime Text 3/4.](https://github.com/doamatto/sublime-firewatch)**
 - **[Courier Service—](https://codeberg.org/doamatto/courier-service)** Check for new RSS posts and create emails or drafts with Buttondown.
 - **Cronus** (coming soon)– Unannounced, unreleased hardware project.
-- **Live production crew for graduation with \~7000 viewers** (SRHS).  
 
 ## 2021
 - **[First interview with Miles McCain–](https://edu.doamatto.xyz/interview-with-miles)** An interview with R. Miles McCain, a Stanford student and developer of PrivacySpy, on the topic of artificial intelligence. First professional interview I've done; not great, not terrible.
