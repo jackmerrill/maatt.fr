@@ -30,6 +30,7 @@ I accept donations via [Liberapay.](https://liberapay.com/doamatto/)
 - [Mega–](https://mega.nz/aff=LYzEWOoubqI) decently private cloud storage
 
 ## Wishlists and gifts
+- [Amtrak gift card—](https://www.amtrak.com/planning-booking/tickets-reservations/giftcards.html) Fund my occasional travel in the U.S. to take a break and enjoy some cool things ([I like trains](https://knowyourmeme.com/memes/i-like-trains)).
 - [Apple gift card—](https://www.apple.com/fr/shop/gift-cards/itunes-electronic) I use the French app store and gift cards are apparently not transferrable between app stores. 
 - [Bandcamp gift card–](https://bandcamp.com/gift_cards) fuel my CD collection
 - [GOG games–](https://www.gog.com/en/u/doamatto/wishlist) games are fun; next question.
