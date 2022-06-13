@@ -13,7 +13,6 @@ I accept communication in either English or French. Chinese is not my strong sui
 - 微信 (Weixin): [@doamatto](weixin://dl/chat?doamatto)–– I ignore requests for signup verifications.
 
 Some other places around the internet that I'm at are:
-- Behance: [@doamatto](https://behance.net/doamatto)
 - GitHub: [@doamatto](https://github.com/doamatto)
 - Last.fm: [doamatto](https://www.last.fm/user/doamatto)
 - MusicBrainz: [/user/doamatto](https://musicbrainz.org/user/doamatto)
