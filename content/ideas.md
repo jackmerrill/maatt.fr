@@ -15,6 +15,7 @@ description = "I get a lot of ideas of things I should make, this is a way I eas
 - An OSM app that doesn't suck
     - Updates database weekly, manual bypass
     - Support for editing OSM
+    - Same gorgeous modeling for monuments as Apple has
 - Private kaomoji client for iOS
 - A sane golden hour timer
 - FOSS grades app
