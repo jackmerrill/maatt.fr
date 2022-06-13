@@ -24,11 +24,11 @@ updated= "2022-06-13"
 - [Sublime Text 4.](https://www.sublimetext.com/) One of the best code editors around.
 - [Signal.](https://signal.org/fr/) A half-decent messaging app.
 - [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
-- [TomatoBar](https://github.com/ivoronin/TomatoBar) KISS Pomodoro timer. 
+- [TomatoBar](https://github.com/ivoronin/TomatoBar) KISS Pomodoro timer.
 
 ### iPhone
 - [Apollo.](https://apolloapp.io/) The only good Reddit app. Period. No real FOSS alternative.
-- [Dark Noise.](https://darknoise.app) Nice for soundscapes.  
+- [Dark Noise.](https://darknoise.app) Nice for soundscapes.
 - [Forest.](https://forestapp.cc/) Gamified timers.
 - [McDo+.](https://mcdonalds.fr/) A joke, but I love the name still.
 - [Pocket Casts.](https://pocketcasts.com) Beautiful and powerful podcast player.
