@@ -5,13 +5,13 @@ template="layouts/page.html"
 aliases= ["/use","/stack"]
 
 [extra]
-updated= "2022-03-30"
+updated= "2022-06-13"
 +++
 
 ## Hardware
-- **Mac Mini M1 16GB.** Super power-efficient, and gets the job done.
+- **Mac Mini M1 16GB.** Power-efficient, and gets the job done.
 - **iPhone 12 Pro Max.** I've almost run out of space for music.
-- **Custom built desktop.** Used purely for gaming and rendering.
+- **Custom built desktop.** Used purely for gaming and rendering. Recently died 🙁.
 - **AKG K712 Pro.** Hands-down best set of headphones I've used.
 - **Razer Blade Stealth.** Glorified web browsing computer.
 
@@ -24,9 +24,11 @@ updated= "2022-03-30"
 - [Sublime Text 4.](https://www.sublimetext.com/) One of the best code editors around.
 - [Signal.](https://signal.org/fr/) A half-decent messaging app.
 - [Tailscale.](https://tailscale.com) Connecting to internal network remotely.
+- [TomatoBar](https://github.com/ivoronin/TomatoBar) KISS Pomodoro timer. 
 
 ### iPhone
 - [Apollo.](https://apolloapp.io/) The only good Reddit app. Period. No real FOSS alternative.
+- [Dark Noise.](https://darknoise.app) Nice for soundscapes.  
 - [Forest.](https://forestapp.cc/) Gamified timers.
 - [McDo+.](https://mcdonalds.fr/) A joke, but I love the name still.
 - [Pocket Casts.](https://pocketcasts.com) Beautiful and powerful podcast player.
