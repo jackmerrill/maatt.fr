@@ -16,12 +16,10 @@ template="layouts/page.html"
 - Drew DeVault (developer of SourceHut)
 - Emmanuel Macron (French President in 2017)
 - Evan Wallace (ex-Figma)
-- ~~Hergé (Tintin)~~
-  - Imagine forgetting he's dead. Couldn't be me.
 - 宮崎 駿 (株式会社スタジオジブリ co-founder)
 - Igor Barakaiev (PrivacySpy developer)
 - Jack Merrill (developer at Merch)
-  - We've done the occasional digital project: see [lleb](https://github.com/lleb-me) or [lunar](https://github.com/designbylunar)
+  - We've done the occasional digital project: see [Farer](https://github.com/lleb-me) or [Lunar](https://github.com/designbylunar)
 - James Newton-King (developer of Newtonsoft.Json)
 - Jane Manchun Wong (forbes 30 under 30)
 - Lando Norris (McLaren driver)
@@ -45,11 +43,12 @@ template="layouts/page.html"
 - Sam Yang (artist)
 - Steve Eynon (Fantom Factory "Boss Man")
   - Had a Zoom call to discuss the Fantom language; would be cool to touch base again
-- Ursula von der Leyen (EU Commission president)
+- Ursula von der Leyen (EU Commission president 2019-)
 - 习近平 (Chinese President in 2013)
 
 ### Places to Visit
 - Belgium
+- Canada ("..again")
 - China
 - France (..again)
 - Italy (..again)
@@ -60,6 +59,14 @@ template="layouts/page.html"
 - South Korea
 - Sweden
 - Switzerland (..again)
+- United Kingdom
+  - Cambridge
+  - Edinburgh
+  - London
+- United States
+  - Monterey, CA
+  - Idaho Springs, CO
+  - Washington, D.C.
 
 ### Things to Do
 - Create a music release
@@ -69,7 +76,8 @@ template="layouts/page.html"
 - Learn new languages
   - Chinese
   - German & Swiss German
-  - Filipino
+  - Filipino (Tagalog, as it's known in the states)
+    - Have to take a language to graduate with Honors so this should be easy; alternative is Spanish.
   - Italian
   - Japanese
   - Korean
@@ -88,4 +96,3 @@ template="layouts/page.html"
 - Get a train and a license
   - Cross Europe to Japan
 - Drive an F1 car
-  - Maybe even race? A loose item.
