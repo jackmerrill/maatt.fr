@@ -1,7 +1,7 @@
 +++
 title= "Scripps Ranch HS — Graduation of 2022"
 date = "2022-06-14"
-description = "Software is lagging behind hardware, and it's showing."
+description = "To the Falcon families who may have missed the graduation livestream, you can still watch it on demand."
 +++
 
 To the Falcon families who may have missed the graduation livestream, you can still watch it on demand via:
