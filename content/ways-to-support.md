@@ -7,8 +7,9 @@ Like the things I do or want to support my projects? Here's how you can help.
 
 ## Send good vibes
 The best you can do is show your appreciation
-- [reach out to me](@/contact.md) for anything, even if it's simply to say thanks for something I've done
+- [reach out to me](@/contact.md) for anything, even if it's simply to say thanks for something I've done or send me a song recommendation
 - share things that I've made or been a part of with others
+- contribute in FOSS projects of mine
 
 ## Support those who need it first
 ![Monterey Bay Aquarium banner](/img/baybanner.png)
@@ -25,13 +26,9 @@ Don't feel pressured to donate anything, but I appreciate every penny I receive;
 
 I accept donations via [Liberapay.](https://liberapay.com/doamatto/)
 
-## Referral links
-- [Fastmail–](https://ref.fm/u27226768) the best alternative to Gmail
-- [Mega–](https://mega.nz/aff=LYzEWOoubqI) decently private cloud storage
-
 ## Wishlists and gifts
 - [Amtrak gift card—](https://www.amtrak.com/planning-booking/tickets-reservations/giftcards.html) Fund my occasional travel in the U.S. to take a break and enjoy some cool things ([I like trains](https://knowyourmeme.com/memes/i-like-trains)).
-- [Apple gift card—](https://www.apple.com/fr/shop/gift-cards/itunes-electronic) I use the French app store and gift cards are apparently not transferrable between app stores. 
+- [Apple gift card—](https://www.apple.com/fr/shop/gift-cards/itunes-electronic) I use the French app store and gift cards are apparently not transferrable between app stores (which is pretty stupid).
 - [Bandcamp gift card–](https://bandcamp.com/gift_cards) fuel my CD collection
 - [GOG games–](https://www.gog.com/en/u/doamatto/wishlist) games are fun, next question.
 - [Marriott gift card—](https://gifts.marriott.com) Same with Amtrak; fund my occasional travel in the U.S.
