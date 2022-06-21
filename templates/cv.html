@@ -5,7 +5,6 @@
 {% block content %}
 <header>
   <h1>CV</h1>
-  <p>Fun fact: printing this page will provide a print-friendly copy.</p>
 </header>
 <style>
   @media print {
@@ -13,20 +12,22 @@
     footer,
     header { display: none; }
   }
-  .bioa > h2,
-  .bioa > h3 {
+  .bioa > h2 {
     margin-top: .5rem;
+    margin-bottom: 0;
+  }
+  .bioa > p {
+    margin-top: 0;
     margin-bottom: .5rem;
   }
   .bioa { margin-bottom: 1rem; }
-  line-height: 1;
   @media (max-width: 649px) {
     .adj { flex-direction: column-reverse; }
   }
 </style>
 <div class="bio bioa">
   <h2>Matthew "Matt" Ronchetto</h2>
-  <h3>High-school computer engineer, avid audiophile, cinematographer.</h3>
+  <p>High-school computer engineer, avid audiophile, cinematographer.</p>
   <div>
     <a href="mailto:cv@doamatto.xyz">cv@doamatto.xyz</a><br/>
     <a href="https://www.maatt.fr">maatt.fr</a> | <a href="https://www.maatt.cn">maatt.cn</a>
@@ -38,21 +39,20 @@
         <h2>Education</h2>
         <div>
           <p>
-            <strong>Scripps Ranch HS</strong> High school diploma – Jun 2023
+            <strong>Scripps Ranch HS—</strong> Jun 2023
           </p>
         </div>
       </div>
       <div class="rdbl">
         <h2>Skills</h2>
         <ul>
-          <li>IT Operations</li>
+          <li>Network and system administration</li>
           <li>Web development</li>
-          <li>Linux system administration</li>
-          <li>Node.js</li>
+          <li>Node.js, React, Next.js</li>
           <li>Git</li>
           <li>Figma (software)</li>
           <li>Golang / Go</li>
-          <li>Web Content Accessibility Guidelines</li>
+          <li>WCAG, ADA, RGAA</li>
           <li>Dart</li>
           <li>Amazon Web Services</li>
           <li>Nginx</li>
@@ -64,6 +64,7 @@
           <li><strong>English–</strong> Native/bilingual tongue</li>
           <li><strong>Français–</strong> Native/bilingual tongue (limited working proficiency)</li>
           <li><strong>日本語–</strong> Elementary proficiency</li>
+          <li><strong>中国人–</strong> Elementary proficiency</li>
         </ul>
       </div>
   </aside>
