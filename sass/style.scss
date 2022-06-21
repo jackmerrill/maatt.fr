@@ -209,8 +209,11 @@ hr {
 }
 .footnote-definition { display: inline-flex; }
 .bf {
-    justify-self: center;
     width: 50px;
     height: 31.25px;
     background: linear-gradient(180deg, rgba(196,42,111,1) 0%, rgba(196,42,111,1) 40%, rgba(145,83,146,1) 40%, rgba(145,83,146,1) 60%, rgba(20,55,162,1) 60%, rgba(20,55,162,1) 100%);
+}
+.c {
+    display: flex;
+    justify-content: center;
 }
