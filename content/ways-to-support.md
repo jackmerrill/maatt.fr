@@ -13,7 +13,7 @@ The best you can do is show your appreciation
 - contribute in FOSS projects of mine
 
 ## Support those who need it first
-![Monterey Bay Aquarium banner](/img/baybanner.png)
+![Monterey Bay Aquarium banner](/img/baybanner.jpg)
 Every two quarters, I choose a charity to match up to 100 US$ to. These are commonly tax write-offs in the U.S. and help put money in the pockets of those who deserve it the most.
 
 From **1 june, 2022 to 31 december, 2022**, we're raising money for the Monterey Bay Aquarium. [Donate on their website](https://www.montereybayaquarium.org/join-give/ways-to-give/give) and send your receipt to `foragoodcause [at] maatt.ch`
