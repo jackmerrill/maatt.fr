@@ -1,0 +1,24 @@
+---  
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: personal-site
+spec:
+  selector:
+    matchLabels:
+      app: personal-site
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: personal-site
+    spec:
+      containers:
+        - name: personal-site
+          image: farernic/doamatto.xyz:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 443
+            - containerPort: 80
+                
+  
