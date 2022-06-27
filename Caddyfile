@@ -1,13 +1,6 @@
 (redirs) {
 	# Old page URLs
 	redir /archive/social /contact/
-	redir /ways-to-support /support/
-	redir /ways-to-support /archive/support/
-
-	# Old project URLS
-	redir /always-amazon-smiling /projects/always-amazon-smiling/
-	redir /bashin /archive/bashin/
-	redir /bittalk /archive/bashin/
 
 	# Rainbows
 	redir /🏳️‍🌈 /rainbows
