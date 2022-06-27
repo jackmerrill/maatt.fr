@@ -1,6 +1,7 @@
 +++
 title = "Ways to Support"
 template = "layouts/page.html"
+aliases= ["/support", "/archive/support"]
 +++
 
 Like the things I do or want to support my projects? Here's how you can help.
