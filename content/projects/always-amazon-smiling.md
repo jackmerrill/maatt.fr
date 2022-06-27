@@ -3,6 +3,7 @@ title = "Always Amazon Smiling"
 slug = "always-amazon-smiling"
 description = "A simple tool to redirect you from Amazon's sites to their Amazon Smile counterparts."
 date = "2020-08-12"
+aliases= ["/always-amazon-smiling"]
 +++
 
 AAS was meant as a "demo" to see how I liked making some browser extensions. Turns out: it's pretty fun and it helps to know what you're doing. Recently, I returned to AAS to give it an update due to a lot of bug reports in my inbox and personal issues I've had with the extension.
