@@ -24,5 +24,5 @@
   header Cross-Origin-Embedder-Policy-Report-Only "require-corp; 'mailto:security@doamatto.xyz'"
   #header Cross-Origin-Opener-Policy "same-origin; report-to='mailto:security@doamatto.xyz'"
   #header Cross-Origin-Embedder-Policy "require-corp; report-to='mailto:security@doamatto.xyz'"
-	header Content-Security-Policy "default-src 'none'; style-src 'self'; img-src 'self' 'fm.doamatto.xyz'; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
+	header Content-Security-Policy "default-src 'none'; style-src 'self'; img-src 'self' https://fm.doamatto.xyz; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
 }
