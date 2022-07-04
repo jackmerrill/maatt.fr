@@ -16,13 +16,9 @@ template="layouts/page.html"
 - [Love is Dead CD](https://www.discogs.com/release/12037819) (UPC `810599022006`)
 - [Mechanical Bull Vinyl](https://www.discogs.com/master/599554?format=LP&format=Vinyl)
 - [Moral Panic CD](https://www.discogs.com/release/16044040) (UPC `0194397856323`)
+- [MyElectronics Mac Mini + Raspberry Pi rack mount](https://smile.amazon.com/gp/product/B08N57QJM4)
 - [Onewheel Pint X](https://onewheel.com/products/onewheel-pint-x)
 - [rising Vinyl](https://merch.mxmtoon.com/collections/music/products/rising-purple-vinyl)
 - [Semicolon: The Past, Present, and Future of a Misunderstood Mark](https://bookshop.org/books/semicolon-the-past-present-and-future-of-a-misunderstood-mark/9780062853059) (ISBN `9780062853059`)
 - [The Art of Sound: A Visual History for Audiophiles](https://bookshop.org/books/the-art-of-sound-a-visual-history-for-audiophiles/9780500519288) (UPC `9780500519288`)
 - [The World Turned Upside Down](https://bookshop.org/books/the-world-turned-upside-down-a-history-of-the-chinese-cultural-revolution/9780374293130) (ISBN `9780374293130`)
-- [Ubiquiti Dream Machine Pro SE](https://store.ui.com/collections/products/products/dream-machine-se)
-- [Ubiquiti G3 Flex](https://store.ui.com/collections/unifi-protect-cameras/products/unifi-video-g3-flex-camera) 
-- [Yamaha HS7 (x2)](https://smile.amazon.com/dp/B00CFOXHGS)<br/>
-  This item depends on the following item(s):
-  - [Schiit Freya S+ (Silver)](https://www.schiit.com/products/freya-s)
