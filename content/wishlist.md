@@ -15,6 +15,7 @@ template="layouts/page.html"
 - [Life is Strange Vol. 6 (Paperback)](https://smile.amazon.com/gp/product/1787734757) (ISBN `9781787734757`)
 - [Love is Dead CD](https://www.discogs.com/release/12037819) (UPC `810599022006`)
 - [Mechanical Bull Vinyl](https://www.discogs.com/master/599554?format=LP&format=Vinyl)
+- [MIT Technology Review gift subscription](https://subscriptions.technologyreview.com/loading.do?omedasite=MITTR_GIFT&ver=dp) (email: `hello@doamatto.xyz`)
 - [Moral Panic CD](https://www.discogs.com/release/16044040) (UPC `0194397856323`)
 - [MyElectronics Mac Mini + Raspberry Pi rack mount](https://smile.amazon.com/gp/product/B08N57QJM4)
 - [Onewheel Pint X](https://onewheel.com/products/onewheel-pint-x)
