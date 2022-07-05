@@ -33,4 +33,5 @@ I accept donations via [Liberapay.](https://liberapay.com/doamatto/)
 - [Bandcamp gift card–](https://bandcamp.com/gift_cards) fuel my CD collection
 - [GOG games–](https://www.gog.com/en/u/doamatto/wishlist) games are fun, next question.
 - [Marriott gift card—](https://gifts.marriott.com) Same with Amtrak; fund my occasional travel in the U.S.
+- [MIT Technology Review—](https://subscriptions.technologyreview.com/loading.do?omedasite=MITTR_GIFT&ver=dp) interesting articles, put simply
 - [Monterey Bay Aquarium—](https://www.montereybayaquarium.org/join-give/become-a-member/give) not only does it go to a great cause, but I also get to enjoy a great bi-yearly magazine from them. [Go Rosa!](https://www.montereybayaquarium.org/visit/exhibits/sea-otters/meet-our-otters)
