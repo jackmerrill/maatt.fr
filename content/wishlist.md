@@ -23,4 +23,3 @@ template="layouts/page.html"
 - [Semicolon: The Past, Present, and Future of a Misunderstood Mark](https://bookshop.org/books/semicolon-the-past-present-and-future-of-a-misunderstood-mark/9780062853059) (ISBN `9780062853059`)
 - [The Art of Sound: A Visual History for Audiophiles](https://bookshop.org/books/the-art-of-sound-a-visual-history-for-audiophiles/9780500519288) (UPC `9780500519288`)
 - [The World Turned Upside Down](https://bookshop.org/books/the-world-turned-upside-down-a-history-of-the-chinese-cultural-revolution/9780374293130) (ISBN `9780374293130`)
-- [Thrustmaster T150](https://www.thrustmaster.com/en-us/products/t150-force-feedback/)
