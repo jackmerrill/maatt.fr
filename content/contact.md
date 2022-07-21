@@ -15,6 +15,6 @@ I accept communication in either English or French. Other languages will be tran
 Some other places around the internet that I'm at are:
 - Discord: doamatto <abbr title="#">[pound sign]</abbr> 8083
 - GitHub: [@doamatto](https://github.com/doamatto)
-- Last.fm: [doamatto](https://www.last.fm/user/doamatto)
+- Last.fm: [/user/doamatto](https://www.last.fm/user/doamatto)
 - MusicBrainz: [/user/doamatto](https://musicbrainz.org/user/doamatto)
 - Sourcehut: [~doamatto](https://sr.ht/~doamatto/)
