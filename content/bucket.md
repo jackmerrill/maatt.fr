@@ -48,7 +48,7 @@ template="layouts/page.html"
 
 ### Places to Visit
 - Belgium
-- Canada ("..again")
+- Canada (..again)
 - China
 - France (..again)
 - Italy (..again)
@@ -60,9 +60,9 @@ template="layouts/page.html"
 - Sweden
 - Switzerland (..again)
 - United Kingdom
-  - Cambridge
-  - Edinburgh
-  - London
+  - Cambridge, England
+  - Edinburgh, Scotland
+  - London, England
 - United States
   - Monterey, CA
   - Idaho Springs, CO
@@ -75,20 +75,15 @@ template="layouts/page.html"
 - Release hardware en masse
 - Learn new languages
   - Chinese
-  - German & Swiss German
   - Filipino (Tagalog, as it's known in the states)
     - Have to take a language to graduate with Honors so this should be easy; alternative is Spanish.
-  - Italian
-  - Japanese
-  - Korean
   - Swedish
 - Become self-employed
   - Or retired. Basically the same thing. /s
 - Get QQ to work
-- Learn to snowboard
+- Learn to skateboard
 - Attend the Olympics as a guest
 - Contribute to the research of a major topic
-- Have or attend a slumber party/sleepover
 - Attend a decent university (UC San Diego?)
 - Attend a F1 race
   - And enter the paddock
