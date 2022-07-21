@@ -4,14 +4,16 @@ template = "layouts/page.html"
 +++
 
 ## Contact information
-Matthew Ronchetto d.b.a doamatto<br/>
-**Email:** [dpo \[at\] doamatto.xyz](mailto:dpo@doamatto.xyz)<br/>
-**Phone:** +1 858-333-4262 ([tel](tel:+18583334262) | [sms](sms:+18583334262))<br/>
-**Please note:** the phone number provided is not for support or general contact and purely for legal purposes.
+Matthew Ronchetto d.b.a. doamatto<br/>
+78 allée Primavera<br/>
+Centre UBIDOCA, 19963<br/>
+74370 Annecy<br/>
+France<br/>
+[dpo \[at\] doamatto.xyz](mailto:dpo@doamatto.xyz) | +1 858-333-4262 ([tel](tel:+18583334262) | [sms](sms:+18583334262))
 
 ## Disclaimers
 ### Liability for Links
 This website contains links to external websites which may have links to third parties, of which I have no influence or control over the contents of. Therefore, I can’t assume any liability for these external websites. The respective provider or operator of the sites is always responsible for the contents of the linked sites.
 
 ### Copyright
-The contents and works on this website are licensed under [the CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.fr). Any kind of use outside the limits of copyright laws requires the written consent of the respective author or authors.
+The contents and works on this website are licensed under [the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.fr). Any kind of use outside the limits of copyright laws requires the written consent of the respective author or authors.
