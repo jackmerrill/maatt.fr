@@ -3,10 +3,10 @@ title="PrivacySpy Crawler"
 template="layouts/page.html"
 +++
 
-If you're a web administrator or manage a site's analytics tool, you may have noticed requests from a device: `PS Crawl - https://maatt.ch/ps-crawl` or similar. This is the unofficial (hopefully to be official, in the future) web crawler for [PrivacySpy](https://privacyspy.org) that makes automated issues to GitHub for when a policy has problems. You can see its source code [on GitHub.](https://github.com/doamatto/privacyspy-bot)
+Hey! I'm Matt, a software engineer. With the very brief introduction out of the way, you may be wondering why your site has been getting requests from `PS Crawl — https://maatt.fr/ps-crawl`. This is the unofficial (with plans to be official in the future) web crawler for [PrivacySpy](https://privacyspy.org) that makes automated GitHub issues for when a privacy policy may need to have its score updated. You can see the bot's source code [on GitHub.](https://github.com/doamatto/ps-crawl)
 
-### I saw this in my analytics tool, what is it?
-PrivacySpy is an open-source crowdsourced privacy policy grading site, where we track online privacy. You can learn more about it [here](https://privacyspy.org/about/), but if you see this crawler on your site it means your privacy policy was added to PrivacySpy by someone.
+## Opt-out of site crawling
+You can use a `robots.txt` file to block the bot's user-agent. It's highly encouraged to not however, as it means privacy policies will have to be manually checked for updates to adjust your score.
 
-### Is it possible to stop these requests?
-Yes and no. As of writing, there is no opt-out method to these crawls; however, you can use a `robots.txt` file to block our user agent. We highly discourage this however, as it means we can't ensure your privacy policy is up to date and is being scored properly.
+## My site doesn't have a privacy policy
+You can [create a pull request removing your website from the `products/` folder.](https://github.com/politiwatch/privacyspy) Once that change is made, the bot should stop crawling your website permanently. It's encouraged to do this other optting-out, if applicable, as it helps the bot get through the slew of policies that much faster.
