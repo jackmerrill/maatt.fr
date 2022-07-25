@@ -13,7 +13,7 @@ One prime way is the new area of what I'm listening to billions of times a day. 
 
 ![Screenshot from Figma of this project](/assets/posts/static-spotify-widgets/final.png)
 
-With the help of [Charlie](https://epic4809.github.io) and [Daniel](https://daan.ws). We got to that final iteration. Here's the logic behind all of it:
+With the help of [Charlie](https://epic4809.github.io) and [Daniel](https://daniel.cafe). We got to that final iteration. Here's the logic behind all of it:
 
 - **A light and dark version is a must.** Because of such, we needed to design at least 2 versions, one that would look great when the visitor was broadcasting that they were on light mode and one when they were on dark mode.
 - **A fun option is a nice to have.** Why not go all the way with "Spotify Green?" A fun option is nice to have, but definetly not needed. It'll be an option you can have as opposed to the automatic light and dark theme banners.
