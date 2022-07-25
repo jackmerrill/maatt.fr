@@ -6,14 +6,14 @@ template="layouts/page.html"
 ## 2022
 - **Live production crew for graduation with \~7000 viewers** (SRHS).
 - **[Firewatch colour scheme for Sublime Text 3/4.](https://github.com/doamatto/sublime-firewatch)**
-- **[Courier Service—](https://codeberg.org/doamatto/courier-service)** Check for new RSS posts and create emails or drafts with Buttondown.
+- **[Courier Service—](https://github.com/nutshellmag/courier)** Check for new RSS posts and create emails or drafts with Buttondown.
 - **Cronus** (coming soon)– Unannounced, unreleased hardware project.
 
 ## 2021
 - **[First interview with Miles McCain–](https://edu.doamatto.xyz/interview-with-miles)** An interview with R. Miles McCain, a Stanford student and developer of PrivacySpy, on the topic of artificial intelligence. First professional interview I've done; not great, not terrible.
 - **First part-time job–** Worked in to-go and as a host at Chili's.
 - **[マージ (Māji)–](https://github.com/doamatto/maji)** A dirt-simple tool to merge JSON files. An experiment with Newtonsoft.
-- **[伏見 (Fushimi)–](@/projects/inari.md)** A simple webhook updated to keep remotes up-to-date on every push to Git.
+- **[伏見 (Fushimi)–](@/projects/fushimi.md)** A simple webhook updated to keep remotes up-to-date on every push to Git.
 - **[稲荷 (Inari)–](https://github.com/doamatto/inari)** A zero-config web server with sensible defaults.
 - **[Steam Game Randomizer–](https://github.com/doamatto/steam-game-randomizer)** A game randomizer for people who don't know what to play.
 - **[Vote to Mute–](https://github.com/doamatto/vote-to-mute)** Vote to mute people in a Discord server. An experiment with `discordgo`.
