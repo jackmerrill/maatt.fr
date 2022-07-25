@@ -1,21 +1,10 @@
 # Binaries, Deps, and Temp Files
-node_modules/
 out/
 .DS_Store
-
-# Logs
-yarn-debug.log*
-yarn-error.log*
-
-# I use VSCodium; no need for workspace configs to be moved here
-.vscode/
 
 # Generated files
 static/rss.xml
 static/sitemap.xml
-
-# Ghostwriter backups
-*.backup
 
 # Local server certs
 cert.pem
