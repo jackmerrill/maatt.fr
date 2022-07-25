@@ -17,9 +17,9 @@
             <a href="{{ page.permalink }}" title="{{page.title}}">
                 <h3>{{page.title}}</h3>
             </a>
-            <p>{{page.description | safe }} <span class="disclaimer">{{page.date | date(format="%e %B, %Y")}}</span></p>
+            <p>{{page.description | safe }} <span class="d">{{page.date | date(format="%e %B, %Y")}}</span></p>
         </article>
     {% endfor %}
-    <a href="{{ get_url(path="@/blog/_index.md") }}" class="disclaimer">See all {{ feed.pages | length }} posts &rarr;</a>
+    <a href="{{ get_url(path="@/blog/_index.md") }}" class="d">See all {{ feed.pages | length }} posts &rarr;</a>
 </section>
 {% endblock content %}

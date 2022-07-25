@@ -3,7 +3,7 @@
 {% block title %}About{% endblock title %}
 
 {% block content %}
-<div class="adj">
+<article class="adj">
   <aside class="bio">
     <img src="/img/profile.jpg" loading="lazy" alt="Photo of Matt Ronchetto wearing a mask" />
     <p class="links">
@@ -14,6 +14,6 @@
     </p>
     <hr/>
   </aside>
-  <section class="rdbl">{{page.content | safe}}</section>
-</div>
+  <main class="rdbl">{{page.content | safe}}</main>
+</article>
 {% endblock content %}
