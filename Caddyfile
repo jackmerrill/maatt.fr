@@ -1,11 +1,26 @@
 (redirs) {
-	# Old page URLs
-	redir /archive/social /contact/
+	# Old page URLs; remove 31 juil., 2022
+	redir /~ / 301
 
-	# Rainbows
-	redir /🏳️‍🌈 /rainbows
-	redir /%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88 /rainbows
-	redir /🏳%EF%B8%8F%E2%80%8D🌈 /rainbows
+	# Draft page redits
+	redir /cv https://www.linkedin.com/in/matthewronchetto/ 302
+
+	# Github redirs; uncomment 31 juil., 2022
+	# redir /projects/5mloading https://github.com/doamatto/5mloading 301
+	# redir /projects/fushimi https://github.com/doamatto/fushimi 301
+	# redir /projects/google-apis-for-vlang https://github.com/doamatto/googleapis 301
+	# redir /projects/inari https://github.com/doamatto/inari 301
+	# redir /projects/maji https://github.com/doamatto/maji 301
+	# redir /projects/saluto https://github.com/doamatto/saluto 301
+	# redir /projects/southpine-wrappers https://github.com/playglitch 301
+	# redir /projects/swift-bot https://github.com/doamatto/swiftbot-legacy 301
+	# redir /projects/vote-to-mute https://github.com/doamatto/vote-to-mute 301
+	# redir /projects/yamh https://github.com/doamatto/yamh 301
+
+	# Rainbows; make "seasonal"?
+	redir /🏳️‍🌈 /rainbows 301
+	redir /%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88 /rainbows 301
+	redir /🏳%EF%B8%8F%E2%80%8D🌈 /rainbows 301
 
 	# Caching
 	header Cache-Control "max-age=3600"
