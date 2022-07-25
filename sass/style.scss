@@ -1,5 +1,5 @@
 @import './root.scss';
-@import './mixins.scss';
+//@import './mixins.scss';
 
 /* Start main doc */
 html,
@@ -39,7 +39,7 @@ body {
             //color: black;
             opacity: .7 !important;
         }
-        @include transition;
+        //@include transition;
     }
     abbr {
         text-decoration: underline;
@@ -131,8 +131,8 @@ nav {
             margin-top: .9rem;
             margin-bottom: .9rem;
             padding: .5rem;
-            svg path,
-            a { @include transition; }
+            //svg path,
+            //a { @include transition; }
             &:hover,
             &:focus {
                 svg path {
