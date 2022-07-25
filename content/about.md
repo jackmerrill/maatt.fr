@@ -5,7 +5,7 @@ template="about.html"
 
 # Salut! &#x1F44B;
 
-My name's Matt Ronchetto (I go by `ドアマット`, `doamatto`, or `maatt` on the Internet) and **I'm a high school student** and an **open-source developer/designer with a passion for making accessible, ethical software.**
+My name's Matt Ronchetto (I go by <abbr title="doamatto">`ドアマット`</abbr> or `maatt` on the Internet) and **I'm a high school student** and an **open-source developer/designer with a passion for making accessible, ethical software.**
 
 I spend most of my free time listening to music or focusing on studies to land a spot at a nice uni, ideally in the Pacific/Mountain region. When I'm not doing either, chances are I'm either on campus doing life or programming <br/>
 [See what I'm listening to &rarr;](https://www.last.fm/user/doamatto) or [what I've been working on &rarr;](@/work.md) 
