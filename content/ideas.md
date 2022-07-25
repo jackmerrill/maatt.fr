@@ -5,7 +5,7 @@ description = "I get a lot of ideas of things I should make, this is a way I eas
 +++
 
 ## Software
-- Steal Daniel's idea about making an ideas page at [daan.ws/ideas](https://daan.ws/ideas/) about logging ideas over time
+- Steal Daniel's idea about making an ideas page at [daniel.cafe/ideas](https://daniel.cafe/ideas/) about logging ideas over time
 - A user-friendly, but hackable Linux distro– similar to elementary and Void
 - uBlock but for Safari– support for same list syntax as uBlock
 - Music search by location– favours Bandcamp, then Spotify/Qobuz
