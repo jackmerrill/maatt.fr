@@ -6,14 +6,12 @@ date = "2021-08-26"
 +++
 
 ## ⚠️ Heads up!
-This page is for a project that doesn't exist anymore or never existed in the first place. The best term for something like this is **vaporware.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](@/blog/linkrot.md)
+This page is for a project that still has a GitHub repository. For this reason, this page will still start redirecting to its repository after 31 July, 2022. Redirects for this page will cease after 31 December, 2022.
 
 ---
 
-Swift has been deprecated and [archived.](https://github.com/doamatto/swiftbot-legacy) The main issue I realised off the bat was that I was making the bot too general and needed to target my attention before aiming for this kind of bot. SInce then, the following projects were born (these links may not be live yet, as not all of the smaller bots have released, as of writing):
+Swift has been deprecated and [archived.](https://github.com/doamatto/swiftbot-legacy) The main issue I realised off the bat was that I was making the bot too general and needed to target my attention before aiming for this kind of bot. Since then, the following projects were born:
 - [Tu Ecoutés](/projects/tu-ecoutes)
-- [Dove](/projects/dove-bot)
-- [アーケード (Ākēdo)](/projects/akedo)
 
 ---
 

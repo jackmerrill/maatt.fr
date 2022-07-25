@@ -7,7 +7,12 @@ date = "2021-09-27"
 +++
 
 ## ⚠️ Heads up!
-This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](@/blog/linkrot.md)
+This page is for a project that still has a GitHub repository. For this reason, this page will still start redirecting to its repository after 31 July, 2022. Redirects for this page will cease after 31 December, 2022.
+
+---
+
+## ⚠️ Heads up!
+This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.**
 
 ---
 
@@ -26,6 +31,8 @@ That's not to say that any of this came without troubles. As aforementioned, Jek
 That's not to say either that it had a bad run either. With almost 4500 downloads at the time of writing, this theme skyrocketed in popularity since day zero; achieving hundreds of downloads the same day as updates and achieving its current number rapidly through development. I received lots of feedback on the theme through platforms such as Twitter and Instagram PMs, and used them to improve the theme massively.
 
 Will there ever be another Nano? Right now, I'm not sure. I do know that, as of September 2021, Nano is deprecated. But.. it would be nice. After all, who doesn't want a website?
+
+**Update:** apparently it's up to 15'600ish now. That's crazy. (2022-07-24)
 
 ---
 

@@ -1,9 +1,14 @@
 +++
-title = "稲荷 (Inari)"
+title = "稲荷"
 slug = "inari"
 description = "A zero-config web server with sensible defaults."
 date = "2021-08-11"
 +++
+
+## ⚠️ Heads up!
+This page is for a project that still has a GitHub repository. For this reason, this page will still start redirecting to its repository after 31 July, 2022. Redirects for this page will cease after 31 December, 2022.
+
+---
 
 Over the past couple weeks, I've been working on moving things like this site and others that I've worked on into VPSs and solution like Uberspace. Although solutions like Apache exist, they take time to setup, especially for every site you make. And, although tools like dhttpd and Caddy exist, they offer not enough customisability or not enough functionality, respectively.
 

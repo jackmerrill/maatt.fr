@@ -5,6 +5,11 @@ description = "Most all of FiveM's loading screen mods have been, in my experien
 date = "2020-12-20"
 +++
 
+## ⚠️ Heads up!
+This page is for a project that still has a GitHub repository. For this reason, this page will still start redirecting to its repository after 31 July, 2022. Redirects for this page will cease after 31 December, 2022.
+
+---
+
 Most all of FiveM's loading screen mods have been, in my experience, poor looking and poor performing. Because of this, I made my own. With the absence of an original name, 5mLoading was born.
 
 5mLoading is a feature-rich, customisable, and, most importantly, lightweight loading screen. Some key features being that:

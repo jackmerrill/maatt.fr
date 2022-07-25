@@ -1,5 +1,5 @@
 +++
-title = "GitCord"
+title = "Gitcord"
 slug = "gitcord"
 description = "A bot that allows users to search repositories via GitHub's API"
 date = "2021-01-23"
@@ -10,9 +10,9 @@ This page is for a project that doesn't exist anymore or never existed in the fi
 
 ---
 
-I recently was sent an invite to a GitHub organisation and a Discord group known as «DevingOnDiscord». From my understanding, it's essentially a group of lads who use Discord to turn a profit with their software. Frankly, I've never really cared about making a profit from my service, but I decided to help out with some of the projects. One of those being GitCord.
+I recently was sent an invite to a GitHub organisation and a Discord group known as «DevingOnDiscord». From my understanding, it's essentially a group of lads who use Discord to turn a profit with their software. Frankly, I've never really cared about making a profit from my service, but I decided to help out with some of the projects. One of those being Gitcord.
 
-GitCord is a Discord bot that allows people to search for repositories via GitHub's API. It's pretty simple. Written in TypeScript with Discord.js, it uses the `/search/repositories` endpoint to query for results. It works not too far from the following:
+Gitcord is a Discord bot that allows people to search for repositories via GitHub's API. It's pretty simple. Written in TypeScript with Discord.js, it uses the `/search/repositories` endpoint to query for results. It works not too far from the following:
 
 1. You call the command and provide a query (eg. `git!search user:doamatto`)
 2. It takes your query and:
@@ -29,4 +29,4 @@ GitCord is a Discord bot that allows people to search for repositories via GitHu
 
 Overall, there are some flaws with how the bot operates that may be addressed by current maintainers, such as missing types (with the infamous `TSFixMe` as a placeholder) and rate limiting from not using a token. However, for the average person who might see the need to self-host a bot to search GitHub, this gets the job done easily.
 
-Shortly after development in January 2021, I transfered the source to the DOD team. Unfortuantely, the group has since disappeared from the Internet, along with the GitCord source.
+Shortly after development in January 2021, I transfered the source to the DOD team. Unfortuantely, the group has since disappeared from the Internet, along with the Gitcord source.

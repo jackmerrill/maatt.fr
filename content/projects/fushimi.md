@@ -1,12 +1,12 @@
 +++
-title = "伏見 (Fushimi)"
+title = "伏見"
 slug = "fushimi"
 description = "A simple webhook updated to keep remotes up-to-date on every push to Git"
 date = "2021-08-11"
 +++
 
 ## ⚠️ Heads up!
-This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot](@/blog/linkrot.md) (oh, the irony).
+This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.**
 
 ---
 

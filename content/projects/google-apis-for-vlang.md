@@ -5,6 +5,11 @@ description = "A wrapper for Google's APIs written in V. Both for fun and for fu
 date = "2021-06-23"
 +++
 
+## ⚠️ Heads up!
+This page is for a project that still has a GitHub repository. For this reason, this page will still start redirecting to its repository after 31 July, 2022. Redirects for this page will cease after 31 December, 2022.
+
+---
+
 This is a library for all of the Google APIs written in Vlang using only modules in vlib[^1]. It's far from finished, but I do hope to get it done sometime in the near future. Vlang is known for being as fast as C and crazy fast and small. It also means that (in theory) I'm making a C wrapper for the Google APIs, as V works with anything with C interop.
 
 Overall, this is both a way to introduce me into and experiment with Vlang before starting to use it in some production instances with things like [Studio9.](/projects/mono)
