@@ -71,6 +71,8 @@ template="layouts/page.html"
   - Washington, D.C.
 
 ### Things to Do
+- [Complete my ideas list](@/ideas.md)
+  - [Complete Daniel's ideas list](https://daniel.cafe/ideas)
 - Create a music release
 - Publish a short film
 - Start my own mini town
@@ -89,7 +91,7 @@ template="layouts/page.html"
 - Attend a decent university (UC San Diego?)
 - Attend a F1 race
   - And enter the paddock
-- Steal whatever bucket list [Daniel](https://daan.ws) comes up with
+- Steal whatever bucket list [Daniel](https://daniel.cafe) comes up with
 - Get a train and a license
   - Cross Europe to Japan
 - Drive an F1 car
