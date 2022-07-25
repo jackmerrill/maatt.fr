@@ -20,6 +20,7 @@ template="layouts/page.html"
 - Igor Barakaiev (PrivacySpy developer)
 - Jack Merrill (developer at Merch)
   - We've done the occasional digital project: see [Farer](https://github.com/lleb-me) or [Lunar](https://github.com/designbylunar)
+- Jaiden (animator)
 - James Newton-King (developer of Newtonsoft.Json)
 - Jane Manchun Wong (forbes 30 under 30)
 - Lando Norris (McLaren driver)
@@ -51,6 +52,7 @@ template="layouts/page.html"
 - Canada (..again)
 - China
 - France (..again)
+- Iceland
 - Italy (..again)
 - Japan
 - Monaco
