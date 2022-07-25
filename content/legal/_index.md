@@ -1,6 +1,6 @@
 +++
 title="Legal"
-template = "layouts/page.html"
+template = "layouts/section.html"
 +++
 
 Although "doamatto" is just a brand I use on the Intenet, I treat it as an extension of my name. Just like I wouldn't want my name to have a bad connotation, I want "doamatto" to be at an equal footing of understanding what comes with the things that I produce under the brand name.
