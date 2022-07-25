@@ -12,7 +12,7 @@ Although "doamatto" is just a brand I use on the Intenet, I treat it as an exten
 - [Transparency of ownership](@/legal/ownership.md)
 <!--- [Registration in France](#) (external link)-->
 
-## Event timeline
+<!--## Event timeline
 - doamatto started 12 août, 2017
-<!--- An application for doamatto EI was started in France on 24 juillet, 2022
+- An application for doamatto EI was started in France on 24 juillet, 2022
 - An application for doamatto EI was submitted on XX mars, 2023-->
