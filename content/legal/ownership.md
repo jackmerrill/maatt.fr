@@ -8,6 +8,7 @@ I own or share the ownership of the following:
   - **doamatto—** sole, pending registration in France
   - **[Farer Group, The—](https://farer.group)** joint research with [Daniel](https://daniel.cafe)
   - **[Inkjar—](https://inkjar.org)** joint with Josh Tang, Quy Pham, Rion Suenaga-Stephens, Nathan Mixay
+  - **[SRHS Hack Club Chapter—](/legal/ownership/#)** member-owned
   - **[Lambda Systems—](https://github.com/lambda-sys)** solo
   - **[Lunar Design-](https://github.com/designbylunar)** joint with [Jack](https://jackmerrill.com)
   - **[Mello—](https://github.com/getmelloapp)** member-owned not-for-profit
