@@ -8,8 +8,8 @@ template="about.html"
 My name's Matt Ronchetto (I go by <abbr title="doamatto">`ドアマット`</abbr> on the Internet) and **I'm a high school student with plans to study computer engineering.** Outside of school, **I run [The Farer Group](https://farer.group) with Daniel and develop and design open-source software, with an emphasis on accessibility and ethical development.**<br/>
 [See what I've been working on &rarr;](@/work.md)
 
-I spend my free time listening to music of just about every genre and [drawing people and scenery.](/art) **I participate in a handful of clubs and programs** like our peer tutoring program, [Inkjar](https://inkjar.org), and [our Hack Club chapter.](#) **I plan to attend a school either in the Pacific/Mountain region of the U.S., abroad as an Erasmus student** in Ireland or France **, or in the U.K.**<br/>
-[See what I'm listening to &rarr;](https://www.last.fm/user/doamatto) and [see my plans for the world &rarr;](/bucket)
+I spend my free time listening to music of just about every genre and [drawing people and scenery.](@/art.md) **I participate in a handful of clubs and programs** like our peer tutoring program, [Inkjar](https://inkjar.org), and [our Hack Club chapter.](#) **I plan to attend a school either in the Pacific/Mountain region of the U.S., abroad as an Erasmus student** in Ireland or France **, or in the U.K.**<br/>
+[See what I'm listening to &rarr;](https://www.last.fm/user/doamatto) and [see my plans for the world &rarr;](@/bucket.md)
 
 <!--**I produce my high school's internal news network, as well as the AV works for assemblies** and other school events. In 2022, I was technical director of SRHS' graduation livestream. **I also peer tutor students** as part of our school's peer tutor program.<br/>-->
 <!-- [See my CV](@/cv.md) -->
