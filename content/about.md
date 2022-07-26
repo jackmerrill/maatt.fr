@@ -1,6 +1,7 @@
 +++
 title="About"
 template="about.html"
+updated="2022-07-25"
 +++
 
 # Salut! &#x1F44B;
