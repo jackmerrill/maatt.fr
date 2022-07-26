@@ -41,3 +41,19 @@
     #header Cross-Origin-Embedder-Policy "require-corp; report-to='mailto:security@doamatto.xyz'"
 	header Content-Security-Policy "default-src 'none'; style-src 'self'; img-src 'self' https://fm.doamatto.xyz; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
 }
+
+maatt.fr,
+matt.fa {
+	import (redirs)
+	encode zstd br gzip
+	root /srv/apps/caddy/sites/maatt.fr
+	file_server
+}
+
+maatt.ch,
+www.maatt.ch,
+www.maatt.fr,
+www.doamatto.xyz,
+www.matt.fa {
+	redir https://maatt.fr{uri} 301
+}
