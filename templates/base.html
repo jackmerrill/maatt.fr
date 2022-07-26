@@ -24,15 +24,8 @@
                 </li>
             </ul>
             <ul>
-                <li>
-                    <a href="/work" title="Work">Work</a>
-                </li>
-                <li>
-                    <a href="/about" title="About">About</a>
-                </li>
-                <!--<li>
-                    <a href="{{ get_url(path="@/contact.md") }}" title="About">Contact</a>
-                </li>-->
+                <li><a href="/work" title="Work">Work</a></li>
+                <li><a href="/about" title="About">About</a></li>
             </ul>
         </nav>
         <section class="container">
@@ -49,7 +42,7 @@
             <div>
                 <p>Last updated: {{page.updated | default(value="never")}}.</p>
                 {% if page.path %}
-                    <a href="https://github.com/doamatto/doamatto.xyz/blob/main/content{{page.path | trim_end_matches(pat="/")}}.md">View page source.</a>
+                    <a href="https://github.com/doamatto/maatt.fr/blob/main/content{{page.path | trim_end_matches(pat="/")}}.md">View page source.</a>
                 {% elif section.path %}
                     <a href="https://github.com/doamatto/maatt.fr/blob/main/content{{section.path}}_index.md">View page source.</a>
                 {% else %}
