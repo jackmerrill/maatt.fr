@@ -46,12 +46,22 @@
                 <a href="/contact">Contact.</a><br/>
                 <a href="/ways-to-support">Support what I do.</a>
             </p>
-            <!--<div>
-                <a href="/en">en</a>
-                <a href="/fr">fr</a>
-                <a href="/bzh">bzh</a>
-                <a href="/zh">zh</a>
-            </div>-->
+            <div>
+                <!--<div>
+                    <a href="/en">en</a>
+                    <a href="/fr">fr</a>
+                    <a href="/bzh">bzh</a>
+                    <a href="/zh">zh</a>
+                </div>-->
+                <p>Last updated: {{page.updated | default(value="never")}}.</p>
+                {% if page.path %}
+                    <a href="https://github.com/doamatto/doamatto.xyz/blob/main/content{{page.path | trim_end_matches(pat="/")}}.md">View page source.</a>
+                {% elif section.path %}
+                    <a href="https://github.com/doamatto/maatt.fr/blob/main/content{{section.path}}_index.md">View page source.</a>
+                {% else %}
+                    <a href="https://github.com/doamatto/maatt.fr">View source.</a>
+                {% endif %}
+            </div>
         </footer>
     </body>
 </html>
