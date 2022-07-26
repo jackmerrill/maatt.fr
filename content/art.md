@@ -1,6 +1,7 @@
 +++
 title= "Visual arts"
 template= "layouts/page.html"
+aliases= ["/arts", "/visual-arts", "/va"]
 +++
 
 I spend a fair amount of my free time enjoying "the finer things" like drawing people and scenery, as well as taking pictures and video.
