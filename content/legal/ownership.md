@@ -8,7 +8,7 @@ This list only contains brands or other bodies that are not on the `maatt.fr`, `
 
 I own or share the ownership of the following:
   - **[doamatto EI,](https://doamatto.xyz) and Matthew Ronchetto d.b.a. doamatto,—** sole, pending registration in France
-  - **[The Farer Group SARL—](https://farer.group)** joint research with [Daniel](https://daniel.cafe)
+  - **[The Farer Group—](https://farer.group)** joint research with [Daniel](https://daniel.cafe)
   - **[Inkjar—](https://inkjar.org)** joint with Josh Tang, Quy Pham, Rion Suenaga-Stephens, Nathan Mixay
   - **[SRHS Hack Club Chapter—](/legal/ownership/#)** member-owned
   - **[Lambda Systems EURL—](https://github.com/lambda-sys)** solo
