@@ -5,13 +5,15 @@ template="layouts/page.html"
 
 ## 2022
 - **Live production crew for graduation with \~7000 viewers** (SRHS).
+- **[The Farer Group—](https://farer.group)** Research project into the Internet and creating an intranet accessible to its members and residents. 
 - **[Firewatch colour scheme for Sublime Text 3/4.](https://github.com/doamatto/sublime-firewatch)**
 - **[Courier Service—](https://github.com/nutshellmag/courier)** Check for new RSS posts and create emails or drafts with Buttondown.
-- **Cronus** (coming soon)– Unannounced, unreleased hardware project.
+- **[Polytechnic Systems—](https://polytechnic.systems)** hardware engineering company/group/thing; née Project Cronus.
+- **Nutshell Magazine** (coming soon)— Unreleased publication.
 
 ## 2021
-- **[First interview with Miles McCain–](https://edu.doamatto.xyz/interview-with-miles)** An interview with R. Miles McCain, a Stanford student and developer of PrivacySpy, on the topic of artificial intelligence. First professional interview I've done; not great, not terrible.
-- **First part-time job–** Worked in to-go and as a host at Chili's.
+- **[First interview with Miles McCain–](https://edu.doamatto.xyz/interview-with-miles)** Stanford student and developer of PrivacySpy, Miles and I discussed on the topic of artificial intelligence and its role in the future.
+- **First part-time job.**
 - **[マージ (Māji)–](https://github.com/doamatto/maji)** A dirt-simple tool to merge JSON files. An experiment with Newtonsoft.
 - **[伏見 (Fushimi)–](@/projects/fushimi.md)** A simple webhook updated to keep remotes up-to-date on every push to Git.
 - **[稲荷 (Inari)–](https://github.com/doamatto/inari)** A zero-config web server with sensible defaults.
@@ -20,7 +22,7 @@ template="layouts/page.html"
 - **[Zola Docker for AWS Amplify](https://github.com/doamatto/amplify-zola)**
 - **[Tu Ecoutés–](https://github.com/doamatto/tu-ecoutes)** Music bot optimised for Discord. An experiment with the `dca` format.
 - **[Sticker Me–](https://git.sr.ht/~doamatto/sticker-me)** A Line sticker ripper. An experiment with Node.js.
-- **[Lunar Design–](https://github.com/designbylunar)** A now-defunct French-American software development duo.
+- **[Lunar Design–](https://github.com/designbylunar)** A sorta-defunct French-American design and software development duo.
 
 ## 2020
 - **[Material UI Colors for VS Code.](https://github.com/doamatto/materialui-vscode)**
