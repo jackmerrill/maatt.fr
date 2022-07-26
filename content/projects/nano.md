@@ -7,11 +7,6 @@ date = "2021-09-27"
 +++
 
 ## ⚠️ Heads up!
-This page is for a project that still has a GitHub repository. For this reason, this page will still start redirecting to its repository after 31 July, 2022. Redirects for this page will cease after 31 December, 2022.
-
----
-
-## ⚠️ Heads up!
 This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.**
 
 ---
