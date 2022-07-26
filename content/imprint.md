@@ -1,6 +1,7 @@
 +++
 title = "Imprint"
 template = "layouts/page.html"
+updated="2022-07-25"
 +++
 
 ## Contact information

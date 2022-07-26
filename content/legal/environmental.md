@@ -1,7 +1,7 @@
 +++
 title= "Environmental policy"
 template= "layouts/page.html"
-description= ""
+updated="2022-07-25"
 +++
 
 I take utmost care when it comes to making this site, and any other brands I run, as environmentally friendly as possible. This policy outlines the services we use, how they are clean, and what I do to offset emissions, if they are not. I maintain the following policy:
