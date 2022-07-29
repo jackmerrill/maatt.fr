@@ -49,7 +49,7 @@ maatt.fr,
 matt.fa {
 	import redirs
 	encode zstd gzip
-	root /srv/apps/caddy/sites/maatt.fr
+	root * /srv/apps/caddy/sites/maatt.fr
 	file_server
 }
 
