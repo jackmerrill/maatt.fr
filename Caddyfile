@@ -1,6 +1,7 @@
 (redirs) {
 	# Old page URLs; remove 31 juil., 2022
 	redir /~ / 301
+	redir /assets/line_invite.jpg https://line.me/R/ti/p/doamatto 301
 
 	# Draft page redits
 	redir /cv https://www.linkedin.com/in/matthewronchetto/ 302
@@ -16,6 +17,7 @@
 	# redir /projects/swift-bot https://github.com/doamatto/swiftbot-legacy 301
 	# redir /projects/vote-to-mute https://github.com/doamatto/vote-to-mute 301
 	# redir /projects/yamh https://github.com/doamatto/yamh 301
+	# redir /icloud-shortcuts https://github.com/doamatto/icloud-shortcuts 301
 
 	# Rainbows; make "seasonal"?
 	redir /🏳️‍🌈 /rainbows 301
