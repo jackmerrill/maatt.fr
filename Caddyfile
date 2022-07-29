@@ -58,5 +58,6 @@ www.maatt.ch,
 www.maatt.fr,
 www.doamatto.xyz,
 www.matt.fa {
+	import (redirs)
 	redir https://maatt.fr{uri} 301
 }
