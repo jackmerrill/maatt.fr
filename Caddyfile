@@ -2,6 +2,7 @@
 	# Old page URLs; remove 31 juil., 2022
 	redir /~ / 301
 	redir /assets/line_invite.jpg https://line.me/R/ti/p/doamatto 301
+	redir /icloud-shortcuts /archive/icloud-shortcuts
 
 	# Draft page redits
 	redir /cv https://www.linkedin.com/in/matthewronchetto/ 302
