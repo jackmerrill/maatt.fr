@@ -47,7 +47,7 @@
 
 maatt.fr,
 matt.fa {
-	import (redirs)
+	import redirs
 	encode zstd br gzip
 	root /srv/apps/caddy/sites/maatt.fr
 	file_server
@@ -58,6 +58,6 @@ www.maatt.ch,
 www.maatt.fr,
 www.doamatto.xyz,
 www.matt.fa {
-	import (redirs)
+	import redirs
 	redir https://maatt.fr{uri} 301
 }
