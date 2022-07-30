@@ -4,60 +4,59 @@
 /* Start main doc */
 html,
 body {
-    font-family: Helvetica, sans-serif;
-    font-size: 1.075rem;
-    margin: 0;
-    padding: 0;
-    p { line-height: 1.6; }
-    h1 {
-        font-size: 2rem;
-        margin: 0;
-        margin-bottom: 5px;
-    }
-    h2 {
-        font-size: 1.5rem;
-        margin: .5rem 0;
-    }
-    ol > li,
-    ul > li {
-        margin: .3rem 0;
-        ol > li:last-child,
-        ul > li:last-child { padding-bottom: 0; }
-    }
-    @media (prefers-reduced-motion) {
-        * { animation: none !important; }
-    }
-    a {
-        color: var(--purple-l);
-        //color: var(--lunar-bg);
-        text-underline-offset: .2rem;
-        text-decoration-thickness: .125rem;
-        opacity: 1;
-        &:hover,
-        &:focus {
-            //background: var(--lunar-bg);
-            //color: black;
-            opacity: .7 !important;
-        }
-        //@include transition;
-    }
-    abbr {
-        text-decoration: underline;
-        text-decoration-style: dotted;
-        text-decoration-thickness: 2px;
-        text-underline-offset: 2px;
-        cursor: help;
-    }
-    @media (prefers-color-scheme: dark) {
-        background: #191919;
-        color: #f3f3f3;
-        a { color: var(--purple); }
-    }
+  font-family: Helvetica, sans-serif;
+  font-size: 1.075rem;
+  margin: 0;
+  padding: 0;
+  p { line-height: 1.6; }
+  h1 {
+      font-size: 2rem;
+      margin: 0 0 5px 0;
+  }
+  h2 {
+      font-size: 1.5rem;
+      margin: .5rem 0;
+  }
+  ol > li,
+  ul > li {
+      margin: .3rem 0;
+      ol > li:last-child,
+      ul > li:last-child { padding-bottom: 0; }
+  }
+  a {
+      color: var(--purple-l);
+      //color: var(--lunar-bg);
+      text-underline-offset: .2rem;
+      text-decoration-thickness: .125rem;
+      opacity: 1;
+      &:hover,
+      &:focus {
+          //background: var(--lunar-bg);
+          //color: black;
+          opacity: .7 !important;
+      }
+      //@include transition;
+  }
+  abbr {
+      text-decoration: underline;
+      text-decoration-style: dotted;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 2px;
+      cursor: help;
+  }
+  @media (prefers-reduced-motion) {
+      * { animation: none !important; }
+  }
+  @media (prefers-color-scheme: dark) {
+      background: #191919;
+      color: #f3f3f3;
+      a { color: var(--purple); }
+  }
 }
 body {
-    margin: 0 auto;
-    max-width: 85%;
-    @media(min-width: 1200px) { max-width: 65%; }
+  margin: 0 auto;
+  max-width: 85%;
+  @media(min-width: 1200px) { max-width: 65%; }
 }
 main {
     header > * { margin: .5rem 0; }
@@ -94,6 +93,16 @@ nav {
         padding: 0;
         :first-child { margin-left: 0; }
         :last-child { margin-right: 0; }
+
+        .home:hover,
+        .home:focus {
+          a { opacity: 1 !important; }
+          svg path {
+              //stroke: var(--lunar);
+              stroke: var(--purple-l);
+              @media (prefers-color-scheme: 'dark') { stroke: var(--purple); }
+          }
+        }
         li {
             display: flex;
             flex-direction: column;
@@ -101,11 +110,6 @@ nav {
             margin: .9rem .5rem;
             &:hover,
             &:focus {
-                svg path {
-                    //stroke: var(--lunar);
-                    stroke: var(--purple-l);
-                    @media (prefers-color-scheme: 'dark') { stroke: var(--purple); }
-                }
                 a {
                     //color: var(--lunar);
                     //text-decoration-color: var(--lunar);
@@ -128,11 +132,9 @@ nav {
 
 // About page-specifics
 .adj {
-  aside {
-    img {
+  aside > img {
         max-width: 100%;
         @media(max-width: 650px){ width: 100%; }
-    }
   }
   @media(min-width: 650px) {
       display: flex;
@@ -160,7 +162,7 @@ pre {
     padding: .5rem 1rem;
     overflow-x: auto;
 }
-code { padding: .25rem .5rem; }
+code { padding: .2rem .5rem; }
 
 // Post items
 .post {
@@ -185,12 +187,13 @@ code { padding: .25rem .5rem; }
 // Misc
 .anchor { padding-left: .5rem; }
 .d {
-    font-weight: bold;
-    color: rgba(0,0,0,0.8);
-    @media(prefers-color-scheme: dark) {color: rgba(243,243,243,0.8);}
+  font-weight: bold;
+  opacity: .8;
+  @media(prefers-color-scheme: dark) {
+    color: rgba(243,243,243,0.8);
+  }
 }
 hr {
     border-style: solid;
     margin-bottom: 1.5rem;
 }
-.footnote-definition { display: inline-flex; }
