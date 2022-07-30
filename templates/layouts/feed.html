@@ -21,7 +21,7 @@
                     <a href="{{ post.permalink | safe }}">
                         <h3>{{ post.title }}</h3>
                     </a>
-                    <p>{{post.description | safe }} <span class="d">{{post.date | date(format="%e %B, %Y")}}</span></p>
+                    <p>{{post.description | safe }} <time datetime="{{page.date}}" class="d">{{post.date | date(format="%e %B, %Y")}}</time></p>
                 </div>
             </article>
         {% endfor %}

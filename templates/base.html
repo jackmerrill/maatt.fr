@@ -28,19 +28,23 @@
                 <li><a href="/about" title="About">About</a></li>
             </ul>
         </nav>
-        <section class="container">
-            {% block content %}{% endblock %}
-        </section>
+        {% block content %}{% endblock %}
         <footer>
-            <p>
-                &copy; 2017-2022 doamatto EI.<br/>
+            <section>
+              <p>
+                &copy; 2017-2022 doamatto&nbsp;EI.<br/>
                 <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC-BY,</a> unless mentioned otherwise.<br/>
-                <a href="/legal">Legal.</a>
-                <a href="/contact">Contact.</a><br/>
-                <a href="/ways-to-support">Support what I do.</a>
-            </p>
-            <div>
-                <p>Last updated: {{page.updated | default(value="never")}}.</p>
+              </p>
+              <nav>
+                <p>
+                  <a href="/legal">Legal.</a>
+                  <a href="/contact">Contact.</a><br/>
+                  <a href="/ways-to-support">Support what I do.</a>
+                </p>
+              </nav>
+            </section>
+            <section>
+                <p>Last updated: {% if page.updated %}<time datetime="{{page.date}}">{{page.updated}}</time>{% else %}never{% endif %}.</p>
                 {% if page.path %}
                     <a href="https://github.com/doamatto/maatt.fr/blob/main/content{{page.path | trim_end_matches(pat="/")}}.md">View page source.</a>
                 {% elif section.path %}
@@ -48,7 +52,7 @@
                 {% else %}
                     <a href="https://github.com/doamatto/maatt.fr">View source.</a>
                 {% endif %}
-            </div>
+            </section>
         </footer>
     </body>
 </html>

@@ -7,7 +7,7 @@
 <main>
   <header>
     <h1>{{ section.title }}</h1>
-    {% if section.date %}<p class="d">{{ section.date | date(format="%e %B, %Y") }}</p>{% endif %}
+    {% if section.date %}<time datetime="{{page.date}}"  class="d">{{ section.date | date(format="%e %B, %Y") }}</time>{% endif %}
   </header>
   <section>
     {{ section.content | safe }}
