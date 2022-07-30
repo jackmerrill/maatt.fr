@@ -50,14 +50,6 @@ maatt.fr {
 	import redirs
   root * /srv/apps/caddy/sites/maatt.fr/out
 	encode zstd gzip
-  @brotli {
-    file { try_files {path}.br }
-  }
-  handle @brotli {
-    header Content-Encoding br
-    rewrite * {http.matchers.file.relative}
-  }
-  try_files {path} /{path}
 	file_server
 }
 
