@@ -37,19 +37,27 @@
 	header Strict-Transport-Security "max-age=31536000;includeSubDomains;preload"
 	header Vary "Origin"
 	header Expect-CT "max-age=86400, enforce"
-    header Server "maatt DOT fr"
-    header Cross-Origin-Opener-Policy-Report-Only "same-origin; report-to='mailto:security@doamatto.xyz'"
-    header Cross-Origin-Embedder-Policy-Report-Only "require-corp; 'mailto:security@doamatto.xyz'"
-    #header Cross-Origin-Opener-Policy "same-origin; report-to='mailto:security@doamatto.xyz'"
-    #header Cross-Origin-Embedder-Policy "require-corp; report-to='mailto:security@doamatto.xyz'"
+  header Server "maatt DOT fr"
+  header Cross-Origin-Opener-Policy-Report-Only "same-origin; report-to='mailto:security@doamatto.xyz'"
+  header Cross-Origin-Embedder-Policy-Report-Only "require-corp; 'mailto:security@doamatto.xyz'"
+  #header Cross-Origin-Opener-Policy "same-origin; report-to='mailto:security@doamatto.xyz'"
+  #header Cross-Origin-Embedder-Policy "require-corp; report-to='mailto:security@doamatto.xyz'"
 	header Content-Security-Policy "default-src 'none'; style-src 'self'; img-src 'self' https://fm.doamatto.xyz; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
 }
 
 #matt.fa,
 maatt.fr {
 	import redirs
+  root * /srv/apps/caddy/sites/maatt.fr/out
 	encode zstd gzip
-	root * /srv/apps/caddy/sites/maatt.fr/out
+  #@brotli {
+  #  file { try_files {path}.br }
+  #}
+  #handle @brotli {
+  #  header Content-Encoding br
+  #  rewrite * {http.matchers.file.relative}
+  #}
+  #try_files {path} /{path}
 	file_server
 }
 
