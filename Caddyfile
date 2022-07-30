@@ -50,7 +50,9 @@ maatt.fr {
 	import redirs
   root * /srv/apps/caddy/sites/maatt.fr/out
 	encode zstd gzip
-	file_server
+	file_server {
+    precompressed br
+  }
 }
 
 #www.matt.fa,

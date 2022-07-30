@@ -10,9 +10,12 @@ RUN zola build --base-url "https://matt.fa"
 ##############################################
 FROM caddy:2.5.1-alpine
 
+RUN ["apk add brotli"]
 RUN mkdir /srv/public /srv/farer
-COPY --from=buildstage /build /srv/public
-COPY --from=buildstage /build /srv/farer
+COPY --from=buildstage /build/out /srv/public
+COPY --from=buildstage /build-farer/out /srv/farer
 COPY /srv/Caddyfile /srv/Caddyfile
+RUN ["find /srv/public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\)$' -exec brotli -f -k {} \;"]
+RUN ["find /srv/farer -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\)$' -exec brotli -f -k {} \;"]
 
 RUN ["caddy run --config /srv/Caddyfile --adapter Caddyfile"]
