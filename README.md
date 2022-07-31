@@ -1,10 +1,9 @@
-# Personal Site [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=doamatto_personal-site&metric=alert_status)](https://sonarcloud.io/dashboard?id=doamatto_personal-site)[![Zola site build](https://github.com/doamatto/doamatto.xyz/actions/workflows/test-build.yml/badge.svg)](https://github.com/doamatto/doamatto.xyz/actions/workflows/test-build.yml)
+# Personal Site [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=doamatto_personal-site&metric=alert_status)](https://sonarcloud.io/dashboard?id=doamatto_personal-site)
 
 This utilises:
 - **Zola** for page compilation,
-- **1984** for hosting,
-- **Cloudflare** for load balancing; and:
-- **GitHub Actions, SonarCloud, and AccessLint** for code quality.
+- **1984** for hosting; and:
+- **SonarCloud** for code quality.
 
 ## Building
 1. Install [Zola](https://www.getzola.org/documentation/getting-started/installation/)
