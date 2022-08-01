@@ -45,12 +45,15 @@
             </section>
             <section>
                 <p>Last updated: {% if page.updated %}<time datetime="{{page.date}}">{{page.updated}}</time>{% else %}never{% endif %}.</p>
+                {# {% if page.path  %} #}
                 {% if page.path %}
-                    <a href="https://github.com/doamatto/maatt.fr/blob/main/content{{page.path | trim_end_matches(pat="/")}}.md">View page source.</a>
+                  <a href="https://github.com/doamatto/maatt.fr/blob/main/content{{page.path | trim_end_matches(pat="/")}}.md">View page source.</a>
+                {% elif section.path == "/" %}
+                  <a href="https://github.com/doamatto/maatt.fr/blob/main/templates/index.html">View page source.</a>
                 {% elif section.path %}
-                    <a href="https://github.com/doamatto/maatt.fr/blob/main/content{{section.path}}_index.md">View page source.</a>
+                  <a href="https://github.com/doamatto/maatt.fr/blob/main/content{{section.path}}_index.md">View page source.</a>
                 {% else %}
-                    <a href="https://github.com/doamatto/maatt.fr">View source.</a>
+                  <a href="https://github.com/doamatto/maatt.fr">View source.</a>
                 {% endif %}
             </section>
         </footer>
