@@ -10,7 +10,7 @@ template="layouts/page.html"
 
 ## Projects
 - **[The Farer Group—](https://farer.group)** Research project into the Internet and creating a member- and resident- exclusive intranet.
-- **[Mello—](https://github.com/getmelloapp)** Unreleased meditiation app.
+- **[Mello—](https://github.com/getmello)** Unreleased meditiation app.
 - **[Lunar Design–](https://github.com/designbylunar)** A French-American design and software development duo.
 - **Nutshell Magazine** (coming soon)— Unreleased publication.
 - **Pixel Spice–** An unreleased LED array controllable by Twitch "bits" donations.
