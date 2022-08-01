@@ -26,4 +26,4 @@ I'll maintain the tool for awhile, and you can use it if you want from [GitHub](
 
 Maybe I'll revist a mailing list. Probably not.
 
-I'm open to suggestions as to improving the tool and to alternatives to a mailing list that people might like; [don't hesitate to reach out over email or other means.](/contact)
+I'm open to suggestions as to improving the tool and to alternatives to a mailing list that people might like; [don't hesitate to reach out over email or other means.](/contact/)
