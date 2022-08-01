@@ -4,6 +4,7 @@ slug = "nano"
 description = "A Jekyll-based website template that just works."
 tag = "Active Development"
 date = "2021-09-27"
+updated= "2022-07-31"
 +++
 
 ## ⚠️ Heads up!
@@ -33,5 +34,5 @@ Will there ever be another Nano? Right now, I'm not sure. I do know that, as of 
 
 ### Useful links
 - [GitHub repo](https://github.com/doamatto/nano)
-- [Demo version](https://git.doamatto.xyz/nano)
+- [Demo version](https://git.doamatto.xyz/nano/)
 - [RubyGems page](https://rubygems.org/gems/nano-theme)

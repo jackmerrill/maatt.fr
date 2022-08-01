@@ -1,9 +1,10 @@
 +++
 title="Bucket List"
 template="layouts/page.html"
+updated= "2022-07-31"
 +++
 
-**[pour sudoers](https://github.com/doamatto/doamatto.xyz/edit/main/content/bucket.md)**
+**[pour sudoers](https://github.com/doamatto/maatt.fr/edit/main/content/bucket.md)**
 
 ### People to Meet (in person)
 - William "Bill" Nye (engineer, comedian)
@@ -19,7 +20,7 @@ template="layouts/page.html"
 - 宮崎 駿 (株式会社スタジオジブリ co-founder)
 - Igor Barakaiev (PrivacySpy developer)
 - Jack Merrill (developer at Merch)
-  - We've done the occasional digital project: see [Farer](https://github.com/lleb-me) or [Lunar](https://github.com/designbylunar)
+  - We've done the occasional digital project: see [Farer](https://farer.group) or [Lunar](https://github.com/designbylunar)
 - Jaiden (animator)
 - James Newton-King (developer of Newtonsoft.Json)
 - Jane Manchun Wong (forbes 30 under 30)
@@ -72,7 +73,7 @@ template="layouts/page.html"
 
 ### Things to Do
 - [Complete my ideas list](@/ideas.md)
-  - [Complete Daniel's ideas list](https://daniel.cafe/ideas)
+  - ~~Complete Daniel's ideas list~~
 - Create a music release
 - Publish a short film
 - Start my own mini town

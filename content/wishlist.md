@@ -1,9 +1,10 @@
 +++
 title="Wishlist"
 template="layouts/page.html"
+updated= "2022-07-31"
 +++
 
-**[pour sudoers](https://github.com/doamatto/doamatto.xyz/edit/main/content/wishlist.md)**
+**[pour sudoers](https://github.com/doamatto/maatt.fr/edit/main/content/wishlist.md)**
 
 - [Asus ProArt Display PA32UCG-K](https://shop.asus.com/us/90lm03h0-b083b0-proart-display-pa32ucg-k.html)
 - [Broken Machine CD](https://www.discogs.com/release/10822002) (UPC `88985437042`)

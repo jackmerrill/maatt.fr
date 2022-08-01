@@ -3,7 +3,7 @@ title= "Florence: the Short Masterpiece that Goes Past a Love Story"
 description= "A short, breathtaking story, complemented amazingly with gorgeous music compositions."
 date= "2022-04-23"
 slug= "florence-a-short-masterpiece"
-draft= false
+updated= "2022-07-31"
 +++
 
 <img src="https://fm.doamatto.xyz/florence/Screenshot%202022-04-22%20at%2021.50.46.png" rel="Florence and Krish, the main characters of Florence, kissing." loading="lazy" crossorigin="anonymous" />
@@ -23,7 +23,7 @@ If you decide you want to spoil parts of the game for yourself, or see what I om
 
 Florence is published by Annapurna Interactive and available at:
 - [GOG.com](https://www.gog.com/game/florence),
-- [Nintendo Switch](https://www.nintendo.com/games/detail/florence-switch/); and:
+- [Nintendo Switch](https://www.nintendo.com/store/products/florence-switch/); and:
 - [other mainstream sellers.](https://www.annapurnainteractive.com/games/florence/)
 
 This was both used as a testing ground to test images on my site and as a legitmate testing of if I'd review games here and there that I really enjoy. The answer to that so far is: "I have no clue." So, who even knows what I'll do next.

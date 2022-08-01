@@ -1,8 +1,8 @@
 +++
 title = "Creating an Intranet like the Internet"
 date = "2022-06-01T04:32:00Z"
-draft= false
 description = "Some people self-host music. I'm trying to self-host my own Internet."
+updated= "2022-07-31"
 +++
 
 Apologies in advance; it's been a while since I last wrote and, arguably more importantly, have stayed on the quiet side of GitHub. I have *some* things planned for this month, but only time will tell if I will get anything out during the month (it's a hectic one).
@@ -12,7 +12,7 @@ Apologies in advance; it's been a while since I last wrote and, arguably more im
 The Internet is one of those things that was amazing: no two sites looked the same, banner and video ads were too bulky to be used (naturally, text ads were used instead and were far superior for the end-user, imo). **And then the Internet became centralised** with the big dogs like Cloudflare, Google, Amazon, and Microsoft being in control of the vast majority through <abbr title="Content Delivery Network; the magic sauce that lets things like images and videos load so fast, regardless of where you are in the world.">CDN</abbr> and <abbr title="Virtual Private Server; a rented server that gives you nearly full control over the system.">VPS</abbr> hosting.
 
 The solution was simple for many: **host things yourself again.** Instead of:
-  - Spotify— host a [Plex](https://plex.tv), Subsonic, or [Jellyfin](https://jellyfin.org) server
+  - Spotify— host a [Plex](https://www.plex.tv), Subsonic, or [Jellyfin](https://jellyfin.org) server
   - Nest— host a [Home Assistant](https://www.home-assistant.io) server
   - Alexa— host [Mycroft](https://mycroft.ai)
 
@@ -32,7 +32,7 @@ We were tired of the downtime we'd see from services like Discord because of Clo
 
 We didn't appreciate the troves of data that was collected on us by companies and wanted to detach ourselves where we could to be able to remove the weakest links in the chain as much as possible. **We still enabled dependence on services needed to keep our own uptime or to backup our data properly.**
 
-Daniel had used an Oracle virtual machine for a long time, but we eventually dedicated a tiny section of my VPS with 1984 to helping provide a better place to have microservices running that wouldn't hurt my wallet too much. Backups were a place of struggle: I proposed [BorgBackup](https://borgbackup.org) with Hetzner's servers while Daniel wanted to look into Rook and Ceph. As of writing, this is something still being decided, but nothing of merit or irrecoverability is being stored on our servers yet, so it's nothing of concern.. yet. Now's a great time to hydrate again, by the way.
+Daniel had used an Oracle virtual machine for a long time, but we eventually dedicated a tiny section of my VPS with 1984 to helping provide a better place to have microservices running that wouldn't hurt my wallet too much. Backups were a place of struggle: I proposed [BorgBackup](https://www.borgbackup.org) with Hetzner's servers while Daniel wanted to look into Rook and Ceph. As of writing, this is something still being decided, but nothing of merit or irrecoverability is being stored on our servers yet, so it's nothing of concern.. yet. Now's a great time to hydrate again, by the way.
 
 ## Creating security by voiding security
 **Since conventional domain names and TLDs were out of the question, we had to craft our own in-house.** We settled upon `.fa` (**Fa**rer) and used `dnsmasq` for a month or so, we switched to CoreDNS for the ease of making an API surrounding domain creation. **By creating fake domains, browsers wouldn't behave like normal.** Browsers search the [Public Suffix List](https://publicsuffix.org/list/) to find out what is and isn't a real web domain. By appending a `/` to even time you go to a website (to go to `matt.fa`, you'd type `matt.fa/`), you can "mitigate" this issue. This is a pain, but has a relatively simple solution. By using the same method that extensions like uBlock use to bring you to a page for blocked assets, we can check if an address is one of ours or not and guide the browser to properly making the connection.

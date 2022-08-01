@@ -2,6 +2,7 @@
 title= "Moving from AWS to 1984 Hosting"
 description= "This was a rollercoaster of a journey just to make my site absurdly purple."
 date= "2022-04-02T00:59:56-08:00"
+updated= "2022-07-31"
 +++
 
 Recently, I decided to mess with my site again. This was a terrible idea for two reasons, both not being that I shouldn't mess with it as often as I do.
@@ -21,7 +22,7 @@ The only thing I know for a fact changed were that things in the centre of the p
 - changed literally every little bit of how text looks
 - made a lot of page content purple
 - made horizontal rules prettier
-- [and way too much more.](https://github.com/doamatto/doamatto.xyz/pull/213/)
+- [and way too much more.](https://github.com/doamatto/maatt.fr/pull/213/)
 
 ## Leaving AWS and finding a new home
 I had actually wanted to leave AWS for a long while. Just as soon as I started using them, I wanted to stop. I was basically waiting to start to pay for a glorified S3 bucket. Although I wouldn't be able to complain with how dirt cheap it would have been, too many issues were pushing me away from it:
@@ -32,12 +33,12 @@ I had actually wanted to leave AWS for a long while. Just as soon as I started u
 
 All but the first were the same issues I had with Vercel: couldn't deploy what I wanted reliably, which is unfortunate. I now set off looking for a generally private hosting provider that was powered 100% by green energy. It's a stretch to say such, of course: it's rare to have 100% green energy. When the sun goes down, solar panels can't create power. I was willing to settle with a general committment to staying as clean as possible.
 
-This search was easier said than done, though. I had a list of 10 providers that I narrowed down pretty quickly from either vague promises, obsurd costs, and conflicting information. It was practically a cointoss between [1984 Hosting](https://1984.is/) and [Exoscale.](https://exoscale.ch/) The ultimate reason that pushed me for 1984 was their independence: they handle all of their operations themselves, and that's something you've got to respect. Some other providers that came to mind for your consideration if ever are:
-- [Hetzner](https://hetzner.com/)
-- [OVH](https://ovhcloud.fr/)
+This search was easier said than done, though. I had a list of 10 providers that I narrowed down pretty quickly from either vague promises, obsurd costs, and conflicting information. It was practically a cointoss between [1984 Hosting](https://1984.is/) and [Exoscale.](https://www.exoscale.com/) The ultimate reason that pushed me for 1984 was their independence: they handle all of their operations themselves, and that's something you've got to respect. Some other providers that came to mind for your consideration if ever are:
+- [Hetzner](https://www.hetzner.com/)
+- [OVH](https://www.ovhcloud.com/fr)
 - [Bahnhof](https://bahnhof.cloud/)
 - [Greenhost](https://greenhost.net/)
-- [Uberspace](https://uberspace.de/)
+- [Uberspace](https://uberspace.de/de/)
 
 ## Git hooks: The Secret Sauce to having a sane deploy
 Git hooks have a pretty iffy reputation: on the one hand, they're an incredibly powerful scripting tool that are perfect for instances like these where you want a low-effort setup of your web server, but are atrocious to setup from the general confusion that comes with it. It wasn't too hard though at the end of the day.
@@ -61,6 +62,6 @@ I made a subdomain to test before I moved both root domains and `www` subdomains
 Once I restart the server, everything should be back to normal using Let's Encrypt, ~~but that would make too much sense.~~
 
 ## Conclusion
-I'm happy with 1984 so far. Not only do I like the name of the service and its example domain `orwell.is` (ba dum tiss), I think it's the start of a good relationship. The site is actually [open-source again under the 3-clause BSD license.](https://github.com/doamatto/doamatto.xyz) It seemed appropriate to re-open it for the start of a new "site generation."
+I'm happy with 1984 so far. Not only do I like the name of the service and its example domain `orwell.is` (ba dum tiss), I think it's the start of a good relationship. The site is actually [open-source again under the 3-clause BSD license.](https://github.com/doamatto/maatt.fr) It seemed appropriate to re-open it for the start of a new "site generation."
 
 I'm open to suggestions and tips of how to make this solution that much better; [don't hesitate to reach out over email or other means.](/contact)
