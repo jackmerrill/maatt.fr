@@ -1,5 +1,5 @@
 +++
-title = "Why analytics are a niche tool, not something everyone should use."
+title = "Why analytics are a niche tool that isn't for everyone"
 slug = "why-analytics-are-a-niche-tool"
 date = "2021-07-05"
 description = "I used analytics for about a month, then stopped because it was futile."
