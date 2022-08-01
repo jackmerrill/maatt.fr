@@ -1,7 +1,7 @@
 +++
 title="About"
 template="about.html"
-updated="2022-07-25"
+updated="2022-07-31"
 +++
 
 # Salut! &#x1F44B;
@@ -25,4 +25,4 @@ I've messed around with software and programming <abbr title="about 7 years">sin
 ---
 
 ### This website
-This site was designed to work with screen readers and follow RGAA standards and guidelines. Both of these aid me personally, and only made sense to be strict requirements for this site. I use the [Zola site generator](https://getzola.org/) to build this site and [Caddy](https://caddyserver.com) to serve its contents. 
+This site was designed to work with screen readers and follow RGAA standards and guidelines. Both of these aid me personally, and only made sense to be strict requirements for this site. I use the [Zola site generator](https://www.getzola.org/) to build this site and [Caddy](https://caddyserver.com) to serve its contents. 
