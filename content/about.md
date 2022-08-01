@@ -1,12 +1,13 @@
 +++
 title="About"
+description= "My name's Matt Ronchetto (I go by ドアマット or doamatto on the Internet) and I'm a high school student with plans to study computer engineering."
 template="about.html"
 updated="2022-07-31"
 +++
 
 # Salut! &#x1F44B;
 
-My name's Matt Ronchetto (I go by <abbr title="doamatto">`ドアマット`</abbr> on the Internet) and **I'm a high school student with plans to study computer engineering.** Outside of school, **I run [The Farer Group](https://farer.group) with Daniel and develop and design open-source software, with an emphasis on ethical development and accessibility.**<br/>
+My name's Matt Ronchetto (I go by `ドアマット` or `doamatto` on the Internet) and **I'm a high school student with plans to study computer engineering.** Outside of school, **I run [The Farer Group](https://farer.group) with Daniel and develop and design open-source software, with an emphasis on ethical development and accessibility.**<br/>
 [See what I've been working on &rarr;](@/work.md)
 
 I spend my free time listening to music of just about every genre and [drawing people and scenery.](@/art.md) **I participate in a handful of clubs and programs** like SRHS' peer tutoring program, [Inkjar](https://inkjar.org), and [SRHS' Hack Club chapter.](#) **I plan to attend a school either in the Pacific/Mountain region of the U.S., abroad as an Erasmus student** in Ireland or France, **or in the ETH Domain.**<br/>
