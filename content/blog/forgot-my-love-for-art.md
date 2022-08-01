@@ -1,8 +1,9 @@
 +++
 title = "I kinda, sorta forgot my love for the arts"
-slug = "forgot-my-love-for-the-arts"
 date = "2021-06-22"
 description = "I've loved messing around with graphics and cinematography; but I fell out of touch with it."
+updated="2022-07-31"
+aliases=["/blog/forgot-my-love-for-the-arts"]
 +++
 
 My entire life I've always enjoyed messing around with things. I mess around in Figma trying to make new designs for banners or cards, brainlessly record random things and make mini-movies and trailers that'll never see the light of the internet, and (most notably) make random tools and apps that would make my life easier. All of this is generally known as « the arts ». Be it graphic design, cinematography, music, or really just anything creative; we've all dabbled one way or another. One of the arguably most popular over time has been art itself.

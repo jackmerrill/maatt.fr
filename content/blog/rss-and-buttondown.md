@@ -21,7 +21,7 @@ You would think creating this would justify using a mailing list again, but some
 For another, it was about 00:30 when I thought it was a good idea to make this, namely to extend Amazon SES.
 
 ## Conclusion (in general)
-I'll maintain the tool for awhile, and you can use it if you want ([codeberg](https://codeberg.org/doamatto/courier-service) | [github](https://github.com/doamatto/courier-service)).
+I'll maintain the tool for awhile, and you can use it if you want from [GitHub](https://github.com/nutshellmag/courier).
 
 Maybe I'll revist a mailing list. Probably not.
 
