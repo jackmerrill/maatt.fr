@@ -2,6 +2,7 @@
 title = "SimpleDash"
 slug = "simpledash"
 date = "2021-01-16"
+updated = "2022-07-31"
 description = "Most car manufactuers have in-car displays that are bad. I want to change that."
 +++
 
@@ -28,8 +29,3 @@ Daniel's plan was to take a petrol car and make it electric. A bit more involved
 2. this is designed for electric cars and wouldn't be practical to convert for petrol cars.
 
 I still want to craft my own in-car display for actual cars. Partially because it would be a really fun hardware and software project to do. But also because I want to use all my services without fetching an AUX cable for my phone. But, unfortunately, that's not the most practical thing for me to do right now. Hopefully in the future, where I have more flexible time and budget, I can do something as fun as that would be. But that's a story for a different day.
-
-Regardless, you can follow the development of the cars for Garry's mod, the SimpleDash and dashboards that are paired with it, and the SimpleDash for actual cars, all at the links below:
-- [Car pack for Garry's Mod](/projects/simfphys-cars)
-- [SimpleDash and other OEM dashboards](/projects/gmod-car-dashs)
-- [SimpleDash for actual cars](/projects/simpledash)
