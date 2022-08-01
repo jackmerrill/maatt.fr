@@ -23,7 +23,7 @@ The list is long and our time is short; you get the idea. The core principle is 
   - ✅ Provide a secure way to communicate with those on the Intranet, as well as communicate with servers
   - ✅ Be inaccessible to the public to the point where writting about it in the first place is mostly futile
 
-Over the past couple of months, I've been working exhaustively with friends (namely [Daniel](https://daniel.cafe)) to slowly get what we dub [The Farer Group](https://farer.group) up and running. If you're someone who likes [reading privacy policies,](/privacy) you would have seen mentions to projects such as `Haven Municipal`, `The Farer Group`; these are all the brainchild umbrella names given to this project to ultimately create a mini Internet in an Intranet.
+Over the past couple of months, I've been working exhaustively with friends (namely [Daniel](https://daniel.cafe)) to slowly get what we dub [The Farer Group](https://farer.group) up and running. If you're someone who likes [reading privacy policies,](/privacy/) you would have seen mentions to projects such as `Haven Municipal`, `The Farer Group`; these are all the brainchild umbrella names given to this project to ultimately create a mini Internet in an Intranet.
 
 Since Farer is still being constructed every day, all of this is <abbr title="Open to change at any time">tentative</abbr>, but I'd argue that adds to the fun just a titbit. At some point, I'll write a follow-up on the progress we keep making on Farer. Until then, this is a *long* post; so hydrate now.
 
@@ -51,5 +51,5 @@ I've been working exhaustively on certificates, internal APIs, and other formali
 
 I mentioned earlier that it was futile to write about Farer since it won't be public, which is *technically* true. Seldom things will be viewable by the public bar what we have to do. *However*, membership is all invite-only to keep that circle of trust going. Don't harass me for an invite; harass Daniel ;)
 
-If you have suggestions or questions of how we're running Farer, or want to simply chat; [don't hesitate to reach out over email or other means.](/contact)
+If you have suggestions or questions of how we're running Farer, or want to simply chat; [don't hesitate to reach out over email or other means.](/contact/)
 

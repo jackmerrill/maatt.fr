@@ -21,7 +21,7 @@ I take utmost care when it comes to making this site, and any other brands I run
   - Actively looking for replacement
 
 ## Operations offline
-**Banking:** Navy Fed., [Stripe](https://stripe.com/fr-fr), [USAA](https://www.usaa.com/inet/wc/about-usaa-environmental-commitment)<br/>
+**Banking:** Navy Fed., [Stripe](https://stripe.com/fr), [USAA](https://www.usaa.com/inet/wc/about-usaa-environmental-commitment)<br/>
 **Computing:** Mac mini, Raspberry Pi 3, 3x Raspberry Pi Pico, 2x Raspberry Pi Pico W, 3x Raspberry Pi 4 (all ARM-based and low-powered)<br/>
 **Transit:** [San Diego MTS](https://www.sdmts.com) ([progress to zero-emission](https://www.sdmts.com/rider-info/events/zero-emissions-bus-online-public-workshop)), [Amtrak](https://www.amtrak.com/offset-your-amtrak-carbon-emissions)
 
@@ -29,7 +29,7 @@ I take utmost care when it comes to making this site, and any other brands I run
 - **The Farer Group—** Public DNS from [Cloudflare](https://www.cloudflare.com). Web hosting from [1984 Hosting](https://1984.is) (IS). Internal hosting on mixed energy.
 - **Lambda Systems—** DNS from [1984 Hosting](https://1984.is) (IS). Web hosting from [GitHub Pages](https://pages.github.com) (US). Payments processed via [Liberapay](https://liberapay.com).
 - **Inkjar—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). E-mail from [Migadu](https://www.migadu.com) (servers in France). Web hosting from [GitHub](https://pages.github.com) (US).
-- **Michiru—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). E-mail from [Fastmail](https://fastmail.com) (US). Web hosting from [1984 Hosting](https://1984.is) (IS). Payments processed by [Mollie](https://www.mollie.com).
-- **Nutshell Magazine—** DNS and web hosting from [1984 Hosting](https://1984.is) (US). E-mail from [Migadu](https://www.migadu.com) (servers in France). Payments processed by [Stripe](https://stripe.com/fr-fr).
-- **Polytechnic—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). Payments processed by [Stripe](https://stripe.com/fr-fr).
+- **Michiru—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). E-mail from [Fastmail](https://www.fastmail.com) (US). Web hosting from [1984 Hosting](https://1984.is) (IS). Payments processed by [Mollie](https://www.mollie.com/fr).
+- **Nutshell Magazine—** DNS and web hosting from [1984 Hosting](https://1984.is) (US). E-mail from [Migadu](https://www.migadu.com) (servers in France). Payments processed by [Stripe](https://stripe.com/fr).
+- **Polytechnic—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). Payments processed by [Stripe](https://stripe.com/fr).
 

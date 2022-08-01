@@ -35,7 +35,7 @@ All but the first were the same issues I had with Vercel: couldn't deploy what I
 
 This search was easier said than done, though. I had a list of 10 providers that I narrowed down pretty quickly from either vague promises, obsurd costs, and conflicting information. It was practically a cointoss between [1984 Hosting](https://1984.is/) and [Exoscale.](https://www.exoscale.com/) The ultimate reason that pushed me for 1984 was their independence: they handle all of their operations themselves, and that's something you've got to respect. Some other providers that came to mind for your consideration if ever are:
 - [Hetzner](https://www.hetzner.com/)
-- [OVH](https://www.ovhcloud.com/fr)
+- [OVH](https://www.ovhcloud.com/fr/)
 - [Bahnhof](https://bahnhof.cloud/)
 - [Greenhost](https://greenhost.net/)
 - [Uberspace](https://uberspace.de/de/)
@@ -64,4 +64,4 @@ Once I restart the server, everything should be back to normal using Let's Encry
 ## Conclusion
 I'm happy with 1984 so far. Not only do I like the name of the service and its example domain `orwell.is` (ba dum tiss), I think it's the start of a good relationship. The site is actually [open-source again under the 3-clause BSD license.](https://github.com/doamatto/maatt.fr) It seemed appropriate to re-open it for the start of a new "site generation."
 
-I'm open to suggestions and tips of how to make this solution that much better; [don't hesitate to reach out over email or other means.](/contact)
+I'm open to suggestions and tips of how to make this solution that much better; [don't hesitate to reach out over email or other means.](/contact/)

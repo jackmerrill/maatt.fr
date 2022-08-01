@@ -24,7 +24,7 @@ To say I'll ever be as good as these people is a gross overstatement, but seeing
 
 Although I know it'll take a hot minute to do so, I plan to get back up to scuff with drawing by hand and may dabble back in the digital realm in the future (still have my Wacom). It may be a neat thing to re-open a DeviantArt and have a good time drawing random things (or maybe drawing friends or smth idk). I usually have some sort of call to action in posts, so here are two things you should consider doing:
 - checking out The Owl House if you have Disney+ or cable (cable TV has the newest season simulcasting currently in the United States);
-- [give me some tips and pointers on what I should draw or how I might learn to get better.](/contact)
+- [give me some tips and pointers on what I should draw or how I might learn to get better.](/contact/)
 
 ---
 
