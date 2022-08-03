@@ -3,7 +3,7 @@
 	#redir /~ / 301
 	redir /assets/line_invite.jpg https://line.me/R/ti/p/doamatto 301
 
-	# Draft page redits
+	# Draft page redirs
 	redir /cv https://www.linkedin.com/in/matthewronchetto/ 302
 
 	# Github redirs; remove 31 dec, 2022
@@ -37,10 +37,8 @@
 	header Vary "Origin"
 	header Expect-CT "max-age=86400, enforce"
   header Server "maatt DOT fr"
-  header Cross-Origin-Opener-Policy-Report-Only "same-origin; report-to='mailto:security@doamatto.xyz'"
-  header Cross-Origin-Embedder-Policy-Report-Only "require-corp; 'mailto:security@doamatto.xyz'"
-  #header Cross-Origin-Opener-Policy "same-origin; report-to='mailto:security@doamatto.xyz'"
-  #header Cross-Origin-Embedder-Policy "require-corp; report-to='mailto:security@doamatto.xyz'"
+  header Cross-Origin-Opener-Policy "same-origin; report-to='mailto:security@doamatto.xyz'"
+  header Cross-Origin-Embedder-Policy "require-corp; report-to='mailto:security@doamatto.xyz'"
 	header Content-Security-Policy "default-src 'none'; style-src 'self'; img-src 'self' https://fm.doamatto.xyz; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
 }
 
