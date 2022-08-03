@@ -2,6 +2,6 @@ User-agent: *
 Allow: /
 Disallow: /bucket/
 Disallow: /wishlist/
-Disallow: /icloud-shortcuts/vcard.vcf
+Disallow: /nbt/
 
 Sitemap: {{ get_url(path="sitemap.xml") }}
