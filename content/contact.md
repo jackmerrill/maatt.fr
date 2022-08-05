@@ -13,6 +13,8 @@ I accept and respond to communication in either English or French.
 - 微信: [@doamatto](weixin://dl/chat?doamatto)–– I ignore requests for signup verifications.
 
 Some other places around the internet that I'm at are:
+- DeviantArt: [/doa-matt-o](https://www.deviantart.com/doa-matt-o) 
 - Discord: doamatto <abbr title="#">[pound sign]</abbr> 8083
+- GitHub: [@doamatto](https://github.com/doamatto)
 - Last.fm: [/user/doamatto](https://www.last.fm/user/doamatto)
 - MusicBrainz: [/user/doamatto](https://musicbrainz.org/user/doamatto)
