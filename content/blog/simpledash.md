@@ -6,6 +6,11 @@ updated = "2022-07-31"
 description = "Most car manufactuers have in-car displays that are bad. I want to change that."
 +++
 
+## ⚠️ Heads up!
+This page is for a project that doesn't exist anymore or never existed in the first place. The best term for something like this is **vaporware.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](@/blog/linkrot.md)
+
+---
+
 I recentely fell in love with [Garry's Mod](https://gmod.facepunch.com/) again. For the uninitiated, Garry's Mod is an sandbox game that is centred around user modifications for content. It allows endless possibilities as long as you can write some Lua code.
 
 It made me take up an interest into working on modeling again. I found a few car blueprints and have slowly been working on them. I wanted to give my car mods, however, an interesting twist: a functional in-car display. When searching for what the UIs for the dashs looked like, I was disappointed. Most of these brands made rather clunky designs that made them look like they were going for the "cool" vibe.
@@ -13,8 +18,6 @@ It made me take up an interest into working on modeling again. I found a few car
 I would still integrate a generally functional version of these dashes into the cars, but I also wanted to make an alternative for those who didn't want to use those god awful menus.
 
 In comes SimpleDash, a simple and elegant dashboard that keeps things simple.
-
-![Dashboard UI](/assets/posts/simpledash/dash_pics.png)
 
 The skeuomorphic design allows people to easily see what's what, while the minimal colour palette allows for it to be friendly to those who are colour blind. Interfaces for navigation, for instance, is based off the map that you load in. It essentially brings a camera to the top of the world and makes a topographic map to bring down to the car. It even features, when using manual gears, the ability to have the reverse camera on cars that support it.
 

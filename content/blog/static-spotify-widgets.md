@@ -7,11 +7,14 @@ tag = "Concepts"
 class = 'bg-concepts'
 +++
 
+## ⚠️ Heads up!
+This page is for a project that doesn't exist anymore or never existed in the first place. The best term for something like this is **vaporware.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](@/blog/linkrot.md)
+
+---
+
 I love music. I listen to an assortment of genres, ranging from as large as pop and rock to as niche as the smallest indie bands from foreign countries. I would never have gained this addiction for such an amazing form of entertainment had it not been for platforms like Spotfiy and Bandcamp. I decided that, with the update to my site to a Next.js instead of the old Jekyll version, I should give myself less restricitions to let myself have more fun with this.
 
 One prime way is the new area of what I'm listening to billions of times a day. This took a lot of time and, although the source code isn't ready to be published quite yet (I still have to create it and the about page, as of writing), a nice dive into how this will look seems like fun.
-
-![Screenshot from Figma of this project](/assets/posts/static-spotify-widgets/final.png)
 
 With the help of [Charlie](https://epic4809.github.io) and [Daniel](https://daniel.cafe). We got to that final iteration. Here's the logic behind all of it:
 
@@ -23,7 +26,6 @@ With the help of [Charlie](https://epic4809.github.io) and [Daniel](https://dani
 
 With these criteria out of the way, I made the first prototypes in Figma and invited Charlie to help out on expanding them.
 
-![The first prototypes for this project](/assets/posts/static-spotify-widgets/legacy.png)
 
 We checked a lot of the boxes with this first version: a fun option, clarity, touch friendly, and there were versions for dark and light. However, we never experimented with different artist and song/album names. It would need work. Like any good design should be, we slept on it and figured it still needed work.
 
