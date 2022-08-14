@@ -11,7 +11,6 @@ updated= "2022-06-13"
 ## Hardware
 - **Mac Mini M1 16GB.** Power-efficient, and gets the job done.
 - **iPhone 12 Pro Max.** I've almost run out of space for music.
-- **Custom built desktop.** Used purely for gaming and rendering. Recently died 🙁.
 - **AKG K712 Pro.** Hands-down best set of headphones I've used.
 - **Razer Blade Stealth.** Glorified web browsing computer.
 
@@ -39,5 +38,6 @@ updated= "2022-06-13"
 ## Services
 - [1Password.](https://1password.com) Probably the best password manager to date. FOSS alternative that isn't as great: [Bitwarden](https://bitwarden.com)
 - [Fastmail.](https://www.fastmail.com/) Great email provider. Equally great: [Migadu](https://www.migadu.com/)
+- [Last.fm](https://last.fm) The best social media for music. Don't ever kill it off, CBS.
 - [Mullavd.](https://mullvad.net/fr/) Privacy focused VPN provider.
 - [Namecheap.](https://www.namecheap.com) Respectful domain registrar.

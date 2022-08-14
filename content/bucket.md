@@ -81,18 +81,17 @@ updated= "2022-07-31"
 - Learn new languages
   - Chinese
   - Filipino (Tagalog, as it's known in the states)
-    - Have to take a language to graduate with Honors so this should be easy; alternative is Spanish.
+    - Have to take a language to graduate with Honors so this should be easy.
   - Swedish
 - Become self-employed
   - Or retired. Basically the same thing. /s
-- Get QQ to work
 - Learn to skateboard
 - Attend the Olympics as a guest
 - Contribute to the research of a major topic
-- Attend a decent university (UC San Diego?)
+- Attend a decent university
 - Attend a F1 race
   - And enter the paddock
-- Steal whatever bucket list [Daniel](https://daniel.cafe) comes up with
 - Get a train and a license
-  - Cross Europe to Japan
+  - Cross from Ireland to Japan
 - Drive an F1 car
+- Not grow up
