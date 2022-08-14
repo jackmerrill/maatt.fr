@@ -19,13 +19,16 @@ updated= "2022-07-31"
 
 ## Software
 - **[5M Loading–](https://github.com/doamatto/5m_loading)** Another FiveM loading screen. Net ~8000 views and 700+ downloads.
+- **[Autocue—](https://github.com/srfalcon5/autocue)** Autocue/teleprompter used in high school's news studio.
 - **[Courier Service—](https://github.com/nutshellmag/courier)** Send new RSS posts to Buttondown.
+- **[Git Passeport—](https://github.com/doamatto/git-passeport)** Restrict SSH access based on user's SSH key for Git.
 - **[稲荷 (Inari)–](https://github.com/doamatto/inari)** Zero-config web server.
 - **Lavender (formerly Miku-Chan)–** Defunct Discord bot that accrued ~500 servers.
 - **[Steam Game Randomizer–](https://github.com/doamatto/steam-game-randomizer)** Picks random Steam games from your library.
 
 ## Experiments
 - **[マージ (Māji)–](https://github.com/doamatto/maji)** JSON file merger. An experiment with Newtonsoft.
+- **[PicoLAN—](https://github.com/doamatto/picolan)** Use a Pico W as a separate LAN. An experiment with MicroPython.
 - **[Sticker Me–](https://git.sr.ht/~doamatto/sticker-me)** A Line sticker ripper.
 - **[Vote to Mute–](https://github.com/doamatto/vote-to-mute)** Vote to mute people in a Discord server. An experiment with `discordgo`.
 
