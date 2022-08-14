@@ -1,6 +1,5 @@
 (redirs) {
-	# Old page URLs; remove 31 juil., 2022
-	#redir /~ / 301
+	# Old page URLs
 	redir /assets/line_invite.jpg https://line.me/R/ti/p/doamatto 301
 
 	# Draft page redirs
