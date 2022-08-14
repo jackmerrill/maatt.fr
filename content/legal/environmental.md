@@ -26,14 +26,13 @@ I take utmost care when it comes to making this site, and any other brands I run
   - Actively looking for replacement
 
 ## Operations offline
-**Banking:** Navy Fed., Stripe, [USAA](https://www.usaa.com/inet/wc/about-usaa-environmental-commitment)<br/>
+**Banking:** Navy Fed., Stripe, USAA<br/>
 **Computing:** Mac mini, Raspberry Pi 3, 3x Raspberry Pi Pico, 2x Raspberry Pi Pico W, 3x Raspberry Pi 4 (all ARM-based and low-powered)<br/>
-**Transit:** [San Diego MTS](https://www.sdmts.com) ([progress to zero-emission](https://www.sdmts.com/rider-info/events/zero-emissions-bus-online-public-workshop)), [Amtrak](https://www.amtrak.com/about-amtrak/sustainability.html) (offset)
+**Transit:** San Diego MTS, Amtrak (offset)
 
 ## External projects
-- **The Farer Group—** Public DNS from [Cloudflare](https://www.cloudflare.com). Web hosting from [1984 Hosting](https://1984.is) (IS). Internal hosting on mixed energy.
-- **Lambda Systems—** Web hosting from [GitHub Pages](https://pages.github.com) (US). Payments processed via [Liberapay](https://liberapay.com) and [Stripe](https://stripe.com/fr).
-- **Inkjar—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). E-mail from [Migadu](https://www.migadu.com) (CH/FR). Web hosting from [GitHub Pages](https://pages.github.com) (US).
+- **The Farer Group—** Public DNS from [Cloudflare](https://www.cloudflare.com). Web hosting from [1984 Hosting](https://1984.is) (IS).
+- **Inkjar—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). E-mail from [Migadu](https://www.migadu.com) (CH/FR). Web hosting from [1984 Hosting](https://1984.is) (IS).
 - **Michiru—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). E-mail from [Fastmail](https://www.fastmail.com) (US). Web hosting from [1984 Hosting](https://1984.is) (IS). Payments processed by [Mollie](https://www.mollie.com/fr).
 - **Nutshell Magazine—** DNS and web hosting from [1984 Hosting](https://1984.is) (IS). E-mail from [Migadu](https://www.migadu.com) (CH/FR). Payments processed by [Stripe](https://stripe.com/fr).
 - **Polytechnic—** DNS and CDN from [Cloudflare](https://www.cloudflare.com) (US). Payments processed by [Stripe](https://stripe.com/fr).
