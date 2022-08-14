@@ -1,4 +1,4 @@
-FROM ghcr.io/getzola/zola:v0.15.3 as buildstage
+FROM ghcr.io/getzola/zola:v0.16.1 as buildstage
 
 RUN mkdir /build /build-farer
 COPY . /build
