@@ -14,10 +14,10 @@ I own or share the ownership of the following:
   - **[Lambda Systems—](https://github.com/lambda-sys)** solo
   - **[Lunar Design-](https://github.com/designbylunar)** joint with [Jack](https://jackmerrill.com)
   - **[Mello—](https://github.com/getmello)** member-owned not-for-profit
-  - **[Michiru HQ SARL—](https://michiruhq.com)** solo
+  - **[Michiru HQ—](https://michiruhq.com)** solo
   - **[Nutshell Magazine—](https://nutshellmag.com)** member-owned
   - **[Polytechnic Systems—](https://polytechnic.systems)** joint with [Daniel](https://daniel.cafe)
-  - **[Terminal Cafe SARL,](/legal/ownership/#) and Matthew Ronchetto d.b.a. Terminal Cafe—** solo
+  - **[Terminal Cafe,](/legal/ownership/#) and Matthew Ronchetto d.b.a. Terminal Cafe—** solo
 
 I maintain or share the burden of maintenance of the following:
   - **[Governing Services provided by The Farer Group—](https://wiki.farer.group)** ([.fa](https://pubserv.fa)) Webmaster, postmaster
