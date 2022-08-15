@@ -1,7 +1,7 @@
 +++
 title= "Transparency of ownership and maintership"
 template= "layouts/page.html"
-updated="2022-08-03"
+updated="2022-08-15"
 +++
 
 This list only contains brands or other bodies that are not under doamatto EI. Services or websites using the `maatt.fr`, `maatt.ch` or `doamatto.xyz` domains are under doamatto EI.
