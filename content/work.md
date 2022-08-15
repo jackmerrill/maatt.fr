@@ -21,6 +21,7 @@ updated= "2022-07-31"
 - **[5M Loading–](https://github.com/doamatto/5m_loading)** Another FiveM loading screen. Net ~8000 views and 700+ downloads.
 - **[Autocue—](https://github.com/srfalcon5/autocue)** Autocue/teleprompter used in high school's news studio.
 - **[Courier Service—](https://github.com/nutshellmag/courier)** Send new RSS posts to Buttondown.
+- **[Genny—](https://github.com/doamatto/genny-web)** A native barcode generator for macOS (and a snappy web API to boot).
 - **[Git Passeport—](https://github.com/doamatto/git-passeport)** Restrict SSH access based on user's SSH key for Git.
 - **[稲荷 (Inari)–](https://github.com/doamatto/inari)** Zero-config web server.
 - **Lavender (formerly Miku-Chan)–** Defunct Discord bot that accrued ~500 servers.
