@@ -15,7 +15,7 @@ updated= "2022-07-31"
 - Dan Povenmire (Dr Doofenshmirtz and artist/animator)
 - Dana Terrace (artist/animator)
 - Drew DeVault (developer of SourceHut)
-- Emmanuel Macron (French President in 2017)
+- Emmanuel Macron (French president in 2017-20XX)
 - Evan Wallace (ex-Figma)
 - 宮崎 駿 (株式会社スタジオジブリ co-founder)
 - Igor Barakaiev (PrivacySpy developer)
@@ -31,6 +31,8 @@ updated= "2022-07-31"
   - Michael Breidenbruecker
   - Thomas Willomitzer 
 - Lauren Lopez (actress)
+- Leanora "Nora" Tindall (Fastly employee)
+  - Had a fun vide chat talking about [Farer](https://farer.group) and some general things in SoCal
 - Lee Robinson (Vercel employee)
 - Maia (mxmtoon)
 - Marques Brownlee (journalist)
@@ -45,8 +47,8 @@ updated= "2022-07-31"
 - Sam Yang (artist)
 - Steve Eynon (Fantom Factory "Boss Man")
   - Had a Zoom call to discuss the Fantom language; would be cool to touch base again
-- Ursula von der Leyen (EU Commission president 2019-)
-- 习近平 (Chinese President in 2013)
+- Ursula von der Leyen (EU Commission president 2019-20XX)
+- 习近平 (Chinese president 2013-20XX)
 
 ### Places to Visit
 - Belgium
