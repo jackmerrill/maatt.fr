@@ -15,7 +15,8 @@ updated= "2022-07-31"
 - **[Lunar Design–](https://github.com/designbylunar)** A French-American design and software development duo.
 - **Nutshell Magazine** (coming soon)— Unreleased publication.
 - **Pixel Spice–** An unreleased LED array controllable by Twitch "bits" donations.
-- **[Polytechnic Systems—](https://polytechnic.systems)** hardware engineering company/group/thing; née Project Cronus.
+- **[Polytechnic Systems—](https://polytechnic.systems)** Hardware engineering company/group/thing; née Project Cronus.
+- **[PrivacySpy—](https://privacyspy.org)** Crowdsourced privacy policy ratings. Made a **lot** of additions and a [web crawler](https://github.com/doamatto/ps-crawl).
 
 ## Software
 - **[5M Loading–](https://github.com/doamatto/5m_loading)** Another FiveM loading screen. Net ~8000 views and 700+ downloads.
