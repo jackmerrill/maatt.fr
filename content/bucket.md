@@ -53,17 +53,50 @@ updated= "2022-07-31"
 ### Places to Visit
 - Belgium
 - Canada (..again)
+  - London (you heard me)
+  - Montréal
+  - Niagara
+  - Toronto
+  - Québec
+  - Vancouver
 - China
+  - Beijing
+  - Great Wall
+  - Hong Kong SAR
 - France (..again)
+  - Brest
+  - Marseille
+  - Nice
+  - Normandie
+  - Paris
 - Iceland
+  - Reykjavik
 - Italy (..again)
+  - Florence
+  - Milan
+  - Naples
+  - Rome
+  - Turino
 - Japan
+  - Kyoto
+  - Tokio
 - Monaco
+- Netherlands
+  - Amsterdam
+  - Rotterdam
 - Philippines
 - ROC / Taiwan
+  - Taipei
 - South Korea
 - Sweden
+  - Gothenburg
+  - Malmö
+  - Stockholm
 - Switzerland (..again)
+  - Geneve
+  - Lausanne
+  - Lugano
+  - Zurich
 - United Kingdom
   - Cambridge, England
   - Edinburgh, Scotland
