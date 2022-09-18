@@ -10,17 +10,13 @@ I own or share the ownership of the following:
   - **[doamatto EI,](https://doamatto.xyz) and Matthew Ronchetto d.b.a. doamatto,—** sole, pending registration in France
   - **[The Farer Group—](https://farer.group)** joint research with [Daniel](https://daniel.cafe)
   - **[Inkjar—](https://inkjar.org)** joint with Josh Tang, Quy Pham, Rion Suenaga-Stephens, Nathan Mixay
-  - **[SRHS Hack Club Chapter—](/legal/ownership/#)** member-owned
   - **[Lambda Systems—](https://github.com/lambda-sys)** solo
   - **[Lunar Design-](https://github.com/designbylunar)** joint with [Jack](https://jackmerrill.com)
-  - **[Mello—](https://github.com/getmello)** member-owned not-for-profit
-  - **[Michiru HQ—](https://michiruhq.com)** solo
   - **[Nutshell Magazine—](https://nutshellmag.com)** member-owned
   - **[Polytechnic Systems—](https://polytechnic.systems)** joint with [Daniel](https://daniel.cafe)
-  - **[Terminal Cafe,](/legal/ownership/#) and Matthew Ronchetto d.b.a. Terminal Cafe—** solo
 
 I maintain or share the burden of maintenance of the following:
   - **[Governing Services provided by The Farer Group—](https://wiki.farer.group)** ([.fa](https://pubserv.fa)) Webmaster, postmaster
   - **[Michael Holiday Books—](https://michaelholidaybooks.com)** Webmaster, postmaster
-  - **[Ronchetto.ch—](https://ronchetto.ch)** Webmaster
-  - **[SRHS Hack Club Chapter—](/legal/ownership/#)** Webmaster
+  - **[Ronchetto.eu—](https://ronchetto.eu)** Webmaster, postmaster
+  - **[SRHS Falcon 5—](https://f5.maatt.ch)** Webmaster
