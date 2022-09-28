@@ -9,6 +9,8 @@ description = "Most car manufactuers have in-car displays that are bad. I want t
 ## ⚠️ Heads up!
 This page is for a project that doesn't exist anymore or never existed in the first place. The best term for something like this is **vaporware.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](@/blog/linkrot.md)
 
+Images have also disappeared/been deleted by the magic of compression. I don't question it (neither should you), but do note some images are missing from this page because of such.
+
 ---
 
 I recentely fell in love with [Garry's Mod](https://gmod.facepunch.com/) again. For the uninitiated, Garry's Mod is an sandbox game that is centred around user modifications for content. It allows endless possibilities as long as you can write some Lua code.
