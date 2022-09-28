@@ -1,16 +1,9 @@
 +++
-title = "Nano"
-slug = "nano"
-description = "A Jekyll-based website template that just works."
-tag = "Active Development"
+title = "Nano— My First Jekyll Theme"
+description = "A Jekyll-based website template that just works. My « entry » into development"
 date = "2021-09-27"
-updated= "2022-07-31"
+updated= "2022-08-31"
 +++
-
-## ⚠️ Heads up!
-This page is for a project that is no longer supported. The best term for something like this is a **deprecated project.**
-
----
 
 Truth be told, if you don't have a website these days, you're behind. I've never been a particular fan of website drag-and-drop sites because of their cookie cutter designs and bloated code. When I bought my domain name, it was only fitting that I'd develop the best experience for both:
 - end-users to see what I've been up to; and:
@@ -29,6 +22,8 @@ That's not to say either that it had a bad run either. With almost 4500 download
 Will there ever be another Nano? Right now, I'm not sure. I do know that, as of September 2021, Nano is deprecated. But.. it would be nice. After all, who doesn't want a website?
 
 **Update:** apparently it's up to 15'600ish now. That's crazy. (2022-07-24)
+
+**Update 2:** almost 17'000 now. It's like deciding to comment on the figure made it go up for some reason. `¯\_(ツ)_/¯` (2022-08-31)
 
 ---
 

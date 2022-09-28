@@ -1,14 +1,9 @@
 +++
-title = "Gitcord"
-slug = "gitcord"
+title = "Making Gitcord"
 description = "A bot that allows users to search repositories via GitHub's API"
 date = "2021-01-23"
+updated= "2022-08-31"
 +++
-
-## ⚠️ Heads up!
-This page is for a project that doesn't exist anymore or never existed in the first place. The best term for something like this is **vaporware.** In my eyes, however, it's better to keep these pages than to remove them, [creating linkrot.](@/blog/linkrot.md)
-
----
 
 I recently was sent an invite to a GitHub organisation and a Discord group known as «DevingOnDiscord». From my understanding, it's essentially a group of lads who use Discord to turn a profit with their software. Frankly, I've never really cared about making a profit from my service, but I decided to help out with some of the projects. One of those being Gitcord.
 
@@ -30,3 +25,8 @@ Gitcord is a Discord bot that allows people to search for repositories via GitHu
 Overall, there are some flaws with how the bot operates that may be addressed by current maintainers, such as missing types (with the infamous `TSFixMe` as a placeholder) and rate limiting from not using a token. However, for the average person who might see the need to self-host a bot to search GitHub, this gets the job done easily.
 
 Shortly after development in January 2021, I transfered the source to the DOD team. Unfortuantely, the group has since disappeared from the Internet, along with the Gitcord source.
+
+## Reflecting on a dead Discord bot
+This is, as far as I'm aware, my second Discord bot *ever.* The one before wasn't terrible, but it just wasn't something I wanted to keep maintaining. Discord is one of those platforms that has always been iffy to me; can't quite put my finger on what exactly does it to me.
+
+Maybe some not so fateful day I'll make a return to the Discord bot market. I've helped [Jack](https://jackmerrill.com) from time-to-time with BlueJay and [Astral](https://astralapp.io), but never enough to consider myself a bot developer or someone who actively works on bots. At the end of the day, I'm not sure. Ve vill see what the future has in store for me.
