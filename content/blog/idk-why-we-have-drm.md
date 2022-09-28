@@ -1,6 +1,5 @@
 +++
 title = "I don't know why we still have DRM."
-slug = "idk-why-we-have-drm"
 date = "2021-07-09"
 description = "DRM ultimately harms consumers who try to use what they buy."
 updated= "2022-07-31"

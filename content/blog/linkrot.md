@@ -2,7 +2,6 @@
 title="The (Rotting, Dying) Internet"
 description="The Internet was dope. Now it's rotting."
 date=2022-03-07
-draft=false
 +++
 
 I'd like to preface by saying that I am not a perfect person. I've caused links to rot in the past. Anything that was at the root of `doamatto.github.io` no longer goes to those pages anymore. In fact, that domain itself goes to `git.doamatto.xyz`, creating even more rot. But, before I go on a tangent on how terrible the Internet is, outlining linkrot and w

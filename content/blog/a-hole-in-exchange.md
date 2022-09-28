@@ -1,6 +1,5 @@
 +++
 title = "A hole in Exchange: a bug yet to be fixed by IT"
-slug = "a-hole-in-exchange"
 date = "2021-05-20"
 description = "tl;dr: We really need to update our mail servers."
 +++

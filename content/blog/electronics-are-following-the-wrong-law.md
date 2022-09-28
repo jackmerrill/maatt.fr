@@ -1,6 +1,5 @@
 +++
 title = "Electronics are following the wrong law"
-slug = "electronics-are-following-the-wrong-law"
 date = "2021-08-11"
 description = "Software is lagging behind hardware, and it's showing."
 +++

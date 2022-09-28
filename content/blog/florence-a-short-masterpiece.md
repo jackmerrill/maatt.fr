@@ -2,7 +2,6 @@
 title= "Florence: the Short Masterpiece that Goes Past a Love Story"
 description= "A short, breathtaking story, complemented amazingly with gorgeous music compositions."
 date= "2022-04-23"
-slug= "florence-a-short-masterpiece"
 updated= "2022-07-31"
 +++
 

@@ -1,6 +1,5 @@
 +++
 title = "Mobile apps are... interesting"
-slug = "mobile-apps-are-interesting"
 date = "2021-06-18"
 description = "Mobile apps followed desktop apps going from bad to worse."
 +++
