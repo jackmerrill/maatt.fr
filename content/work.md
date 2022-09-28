@@ -30,7 +30,7 @@ updated= "2022-07-31"
 
 ## API Wrappers
 - **[go-calipower—](https://github.com/doamatto/go-calipower)** Get available power capacity, estimates, and reserves from [California ISO.](http://www.caiso.com/Pages/default.aspx)
-
+<!-- **[go-sdgeoutages—](https://github.com/doamatto/go-sdgeoutages)** Get [SDGE](https://www.sdge.com/residential/customer-service/outage-center/outage-map) (and [PGE](https://pgealerts.alerts.pge.com/outagecenter/)) outages based on postal code or circuit number.-->
 
 ## Experiments
 - **[マージ (Māji)–](https://github.com/doamatto/maji)** JSON file merger. An experiment with Newtonsoft.
