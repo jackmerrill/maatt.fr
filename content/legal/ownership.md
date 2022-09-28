@@ -16,7 +16,7 @@ I own or share the ownership of the following:
   - **[Polytechnic Systems—](https://polytechnic.systems)** joint with [Daniel](https://daniel.cafe)
 
 I maintain or share the burden of maintenance of the following:
-  - **[Governing Services provided by The Farer Group—](https://wiki.farer.group)** ([.fa](https://pubserv.fa)) Webmaster, postmaster
+  - **[Governing Services provided by The Farer Group—](https://wiki.farer.group)** ([.fa](https://gouv.fa)) Webmaster, postmaster
   - **[Michael Holiday Books—](https://michaelholidaybooks.com)** Webmaster, postmaster
   - **[Ronchetto.eu—](https://ronchetto.eu)** Webmaster, postmaster
   - **[SRHS Falcon 5—](https://f5.maatt.ch)** Webmaster

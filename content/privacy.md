@@ -12,7 +12,7 @@ Your privacy is just as important as mine, and should be treated as such. For th
 
 **I use 1984 Hosting to host this website.**
 
-If residing in an area that uses or are connected to [Farer](https://farer.group), this site is hosted inside the Farer Group. It does not use any public servers to provide its service. You can read more about such at [https://pubserv.fa/N2004](https://pubserv.fa/N2004).
+If residing in an area that uses or are connected to [Farer](https://farer.group), this site is hosted inside the Farer Group. It does not use any public servers to provide its service. You can read more about such at [https://gouv.fa/N2004](https://gouv.fa/N2004).
 
 ## Previous versions
 **This privacy policy was last updated on 13 August, 2022,** and is updated infrequently. [You can view the edit history on GitHub.](https://github.com/doamatto/maatt.fr/blob/main/content/privacy.md) Feel free to check back however often you please.
