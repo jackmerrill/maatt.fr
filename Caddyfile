@@ -5,7 +5,14 @@
 	# Draft page redirs
 	redir /cv https://www.linkedin.com/in/matthewronchetto/ 302
 
+  # Project redirects  
+  redir /projects/gitcord /blog/making-gitcord 301
+  redir /projects/gulp-eslint /blog/maintaining-a-gulp-plugin 301
+  redir /projects/nano /blog/my-first-jekyll-theme 301
+
 	# Github redirs; remove 31 dec, 2022
+  redir /projects/always-amazon-smiling https://github.com/doamatto/always-amazon-smiling 301
+  redir /projects/ella https://github.com/doamatto/ella-filters 301
 	redir /projects/5mloading https://github.com/doamatto/5mloading 301
 	redir /projects/fushimi https://github.com/doamatto/fushimi 301
 	redir /projects/google-apis-for-vlang https://github.com/doamatto/googleapis 301
@@ -41,6 +48,12 @@
 	header Content-Security-Policy "default-src 'none'; style-src 'self'; img-src 'self' https://fm.doamatto.xyz; font-src 'none'; form-action 'none'; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; connect-src 'none'; base-uri 'self'; frame-ancestors 'none'"
 }
 
+# Set internal Farer ACME server
+#matt.fa,
+#www.matt.fa {
+#  tls acme https://acme.nic.fa/directory
+#}
+
 #matt.fa,
 maatt.fr {
 	import redirs
@@ -54,7 +67,10 @@ maatt.fr {
 #www.matt.fa,
 maatt.ch,
 www.maatt.ch,
-www.maatt.fr {
+www.maatt.fr,
+www.maatt.eu,
+maatt.eu {
 	import redirs
 	redir https://maatt.fr{uri} 301
 }
+
