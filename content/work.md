@@ -7,7 +7,7 @@ updated= "2022-07-31"
 ## Web
 - **[Always Amazon Smiling–](https://github.com/doamatto/always-amazon-smiling)** Redirects Amazon's sites to their Amazon Smile counterparts.
 - **[Mallow for Jekyll–](https://github.com/doamatto/mallow-theme)** Simple one-pager Jekyll theme.
-- **[Nano for Jekyll–](@/projects/nano.md)** A Jekyll website template that just works. Net 15'600 downloads.
+- **[Nano for Jekyll–](@/blog/my-first-jekyll-theme.md)** A Jekyll website template that just works. Net 15'600 downloads.
 
 ## Projects
 - **[The Farer Group—](https://farer.group)** Research project into the Internet and creating a member- and resident- exclusive intranet.
@@ -27,6 +27,10 @@ updated= "2022-07-31"
 - **[稲荷 (Inari)–](https://github.com/doamatto/inari)** Zero-config web server.
 - **Lavender (formerly Miku-Chan)–** Defunct Discord bot that accrued ~500 servers.
 - **[Steam Game Randomizer–](https://github.com/doamatto/steam-game-randomizer)** Picks random Steam games from your library.
+
+## API Wrappers
+- **[go-calipower—](https://github.com/doamatto/go-calipower)** Get available power capacity, estimates, and reserves from [California ISO.](http://www.caiso.com/Pages/default.aspx)
+
 
 ## Experiments
 - **[マージ (Māji)–](https://github.com/doamatto/maji)** JSON file merger. An experiment with Newtonsoft.
