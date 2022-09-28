@@ -13,3 +13,5 @@ If changing code, it's ideal to use an [editor config plugin.](https://editorcon
 
 ### Acknowledgments
 This codebase is licensed under the BSD 3-Clause license. Content of the website, unless mentioned otherwise, are licensed under [the CC BY-SA 4.0 license.](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
+
+2,000th commit by [Jack](https://github.com/jackmerrill)
