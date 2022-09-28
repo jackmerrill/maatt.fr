@@ -4,7 +4,7 @@ template= "layouts/page.html"
 updated="2022-08-15"
 +++
 
-This list only contains brands or other bodies that are not under doamatto EI. Services or websites using the `maatt.fr`, `maatt.ch` or `doamatto.xyz` domains are under doamatto EI.
+This list only contains brands or other bodies that are not under doamatto EI. Services or websites using the `maatt.fr`, `maatt.ch`, `maatt.eu` or `doamatto.xyz` domains are under doamatto EI.
 
 I own or share the ownership of the following:
   - **[doamatto EI,](https://doamatto.xyz) and Matthew Ronchetto d.b.a. doamatto,—** sole, pending registration in France
